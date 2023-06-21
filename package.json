@@ -1,0 +1,23 @@
+{
+  "name": "ffxiv-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crawler.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brendonpagano/ffxiv-db.git"
+  },
+  "author": {
+    "email": "brendonpagano@gmail.com",
+    "name": "Brendon Pagano"
+  },
+  "bugs": {
+    "url": "https://github.com/brendonpagano/ffxiv-db/issues"
+  },
+  "homepage": "https://github.com/brendonpagano/ffxiv-db#readme",
+  "dependencies": {
+    "puppeteer": "^20.7.2"
+  }
+}
