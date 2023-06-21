@@ -1,0 +1,518 @@
+{
+  "jobActions": [
+    {
+      "name": "Malefic",
+      "image": "https://img.finalfantasyxiv.com/lds/d/1c53f900e5226e09621196190c506da91d3703bb.png",
+      "lvl": 1,
+      "type": "Spell",
+      "cast": 1.5,
+      "cooldown": 2.5,
+      "cost": 400,
+      "effect": "Deals unaspected damage with a potency of 150."
+    },
+    {
+      "name": "Benefic",
+      "image": "https://img.finalfantasyxiv.com/lds/d/ec1096796458eca5c96eea7720465aa642bd73e1.png",
+      "lvl": 2,
+      "type": "Spell",
+      "cast": 1.5,
+      "cooldown": 2.5,
+      "cost": 400,
+      "effect": "Restores target's HP.\nCure Potency: 500\nAdditional Effect: 15% chance next Benefic II will restore critical HP\nDuration: 15s"
+    },
+    {
+      "name": "Combust",
+      "image": "https://img.finalfantasyxiv.com/lds/d/7e161244d4e8b8909f2b0804f096fdec8228ef4d.png",
+      "lvl": 4,
+      "type": "Spell",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 400,
+      "effect": "Deals unaspected damage over time.\nPotency: 40\nDuration: 30s"
+    },
+    {
+      "name": "Lightspeed",
+      "image": "https://img.finalfantasyxiv.com/lds/d/8e5b0f4ba2437c7ed0dba22471388c128372c767.png",
+      "lvl": 6,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 90,
+      "cost": 0,
+      "effect": "Reduces cast times for spells by 2.5 seconds.\nDuration: 15s"
+    },
+    {
+      "name": "Helios",
+      "image": "https://img.finalfantasyxiv.com/lds/d/78affa4069a26e38833b6dc5826c2e3abf05917d.png",
+      "lvl": 10,
+      "type": "Spell",
+      "cast": 1.5,
+      "cooldown": 2.5,
+      "cost": 700,
+      "effect": "Restores own HP and the HP of all nearby party members.\nCure Potency: 400"
+    },
+    {
+      "name": "Ascend",
+      "image": "https://img.finalfantasyxiv.com/lds/d/89ac1eda0deb042fbdb3618d88511262a4d0f5c5.png",
+      "lvl": 12,
+      "type": "Spell",
+      "cast": 8,
+      "cooldown": 2.5,
+      "cost": 2400,
+      "effect": "Resurrects target to a weakened state."
+    },
+    {
+      "name": "Essential Dignity",
+      "image": "https://img.finalfantasyxiv.com/lds/d/6e6f7c02d300a61d010d596d0e2fe80a12f8e03b.png",
+      "lvl": 15,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 40,
+      "cost": 0,
+      "effect": "Restores target's HP.\nCure Potency: 400\nPotency increases up to 900 as the target's HP decreases, reaching its maximum value when the target has 30% HP or less.\nMaximum Charges: 2"
+    },
+    {
+      "name": "Benefic II",
+      "image": "https://img.finalfantasyxiv.com/lds/d/eeb9a90c14711ee0450ce0c96d4b6b00f73f733e.png",
+      "lvl": 26,
+      "type": "Spell",
+      "cast": 1.5,
+      "cooldown": 2.5,
+      "cost": 700,
+      "effect": "Restores target's HP.\nCure Potency: 800"
+    },
+    {
+      "name": "Draw",
+      "image": "https://img.finalfantasyxiv.com/lds/d/b2ed60d4c6e0f8e9ef8c57b590450b63fbbc169a.png",
+      "lvl": 30,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 30,
+      "cost": 0,
+      "effect": "Draws a card (arcanum) from your divining deck. Only one arcanum can be drawn at a time.\nArcanum effect can be triggered using the action Play.\nAdditional Effect: Restores 5% of maximum MP\nAdditional Effect: Grants Clarifying Draw, allowing the execution of Redraw\nMaximum Charges: 2"
+    },
+    {
+      "name": "Undraw",
+      "image": "https://img.finalfantasyxiv.com/lds/d/620351e666c5758b3875ee2c8d0bfe46fda357a1.png",
+      "lvl": 30,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 0,
+      "effect": "Returns the currently drawn arcanum back to your deck."
+    },
+    {
+      "name": "Play",
+      "image": "https://img.finalfantasyxiv.com/lds/d/9544d7e3db69c71c3e50b8a8a38e801a4d48443b.png",
+      "lvl": 30,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 0,
+      "effect": "Triggers the effect of your drawn arcanum."
+    },
+    {
+      "name": "Aspected Benefic",
+      "image": "https://img.finalfantasyxiv.com/lds/d/9abd9dc20f6f0864806e050841e5ae74172d3d93.png",
+      "lvl": 34,
+      "type": "Spell",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 400,
+      "effect": "Restores target's HP.\nCure Potency: 250\nAdditional Effect: Regen\nCure Potency: 250\nDuration: 15s"
+    },
+    {
+      "name": "Redraw",
+      "image": "https://img.finalfantasyxiv.com/lds/d/562ee5721d04aff075f3a21c02643ae5cd6496a2.png",
+      "lvl": 40,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 0,
+      "effect": "Draws a different arcanum from your deck.\nCan only be executed while under the effect of Clarifying Draw."
+    },
+    {
+      "name": "Aspected Helios",
+      "image": "https://img.finalfantasyxiv.com/lds/d/ee92429fd70cd18d445735da357c023336da994d.png",
+      "lvl": 42,
+      "type": "Spell",
+      "cast": 1.5,
+      "cooldown": 2.5,
+      "cost": 800,
+      "effect": "Restores own HP and the HP of all nearby party members.\nCure Potency: 250\nAdditional Effect: Regen\nCure Potency: 150\nDuration: 15s"
+    },
+    {
+      "name": "Gravity",
+      "image": "https://img.finalfantasyxiv.com/lds/d/42e3c5d1cccb388c35ee3d6907a6e6109ba4b852.png",
+      "lvl": 45,
+      "type": "Spell",
+      "cast": 1.5,
+      "cooldown": 2.5,
+      "cost": 400,
+      "effect": "Deals unaspected damage with a potency of 120 to target and all enemies nearby it."
+    },
+    {
+      "name": "Combust II",
+      "image": "https://img.finalfantasyxiv.com/lds/d/447dd0b8ed8d759beeaa8b8aa7f8f1ec2cbec7b4.png",
+      "lvl": 46,
+      "type": "Spell",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 400,
+      "effect": "Deals unaspected damage over time.\nPotency: 50\nDuration: 30s"
+    },
+    {
+      "name": "Synastry",
+      "image": "https://img.finalfantasyxiv.com/lds/d/883284b0f5ce828b73992bdaf990124383c77efd.png",
+      "lvl": 50,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Generate an aetheric bond with target party member. Each time you cast a single-target healing spell on yourself or a party member, the party member with whom you have the bond will also recover HP equaling 40% of the original spell.\nDuration: 20s"
+    },
+    {
+      "name": "Divination",
+      "image": "https://img.finalfantasyxiv.com/lds/d/24e1ea2b4dce9d16ae60f33ab860190a67a3a506.png",
+      "lvl": 50,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Increases damage dealt by self and nearby party members by 6%.\nDuration: 15s"
+    },
+    {
+      "name": "Astrodyne",
+      "image": "https://img.finalfantasyxiv.com/lds/d/97986c90b046e3198e2121d251e2872066a9f505.png",
+      "lvl": 50,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 0,
+      "effect": "Grants an effect using the astrosigns read from your divining deck.\nCan only be executed after reading three astrosigns.\nEffects granted are determined by the number of different types of astrosigns read.\n1 Sign Type: Grants Harmony of Spirit\n2 Sign Types: Grants Harmony of Spirit and Harmony of Body\n3 Sign Types: Grants Harmony of Spirit, Harmony of Body, and Harmony of Mind\nDuration: 15s\nHarmony of Spirit Effect: Gradually restores own MP\nPotency: 50\nHarmony of Body Effect: Reduces spell cast time and recast time, and auto-attack delay by 10%\nHarmony of Mind Effect: Increases damage dealt and healing potency by 5%"
+    },
+    {
+      "name": "Malefic II",
+      "image": "https://img.finalfantasyxiv.com/lds/d/e9cbc9998cc2491689d203da71716e9cee15c615.png",
+      "lvl": 54,
+      "type": "Spell",
+      "cast": 1.5,
+      "cooldown": 2.5,
+      "cost": 400,
+      "effect": "Deals unaspected damage with a potency of 160."
+    },
+    {
+      "name": "Collective Unconscious",
+      "image": "https://img.finalfantasyxiv.com/lds/d/6ffe2bab0c77721314aee02e2f3f14f61351e2a4.png",
+      "lvl": 58,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "effect": "Creates a celestial ring 8 yalms around the caster.\nDuration: 18s\nAdditional Effect: Reduces damage taken by 10% and applies Wheel of Fortune to self and any party members within 30 yalms\nDuration: 5s\nWheel of Fortune Effect: Regen\nCure Potency: 100\nDuration: 15s\nEffects will be applied continuously to self and all party members standing within the celestial ring.\nCollective Unconscious effect ends upon using another action or moving (including facing a different direction).\nCancels auto-attack upon execution."
+    },
+    {
+      "name": "Celestial Opposition",
+      "image": "https://img.finalfantasyxiv.com/lds/d/f2ca2bba463ed6f55295fb64f6a497e130b05cf4.png",
+      "lvl": 60,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "effect": "Restores own HP and the HP of all nearby party members.\nCure Potency: 200\nAdditional Effect: Regen\nCure Potency: 100\nDuration: 15s"
+    },
+    {
+      "name": "Earthly Star",
+      "image": "https://img.finalfantasyxiv.com/lds/d/522e3417c4930cf5834e64c75e763e999dc284c8.png",
+      "lvl": 62,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "effect": "Deploys an Earthly Star in the designated area and grants the effect of Earthly Dominance.\nDuration: 10s\nExecuting Stellar Detonation while under the effect of Earthly Dominance creates a Stellar Burst dealing unaspected damage with a potency of 205 to all nearby enemies. Also restores own HP and the HP of all nearby party members.\nCure Potency: 540\nAfter 10s, Earthly Dominance effect is changed to Giant Dominance.\nDuration: 10s\nWaiting 10s or executing Stellar Detonation while under the effect of Giant Dominance creates a Stellar Explosion dealing unaspected damage with a potency of 310 to all nearby enemies. Also restores own HP and the HP of all nearby party members.\nCure Potency: 720"
+    },
+    {
+      "name": "Stellar Detonation",
+      "image": "https://img.finalfantasyxiv.com/lds/d/f69c65b6871458427cf794c2467d50e1ae6b7949.png",
+      "lvl": 62,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 3,
+      "cost": 0,
+      "effect": "While under the effect of Earthly Dominance, detonates the currently deployed Earthly Star, creating a Stellar Burst that deals unaspected damage with a potency of 205 to all nearby enemies.\nAdditional Effect: Restores own HP and the HP of all nearby party members\nCure Potency: 540\nWhile under the effect of Giant Dominance, detonates the currently deployed Earthly Star, creating a Stellar Explosion that deals unaspected damage with a potency of 310 to all nearby enemies.\nAdditional Effect: Restores own HP and the HP of all nearby party members\nCure Potency: 720"
+    },
+    {
+      "name": "Malefic III",
+      "image": "https://img.finalfantasyxiv.com/lds/d/4383eddfb0a234ec105f3bdfcc162aa2ff8b37d8.png",
+      "lvl": 64,
+      "type": "Spell",
+      "cast": 1.5,
+      "cooldown": 2.5,
+      "cost": 400,
+      "effect": "Deals unaspected damage with a potency of 190."
+    },
+    {
+      "name": "Minor Arcana",
+      "image": "https://img.finalfantasyxiv.com/lds/d/5f9cec813674a23520286ff23759e752db5499bd.png",
+      "lvl": 70,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "effect": "Draws either the Lord of Crowns or the Lady of Crowns from your divining deck.\nAction changes to the drawn arcanum.\nCan only be executed while in combat."
+    },
+    {
+      "name": "Combust III",
+      "image": "https://img.finalfantasyxiv.com/lds/d/0f73da17cc2ccea0a36787347d34738d6a97673a.png",
+      "lvl": 72,
+      "type": "Spell",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 400,
+      "effect": "Deals unaspected damage over time.\nPotency: 55\nDuration: 30s"
+    },
+    {
+      "name": "Malefic IV",
+      "image": "https://img.finalfantasyxiv.com/lds/d/0a063c1dba4b21b9f27440a05d707da109b00d15.png",
+      "lvl": 72,
+      "type": "Spell",
+      "cast": 1.5,
+      "cooldown": 2.5,
+      "cost": 400,
+      "effect": "Deals unaspected damage with a potency of 230."
+    },
+    {
+      "name": "Celestial Intersection",
+      "image": "https://img.finalfantasyxiv.com/lds/d/2a71645e6880d0bb4b46332fd64cd0756dd3b08f.png",
+      "lvl": 74,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 30,
+      "cost": 0,
+      "effect": "Restores own or target party member's HP.\nCure Potency: 200\nAdditional Sect Effect: Erects a magicked barrier which nullifies damage equaling 200% of the amount of HP restored\nDuration: 30s\nMaximum Charges: 2"
+    },
+    {
+      "name": "Horoscope",
+      "image": "https://img.finalfantasyxiv.com/lds/d/c806bf7d70b7343de2de42f47a2bbaa59e8b324e.png",
+      "lvl": 76,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "effect": "Reads your fortune and those of nearby party members, granting them Horoscope.\nDuration: 10s\nEffect upgraded to Horoscope Helios upon receiving the effects of Helios or Aspected Helios.\nDuration: 30s\nRestores the HP of those under either effect when the cards are read a second time or the effect expires.\nHoroscope Cure Potency: 200\nHoroscope Helios Cure Potency: 400"
+    },
+    {
+      "name": "Horoscope",
+      "image": "https://img.finalfantasyxiv.com/lds/d/224ca9088106c40e33179fa3fdfcd742104d1891.png",
+      "lvl": 76,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 0,
+      "effect": "Restores own HP and the HP of all nearby party members.\nPotency is determined by the Horoscope effect of party members. Effect expires upon execution.\nHoroscope Potency: 200\nHoroscope Helios Potency: 400"
+    },
+    {
+      "name": "Neutral Sect",
+      "image": "https://img.finalfantasyxiv.com/lds/d/8ccf71b513276dce09f58889b5bb8878371b8519.png",
+      "lvl": 80,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Increases healing magic potency by 20%.\nDuration: 20s\nAdditional Effect: When casting Aspected Benefic or Aspected Helios, erects a magicked barrier which nullifies damage\nAspected Benefic Effect: Nullifies damage equaling 250% of the amount of HP restored\nAspected Helios Effect: Nullifies damage equaling 125% of the amount of HP restored\nDuration: 30s"
+    },
+    {
+      "name": "Fall Malefic",
+      "image": "https://img.finalfantasyxiv.com/lds/d/6f0ba481b923ff8cea8bc37b5c25f9192e494beb.png",
+      "lvl": 82,
+      "type": "Spell",
+      "cast": 1.5,
+      "cooldown": 2.5,
+      "cost": 400,
+      "effect": "Deals unaspected damage with a potency of 250."
+    },
+    {
+      "name": "Gravity II",
+      "image": "https://img.finalfantasyxiv.com/lds/d/56748917749affb1f286aba23c3a54cc0e5d0156.png",
+      "lvl": 82,
+      "type": "Spell",
+      "cast": 1.5,
+      "cooldown": 2.5,
+      "cost": 400,
+      "effect": "Deals unaspected damage with a potency of 130 to target and all enemies nearby it."
+    },
+    {
+      "name": "Exaltation",
+      "image": "https://img.finalfantasyxiv.com/lds/d/c4bf5c769353b2ee48cba7af8c64a86f1bb11e7d.png",
+      "lvl": 86,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "effect": "Reduces damage taken by self or target party member by 10%.\nDuration: 8s\nAdditional Effect: Restores HP at the end of the effect's duration\nCure Potency: 500"
+    },
+    {
+      "name": "Macrocosmos",
+      "image": "https://img.finalfantasyxiv.com/lds/d/1d39637c8a2ed0b39fc54cac5eb718eabc29bc53.png",
+      "lvl": 90,
+      "type": "Spell",
+      "cast": 0,
+      "cooldown": 180,
+      "cost": 600,
+      "effect": "Deals unaspected damage to all nearby enemies with a potency of 250 for the first enemy, and 40% less for all remaining enemies.\nAdditional Effect: Grants Macrocosmos to self and all nearby party members\nDuration: 15s\nAction changes to Microcosmos upon execution.\nFor the effect's duration, 50% of damage taken is compiled.\nRestores HP equal to a cure of 200 potency plus compiled damage when the effect expires or upon execution of Microcosmos.\nAmount restored cannot exceed the target's maximum HP.\nRecast timer cannot be affected by status effects or gear attributes."
+    },
+    {
+      "name": "Microcosmos",
+      "image": "https://img.finalfantasyxiv.com/lds/d/03b8b3a806a33ef16f67e6c5c09e8deb6c59d526.png",
+      "lvl": 90,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 0,
+      "effect": "Triggers the healing effect of Macrocosmos, restoring HP equal to a cure of 200 potency plus 50% of compiled damage.\nAmount restored cannot exceed the target's maximum HP."
+    }
+  ],
+  "roleActions": [
+    {
+      "name": "Repose",
+      "image": "https://img.finalfantasyxiv.com/lds/d/9bd731d47094c2c11b5cd9fb0d1d277bf9c6c89d.png",
+      "lvl": 8,
+      "type": "Spell",
+      "cast": 2.5,
+      "cooldown": 2.5,
+      "cost": 600,
+      "effect": "Afflicts target with Sleep.\nDuration: 30s\nCancels auto-attack upon execution."
+    },
+    {
+      "name": "Esuna",
+      "image": "https://img.finalfantasyxiv.com/lds/d/2a6603bc786d73eb3829141482b3d5be5d484199.png",
+      "lvl": 10,
+      "type": "Spell",
+      "cast": 1,
+      "cooldown": 2.5,
+      "cost": 400,
+      "effect": "Removes a single detrimental effect from target."
+    },
+    {
+      "name": "Swiftcast",
+      "image": "https://img.finalfantasyxiv.com/lds/d/27d401b3cfbf90c846ffeaa9f661afb4bd77ce98.png",
+      "lvl": 18,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "effect": "Next spell is cast immediately.\nDuration: 10s"
+    },
+    {
+      "name": "Lucid Dreaming",
+      "image": "https://img.finalfantasyxiv.com/lds/d/3629c6854aa559656623925e2489b60c2fa91e18.png",
+      "lvl": 14,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "effect": "Gradually restores own MP.\nPotency: 55\nDuration: 21s"
+    },
+    {
+      "name": "Surecast",
+      "image": "https://img.finalfantasyxiv.com/lds/d/477d1e7f7115db19c344c0f5cadfcfa2ac0cdcc0.png",
+      "lvl": 44,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Spells can be cast without interruption.\nAdditional Effect: Nullifies most knockback and draw-in effects\nDuration: 6s"
+    },
+    {
+      "name": "Rescue",
+      "image": "https://img.finalfantasyxiv.com/lds/d/23f8a26b9a0107b6076f5f2e715e14d9be0edc25.png",
+      "lvl": 48,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Instantly draws target party member to your side. Cannot be used outside of combat or when target is suffering from certain enfeeblements."
+    }
+  ],
+  "traits": [
+    {
+      "name": "Maim and Mend",
+      "lvl": 20,
+      "effect": "Increases base action damage and HP restoration by 10%."
+    },
+    {
+      "name": "Enhanced Benefic",
+      "lvl": 36,
+      "effect": "Grants a 15% chance that your next Benefic II will restore critical HP.\nDuration: 15s"
+    },
+    {
+      "name": "Maim and Mend II",
+      "lvl": 40,
+      "effect": "Increases base action damage and HP restoration by 30%."
+    },
+    {
+      "name": "Enhanced Draw",
+      "lvl": 40,
+      "effect": "Grants Clarifying Draw after executing Draw."
+    },
+    {
+      "name": "Combust Mastery",
+      "lvl": 46,
+      "effect": "Upgrades Combust to Combust II."
+    },
+    {
+      "name": "Enhanced Draw II",
+      "lvl": 50,
+      "effect": "Grants a Solar Sign, Lunar Sign, or Celestial Sign according to your arcanum played in combat."
+    },
+    {
+      "name": "Malefic Mastery",
+      "lvl": 54,
+      "effect": "Upgrades Malefic to Malefic II."
+    },
+    {
+      "name": "Malefic Mastery II",
+      "lvl": 64,
+      "effect": "Upgrades Malefic II to Malefic III."
+    },
+    {
+      "name": "Hyper Lightspeed",
+      "lvl": 68,
+      "effect": "Reduces Lightspeed recast time to 90 seconds."
+    },
+    {
+      "name": "Combust Mastery II",
+      "lvl": 72,
+      "effect": "Upgrades Combust II to Combust III."
+    },
+    {
+      "name": "Malefic Mastery III",
+      "lvl": 72,
+      "effect": "Upgrades Malefic III to Malefic IV."
+    },
+    {
+      "name": "Enhanced Essential Dignity",
+      "lvl": 78,
+      "effect": "Allows the accumulation of charges for consecutive uses of Essential Dignity.\nMaximum Charges: 2"
+    },
+    {
+      "name": "Malefic Mastery IV",
+      "lvl": 82,
+      "effect": "Upgrades Malefic IV to Fall Malefic."
+    },
+    {
+      "name": "Gravity Mastery",
+      "lvl": 82,
+      "effect": "Upgrades Gravity to Gravity II."
+    },
+    {
+      "name": "Enhanced Healing Magic",
+      "lvl": 85,
+      "effect": "Increases the healing potency of Benefic to 500, Helios to 400, Benefic II to 800, Aspected Benefic to 250, Aspected Benefic's Regen effect to 250, Aspected Helios to 250, and Aspected Helios's Regen effect to 150."
+    },
+    {
+      "name": "Enhanced Celestial Intersection",
+      "lvl": 88,
+      "effect": "Allows the accumulation of charges for consecutive uses of Celestial Intersection.\nMaximum Charges: 2"
+    }
+  ]
+}

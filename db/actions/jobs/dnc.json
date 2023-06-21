@@ -1,0 +1,403 @@
+{
+  "jobActions": [
+    {
+      "name": "Cascade",
+      "image": "https://img.finalfantasyxiv.com/lds/d/6843786e4a944ff2e315004f38416b9098b62988.png",
+      "lvl": 1,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 220.\nAdditional Effect: 50% chance of granting Silken Symmetry\nDuration: 30s\n\n※Action changes to Emboite while dancing."
+    },
+    {
+      "name": "Fountain",
+      "image": "https://img.finalfantasyxiv.com/lds/d/25291ed46a237d93b8ada8db02fdeb34f5706c6e.png",
+      "lvl": 2,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 100.\nCombo Action: Cascade\nCombo Potency: 280\nCombo Bonus: 50% chance of granting Silken Flow\nDuration: 30s\n\n※Action changes to Entrechat while dancing."
+    },
+    {
+      "name": "Windmill",
+      "image": "https://img.finalfantasyxiv.com/lds/d/2b56bd032544ac3119cf459288984ea195837486.png",
+      "lvl": 15,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 100 to all nearby enemies.\nAdditional Effect: 50% chance of granting Silken Symmetry\nDuration: 30s\n\n※Action changes to Emboite while dancing."
+    },
+    {
+      "name": "Standard Step",
+      "image": "https://img.finalfantasyxiv.com/lds/d/601122ac0085d666731203ba91b41a5099457eca.png",
+      "lvl": 15,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 30,
+      "cost": 0,
+      "effect": "Begin dancing, granting yourself Standard Step.\nDuration: 15s\nAction changes to Standard Finish while dancing.\nOnly Standard Finish, En Avant, Curing Waltz, Shield Samba, step actions, role actions, Sprint, and Limit Break can be performed while dancing.\nThis weaponskill does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions."
+    },
+    {
+      "name": "Standard Finish",
+      "image": "https://img.finalfantasyxiv.com/lds/d/3be799f98318288057e0c0957fce44d32d8f2974.png",
+      "lvl": 15,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 1.5,
+      "cost": 0,
+      "effect": "Delivers an attack to all nearby enemies. Potency varies with number of successful steps, dealing full potency for the first enemy, and 75% less for all remaining enemies.\n0 Steps: 360\n1 Step: 540\n2 Steps: 720\nStep Bonus: Grants Standard Finish and Esprit to self and party member designated as your Dance Partner\nDamage bonus of Standard Finish varies with number of successful steps.\n1 Step: 2%\n2 Steps: 5%\nDuration: 60s\nThis weaponskill does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions.\n\n※This action cannot be assigned to a hotbar."
+    },
+    {
+      "name": "Reverse Cascade",
+      "image": "https://img.finalfantasyxiv.com/lds/d/a03ec89f3860e636fa459b5ac4212031aea5c8f7.png",
+      "lvl": 20,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 280.\nAdditional Effect: 50% chance of granting a Fourfold Feather\nCan only be executed while under the effect of Silken Symmetry or Flourishing Symmetry.\n\n※Action changes to Jete while dancing."
+    },
+    {
+      "name": "Bladeshower",
+      "image": "https://img.finalfantasyxiv.com/lds/d/65c0208ef7c6b132558c6aab0a15832fec601e5b.png",
+      "lvl": 25,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 100 to all nearby enemies.\nCombo Action: Windmill\nCombo Potency: 140\nCombo Bonus: 50% chance of granting Silken Flow\nDuration: 30s\n\n※Action changes to Entrechat while dancing."
+    },
+    {
+      "name": "Fan Dance",
+      "image": "https://img.finalfantasyxiv.com/lds/d/62a211c886bd5b46f47b11419f3b55fb628f6535.png",
+      "lvl": 30,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 150.\nAdditional Effect: 50% chance of granting Threefold Fan Dance\nDuration: 30s\nCan only be executed while in possession of Fourfold Feathers."
+    },
+    {
+      "name": "Rising Windmill",
+      "image": "https://img.finalfantasyxiv.com/lds/d/e233509e4d32c5f7aef385766026a3e161d2d142.png",
+      "lvl": 35,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 140 to all nearby enemies.\nAdditional Effect: 50% chance of granting a Fourfold Feather\nCan only be executed while under the effect of Silken Symmetry or Flourishing Symmetry.\n\n※Action changes to Jete while dancing."
+    },
+    {
+      "name": "Fountainfall",
+      "image": "https://img.finalfantasyxiv.com/lds/d/e4e0f0c2d152720e33f1759219de09ab52051a21.png",
+      "lvl": 40,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 340.\nAdditional Effect: 50% chance of granting a Fourfold Feather\nCan only be executed while under the effect of Silken Flow or Flourishing Flow.\n\n※Action changes to Pirouette while dancing."
+    },
+    {
+      "name": "Bloodshower",
+      "image": "https://img.finalfantasyxiv.com/lds/d/75fa1885b19b76db73429a0661588d544e5bc974.png",
+      "lvl": 45,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 180 to all nearby enemies.\nAdditional Effect: 50% chance of granting a Fourfold Feather\nCan only be executed while under the effect of Silken Flow or Flourishing Flow.\n\n※Action changes to Pirouette while dancing."
+    },
+    {
+      "name": "Fan Dance II",
+      "image": "https://img.finalfantasyxiv.com/lds/d/835016d35e3f62a1ce42a3519e70714b25d91969.png",
+      "lvl": 50,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 100 to all nearby enemies.\nAdditional Effect: 50% chance of granting Threefold Fan Dance\nDuration: 30s\nCan only be executed while in possession of Fourfold Feathers."
+    },
+    {
+      "name": "En Avant",
+      "image": "https://img.finalfantasyxiv.com/lds/d/b855b43c6fa93b143a93b339527a31950f6cdc47.png",
+      "lvl": 50,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 30,
+      "cost": 0,
+      "effect": "Quickly dash 10 yalms forward.\nMaximum Charges: 3\nCannot be executed while bound."
+    },
+    {
+      "name": "Curing Waltz",
+      "image": "https://img.finalfantasyxiv.com/lds/d/30a793f0a1bae7d643449bd69b63722b8bbf1b3a.png",
+      "lvl": 52,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "effect": "Restores own HP and the HP of all nearby party members.\nCure Potency: 300\nAdditional Effect: Party member designated as your Dance Partner will also heal self and nearby party members"
+    },
+    {
+      "name": "Shield Samba",
+      "image": "https://img.finalfantasyxiv.com/lds/d/f9692ff39ee50c5901429aaca48c066b8952732a.png",
+      "lvl": 56,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 90,
+      "cost": 0,
+      "effect": "Reduces damage taken by self and nearby party members by 10%.\nDuration: 15s\nEffect cannot be stacked with bard's Troubadour or machinist's Tactician."
+    },
+    {
+      "name": "Closed Position",
+      "image": "https://img.finalfantasyxiv.com/lds/d/6bdcca52407a9435fe5a8578742995382e38f097.png",
+      "lvl": 60,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 30,
+      "cost": 0,
+      "effect": "Grants you Closed Position and designates a party member as your Dance Partner, allowing you to share the effects of Standard Finish, Curing Waltz, Devilment, and Tillana with said party member.\nEffect ends upon reuse."
+    },
+    {
+      "name": "Ending",
+      "image": "https://img.finalfantasyxiv.com/lds/d/e32ebe0fb7a3a32ca14bdae331a0a05253f77f8e.png",
+      "lvl": 60,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 0,
+      "effect": "Ends dance with your partner."
+    },
+    {
+      "name": "Devilment",
+      "image": "https://img.finalfantasyxiv.com/lds/d/5dbf1b6a363454e48f1a32f92fe5c5cb6d8d229b.png",
+      "lvl": 62,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Increases critical hit rate and direct hit rate by 20%.\nDuration: 20s\nAdditional Effect: Party member designated as your Dance Partner will also receive the effect of Devilment\nAdditional Effect: Grants Flourishing Starfall\nDuration: 20s"
+    },
+    {
+      "name": "Fan Dance III",
+      "image": "https://img.finalfantasyxiv.com/lds/d/d786bf59396fce45e0e1bdf96cb1196b48b4a98a.png",
+      "lvl": 66,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 0,
+      "effect": "Delivers an attack to target and all enemies nearby it with a potency of 200 for the first enemy, and 50% less for all remaining enemies.\nCan only be executed while under the effect of Threefold Fan Dance."
+    },
+    {
+      "name": "Technical Step",
+      "image": "https://img.finalfantasyxiv.com/lds/d/2b0f0944de8d90ce1e9413cc3294bde99b7e1d7a.png",
+      "lvl": 70,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Begin dancing, granting yourself Technical Step.\nDuration: 15s\nAction changes to Technical Finish while dancing.\nOnly Technical Finish, En Avant, Curing Waltz, Shield Samba, step actions, role actions, Sprint, and Limit Break can be performed while dancing.\nThis weaponskill does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions."
+    },
+    {
+      "name": "Technical Finish",
+      "image": "https://img.finalfantasyxiv.com/lds/d/4fa04453ce7de1db88f05bd6f931d489961cc6b1.png",
+      "lvl": 70,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 1.5,
+      "cost": 0,
+      "effect": "Delivers an attack to all nearby enemies within 15 yalms. Potency varies with number of successful steps, dealing full potency for the first enemy, and 75% less for all remaining enemies.\n0 Steps: 350\n1 Step: 540\n2 Steps: 720\n3 Steps: 900\n4 Steps: 1,200\nStep Bonus: Grants Technical Finish and Esprit to self and party members within 30 yalms\nDamage bonus of Technical Finish varies with number of successful steps.\n1 Step: 1%\n2 Steps: 2%\n3 Steps: 3%\n4 Steps: 5%\nDuration: 20s\nAdditional Effect: Grants Flourishing Finish\nDuration: 30s\nThis weaponskill does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions.\n\n※Action changes to Tillana upon execution.\n※This action cannot be assigned to a hotbar."
+    },
+    {
+      "name": "Flourish",
+      "image": "https://img.finalfantasyxiv.com/lds/d/ae6211655f643d512199cf8596bed5c379a53063.png",
+      "lvl": 72,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "effect": "Grants you the effects of Flourishing Symmetry, Flourishing Flow, Threefold Fan Dance, and Fourfold Fan Dance.\nDuration: 30s\nCan only be executed while in combat."
+    },
+    {
+      "name": "Saber Dance",
+      "image": "https://img.finalfantasyxiv.com/lds/d/88cfba4c4fe50b5ad841ac5d34679ab96fd5ff13.png",
+      "lvl": 76,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack to target and all enemies nearby it with a potency of 480 for the first enemy, and 50% less for all remaining enemies.\nEsprit Gauge Cost: 50"
+    },
+    {
+      "name": "Improvisation",
+      "image": "https://img.finalfantasyxiv.com/lds/d/837e2a8d2f6c135ea8aaa20630487d15967465c8.png",
+      "lvl": 80,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Dance to the beat of your own drum, granting Rising Rhythm to self.\nStacks increase every 3 seconds, up to a maximum of 4.\nAdditional Effect: Healing over time for self and nearby party members\nCure Potency: 100\nDuration: 15s\nEffect ends upon using another action or moving (including facing a different direction).\nCancels auto-attack upon execution.\n\n※Action changes to Improvised Finish upon execution."
+    },
+    {
+      "name": "Improvised Finish",
+      "image": "https://img.finalfantasyxiv.com/lds/d/c32da2126ef617153a8aa7401324d80bdb564ae2.png",
+      "lvl": 80,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1.5,
+      "cost": 0,
+      "effect": "Creates a barrier around self and all nearby party members. Damage absorbed increases with stacks of Rising Rhythm.\n0 Stacks: 5% of maximum HP\n1 Stack: 6% of maximum HP\n2 Stacks: 7% of maximum HP\n3 Stacks: 8% of maximum HP\n4 Stacks: 10% of maximum HP\nDuration: 30s\nCan only be executed while Improvisation is active.\n\n※This action cannot be assigned to a hotbar."
+    },
+    {
+      "name": "Tillana",
+      "image": "https://img.finalfantasyxiv.com/lds/d/013e279b45dd499fdedb71be99ba844a65150da8.png",
+      "lvl": 82,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 1.5,
+      "cost": 0,
+      "effect": "Delivers an attack to all nearby enemies with a potency of 360 for the first enemy, and 50% less for all remaining enemies.\nAdditional Effect: Grants Standard Finish and Esprit to self and party member designated as your Dance Partner\nStandard Finish Effect: Increases damage dealt by 5%\nDuration: 60s\nCan only be executed while under the effect of Flourishing Finish.\nThis action does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions.\n\n※This action cannot be assigned to a hotbar."
+    },
+    {
+      "name": "Fan Dance IV",
+      "image": "https://img.finalfantasyxiv.com/lds/d/0ff359ea16721e9cf04e2af49dbcad4bc2f23bf7.png",
+      "lvl": 86,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 0,
+      "effect": "Delivers an attack to all enemies in a cone before you with a potency of 300 for the first enemy, and 50% less for all remaining enemies.\nCan only be executed while under the effect of Fourfold Fan Dance."
+    },
+    {
+      "name": "Starfall Dance",
+      "image": "https://img.finalfantasyxiv.com/lds/d/027a3d59d160a17f7568069fe25324c61bc4ee13.png",
+      "lvl": 90,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers a critical direct hit to all enemies in a straight line before you with a potency of 600 for the first enemy, and 75% less for all remaining enemies.\nDamage dealt is increased when under an effect that raises critical hit rate or direct hit rate.\nCan only be executed while under the effect of Flourishing Starfall."
+    }
+  ],
+  "roleActions": [
+    {
+      "name": "Leg Graze",
+      "image": "https://img.finalfantasyxiv.com/lds/d/2a6b7be8517f51d8cbcc60be2ae5970668f515eb.png",
+      "lvl": 6,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 30,
+      "cost": 0,
+      "effect": "Afflicts target with Heavy +40%.\nDuration: 10s"
+    },
+    {
+      "name": "Second Wind",
+      "image": "https://img.finalfantasyxiv.com/lds/d/2b79d78f1ed471ace5708898e3388062fbd555fb.png",
+      "lvl": 8,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Instantly restores own HP.\nCure Potency: 500"
+    },
+    {
+      "name": "Foot Graze",
+      "image": "https://img.finalfantasyxiv.com/lds/d/8b1f979d2b1428f9791f54ad0e429ea94a8d95d6.png",
+      "lvl": 10,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 30,
+      "cost": 0,
+      "effect": "Binds target.\nDuration: 10s\nCancels auto-attack upon execution.\nTarget unbound if damage taken."
+    },
+    {
+      "name": "Peloton",
+      "image": "https://img.finalfantasyxiv.com/lds/d/fb8b0f0ca18af4362d27f6699579bd5a18b40137.png",
+      "lvl": 20,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 5,
+      "cost": 0,
+      "effect": "Increases movement speed of self and nearby party members.\nDuration: 30s\nEffect ends when enmity is generated. Has no effect in battle."
+    },
+    {
+      "name": "Head Graze",
+      "image": "https://img.finalfantasyxiv.com/lds/d/748fe5fc8262b58e9a35aa9e4d40e67a0dd006a5.png",
+      "lvl": 24,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 30,
+      "cost": 0,
+      "effect": "Interrupts the use of a target's action."
+    },
+    {
+      "name": "Arm's Length",
+      "image": "https://img.finalfantasyxiv.com/lds/d/00ff21ad3e1fb26d7b292a9d912931e7ea64daa4.png",
+      "lvl": 32,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Creates a barrier nullifying most knockback and draw-in effects.\nDuration: 6s\nAdditional Effect: Slow +20% when barrier is struck\nDuration: 15s"
+    }
+  ],
+  "traits": [
+    {
+      "name": "Fourfold Fantasy",
+      "lvl": 30,
+      "effect": "Grants a Fourfold Feather upon landing certain actions.\nMaximum Stacks: 4"
+    },
+    {
+      "name": "Increased Action Damage",
+      "lvl": 50,
+      "effect": "Increases base action damage by 10%."
+    },
+    {
+      "name": "Increased Action Damage II",
+      "lvl": 60,
+      "effect": "Increases base action damage by 20%."
+    },
+    {
+      "name": "Enhanced En Avant",
+      "lvl": 68,
+      "effect": "Allows the accumulation of charges for consecutive uses of En Avant.\nMaximum Charges: 2"
+    },
+    {
+      "name": "Esprit",
+      "lvl": 76,
+      "effect": "Grants Esprit to self and nearby party members upon successfully executing Standard Finish or Technical Finish.\nEsprit Effect: Increases Esprit Gauge by 5 upon successfully landing Cascade, Reverse Cascade, Fountain, Fountainfall, Windmill, Rising Windmill, Bladeshower, or Bloodshower. When party members successfully land a weaponskill or cast a spell, has a chance of increasing Esprit Gauge by 10.\nChance of triggering party member effect differs according to job."
+    },
+    {
+      "name": "Enhanced En Avant II",
+      "lvl": 78,
+      "effect": "Allows a third charge of En Avant."
+    },
+    {
+      "name": "Enhanced Technical Finish",
+      "lvl": 82,
+      "effect": "Grants Flourishing Finish after executing Technical Finish.\nDuration: 30s\nTechnical Finish becomes Tillana while under this effect."
+    },
+    {
+      "name": "Enhanced Esprit",
+      "lvl": 84,
+      "effect": "Increases Esprit Gauge by 10 upon successfully landing Reverse Cascade, Fountainfall, Rising Windmill, or Bloodshower."
+    },
+    {
+      "name": "Enhanced Flourish",
+      "lvl": 86,
+      "effect": "Grants Fourfold Fan Dance upon executing Flourish.\nDuration: 30s"
+    },
+    {
+      "name": "Enhanced Shield Samba",
+      "lvl": 88,
+      "effect": "Reduces Shield Samba recast time to 90 seconds."
+    },
+    {
+      "name": "Enhanced Devilment",
+      "lvl": 90,
+      "effect": "Grants Flourishing Starfall upon executing Devilment.\nDuration: 20s"
+    }
+  ]
+}

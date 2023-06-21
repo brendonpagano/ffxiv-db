@@ -1,0 +1,448 @@
+{
+  "jobActions": [
+    {
+      "name": "Heavy Shot",
+      "image": "https://img.finalfantasyxiv.com/lds/d/c2be827c9e88459a397d2d02851c435d27a7bfd8.png",
+      "lvl": 1,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 160.\nAdditional Effect: 20% chance of becoming Straight Shot Ready\nDuration: 30s"
+    },
+    {
+      "name": "Straight Shot",
+      "image": "https://img.finalfantasyxiv.com/lds/d/58345465e1b0bb46bac9920464892ef4e51be34f.png",
+      "lvl": 2,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 200.\nCan only be executed when Straight Shot Ready."
+    },
+    {
+      "name": "Raging Strikes",
+      "image": "https://img.finalfantasyxiv.com/lds/d/444bd0d452881277e79be184fdb8ca6d21906014.png",
+      "lvl": 4,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Increases damage dealt by 15%.\nDuration: 20s"
+    },
+    {
+      "name": "Venomous Bite",
+      "image": "https://img.finalfantasyxiv.com/lds/d/5628b34f3942ef93659f9f03dd2c0556b66f83ea.png",
+      "lvl": 6,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 100.\nAdditional Effect: Venom\nPotency: 15\nDuration: 45s"
+    },
+    {
+      "name": "Bloodletter",
+      "image": "https://img.finalfantasyxiv.com/lds/d/fd9763578c2d9e6fca1cc0637d953ba405aa5b2b.png",
+      "lvl": 12,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 15,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 110.\nMaximum Charges: 3\nShares a recast timer with Rain of Death."
+    },
+    {
+      "name": "Repelling Shot",
+      "image": "https://img.finalfantasyxiv.com/lds/d/33e4423b5606c916b4c92db7a6cfb7d22d8f89ac.png",
+      "lvl": 15,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 30,
+      "cost": 0,
+      "effect": "Jump 10 yalms away from current target.\nCannot be executed while bound."
+    },
+    {
+      "name": "Quick Nock",
+      "image": "https://img.finalfantasyxiv.com/lds/d/674767e2dcc3f57156cd13273601bd4ed337657b.png",
+      "lvl": 18,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 110 to all enemies in a cone before you.\nAdditional Effect: 35% chance of becoming Shadowbite Ready\nDuration: 30s"
+    },
+    {
+      "name": "Windbite",
+      "image": "https://img.finalfantasyxiv.com/lds/d/798e2b8207ce793087365990d0996232238b9225.png",
+      "lvl": 30,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Deals wind damage with a potency of 60.\nAdditional Effect: Wind damage over time\nPotency: 20\nDuration: 45s"
+    },
+    {
+      "name": "Mage's Ballad",
+      "image": "https://img.finalfantasyxiv.com/lds/d/eda9a8394ad037b3dec2b0013883bfddb34f54c4.png",
+      "lvl": 30,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Deals unaspected damage with a potency of 100.\nAdditional Effect: Grants Mage's Ballad to self and all party members within 50 yalms, increasing damage dealt by 1%\nDuration: 45s\nAdditional Effect: 80% chance to grant Repertoire\nRepertoire Effect: Reduces the recast time of Bloodletter and Rain of Death by 7.5s\nAdditional Effect: Grants Mage's Coda"
+    },
+    {
+      "name": "The Warden's Paean",
+      "image": "https://img.finalfantasyxiv.com/lds/d/4df97f99863b3eade0fc5bba2937eff52a70fa6f.png",
+      "lvl": 35,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 45,
+      "cost": 0,
+      "effect": "Removes one select detrimental effect from self or target party member. If the target is not enfeebled, a barrier is created nullifying the target's next detrimental effect suffered.\nDuration: 30s"
+    },
+    {
+      "name": "Barrage",
+      "image": "https://img.finalfantasyxiv.com/lds/d/28e7d01b94a703869a9bfae6f06864154f1bd2f3.png",
+      "lvl": 38,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Triples the number of strikes for a single-target weaponskill. Additional effects added only once.\nDuration: 10s\nAdditional Effect: Increases the potency of Shadowbite to 270\nAdditional Effect: Grants Straight Shot Ready\nDuration: 30s"
+    },
+    {
+      "name": "Army's Paeon",
+      "image": "https://img.finalfantasyxiv.com/lds/d/008c12ecfaee3427ff9c25c7f8d2307aee93df31.png",
+      "lvl": 40,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Deals unaspected damage with a potency of 100.\nAdditional Effect: Grants Army's Paeon to self and all party members within 50 yalms, increasing direct hit rate by 3%\nDuration: 45s\nAdditional Effect: 80% chance to grant Repertoire\nRepertoire Effect: Reduces weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay by 4%\nCan be stacked up to 4 times.\nAdditional Effect: Grants Army's Coda"
+    },
+    {
+      "name": "Rain of Death",
+      "image": "https://img.finalfantasyxiv.com/lds/d/f6aff04bfff3c98ae2e81e955c3c453f70a24e59.png",
+      "lvl": 45,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 15,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 100 to target and all enemies nearby it.\nMaximum Charges: 3\nShares a recast timer with Bloodletter."
+    },
+    {
+      "name": "Battle Voice",
+      "image": "https://img.finalfantasyxiv.com/lds/d/3c4e15bf310cd0ac2d57e067057e4ef50d150705.png",
+      "lvl": 50,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Increases direct hit rate of self and all nearby party members by 20%.\nDuration: 15s"
+    },
+    {
+      "name": "The Wanderer's Minuet",
+      "image": "https://img.finalfantasyxiv.com/lds/d/53e0411604846053cbec196bed125f38a71b73c1.png",
+      "lvl": 52,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Deals unaspected damage with a potency of 100.\nAdditional Effect: Grants the Wanderer's Minuet to self and all party members within 50 yalms, increasing critical hit rate by 2%\nDuration: 45s\nAdditional Effect: 80% chance to grant Repertoire\nRepertoire Effect: Allows execution of Pitch Perfect\nCan be stacked up to 3 times.\nAdditional Effect: Grants Wanderer's Coda\n\n※Action changes to Pitch Perfect upon execution."
+    },
+    {
+      "name": "Pitch Perfect",
+      "image": "https://img.finalfantasyxiv.com/lds/d/fa05309833a74ae0a743b41574347b02408148c5.png",
+      "lvl": 52,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 0,
+      "effect": "Delivers an attack to the target. Potency varies with number of Repertoire stacks.\n1 Repertoire Stack: 100\n2 Repertoire Stacks: 220\n3 Repertoire Stacks: 360\nCan only be executed when the Wanderer's Minuet is active.\n\n※This action cannot be assigned to a hotbar."
+    },
+    {
+      "name": "Empyreal Arrow",
+      "image": "https://img.finalfantasyxiv.com/lds/d/06f5720224fc5d70aaf47a8850f683e0d4e89b02.png",
+      "lvl": 54,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 15,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 230."
+    },
+    {
+      "name": "Iron Jaws",
+      "image": "https://img.finalfantasyxiv.com/lds/d/60a919b5c963e842d9c69066761319737f00253f.png",
+      "lvl": 56,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 100.\nAdditional Effect: If the target is suffering from a Caustic Bite or Stormbite effect inflicted by you, the effect timer is reset\nAdditional Effect: 35% chance of becoming Straight Shot Ready\nDuration: 30s"
+    },
+    {
+      "name": "Sidewinder",
+      "image": "https://img.finalfantasyxiv.com/lds/d/ac6fcd72c5f1c20fe9106dbf9d1936b01a643ff4.png",
+      "lvl": 60,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 300."
+    },
+    {
+      "name": "Troubadour",
+      "image": "https://img.finalfantasyxiv.com/lds/d/8afc3a84c2ec0f215d378e8ed011fd260d3cdc6b.png",
+      "lvl": 62,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 90,
+      "cost": 0,
+      "effect": "Reduces damage taken by self and nearby party members by 10%.\nDuration: 15s\nEffect cannot be stacked with machinist's Tactician or dancer's Shield Samba."
+    },
+    {
+      "name": "Caustic Bite",
+      "image": "https://img.finalfantasyxiv.com/lds/d/534f0bede51a66ae9c6b36f0d2727280c4fc72b1.png",
+      "lvl": 64,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 150.\nAdditional Effect: Poison\nPotency: 20\nDuration: 45s\nAdditional Effect: 35% chance of becoming Straight Shot Ready\nDuration: 30s"
+    },
+    {
+      "name": "Stormbite",
+      "image": "https://img.finalfantasyxiv.com/lds/d/90e699e1bfbc23abf1ba96217b631ed04109be28.png",
+      "lvl": 64,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Deals wind damage with a potency of 100.\nAdditional Effect: Wind damage over time\nPotency: 25\nDuration: 45s\nAdditional Effect: 35% chance of becoming Straight Shot Ready\nDuration: 30s"
+    },
+    {
+      "name": "Nature's Minne",
+      "image": "https://img.finalfantasyxiv.com/lds/d/18695708d8d7ea8d7f9a7ffe0857dafcaea57694.png",
+      "lvl": 66,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Increases HP recovery via healing actions by 15% for self and nearby party members.\nDuration: 15s"
+    },
+    {
+      "name": "Refulgent Arrow",
+      "image": "https://img.finalfantasyxiv.com/lds/d/82ad905241d7a83faf26dd9d31227a6d79a6ae86.png",
+      "lvl": 70,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 280.\nCan only be executed when Straight Shot Ready."
+    },
+    {
+      "name": "Shadowbite",
+      "image": "https://img.finalfantasyxiv.com/lds/d/4606071e2563a6b58da4e53f374c1a3e2aad73b7.png",
+      "lvl": 72,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 170 to target and all enemies nearby it.\nBarrage Potency: 270\nCan only be executed when Shadowbite Ready."
+    },
+    {
+      "name": "Burst Shot",
+      "image": "https://img.finalfantasyxiv.com/lds/d/d97a50687d4bb81c0d01155d889a89252e9365f3.png",
+      "lvl": 76,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 220.\nAdditional Effect: 35% chance of becoming Straight Shot Ready\nDuration: 30s"
+    },
+    {
+      "name": "Apex Arrow",
+      "image": "https://img.finalfantasyxiv.com/lds/d/bb3db0cfb0a935f62b178ae16ce11e03d4cd16b5.png",
+      "lvl": 80,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 100 to all enemies in a straight line before you.\nSoul Voice Gauge Cost: 20\nPotency increases up to 500 as Soul Voice Gauge exceeds minimum cost.\nAdditional Effect: Grants Blast Arrow Ready upon execution while Soul Voice Gauge is 80 or higher\nDuration: 10s\nConsumes Soul Voice Gauge upon execution.\n\n※Action changes to Blast Arrow while under the effect of Blast Arrow Ready."
+    },
+    {
+      "name": "Ladonsbite",
+      "image": "https://img.finalfantasyxiv.com/lds/d/f98902415153b56b16c933530c8a836ffd3f38a2.png",
+      "lvl": 82,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 130 to all enemies in a cone before you.\nAdditional Effect: 35% chance of becoming Shadowbite Ready\nDuration: 30s"
+    },
+    {
+      "name": "Blast Arrow",
+      "image": "https://img.finalfantasyxiv.com/lds/d/5822409165097e5bdc147d6dddd40e9296d5d6c1.png",
+      "lvl": 86,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack to all enemies in a straight line before you with a potency of 600 for the first enemy, and 60% less for all remaining enemies.\nCan only be executed while under the effect of Blast Arrow Ready.\n\n※This action cannot be assigned to a hotbar."
+    },
+    {
+      "name": "Radiant Finale",
+      "image": "https://img.finalfantasyxiv.com/lds/d/c22031ccb99f6446f2921d6250d646005535c684.png",
+      "lvl": 90,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 110,
+      "cost": 0,
+      "effect": "Increases damage dealt by self and nearby party members.\nDuration: 15s\nEffectiveness is determined by the number of different Coda active in the Song Gauge.\n1 Coda: 2%\n2 Coda: 4%\n3 Coda: 6%\nCan only be executed when at least 1 coda is active."
+    }
+  ],
+  "roleActions": [
+    {
+      "name": "Leg Graze",
+      "image": "https://img.finalfantasyxiv.com/lds/d/2a6b7be8517f51d8cbcc60be2ae5970668f515eb.png",
+      "lvl": 6,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 30,
+      "cost": 0,
+      "effect": "Afflicts target with Heavy +40%.\nDuration: 10s"
+    },
+    {
+      "name": "Second Wind",
+      "image": "https://img.finalfantasyxiv.com/lds/d/2b79d78f1ed471ace5708898e3388062fbd555fb.png",
+      "lvl": 8,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Instantly restores own HP.\nCure Potency: 500"
+    },
+    {
+      "name": "Foot Graze",
+      "image": "https://img.finalfantasyxiv.com/lds/d/8b1f979d2b1428f9791f54ad0e429ea94a8d95d6.png",
+      "lvl": 10,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 30,
+      "cost": 0,
+      "effect": "Binds target.\nDuration: 10s\nCancels auto-attack upon execution.\nTarget unbound if damage taken."
+    },
+    {
+      "name": "Peloton",
+      "image": "https://img.finalfantasyxiv.com/lds/d/fb8b0f0ca18af4362d27f6699579bd5a18b40137.png",
+      "lvl": 20,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 5,
+      "cost": 0,
+      "effect": "Increases movement speed of self and nearby party members.\nDuration: 30s\nEffect ends when enmity is generated. Has no effect in battle."
+    },
+    {
+      "name": "Head Graze",
+      "image": "https://img.finalfantasyxiv.com/lds/d/748fe5fc8262b58e9a35aa9e4d40e67a0dd006a5.png",
+      "lvl": 24,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 30,
+      "cost": 0,
+      "effect": "Interrupts the use of a target's action."
+    },
+    {
+      "name": "Arm's Length",
+      "image": "https://img.finalfantasyxiv.com/lds/d/00ff21ad3e1fb26d7b292a9d912931e7ea64daa4.png",
+      "lvl": 32,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Creates a barrier nullifying most knockback and draw-in effects.\nDuration: 6s\nAdditional Effect: Slow +20% when barrier is struck\nDuration: 15s"
+    }
+  ],
+  "traits": [
+    {
+      "name": "Heavier Shot",
+      "lvl": 2,
+      "effect": "Adds to Heavy Shot a 20% chance that you will become Straight Shot Ready.\nDuration: 30s"
+    },
+    {
+      "name": "Increased Action Damage",
+      "lvl": 20,
+      "effect": "Increases base action damage by 10%."
+    },
+    {
+      "name": "Increased Action Damage II",
+      "lvl": 40,
+      "effect": "Increases base action damage by 20%."
+    },
+    {
+      "name": "Bite Mastery",
+      "lvl": 64,
+      "effect": "Upgrades Venomous Bite and Windbite to Caustic Bite and Stormbite respectively."
+    },
+    {
+      "name": "Enhanced Empyreal Arrow",
+      "lvl": 68,
+      "effect": "Guarantees the trigger of the additional effects for current Mage's Ballad, Army's Paeon, and the Wanderer's Minuet when Empyreal Arrow hits a target."
+    },
+    {
+      "name": "Straight Shot Mastery",
+      "lvl": 70,
+      "effect": "Upgrades Straight Shot to Refulgent Arrow."
+    },
+    {
+      "name": "Enhanced Quick Nock",
+      "lvl": 72,
+      "effect": "Adds to Quick Nock a 35% chance that you will become Shadowbite Ready.\nDuration: 30s"
+    },
+    {
+      "name": "Bite Mastery II",
+      "lvl": 76,
+      "effect": "Adds to Stormbite, Caustic Bite, and Iron Jaws a 35% chance that you will become Straight Shot Ready.\nDuration: 30s"
+    },
+    {
+      "name": "Heavy Shot Mastery",
+      "lvl": 76,
+      "effect": "Upgrades Heavy Shot to Burst Shot."
+    },
+    {
+      "name": "Enhanced Army's Paeon",
+      "lvl": 78,
+      "effect": "While under the effect of Army's Paeon with at least one stack of Repertoire, singing Mage's Ballad or the Wanderer's Minuet will grant Army's Muse, reducing weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay.\nDuration: 10s\nAllowing the effect of Army's Paeon and accumulated stacks of Repertoire to expire without singing Mage's Ballad or the Wanderer's Minuet will grant Army's Ethos.\nDuration: 30s\nWhile under the effect of Army's Ethos, singing Mage's Ballad or the Wanderer's Minuet will grant Army's Muse. Both Army's Ethos and Army's Muse require stacks of Repertoire, the number of which will determine the potency of the latter.\n1 Repertoire: 1%\n2 Repertoire: 2%\n3 Repertoire: 4%\n4 Repertoire: 12%"
+    },
+    {
+      "name": "Soul Voice",
+      "lvl": 80,
+      "effect": "Increases Soul Voice Gauge by 5 each time Repertoire is granted."
+    },
+    {
+      "name": "Quick Nock Mastery",
+      "lvl": 82,
+      "effect": "Upgrades Quick Nock to Ladonsbite."
+    },
+    {
+      "name": "Enhanced Bloodletter",
+      "lvl": 84,
+      "effect": "Allows a third charge of Bloodletter and Rain of Death."
+    },
+    {
+      "name": "Enhanced Apex Arrow",
+      "lvl": 86,
+      "effect": "Grants Blast Arrow Ready upon executing Apex Arrow after the Soul Voice Gauge has reached 80 or higher.\nDuration: 10s\nApex Arrow becomes Blast Arrow while under this effect."
+    },
+    {
+      "name": "Enhanced Troubadour",
+      "lvl": 88,
+      "effect": "Reduces Troubadour recast time to 90 seconds."
+    },
+    {
+      "name": "Minstrel's Coda",
+      "lvl": 90,
+      "effect": "Grants Mage's Coda, Army's Coda, or Wanderer's Coda upon singing Mage's Ballad, Army's Paeon, or the Wanderer's Minuet respectively."
+    }
+  ]
+}

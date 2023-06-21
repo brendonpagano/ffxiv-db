@@ -1,0 +1,453 @@
+{
+  "jobActions": [
+    {
+      "name": "Keen Edge",
+      "image": "https://img.finalfantasyxiv.com/lds/d/7cd4d1186b81029de28854eec532029ef245779c.png",
+      "lvl": 1,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 200."
+    },
+    {
+      "name": "No Mercy",
+      "image": "https://img.finalfantasyxiv.com/lds/d/ab1c97d8f6007446d9f7c324adc29299e6be8e10.png",
+      "lvl": 2,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "effect": "Increases damage dealt by 20%.\nDuration: 20s"
+    },
+    {
+      "name": "Brutal Shell",
+      "image": "https://img.finalfantasyxiv.com/lds/d/729d76d5161a59cbed8b5f369e8476acf5ea24b2.png",
+      "lvl": 4,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 160.\nCombo Action: Keen Edge\nCombo Potency: 300\nCombo Bonus: Restores own HP\nCure Potency: 200\nCombo Bonus: Creates a barrier which nullifies damage equaling HP restored\nDuration: 30s"
+    },
+    {
+      "name": "Camouflage",
+      "image": "https://img.finalfantasyxiv.com/lds/d/62855107ef85d3d74b0eb9d14f030368ddb6ff5a.png",
+      "lvl": 6,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 90,
+      "cost": 0,
+      "effect": "Increases parry rate by 50% while reducing damage taken by 10%.\nDuration: 20s"
+    },
+    {
+      "name": "Demon Slice",
+      "image": "https://img.finalfantasyxiv.com/lds/d/a38cbdd5b185413becb8c56388d1043259dd25b1.png",
+      "lvl": 10,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 100 to all nearby enemies."
+    },
+    {
+      "name": "Royal Guard",
+      "image": "https://img.finalfantasyxiv.com/lds/d/b44946a0b3966b9638d4bc04d4b8c5858bfc3ad0.png",
+      "lvl": 10,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 2,
+      "cost": 0,
+      "effect": "Significantly increases enmity generation.\nEffect ends upon reuse."
+    },
+    {
+      "name": "Release Royal Guard",
+      "image": "https://img.finalfantasyxiv.com/lds/d/bf2a6455e06637fe409340c4dba7530e55d8bfee.png",
+      "lvl": 10,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 0,
+      "effect": "Cancels the effect of Royal Guard."
+    },
+    {
+      "name": "Lightning Shot",
+      "image": "https://img.finalfantasyxiv.com/lds/d/da2f213272cf4d4c2c5df5ccf597dd8e01ddb58b.png",
+      "lvl": 15,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers a ranged attack with a potency of 150.\nAdditional Effect: Increased enmity"
+    },
+    {
+      "name": "Danger Zone",
+      "image": "https://img.finalfantasyxiv.com/lds/d/fdc5cd0d9017c98bc96d4e0f20122e2f83667128.png",
+      "lvl": 18,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 30,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 250."
+    },
+    {
+      "name": "Solid Barrel",
+      "image": "https://img.finalfantasyxiv.com/lds/d/57a492f3dd90592bb2b3255f3e2f342dd6b800f9.png",
+      "lvl": 26,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 140.\nCombo Action: Brutal Shell\nCombo Potency: 360\nCombo Bonus: Adds a Cartridge to your Powder Gauge"
+    },
+    {
+      "name": "Burst Strike",
+      "image": "https://img.finalfantasyxiv.com/lds/d/43828414469ebc6fd88ef500ab2e941177b833ec.png",
+      "lvl": 30,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 380.\nAdditional Effect: Grants Ready to Blast\nDuration: 10s\nEffect of Ready to Blast ends upon execution of any weaponskill.\nCartridge Cost: 1"
+    },
+    {
+      "name": "Nebula",
+      "image": "https://img.finalfantasyxiv.com/lds/d/d16438334b399cb5524acb6d77485b6c56a2be4a.png",
+      "lvl": 38,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Reduces damage taken by 30%.\nDuration: 15s"
+    },
+    {
+      "name": "Demon Slaughter",
+      "image": "https://img.finalfantasyxiv.com/lds/d/46bce3e1c9f5ca00fbc00c7f52fc765c47aba80a.png",
+      "lvl": 40,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 100 to all nearby enemies.\nCombo Action: Demon Slice\nCombo Potency: 160\nCombo Bonus: Adds a Cartridge to your Powder Gauge"
+    },
+    {
+      "name": "Aurora",
+      "image": "https://img.finalfantasyxiv.com/lds/d/e220754db76f98256dd7258171a61a9de8dd898c.png",
+      "lvl": 45,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "effect": "Grants Regen to target.\nCure Potency: 200\nDuration: 18s\nMaximum Charges: 2"
+    },
+    {
+      "name": "Superbolide",
+      "image": "https://img.finalfantasyxiv.com/lds/d/58257f726f8a2f793622a654e5b0b2df36b372ad.png",
+      "lvl": 50,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 360,
+      "cost": 0,
+      "effect": "Reduces HP to 1 and renders you impervious to most attacks.\nDuration: 10s"
+    },
+    {
+      "name": "Sonic Break",
+      "image": "https://img.finalfantasyxiv.com/lds/d/7edeee63ceea914fd74fc091aa99a84b290a57b1.png",
+      "lvl": 54,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 300.\nAdditional Effect: Damage over time\nPotency: 60\nDuration: 30s\nThis weaponskill does not share a recast timer with any other actions."
+    },
+    {
+      "name": "Rough Divide",
+      "image": "https://img.finalfantasyxiv.com/lds/d/bc361feaf6715fac0c476639ef2a5ce0f207f00d.png",
+      "lvl": 56,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 30,
+      "cost": 0,
+      "effect": "Delivers a jumping attack with a potency of 150.\nMaximum Charges: 2\nCannot be executed while bound."
+    },
+    {
+      "name": "Gnashing Fang",
+      "image": "https://img.finalfantasyxiv.com/lds/d/31a707fb47363e30af254750784a60ff55f60ec9.png",
+      "lvl": 60,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 30,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 380.\nAdditional Effect: Grants Ready to Rip\nDuration: 10s\nEffect of Ready to Rip ends upon execution of any weaponskill.\nCartridge Cost: 1\nThis weaponskill does not share a recast timer with any other actions."
+    },
+    {
+      "name": "Savage Claw",
+      "image": "https://img.finalfantasyxiv.com/lds/d/fe183577affbcd066b131c997ca32283dba5c768.png",
+      "lvl": 60,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 460.\nCombo Action: Gnashing Fang\nCombo Bonus: Grants Ready to Tear\nDuration: 10s\nEffect of Ready to Tear ends upon execution of any weaponskill.\n\n※This action cannot be assigned to a hotbar."
+    },
+    {
+      "name": "Wicked Talon",
+      "image": "https://img.finalfantasyxiv.com/lds/d/137262f0ad98e13fd0ace2dc4f7f786d0bcec9a5.png",
+      "lvl": 60,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 540.\nCombo Action: Savage Claw\nCombo Bonus: Grants Ready to Gouge\nDuration: 10s\nEffect of Ready to Gouge ends upon execution of any weaponskill.\n\n※This action cannot be assigned to a hotbar."
+    },
+    {
+      "name": "Bow Shock",
+      "image": "https://img.finalfantasyxiv.com/lds/d/b3fa2bb1c9e838fc01439b7d39a495b444c73c6a.png",
+      "lvl": 62,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 150 to all nearby enemies.\nAdditional Effect: Damage over time\nPotency: 60\nDuration: 15s"
+    },
+    {
+      "name": "Heart of Light",
+      "image": "https://img.finalfantasyxiv.com/lds/d/04bbce4afc048a15cdccdd0495e679f90b115963.png",
+      "lvl": 64,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 90,
+      "cost": 0,
+      "effect": "Reduces magic damage taken by self and nearby party members by 10%.\nDuration: 15s"
+    },
+    {
+      "name": "Heart of Stone",
+      "image": "https://img.finalfantasyxiv.com/lds/d/059baae88deccf4ffdc31f8afd0074ec4589f81f.png",
+      "lvl": 68,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 25,
+      "cost": 0,
+      "effect": "Reduces damage taken by a party member or self by 15%.\nDuration: 7s\nAdditional Effect: When targeting a party member while under the effect of Brutal Shell, that effect is also granted to the target\nDuration: 30s"
+    },
+    {
+      "name": "Continuation",
+      "image": "https://img.finalfantasyxiv.com/lds/d/8e38ca32b4021206901a4761dbef4d0c783b8620.png",
+      "lvl": 70,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 0,
+      "effect": "Allows the firing of successive rounds with your gunblade.\nGnashing Fang may be followed by Jugular Rip.\nSavage Claw may be followed by Abdomen Tear.\nWicked Talon may be followed by Eye Gouge.\nBurst Strike may be followed by Hypervelocity."
+    },
+    {
+      "name": "Jugular Rip",
+      "image": "https://img.finalfantasyxiv.com/lds/d/75e8b1b0530a1eb26a7d87aa7a3a50cfb8d3bff7.png",
+      "lvl": 70,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 200.\nCan only be executed when Ready to Rip.\n\n※This action cannot be assigned to a hotbar."
+    },
+    {
+      "name": "Abdomen Tear",
+      "image": "https://img.finalfantasyxiv.com/lds/d/e8472939441b3136fb9b2bfa52851e500e001279.png",
+      "lvl": 70,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 240.\nCan only be executed when Ready to Tear.\n\n※This action cannot be assigned to a hotbar."
+    },
+    {
+      "name": "Eye Gouge",
+      "image": "https://img.finalfantasyxiv.com/lds/d/0c7e1462abaa7984e64644f3cb9e4a066ec16c59.png",
+      "lvl": 70,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 280.\nCan only be executed when Ready to Gouge.\n\n※This action cannot be assigned to a hotbar."
+    },
+    {
+      "name": "Fated Circle",
+      "image": "https://img.finalfantasyxiv.com/lds/d/72b126aa8a17d9d94ee177b98af27d512aa6e01f.png",
+      "lvl": 72,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 300 to all nearby enemies.\nCartridge Cost: 1"
+    },
+    {
+      "name": "Bloodfest",
+      "image": "https://img.finalfantasyxiv.com/lds/d/90de52fbbbc0de9309a2b2aceb1b0146e3b7283a.png",
+      "lvl": 76,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Draws aetheric energy from target, adding 3 Cartridges to your Powder Gauge."
+    },
+    {
+      "name": "Blasting Zone",
+      "image": "https://img.finalfantasyxiv.com/lds/d/d35fea54a4ec47a5d8227e13b5dba247a5c8a5a6.png",
+      "lvl": 80,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 30,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 720."
+    },
+    {
+      "name": "Heart of Corundum",
+      "image": "https://img.finalfantasyxiv.com/lds/d/493de7202ca9b1e4bed75fdd4e5b1e7a8c61d58a.png",
+      "lvl": 82,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 25,
+      "cost": 0,
+      "effect": "Reduces damage taken by target party member or self by 15%.\nDuration: 8s\nAdditional Effect: When targeting a party member while under the effect of Brutal Shell, that effect is also granted to the target\nDuration: 30s\nAdditional Effect: Grants Clarity of Corundum to target\nClarity of Corundum Effect: Reduces damage taken by 15%\nDuration: 4s\nAdditional Effect: Grants Catharsis of Corundum to target\nCatharsis of Corundum Effect: Restores HP when HP falls below 50% or upon effect duration expiration\nCure Potency: 900\nDuration: 20s"
+    },
+    {
+      "name": "Hypervelocity",
+      "image": "https://img.finalfantasyxiv.com/lds/d/7d7143520a9ec0306e977c10b4594ad0b5eee50f.png",
+      "lvl": 86,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 180.\nCan only be executed when Ready to Blast.\n\n※This action cannot be assigned to a hotbar."
+    },
+    {
+      "name": "Double Down",
+      "image": "https://img.finalfantasyxiv.com/lds/d/9431f382886a5bac654058624ed21082deaae9d9.png",
+      "lvl": 90,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "effect": "Delivers an attack to all nearby enemies with a potency of 1,200 for the first enemy, and 15% less for all remaining enemies.\nCartridge Cost: 2\nThis weaponskill does not share a recast timer with any other actions."
+    }
+  ],
+  "roleActions": [
+    {
+      "name": "Rampart",
+      "image": "https://img.finalfantasyxiv.com/lds/d/37546679ae5e431c0903b20fa2c91a88c5a8e001.png",
+      "lvl": 8,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 90,
+      "cost": 0,
+      "effect": "Reduces damage taken by 20%.\nDuration: 20s"
+    },
+    {
+      "name": "Low Blow",
+      "image": "https://img.finalfantasyxiv.com/lds/d/af837b3dd467ee9cdf865a06eb2b1633dd2b492a.png",
+      "lvl": 12,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 25,
+      "cost": 0,
+      "effect": "Stuns target.\nDuration: 5s"
+    },
+    {
+      "name": "Provoke",
+      "image": "https://img.finalfantasyxiv.com/lds/d/2b45fea903bcf1edd9e08110cf95e8bba9a73c0d.png",
+      "lvl": 15,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 30,
+      "cost": 0,
+      "effect": "Gesture threateningly, placing yourself at the top of a target's enmity list while gaining additional enmity."
+    },
+    {
+      "name": "Interject",
+      "image": "https://img.finalfantasyxiv.com/lds/d/8442bcce1ec21a449546af9afb79ae9ea8c226cb.png",
+      "lvl": 18,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 30,
+      "cost": 0,
+      "effect": "Interrupts the use of a target's action."
+    },
+    {
+      "name": "Reprisal",
+      "image": "https://img.finalfantasyxiv.com/lds/d/6b83d9368623d5cd20a426d26916021b59a14963.png",
+      "lvl": 22,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "effect": "Reduces damage dealt by nearby enemies by 10%.\nDuration: 10s"
+    },
+    {
+      "name": "Arm's Length",
+      "image": "https://img.finalfantasyxiv.com/lds/d/00ff21ad3e1fb26d7b292a9d912931e7ea64daa4.png",
+      "lvl": 32,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Creates a barrier nullifying most knockback and draw-in effects.\nDuration: 6s\nAdditional Effect: Slow +20% when barrier is struck\nDuration: 15s"
+    },
+    {
+      "name": "Shirk",
+      "image": "https://img.finalfantasyxiv.com/lds/d/4abd24800cb0999fff8ea79ed1085a7b5f8b14cb.png",
+      "lvl": 48,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Diverts 25% of enmity to target party member."
+    }
+  ],
+  "traits": [
+    {
+      "name": "Tank Mastery",
+      "lvl": 1,
+      "effect": "Reduces damage taken by 20%. Furthermore, grants a bonus to maximum HP based on your vitality attribute, and a bonus to damage dealt based on your strength attribute."
+    },
+    {
+      "name": "Cartridge Charge",
+      "lvl": 30,
+      "effect": "Stores a Cartridge in your Powder Gauge after successfully completing a combo with Solid Barrel.\nMaximum Cartridges: 2"
+    },
+    {
+      "name": "Enhanced Brutal Shell",
+      "lvl": 52,
+      "effect": "Grants the effect of Brutal Shell after successfully completing a combo with Brutal Shell.\nDuration: 30s"
+    },
+    {
+      "name": "Danger Zone Mastery",
+      "lvl": 80,
+      "effect": "Upgrades Danger Zone to Blasting Zone."
+    },
+    {
+      "name": "Heart of Stone Mastery",
+      "lvl": 82,
+      "effect": "Upgrades Heart of Stone to Heart of Corundum."
+    },
+    {
+      "name": "Enhanced Aurora",
+      "lvl": 84,
+      "effect": "Allows the accumulation of charges for consecutive uses of Aurora.\nMaximum Charges: 2"
+    },
+    {
+      "name": "Melee Mastery",
+      "lvl": 84,
+      "effect": "Increases the potency of Keen Edge to 200, Brutal Shell to 160, and Solid Barrel to 140."
+    },
+    {
+      "name": "Enhanced Continuation",
+      "lvl": 86,
+      "effect": "Become Ready to Blast after executing Burst Strike.\nDuration: 10s"
+    },
+    {
+      "name": "Cartridge Charge II",
+      "lvl": 88,
+      "effect": "Increases Powder Gauge capacity to 3 Cartridges.\nExecuting Bloodfest stores 3 Cartridges."
+    }
+  ]
+}

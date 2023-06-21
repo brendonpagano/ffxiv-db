@@ -1,0 +1,398 @@
+{
+  "jobActions": [
+    {
+      "name": "Hakaze",
+      "image": "https://img.finalfantasyxiv.com/lds/d/55c0a798d2db426ad407ab0d506fae3afe14cd1d.png",
+      "lvl": 1,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 200.\nAdditional Effect: Increases Kenki Gauge by 5"
+    },
+    {
+      "name": "Jinpu",
+      "image": "https://img.finalfantasyxiv.com/lds/d/2cdd1c3fa2b166f8da269d9e3241399d3a37f959.png",
+      "lvl": 4,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 120.\nCombo Action: Hakaze\nCombo Potency: 280\nCombo Bonus: Grants Fugetsu\nFugetsu Effect: Increases damage dealt by 13%\nDuration: 40s\nCombo Bonus: Increases Kenki Gauge by 5"
+    },
+    {
+      "name": "Third Eye",
+      "image": "https://img.finalfantasyxiv.com/lds/d/3c97e963e92ae242000e51159d9eb749897d8a68.png",
+      "lvl": 6,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 15,
+      "cost": 0,
+      "effect": "Reduces the amount of damage taken by the next attack by 10%.\nDuration: 4s\nAdditional Effect: Increases Kenki Gauge by 10 when hit"
+    },
+    {
+      "name": "Enpi",
+      "image": "https://img.finalfantasyxiv.com/lds/d/b2b75c383779cbd254a8bca3dbd30f2490c1d270.png",
+      "lvl": 15,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers a ranged attack with a potency of 100.\nEnhanced Enpi Bonus Potency: 260\nAdditional Effect: Increases Kenki Gauge by 10"
+    },
+    {
+      "name": "Shifu",
+      "image": "https://img.finalfantasyxiv.com/lds/d/64dcd53611773e2f2c981bc01877937b5331df8c.png",
+      "lvl": 18,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 120.\nCombo Action: Hakaze\nCombo Potency: 280\nCombo Bonus: Grants Fuka\nFuka Effect: Reduces weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay by 13%\nDuration: 40s\nCombo Bonus: Increases Kenki Gauge by 5"
+    },
+    {
+      "name": "Fuga",
+      "image": "https://img.finalfantasyxiv.com/lds/d/5f181040a9d1ef66c6310a307036639fd78ef6c8.png",
+      "lvl": 26,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 90 to all enemies in a cone before you.\nAdditional Effect: Increases Kenki Gauge by 5"
+    },
+    {
+      "name": "Gekko",
+      "image": "https://img.finalfantasyxiv.com/lds/d/69a82466c03f3531657ce703afb8a399fdd89812.png",
+      "lvl": 30,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 120.\n170 when executed from a target's rear.\nCombo Action: Jinpu\nCombo Potency: 330\nRear Combo Potency: 380\nCombo Bonus: Increases Kenki Gauge by 10\nCombo Bonus: Grants Getsu"
+    },
+    {
+      "name": "Iaijutsu",
+      "image": "https://img.finalfantasyxiv.com/lds/d/64757011257ac3561af53f09ffb47bd76744803d.png",
+      "lvl": 30,
+      "type": "Weaponskill",
+      "cast": 1.3,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Executes a weaponskill depending on current number of Sen stored in Sen Gauge.\n1 Sen: Higanbana\n2 Sen: Tenka Goken\n3 Sen: Midare Setsugekka"
+    },
+    {
+      "name": "Mangetsu",
+      "image": "https://img.finalfantasyxiv.com/lds/d/81e6e44a8a26f2355226894a36dea570ce1d6962.png",
+      "lvl": 35,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 100 to all nearby enemies.\nCombo Action: Fuko\nCombo Potency: 120\nCombo Bonus: Grants Fugetsu\nFugetsu Effect: Increases damage dealt by 13%\nDuration: 40s\nCombo Bonus: Increases Kenki Gauge by 10\nCombo Bonus: Grants Getsu"
+    },
+    {
+      "name": "Kasha",
+      "image": "https://img.finalfantasyxiv.com/lds/d/8330058e7e147dc2093e838239c2865aea6d6166.png",
+      "lvl": 40,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 120.\n170 when executed from a target's flank.\nCombo Action: Shifu\nCombo Potency: 330\nFlank Combo Potency: 380\nCombo Bonus: Increases Kenki Gauge by 10\nCombo Bonus: Grants Ka"
+    },
+    {
+      "name": "Oka",
+      "image": "https://img.finalfantasyxiv.com/lds/d/83caa2b18aa8a589ccdd81b8367452ef73d1e2b2.png",
+      "lvl": 45,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 100 to all nearby enemies.\nCombo Action: Fuko\nCombo Potency: 120\nCombo Bonus: Grants Fuka\nFuka Effect: Reduces weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay by 13%\nDuration: 40s\nCombo Bonus: Increases Kenki Gauge by 10\nCombo Bonus: Grants Ka"
+    },
+    {
+      "name": "Yukikaze",
+      "image": "https://img.finalfantasyxiv.com/lds/d/353a35cad8a1e089d162451dbe5de1fb78f4b0a9.png",
+      "lvl": 50,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 120.\nCombo Action: Hakaze\nCombo Potency: 300\nCombo Bonus: Increases Kenki Gauge by 15\nCombo Bonus: Grants Setsu"
+    },
+    {
+      "name": "Meikyo Shisui",
+      "image": "https://img.finalfantasyxiv.com/lds/d/13e7fc6c10bb476259ec8d29d086bef49bea509c.png",
+      "lvl": 50,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 55,
+      "cost": 0,
+      "effect": "Execute up to 3 weaponskill combos without meeting combo prerequisites. Does not affect Iaijutsu or Ogi Namikiri.\nDuration: 15s\nAdditional Effect: Successfully landing Gekko grants Fugetsu, and successfully landing Kasha grants Fuka\nMaximum Charges: 2"
+    },
+    {
+      "name": "Hissatsu: Shinten",
+      "image": "https://img.finalfantasyxiv.com/lds/d/c57812e667388d676fd1267d87583aa29c2da2ef.png",
+      "lvl": 52,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 250.\nKenki Gauge Cost: 25"
+    },
+    {
+      "name": "Hissatsu: Gyoten",
+      "image": "https://img.finalfantasyxiv.com/lds/d/98f63e44032f5b66bbe9f77ad2882e38b42854b3.png",
+      "lvl": 54,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 10,
+      "cost": 0,
+      "effect": "Rushes target and delivers an attack with a potency of 100.\nKenki Gauge Cost: 10\nCannot be executed while bound."
+    },
+    {
+      "name": "Hissatsu: Yaten",
+      "image": "https://img.finalfantasyxiv.com/lds/d/f939f0b2b36012cbc5096f6b64a787a8d5f5ed6a.png",
+      "lvl": 56,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 10,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 100.\nAdditional Effect: 10-yalm backstep\nAdditional Effect: Grants Enhanced Enpi\nDuration: 15s\nKenki Gauge Cost: 10\nCannot be executed while bound."
+    },
+    {
+      "name": "Meditate",
+      "image": "https://img.finalfantasyxiv.com/lds/d/4b642f7d616d6ca25a2ac0dfb230cb5f953eebd1.png",
+      "lvl": 60,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "effect": "Gradually increases your Kenki Gauge.\nDuration: 15s\nAdditional Effect: Grants stacks of Meditation when used in combat, up to a maximum of 3\nKenki Gauge not affected when used outside battle.\nEffect ends upon using another action or moving (including facing a different direction).\nCancels auto-attack upon execution.\nTriggers the cooldown of weaponskills upon execution. Cannot be executed during the cooldown of weaponskills."
+    },
+    {
+      "name": "Hissatsu: Kyuten",
+      "image": "https://img.finalfantasyxiv.com/lds/d/b0d5ff90bd65e254949741965c77d50b100b8241.png",
+      "lvl": 62,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 120 to all nearby enemies.\nKenki Gauge Cost: 25"
+    },
+    {
+      "name": "Hagakure",
+      "image": "https://img.finalfantasyxiv.com/lds/d/afaf9f6273e5d6a275a84ad286c390d7337cd11d.png",
+      "lvl": 68,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 5,
+      "cost": 0,
+      "effect": "Converts Setsu, Getsu, and Ka into Kenki. Each Sen converted increases your Kenki Gauge by 10. Can only be executed if under the effect of at least one of the three statuses."
+    },
+    {
+      "name": "Ikishoten",
+      "image": "https://img.finalfantasyxiv.com/lds/d/9165fbf83411057b22d8d9c2a5e29dd6fd6fce5c.png",
+      "lvl": 68,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Increases Kenki Gauge by 50.\nAdditional Effect: Grants Ogi Namikiri Ready\nDuration: 30s\nCan only be executed while in combat."
+    },
+    {
+      "name": "Hissatsu: Guren",
+      "image": "https://img.finalfantasyxiv.com/lds/d/a6e4fbc47fbb90b64d6a58495cf991f9aad2548b.png",
+      "lvl": 70,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Delivers an attack to all enemies in a straight line before you with a potency of 500 for the first enemy, and 25% less for all remaining enemies.\nKenki Gauge Cost: 25\nShares a recast timer with Hissatsu: Senei."
+    },
+    {
+      "name": "Hissatsu: Senei",
+      "image": "https://img.finalfantasyxiv.com/lds/d/1812ee8f2135ed92057b767eacbf2469ef0b25ee.png",
+      "lvl": 72,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 860.\nKenki Gauge Cost: 25\nShares a recast timer with Hissatsu: Guren."
+    },
+    {
+      "name": "Tsubame-gaeshi",
+      "image": "https://img.finalfantasyxiv.com/lds/d/2aeabf974ab57ac123bc19cacfcd94c3ad86373a.png",
+      "lvl": 76,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "effect": "Repeats the previously executed iaijutsu.\nMaximum Charges: 2\nCan only be executed immediately following Iaijutsu.\nTriggers the cooldown of weaponskills upon execution. Cannot be executed during the cooldown of weaponskills."
+    },
+    {
+      "name": "Shoha",
+      "image": "https://img.finalfantasyxiv.com/lds/d/7dfe5d9335e25731063d777068c6fa58f1806e51.png",
+      "lvl": 80,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 15,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 560.\nCan only be executed after accumulating three stacks of Meditation by executing Iaijutsu, Meditate, or Ogi Namikiri while in combat.\nMeditation effect fades upon execution.\nShares a recast timer with Shoha II."
+    },
+    {
+      "name": "Shoha II",
+      "image": "https://img.finalfantasyxiv.com/lds/d/4285d69fdc2206304ddc8c21087b0a136bffded9.png",
+      "lvl": 82,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 15,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 200 to all nearby enemies.\nCan only be executed after accumulating three stacks of Meditation by executing Iaijutsu, Meditate, or Ogi Namikiri while in combat.\nMeditation effect fades upon execution.\nShares a recast timer with Shoha."
+    },
+    {
+      "name": "Fuko",
+      "image": "https://img.finalfantasyxiv.com/lds/d/db60b934788a92fdfd9bf4b749c5c7ab80a56d03.png",
+      "lvl": 86,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 100 to all nearby enemies.\nAdditional Effect: Increases Kenki Gauge by 10"
+    },
+    {
+      "name": "Ogi Namikiri",
+      "image": "https://img.finalfantasyxiv.com/lds/d/08d676ac5d79d9f433c8ebc11ff39fa40246ae2b.png",
+      "lvl": 90,
+      "type": "Weaponskill",
+      "cast": 1.3,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers a critical hit to all enemies in a cone before you with a potency of 860 for the first enemy, and 75% less for all remaining enemies.\nDamage dealt is increased when under an effect that raises critical hit rate.\nGrants a stack of Meditation, up to a maximum of 3.\nCan only be executed while under the effect of Ogi Namikiri Ready.\n\n※Action changes to Kaeshi: Namikiri upon execution."
+    },
+    {
+      "name": "Kaeshi: Namikiri",
+      "image": "https://img.finalfantasyxiv.com/lds/d/63536deb9e8a888c17e4b367bff095cc0f3c2740.png",
+      "lvl": 90,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 0,
+      "effect": "Delivers a critical hit to all enemies in a cone before you with a potency of 860 for the first enemy, and 75% less for all remaining enemies.\nDamage dealt is increased when under an effect that raises critical hit rate.\nTriggers the cooldown of weaponskills upon execution. Cannot be executed during the cooldown of weaponskills.\n\n※This action cannot be assigned to a hotbar."
+    }
+  ],
+  "roleActions": [
+    {
+      "name": "Second Wind",
+      "image": "https://img.finalfantasyxiv.com/lds/d/2b79d78f1ed471ace5708898e3388062fbd555fb.png",
+      "lvl": 8,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Instantly restores own HP.\nCure Potency: 500"
+    },
+    {
+      "name": "Leg Sweep",
+      "image": "https://img.finalfantasyxiv.com/lds/d/8c9674aba5fe48e73cc80ceb4a49782c1539b942.png",
+      "lvl": 10,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 40,
+      "cost": 0,
+      "effect": "Stuns target.\nDuration: 3s"
+    },
+    {
+      "name": "Bloodbath",
+      "image": "https://img.finalfantasyxiv.com/lds/d/f76d6999b80178e51cfedf68f3af69ce6ed5016f.png",
+      "lvl": 12,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 90,
+      "cost": 0,
+      "effect": "Converts a portion of physical damage dealt into HP.\nDuration: 20s"
+    },
+    {
+      "name": "Feint",
+      "image": "https://img.finalfantasyxiv.com/lds/d/84c26a86cbbb8a599e5a2441cebcd33b0064bf07.png",
+      "lvl": 22,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 90,
+      "cost": 0,
+      "effect": "Lowers target's physical damage dealt by 10% and magic damage dealt by 5%.\nDuration: 10s"
+    },
+    {
+      "name": "Arm's Length",
+      "image": "https://img.finalfantasyxiv.com/lds/d/00ff21ad3e1fb26d7b292a9d912931e7ea64daa4.png",
+      "lvl": 32,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Creates a barrier nullifying most knockback and draw-in effects.\nDuration: 6s\nAdditional Effect: Slow +20% when barrier is struck\nDuration: 15s"
+    },
+    {
+      "name": "True North",
+      "image": "https://img.finalfantasyxiv.com/lds/d/2d62e72f5da6d52e189c1ed10dfbd602625fc536.png",
+      "lvl": 50,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 45,
+      "cost": 0,
+      "effect": "Nullifies all action direction requirements.\nDuration: 10s\nMaximum Charges: 2"
+    }
+  ],
+  "traits": [
+    {
+      "name": "Kenki Mastery",
+      "lvl": 52,
+      "effect": "Increases Kenki Gauge when landing select weaponskills or when taking damage while under the effect of Third Eye."
+    },
+    {
+      "name": "Kenki Mastery II",
+      "lvl": 62,
+      "effect": "Increases Kenki Gauge when landing all weaponskills excluding Iaijutsu."
+    },
+    {
+      "name": "Way of the Samurai",
+      "lvl": 66,
+      "effect": "Increases the potency of Hakaze to 200, Jinpu to 120, and Shifu to 120."
+    },
+    {
+      "name": "Enhanced Iaijutsu",
+      "lvl": 74,
+      "effect": "Reduces Iaijutsu cast time to 1.3 seconds."
+    },
+    {
+      "name": "Enhanced Fugetsu and Fuka",
+      "lvl": 78,
+      "effect": "Improves Fugetsu's damage increase to 13% and Fuka's reduction to weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay to 13%."
+    },
+    {
+      "name": "Enhanced Tsubame-gaeshi",
+      "lvl": 84,
+      "effect": "Allows the accumulation of charges for consecutive uses of Tsubame-gaeshi.\nMaximum Charges: 2"
+    },
+    {
+      "name": "Way of the Samurai II",
+      "lvl": 84,
+      "effect": "Increases the potency of Gekko, Kasha, and Yukikaze to 120."
+    },
+    {
+      "name": "Fuga Mastery",
+      "lvl": 86,
+      "effect": "Upgrades Fuga to Fuko."
+    },
+    {
+      "name": "Enhanced Meikyo Shisui",
+      "lvl": 88,
+      "effect": "Allows the accumulation of charges for consecutive uses of Meikyo Shisui.\nMaximum Charges: 2"
+    },
+    {
+      "name": "Enhanced Ikishoten",
+      "lvl": 90,
+      "effect": "Grants Ogi Namikiri Ready upon execution of Ikishoten.\nDuration: 30s"
+    }
+  ]
+}

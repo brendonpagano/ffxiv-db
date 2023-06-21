@@ -1,0 +1,413 @@
+{
+  "jobActions": [
+    {
+      "name": "True Thrust",
+      "image": "https://img.finalfantasyxiv.com/lds/d/a456526b20c613a31c9ff03a7cd8d69ab328a4c8.png",
+      "lvl": 1,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 230.\n\n※Action changes to Raiden Thrust while under the effect of Draconian Fire."
+    },
+    {
+      "name": "Vorpal Thrust",
+      "image": "https://img.finalfantasyxiv.com/lds/d/85a78cf7b49d80ab94aa206b385563ffa0222346.png",
+      "lvl": 4,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 130.\nCombo Action: True Thrust\nCombo Potency: 280"
+    },
+    {
+      "name": "Life Surge",
+      "image": "https://img.finalfantasyxiv.com/lds/d/eb7e59cbec93afbdf7a3cecd0e164c545ea8dec2.png",
+      "lvl": 6,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 40,
+      "cost": 0,
+      "effect": "Ensures critical damage for first weaponskill used while Life Surge is active.\nDuration: 5s\nIncreases damage dealt when under an effect that raises critical hit rate.\nEffect cannot be applied to damage over time.\nAdditional Effect: Absorbs a portion of damage dealt as HP\nMaximum Charges: 2"
+    },
+    {
+      "name": "Piercing Talon",
+      "image": "https://img.finalfantasyxiv.com/lds/d/b34933ec0ea122c75fd1deeb69f3b9df942dbdc1.png",
+      "lvl": 15,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers a ranged attack with a potency of 150."
+    },
+    {
+      "name": "Disembowel",
+      "image": "https://img.finalfantasyxiv.com/lds/d/d5052c9c0d1bf846c9a4fb70497dd1cea97ceca6.png",
+      "lvl": 18,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 140.\nCombo Action: True Thrust\nCombo Potency: 250\nCombo Bonus: Grants Power Surge\nPower Surge Effect: Increases damage dealt by 10%\nDuration: 30s"
+    },
+    {
+      "name": "Full Thrust",
+      "image": "https://img.finalfantasyxiv.com/lds/d/34a78b866a4906267ee8f0e93457cb22b5550b9d.png",
+      "lvl": 26,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 100.\nCombo Action: Vorpal Thrust\nCombo Potency: 400\nCombo Bonus: Grants Fang and Claw Bared\nDuration: 30s\nEffect of Fang and Claw Bared ends upon execution of any melee weaponskill."
+    },
+    {
+      "name": "Lance Charge",
+      "image": "https://img.finalfantasyxiv.com/lds/d/cb90fa2f691cd58f5b068f6088550b3d56c2bd73.png",
+      "lvl": 30,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "effect": "Increases damage dealt by 10%.\nDuration: 20s"
+    },
+    {
+      "name": "Jump",
+      "image": "https://img.finalfantasyxiv.com/lds/d/f33d8ab6bf2a7e902b9292016eefbbb0fe551548.png",
+      "lvl": 30,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 30,
+      "cost": 0,
+      "effect": "Delivers a jumping attack with a potency of 320. Returns you to your original position after the attack is made.\nAdditional Effect: Grants Dive Ready\nDuration: 15s"
+    },
+    {
+      "name": "Elusive Jump",
+      "image": "https://img.finalfantasyxiv.com/lds/d/410e90de2429654f6a4912e15c1d07597f765f53.png",
+      "lvl": 35,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 30,
+      "cost": 0,
+      "effect": "Executes a jump to a location 15 yalms behind you.\nCannot be executed while bound."
+    },
+    {
+      "name": "Doom Spike",
+      "image": "https://img.finalfantasyxiv.com/lds/d/1e6e09c76f8847d3caf2ee330400848219460dfa.png",
+      "lvl": 40,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 110 to all enemies in a straight line before you.\n\n※Action changes to Draconian Fury when under the effect of Draconian Fire."
+    },
+    {
+      "name": "Spineshatter Dive",
+      "image": "https://img.finalfantasyxiv.com/lds/d/6b6c04f13f24687229d5c6fbd03cca7b1cd2abbc.png",
+      "lvl": 45,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "effect": "Delivers a jumping attack with a potency of 250.\nMaximum Charges: 2\nCannot be executed while bound."
+    },
+    {
+      "name": "Chaos Thrust",
+      "image": "https://img.finalfantasyxiv.com/lds/d/b77850f0a67953c4b4a13228788bdc1ec41c20fc.png",
+      "lvl": 50,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 100.\n140 when executed from a target's rear.\nCombo Action: Disembowel\nCombo Potency: 220\nRear Combo Potency: 260\nCombo Bonus: Damage over time\nPotency: 40\nDuration: 24s\nCombo Bonus: Grants Wheel in Motion\nDuration: 30s\nEffect of Wheel in Motion ends upon execution of any melee weaponskill."
+    },
+    {
+      "name": "Dragonfire Dive",
+      "image": "https://img.finalfantasyxiv.com/lds/d/1ccffd13759a4491f95494464c6d10dc33c006af.png",
+      "lvl": 50,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Delivers a jumping fire-based attack with a potency of 300 to target and all enemies nearby it.\nCannot be executed while bound."
+    },
+    {
+      "name": "Battle Litany",
+      "image": "https://img.finalfantasyxiv.com/lds/d/508f9edf2563db3319c3f623ce5d94517062263c.png",
+      "lvl": 52,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Increases critical hit rate of self and nearby party members by 10%.\nDuration: 15s"
+    },
+    {
+      "name": "Fang and Claw",
+      "image": "https://img.finalfantasyxiv.com/lds/d/4fe2230dcc26896793e2936288fd25252dcfc56c.png",
+      "lvl": 56,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 260.\n300 when executed from a target's flank.\nCan only be executed while under the effect of Fang and Claw Bared, granted by Heavens' Thrust."
+    },
+    {
+      "name": "Wheeling Thrust",
+      "image": "https://img.finalfantasyxiv.com/lds/d/a8a45f08c2c5db904616f91470667fe4aaa6bcc5.png",
+      "lvl": 58,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 260.\n300 when executed from a target's rear.\nCan only be executed while under the effect of Wheel in Motion, granted by Chaotic Spring."
+    },
+    {
+      "name": "Geirskogul",
+      "image": "https://img.finalfantasyxiv.com/lds/d/9997d1e9e3008de62095f170806afc46bf8c0512.png",
+      "lvl": 60,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 30,
+      "cost": 0,
+      "effect": "Delivers an attack to all enemies in a straight line before you with a potency of 260 for the first enemy, and 30% less for all remaining enemies.\nAdditional Effect: Grants Life of the Dragon while under the full gaze of the first brood\n\n※Action changes to Nastrond while under the effect of Life of the Dragon."
+    },
+    {
+      "name": "Sonic Thrust",
+      "image": "https://img.finalfantasyxiv.com/lds/d/9457aa084f7bf99d66ad2c32318a7377886fa5b1.png",
+      "lvl": 62,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 100 to all enemies in a straight line before you.\nCombo Action: Doom Spike\nCombo Potency: 120\nCombo Bonus: Grants Power Surge\nPower Surge Effect: Increases damage dealt by 10%\nDuration: 30s"
+    },
+    {
+      "name": "Dragon Sight",
+      "image": "https://img.finalfantasyxiv.com/lds/d/9a92efac99d9172bda997702548f803fb035a8ce.png",
+      "lvl": 66,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Grants Right Eye to self, increasing damage dealt by 10% and nullifying all action direction requirements. Also grants target party member Left Eye, increasing damage dealt by 5%.\nDuration: 20s"
+    },
+    {
+      "name": "Mirage Dive",
+      "image": "https://img.finalfantasyxiv.com/lds/d/83da9c48674e13d357d7ff8ba8fba6b49f287f79.png",
+      "lvl": 68,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 200.\nAdditional Effect: Strengthens the gaze of your Dragon Gauge by 1\nCan only be executed when Dive Ready."
+    },
+    {
+      "name": "Nastrond",
+      "image": "https://img.finalfantasyxiv.com/lds/d/97ac6d936a5ade6f37ed4395355893eb976a477a.png",
+      "lvl": 70,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 10,
+      "cost": 0,
+      "effect": "Delivers an attack to all enemies in a straight line before you with a potency of 360 for the first enemy, and 30% less for all remaining enemies.\nCan only be executed while under the effect of Life of the Dragon.\n\n※This action cannot be assigned to a hotbar."
+    },
+    {
+      "name": "Coerthan Torment",
+      "image": "https://img.finalfantasyxiv.com/lds/d/673868536e6be70ed3ae3e1b4be66579b572e324.png",
+      "lvl": 72,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 100 to all enemies in a straight line before you.\nCombo Action: Sonic Thrust\nCombo Potency: 150\nCombo Bonus: Grants Draconian Fire\nDuration: 30s"
+    },
+    {
+      "name": "High Jump",
+      "image": "https://img.finalfantasyxiv.com/lds/d/864834c5502d69496057326478a42ef74a504af3.png",
+      "lvl": 74,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 30,
+      "cost": 0,
+      "effect": "Delivers a jumping attack with a potency of 400. Returns you to your original position after the attack is made.\nAdditional Effect: Grants Dive Ready\nDuration: 15s"
+    },
+    {
+      "name": "Raiden Thrust",
+      "image": "https://img.finalfantasyxiv.com/lds/d/d63e1dd2c2cb09e371caf50f997b65f8148c578b.png",
+      "lvl": 76,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 280.\nAdditional Effect: Sharpens the Firstminds' Focus by 1\nCan only be executed while under the effect of Draconian Fire.\n\n※This action cannot be assigned to a hotbar."
+    },
+    {
+      "name": "Stardiver",
+      "image": "https://img.finalfantasyxiv.com/lds/d/235f159d863cc53374d2029a1bfb141828fad5b5.png",
+      "lvl": 80,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 30,
+      "cost": 0,
+      "effect": "Delivers a jumping fire-based attack to target and all enemies nearby it with a potency of 620 for the first enemy, and 30% less for all remaining enemies.\nCan only be executed while under the effect of Life of the Dragon.\nCannot be executed while bound."
+    },
+    {
+      "name": "Draconian Fury",
+      "image": "https://img.finalfantasyxiv.com/lds/d/51e0251a0915bf36c3c804a760c8b3eaa3fe869e.png",
+      "lvl": 82,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 130 to all enemies in a straight line before you.\nAdditional Effect: Sharpens the Firstminds' Focus by 1\nCan only be executed while under the effect of Draconian Fire.\n\n※This action cannot be assigned to a hotbar."
+    },
+    {
+      "name": "Heavens' Thrust",
+      "image": "https://img.finalfantasyxiv.com/lds/d/e8ab8aa66c28e6c6fd4acf489417d7e7e2d5acc6.png",
+      "lvl": 86,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 100.\nCombo Action: Vorpal Thrust\nCombo Potency: 480\nCombo Bonus: Grants Fang and Claw Bared\nDuration: 30s\nEffect of Fang and Claw Bared ends upon execution of any melee weaponskill."
+    },
+    {
+      "name": "Chaotic Spring",
+      "image": "https://img.finalfantasyxiv.com/lds/d/e34337371ce368cb087a6c9cf3cad150271b7077.png",
+      "lvl": 86,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 100.\n140 when executed from a target's rear.\nCombo Action: Disembowel\nCombo Potency: 260\nRear Combo Potency: 300\nCombo Bonus: Damage over time\nPotency: 45\nDuration: 24s\nCombo Bonus: Grants Wheel in Motion\nDuration: 30s\nEffect of Wheel in Motion ends upon execution of any melee weaponskill."
+    },
+    {
+      "name": "Wyrmwind Thrust",
+      "image": "https://img.finalfantasyxiv.com/lds/d/e61f89ed9db5020d7733920451f4d1809fe52c6b.png",
+      "lvl": 90,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 10,
+      "cost": 0,
+      "effect": "Delivers an attack to all enemies in a straight line before you with a potency of 420 for the first enemy, and 50% less for all remaining enemies.\nFirstminds' Focus Cost: 2"
+    }
+  ],
+  "roleActions": [
+    {
+      "name": "Second Wind",
+      "image": "https://img.finalfantasyxiv.com/lds/d/2b79d78f1ed471ace5708898e3388062fbd555fb.png",
+      "lvl": 8,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Instantly restores own HP.\nCure Potency: 500"
+    },
+    {
+      "name": "Leg Sweep",
+      "image": "https://img.finalfantasyxiv.com/lds/d/8c9674aba5fe48e73cc80ceb4a49782c1539b942.png",
+      "lvl": 10,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 40,
+      "cost": 0,
+      "effect": "Stuns target.\nDuration: 3s"
+    },
+    {
+      "name": "Bloodbath",
+      "image": "https://img.finalfantasyxiv.com/lds/d/f76d6999b80178e51cfedf68f3af69ce6ed5016f.png",
+      "lvl": 12,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 90,
+      "cost": 0,
+      "effect": "Converts a portion of physical damage dealt into HP.\nDuration: 20s"
+    },
+    {
+      "name": "Feint",
+      "image": "https://img.finalfantasyxiv.com/lds/d/84c26a86cbbb8a599e5a2441cebcd33b0064bf07.png",
+      "lvl": 22,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 90,
+      "cost": 0,
+      "effect": "Lowers target's physical damage dealt by 10% and magic damage dealt by 5%.\nDuration: 10s"
+    },
+    {
+      "name": "Arm's Length",
+      "image": "https://img.finalfantasyxiv.com/lds/d/00ff21ad3e1fb26d7b292a9d912931e7ea64daa4.png",
+      "lvl": 32,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Creates a barrier nullifying most knockback and draw-in effects.\nDuration: 6s\nAdditional Effect: Slow +20% when barrier is struck\nDuration: 15s"
+    },
+    {
+      "name": "True North",
+      "image": "https://img.finalfantasyxiv.com/lds/d/2d62e72f5da6d52e189c1ed10dfbd602625fc536.png",
+      "lvl": 50,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 45,
+      "cost": 0,
+      "effect": "Nullifies all action direction requirements.\nDuration: 10s\nMaximum Charges: 2"
+    }
+  ],
+  "traits": [
+    {
+      "name": "Blood of the Dragon",
+      "lvl": 54,
+      "effect": "Increases the potency of Jump to 320 and Spineshatter Dive to 250."
+    },
+    {
+      "name": "Lance Mastery",
+      "lvl": 64,
+      "effect": "Allows for immediate execution of Wheeling Thrust after landing Fang and Claw, or Fang and Claw after landing Wheeling Thrust, increasing potency by 100."
+    },
+    {
+      "name": "Life of the Dragon",
+      "lvl": 70,
+      "effect": "Allows for the strengthening of the gaze of the first brood upon successfully landing Mirage Dive. When the gaze is its strongest (2 units), Geirskogul will grant you the Life of the Dragon status. While under the effect of Life of the Dragon, Geirskogul will change to Nastrond.\nDuration: 20s"
+    },
+    {
+      "name": "Jump Mastery",
+      "lvl": 74,
+      "effect": "Upgrades Jump to High Jump."
+    },
+    {
+      "name": "Lance Mastery II",
+      "lvl": 76,
+      "effect": "Increases the potency of True Thrust to 230, Vorpal Thrust to 130, and Disembowel to 140.\nGrants Draconian Fire if Fang and Claw is executed following Wheeling Thrust, or vice versa.\nDuration: 30s\nEffect of Draconian Fire ends upon execution of any melee weaponskill.\nUpgrades True Thrust to Raiden Thrust while under the effect of Draconian Fire."
+    },
+    {
+      "name": "Life of the Dragon Mastery",
+      "lvl": 78,
+      "effect": "Extends the duration of Life of the Dragon to 30 seconds."
+    },
+    {
+      "name": "Enhanced Coerthan Torment",
+      "lvl": 82,
+      "effect": "Grants the effect of Draconian Fire after successfully completing a combo with Coerthan Torment.\nDuration: 30s\nEffect of Draconian Fire ends upon execution of any melee weaponskill.\nUpgrades Doom Spike to Draconian Fury while under the effect of Draconian Fire."
+    },
+    {
+      "name": "Enhanced Spineshatter Dive",
+      "lvl": 84,
+      "effect": "Allows the accumulation of charges for consecutive uses of Spineshatter Dive.\nMaximum Charges: 2"
+    },
+    {
+      "name": "Lance Mastery III",
+      "lvl": 86,
+      "effect": "Upgrades Full Thrust to Heavens' Thrust and Chaos Thrust to Chaotic Spring."
+    },
+    {
+      "name": "Enhanced Life Surge",
+      "lvl": 88,
+      "effect": "Allows the accumulation of charges for consecutive uses of Life Surge.\nMaximum Charges: 2"
+    },
+    {
+      "name": "Lance Mastery IV",
+      "lvl": 90,
+      "effect": "Increases the potency of Geirskogul to 260 and Nastrond to 360.\nAllows for the sharpening of the Firstminds' Focus upon successfully landing Raiden Thrust or Draconian Fury, up to a maximum of 2 units."
+    }
+  ]
+}

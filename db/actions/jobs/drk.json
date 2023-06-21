@@ -1,0 +1,413 @@
+{
+  "jobActions": [
+    {
+      "name": "Hard Slash",
+      "image": "https://img.finalfantasyxiv.com/lds/d/5c0fef99ef9100285ede6dbc62a5c35cea188d7c.png",
+      "lvl": 1,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 170."
+    },
+    {
+      "name": "Syphon Strike",
+      "image": "https://img.finalfantasyxiv.com/lds/d/e2a305d72e05ef339e0692bd5f7ed9626b6eb9ea.png",
+      "lvl": 2,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 120.\nCombo Action: Hard Slash\nCombo Potency: 260\nCombo Bonus: Restores MP"
+    },
+    {
+      "name": "Unleash",
+      "image": "https://img.finalfantasyxiv.com/lds/d/600c6a17bd8c4e08c783d1fb8891f12eea132a9a.png",
+      "lvl": 6,
+      "type": "Spell",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Deals unaspected damage with a potency of 120 to all nearby enemies."
+    },
+    {
+      "name": "Grit",
+      "image": "https://img.finalfantasyxiv.com/lds/d/b6d1592d4fcbcafe1e3b0958d688c50346fe2bd4.png",
+      "lvl": 10,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 2,
+      "cost": 0,
+      "effect": "Significantly increases enmity generation.\nEffect ends upon reuse."
+    },
+    {
+      "name": "Release Grit",
+      "image": "https://img.finalfantasyxiv.com/lds/d/13a97691011df3c616e3181fd21b5f6805ce5799.png",
+      "lvl": 10,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 0,
+      "effect": "Cancels the effect of Grit."
+    },
+    {
+      "name": "Unmend",
+      "image": "https://img.finalfantasyxiv.com/lds/d/6203d55695d1cdde37d875f7b4b4253606266ad0.png",
+      "lvl": 15,
+      "type": "Spell",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Deals unaspected damage with a potency of 150.\nAdditional Effect: Increased enmity\nAdditional Effect: Reduces the recast time of Plunge by 5 seconds"
+    },
+    {
+      "name": "Souleater",
+      "image": "https://img.finalfantasyxiv.com/lds/d/8c6a197869a69116f52b41b3fef2ce03c29b5212.png",
+      "lvl": 26,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 120.\nCombo Action: Syphon Strike\nCombo Potency: 340\nCombo Bonus: Restores own HP\nCure Potency: 300\nCombo Bonus: Increases Blood Gauge by 20"
+    },
+    {
+      "name": "Flood of Darkness",
+      "image": "https://img.finalfantasyxiv.com/lds/d/438927fdaa593ec9d1bd020e1c60fad9ca495f3f.png",
+      "lvl": 30,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 3000,
+      "effect": "Deals unaspected damage with a potency of 100 to all enemies in a straight line before you.\nAdditional Effect: Grants Darkside, increasing damage dealt by 10%\nDuration: 30s\nExtends Darkside duration by 30s to a maximum of 60s.\nShares a recast timer with Edge of Darkness."
+    },
+    {
+      "name": "Blood Weapon",
+      "image": "https://img.finalfantasyxiv.com/lds/d/c0c4dd65cec09b11aa7ecfecf6526aff4c59b83f.png",
+      "lvl": 35,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "effect": "Grants 5 stacks of Blood Weapon, each stack increasing Blood Gauge by 10 and restoring MP upon landing weaponskills or spells.\nDuration: 15s\nEffect does not stack when hitting multiple targets with a single attack."
+    },
+    {
+      "name": "Shadow Wall",
+      "image": "https://img.finalfantasyxiv.com/lds/d/7ea7904a9e066bb33d542755b5984ad78c711a45.png",
+      "lvl": 38,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Reduces damage taken by 30%.\nDuration: 15s"
+    },
+    {
+      "name": "Stalwart Soul",
+      "image": "https://img.finalfantasyxiv.com/lds/d/cc2fff4dcbf82d405c36a0d153fb28af5fcb9068.png",
+      "lvl": 40,
+      "type": "Spell",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Deals unaspected damage with a potency of 100 to all nearby enemies.\nCombo Action: Unleash\nCombo Potency: 140\nCombo Bonus: Restores MP\nCombo Bonus: Increases Blood Gauge by 20"
+    },
+    {
+      "name": "Edge of Darkness",
+      "image": "https://img.finalfantasyxiv.com/lds/d/e62374eb5036fcaa1201fec390bc266620501abe.png",
+      "lvl": 40,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 3000,
+      "effect": "Deals unaspected damage with a potency of 300.\nAdditional Effect: Grants Darkside, increasing damage dealt by 10%\nDuration: 30s\nExtends Darkside duration by 30s to a maximum of 60s.\nShares a recast timer with Flood of Darkness."
+    },
+    {
+      "name": "Dark Mind",
+      "image": "https://img.finalfantasyxiv.com/lds/d/adb1f756a8cfa746f5ec2f97e487e41c06026a61.png",
+      "lvl": 45,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "effect": "Reduces magic vulnerability by 20%.\nDuration: 10s"
+    },
+    {
+      "name": "Living Dead",
+      "image": "https://img.finalfantasyxiv.com/lds/d/968fc4ccd880ca468fff7b34680e793a80ffdab1.png",
+      "lvl": 50,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 300,
+      "cost": 0,
+      "effect": "Grants the effect of Living Dead.\nWhen HP is reduced to 0 while under the effect of Living Dead, instead of becoming KO'd, your status will change to Walking Dead.\nLiving Dead Duration: 10s\nAdditional Effect: Restores HP with each weaponskill successfully delivered or spell cast\nCure Potency: 1500\nWhile under the effect of Walking Dead, most attacks will not lower your HP below 1. If, before the Walking Dead timer runs out, an amount of HP totaling your maximum HP is restored, the effect will change to Undead Rebirth. If this amount is not restored, you will be KO'd.\nWalking Dead Duration: 10s\nWhile under the effect of Undead Rebirth, most attacks will not lower your HP below 1.\nUndead Rebirth Duration: Time remaining on Walking Dead"
+    },
+    {
+      "name": "Salted Earth",
+      "image": "https://img.finalfantasyxiv.com/lds/d/8c3e2f641cea5b3c0693034e6feafeff359341c5.png",
+      "lvl": 52,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 90,
+      "cost": 0,
+      "effect": "Creates a patch of salted earth at your feet, dealing unaspected damage with a potency of 50 to any enemies who enter.\nDuration: 15s\n\n※Action changes to Salt and Darkness upon execution."
+    },
+    {
+      "name": "Plunge",
+      "image": "https://img.finalfantasyxiv.com/lds/d/d95cc50b9a8950878a034c0d6f58c8bd8c58929d.png",
+      "lvl": 54,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 30,
+      "cost": 0,
+      "effect": "Delivers a jumping attack with a potency of 150.\nMaximum Charges: 2\nCannot be executed while bound."
+    },
+    {
+      "name": "Abyssal Drain",
+      "image": "https://img.finalfantasyxiv.com/lds/d/17543c65847814b073fe6481402a347c7efc9225.png",
+      "lvl": 56,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "effect": "Deals unaspected damage with a potency of 240 to target and all enemies nearby it.\nAdditional Effect: Restores own HP\nCure Potency: 200\nAdditional Effect: Restores MP\nShares a recast timer with Carve and Spit."
+    },
+    {
+      "name": "Carve and Spit",
+      "image": "https://img.finalfantasyxiv.com/lds/d/6bbe53b6e1f87598b98967ae9d29e4337a7afadd.png",
+      "lvl": 60,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "effect": "Delivers a threefold attack with a potency of 510.\nAdditional Effect: Restores MP\nShares a recast timer with Abyssal Drain."
+    },
+    {
+      "name": "Bloodspiller",
+      "image": "https://img.finalfantasyxiv.com/lds/d/4e5cbcae7dcf48cf8e3522d308f0c86df9114f0d.png",
+      "lvl": 62,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 500.\nBlood Gauge Cost: 50"
+    },
+    {
+      "name": "Quietus",
+      "image": "https://img.finalfantasyxiv.com/lds/d/ea30bbaacc0da577820f8b027cec26738c1be840.png",
+      "lvl": 64,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 200 to all nearby enemies.\nBlood Gauge Cost: 50"
+    },
+    {
+      "name": "Delirium",
+      "image": "https://img.finalfantasyxiv.com/lds/d/fbf4ae3878ecc04c6201114ce6b0aadf26bef857.png",
+      "lvl": 68,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "effect": "Grants 3 stacks of Delirium, each stack allowing the execution of Quietus or Bloodspiller without Blackblood cost, restoring MP when landing either weaponskill.\nDuration: 15s"
+    },
+    {
+      "name": "The Blackest Night",
+      "image": "https://img.finalfantasyxiv.com/lds/d/f82c8fbcd6549c8cd72108a937aade172f8b98a8.png",
+      "lvl": 70,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 15,
+      "cost": 3000,
+      "effect": "Creates a barrier around self or target party member that absorbs damage totaling 25% of target's maximum HP.\nDuration: 7s\nGrants Dark Arts when barrier is completely absorbed.\nDark Arts Effect: Consume Dark Arts instead of MP to execute Edge of Shadow or Flood of Shadow"
+    },
+    {
+      "name": "Flood of Shadow",
+      "image": "https://img.finalfantasyxiv.com/lds/d/de4960def285cc69e33455acae0f50808a6cd623.png",
+      "lvl": 74,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 3000,
+      "effect": "Deals unaspected damage with a potency of 160 to all enemies in a straight line before you.\nAdditional Effect: Grants Darkside, increasing damage dealt by 10%\nDuration: 30s\nExtends Darkside duration by 30s to a maximum of 60s.\nShares a recast timer with Edge of Shadow."
+    },
+    {
+      "name": "Edge of Shadow",
+      "image": "https://img.finalfantasyxiv.com/lds/d/e4536e75673663bf1b91d1a78a565dabc2f041f6.png",
+      "lvl": 74,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 3000,
+      "effect": "Deals unaspected damage with a potency of 460.\nAdditional Effect: Grants Darkside, increasing damage dealt by 10%\nDuration: 30s\nExtends Darkside duration by 30s to a maximum of 60s.\nShares a recast timer with Flood of Shadow."
+    },
+    {
+      "name": "Dark Missionary",
+      "image": "https://img.finalfantasyxiv.com/lds/d/1dc1a1d830e5355e2cd251531e85932c24ba1b8d.png",
+      "lvl": 76,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 90,
+      "cost": 0,
+      "effect": "Reduces magic damage taken by self and nearby party members by 10%.\nDuration: 15s"
+    },
+    {
+      "name": "Living Shadow",
+      "image": "https://img.finalfantasyxiv.com/lds/d/5150a7bff7be43d689f896e7be140f4720a23f6e.png",
+      "lvl": 80,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Conjure a simulacrum of your darkside to fight alongside you.\nSimulacrum Attack Potency: 350\nDuration: 20s\nBlood Gauge Cost: 50\nAdditional Effect: Simulacrum is able to execute Shadowbringer, delivering an attack to all enemies in a straight line before it with a potency of 500 for the first enemy, and 25% less for all remaining enemies."
+    },
+    {
+      "name": "Oblation",
+      "image": "https://img.finalfantasyxiv.com/lds/d/5a42ca000eb7ab0c80e3952539ed260af3d4c5e8.png",
+      "lvl": 82,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "effect": "Reduces damage taken by target party member or self by 10%.\nDuration: 10s\nMaximum Charges: 2"
+    },
+    {
+      "name": "Salt and Darkness",
+      "image": "https://img.finalfantasyxiv.com/lds/d/bb0216fb548f749ceb5bf25f071af462129be59b.png",
+      "lvl": 86,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 20,
+      "cost": 0,
+      "effect": "All enemies standing in the corrupted patch of Salted Earth take additional unaspected damage with a potency of 500 for the first enemy, and 50% less for all remaining enemies.\n\n※This action cannot be assigned to a hotbar."
+    },
+    {
+      "name": "Shadowbringer",
+      "image": "https://img.finalfantasyxiv.com/lds/d/bb5281f6fd7eb6900cbda1c39722b4d3c7e51b6e.png",
+      "lvl": 90,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "effect": "Deals unaspected damage to all enemies in a straight line before you with a potency of 600 for the first enemy, and 50% less for all remaining enemies.\nMaximum Charges: 2\nCan only be executed while under the effect of Darkside."
+    }
+  ],
+  "roleActions": [
+    {
+      "name": "Rampart",
+      "image": "https://img.finalfantasyxiv.com/lds/d/37546679ae5e431c0903b20fa2c91a88c5a8e001.png",
+      "lvl": 8,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 90,
+      "cost": 0,
+      "effect": "Reduces damage taken by 20%.\nDuration: 20s"
+    },
+    {
+      "name": "Low Blow",
+      "image": "https://img.finalfantasyxiv.com/lds/d/af837b3dd467ee9cdf865a06eb2b1633dd2b492a.png",
+      "lvl": 12,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 25,
+      "cost": 0,
+      "effect": "Stuns target.\nDuration: 5s"
+    },
+    {
+      "name": "Provoke",
+      "image": "https://img.finalfantasyxiv.com/lds/d/2b45fea903bcf1edd9e08110cf95e8bba9a73c0d.png",
+      "lvl": 15,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 30,
+      "cost": 0,
+      "effect": "Gesture threateningly, placing yourself at the top of a target's enmity list while gaining additional enmity."
+    },
+    {
+      "name": "Interject",
+      "image": "https://img.finalfantasyxiv.com/lds/d/8442bcce1ec21a449546af9afb79ae9ea8c226cb.png",
+      "lvl": 18,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 30,
+      "cost": 0,
+      "effect": "Interrupts the use of a target's action."
+    },
+    {
+      "name": "Reprisal",
+      "image": "https://img.finalfantasyxiv.com/lds/d/6b83d9368623d5cd20a426d26916021b59a14963.png",
+      "lvl": 22,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "effect": "Reduces damage dealt by nearby enemies by 10%.\nDuration: 10s"
+    },
+    {
+      "name": "Arm's Length",
+      "image": "https://img.finalfantasyxiv.com/lds/d/00ff21ad3e1fb26d7b292a9d912931e7ea64daa4.png",
+      "lvl": 32,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Creates a barrier nullifying most knockback and draw-in effects.\nDuration: 6s\nAdditional Effect: Slow +20% when barrier is struck\nDuration: 15s"
+    },
+    {
+      "name": "Shirk",
+      "image": "https://img.finalfantasyxiv.com/lds/d/4abd24800cb0999fff8ea79ed1085a7b5f8b14cb.png",
+      "lvl": 48,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Diverts 25% of enmity to target party member."
+    }
+  ],
+  "traits": [
+    {
+      "name": "Tank Mastery",
+      "lvl": 1,
+      "effect": "Reduces damage taken by 20%. Furthermore, grants a bonus to maximum HP based on your vitality attribute, and a bonus to damage dealt based on your strength attribute."
+    },
+    {
+      "name": "Blackblood",
+      "lvl": 62,
+      "effect": "Allows for Blood Gauge accumulation upon the landing of certain actions."
+    },
+    {
+      "name": "Enhanced Blackblood",
+      "lvl": 66,
+      "effect": "Allows for Blood Gauge accumulation upon the landing of any weaponskill or spell while under the effect of Blood Weapon."
+    },
+    {
+      "name": "Darkside Mastery",
+      "lvl": 74,
+      "effect": "Upgrades Flood of Darkness and Edge of Darkness to Flood of Shadow and Edge of Shadow respectively."
+    },
+    {
+      "name": "Enhanced Plunge",
+      "lvl": 78,
+      "effect": "Allows the accumulation of charges for consecutive uses of Plunge.\nMaximum Charges: 2"
+    },
+    {
+      "name": "Enhanced Unmend",
+      "lvl": 84,
+      "effect": "Reduces recast time of Plunge by 5 seconds when executing Unmend on most targets."
+    },
+    {
+      "name": "Melee Mastery",
+      "lvl": 84,
+      "effect": "Increases the potency of Hard Slash to 170, Syphon Strike to 120, and Souleater to 120."
+    },
+    {
+      "name": "Enhanced Living Shadow",
+      "lvl": 88,
+      "effect": "Increases the potency of attacks dealt by your simulacrum to 350."
+    },
+    {
+      "name": "Enhanced Living Shadow II",
+      "lvl": 90,
+      "effect": "Upgrades Flood of Shadow executed by your simulacrum to Shadowbringer, which delivers an attack to all enemies in a straight line before it with a potency of 500 for the first enemy, and 25% less for all remaining enemies."
+    }
+  ]
+}

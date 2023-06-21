@@ -1,0 +1,478 @@
+{
+  "jobActions": [
+    {
+      "name": "Split Shot",
+      "image": "https://img.finalfantasyxiv.com/lds/d/8060c2f198141fb9c4d4202e298c212c15a82e88.png",
+      "lvl": 1,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 140.\nAdditional Effect: Increases Heat Gauge by 5"
+    },
+    {
+      "name": "Slug Shot",
+      "image": "https://img.finalfantasyxiv.com/lds/d/63bb059658f193d08de8cd45e4a95e7bed0418b8.png",
+      "lvl": 2,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 100.\nCombo Action: Split Shot or Heated Split Shot\nCombo Potency: 210\nCombo Bonus: Increases Heat Gauge by 5"
+    },
+    {
+      "name": "Hot Shot",
+      "image": "https://img.finalfantasyxiv.com/lds/d/b297b6034baa7347d3a53a12910b102914ce3c3e.png",
+      "lvl": 4,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 40,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 240.\nAdditional Effect: Increases Battery Gauge by 20\nThis weaponskill does not share a recast timer with any other actions."
+    },
+    {
+      "name": "Reassemble",
+      "image": "https://img.finalfantasyxiv.com/lds/d/55906cd43fffdf7bcc09790b1b02b19edc6b2e8e.png",
+      "lvl": 10,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 55,
+      "cost": 0,
+      "effect": "Guarantees that next weaponskill is a critical direct hit.\nDuration: 5s\nIncreases damage dealt when under an effect that raises critical hit rate or direct hit rate.\nThis action does not affect damage over time effects.\nMaximum Charges: 2"
+    },
+    {
+      "name": "Gauss Round",
+      "image": "https://img.finalfantasyxiv.com/lds/d/e6959a3306b601fc9e5987712f6d9ea247a7a566.png",
+      "lvl": 15,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 30,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 130.\nMaximum Charges: 3"
+    },
+    {
+      "name": "Spread Shot",
+      "image": "https://img.finalfantasyxiv.com/lds/d/7c4e991ed4e6b585ceb2dda1c03dec0278ff28f0.png",
+      "lvl": 18,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 140 to all enemies in a cone before you.\nAdditional Effect: Increases Heat Gauge by 5"
+    },
+    {
+      "name": "Clean Shot",
+      "image": "https://img.finalfantasyxiv.com/lds/d/d6d762f987ab51e9840cbf5229251838b16078b5.png",
+      "lvl": 26,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 100.\nCombo Action: Slug Shot or Heated Slug Shot\nCombo Potency: 270\nCombo Bonus: Increases Heat Gauge by 5\nCombo Bonus: Increases Battery Gauge by 10"
+    },
+    {
+      "name": "Hypercharge",
+      "image": "https://img.finalfantasyxiv.com/lds/d/273150b6ebb3357688de07d86ec37a02da8e9348.png",
+      "lvl": 30,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 10,
+      "cost": 0,
+      "effect": "Grants 5 stacks of Overheated, each stack allowing the execution of Heat Blast or Auto Crossbow.\nDuration: 10s\nOverheated Effect: Increases the potency of single-target weaponskills by 20\nHeat Gauge Cost: 50\nOverheated effect only applicable to machinist job actions."
+    },
+    {
+      "name": "Heat Blast",
+      "image": "https://img.finalfantasyxiv.com/lds/d/009d06297b1776f1404cdf4de9c5bd8b17a447e6.png",
+      "lvl": 35,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 1.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 200.\nAdditional Effect: Reduces the recast time of both Gauss Round and Ricochet by 15s\nCan only be executed when firearm is Overheated.\nThis weaponskill does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions."
+    },
+    {
+      "name": "Rook Autoturret",
+      "image": "https://img.finalfantasyxiv.com/lds/d/5b7c9667f3dca5facbc020d4ab7743c7f9d4e6d9.png",
+      "lvl": 40,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 6,
+      "cost": 0,
+      "effect": "Deploys a single-target battle turret which attacks using Volley Fire, dealing damage with a potency of 35.\nPotency increases as Battery Gauge exceeds required cost at time of deployment, up to a maximum of 75.\nBattery Gauge Cost: 50\nDuration: 9s\nConsumes Battery Gauge upon execution.\nShuts down when time expires or upon execution of Rook Overdrive.\nShares a recast timer with Rook Overdrive."
+    },
+    {
+      "name": "Rook Overdrive",
+      "image": "https://img.finalfantasyxiv.com/lds/d/d02c5a123e15d77891887c24dce2f6f21d92852d.png",
+      "lvl": 40,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 15,
+      "cost": 0,
+      "effect": "Orders the rook autoturret to use Rook Overload.\nRook Overload Potency: 160\nPotency increases as Battery Gauge exceeds required cost at time of deployment, up to a maximum of 320.\nThe rook autoturret shuts down after execution. If this action is not used manually while the rook autoturret is active, it will be triggered automatically immediately before shutting down.\nShares a recast timer with Rook Autoturret."
+    },
+    {
+      "name": "Rook Overload",
+      "image": "https://img.finalfantasyxiv.com/lds/d/0458a11999934b3eb6d4088c941329698c898722.png",
+      "lvl": 40,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 0,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 160.\nPotency increases as Battery Gauge exceeds required cost at time of deployment, up to a maximum of 320.\nThe rook autoturret shuts down after execution. If this action is not used manually while the rook autoturret is active, it will be triggered automatically immediately before shutting down.\n\n※This action cannot be assigned to a hotbar."
+    },
+    {
+      "name": "Wildfire",
+      "image": "https://img.finalfantasyxiv.com/lds/d/6d73e45fbbfb35ad0a4f8b4a73753e6a06a37651.png",
+      "lvl": 45,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Covers target's body in a slow-burning pitch. Action is changed to Detonator for the duration of the effect.\nDeals damage when time expires or upon executing Detonator.\nPotency is increased by 240 for each of your own weaponskills you land prior to the end of the effect.\nCan be stacked up to 6 times.\nDuration: 10s"
+    },
+    {
+      "name": "Detonator",
+      "image": "https://img.finalfantasyxiv.com/lds/d/d342968f8a04290200386a016f586a0b175e3d3b.png",
+      "lvl": 45,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 0,
+      "effect": "Ends the effect of Wildfire, dealing damage to the target.\n\n※This action cannot be assigned to a hotbar."
+    },
+    {
+      "name": "Ricochet",
+      "image": "https://img.finalfantasyxiv.com/lds/d/5556960a2e8ce389c2117d13c6d182f41943c3c9.png",
+      "lvl": 50,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 30,
+      "cost": 0,
+      "effect": "Deals damage to all nearby enemies with a potency of 130 for the first enemy, and 50% less for all remaining enemies.\nMaximum Charges: 3"
+    },
+    {
+      "name": "Auto Crossbow",
+      "image": "https://img.finalfantasyxiv.com/lds/d/8c8ae8bf5d1dbcae1bf932cfed578e4fda8d80f3.png",
+      "lvl": 52,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 1.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 140 to all enemies in a cone before you.\nCan only be executed when firearm is Overheated.\nThis weaponskill does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions."
+    },
+    {
+      "name": "Heated Split Shot",
+      "image": "https://img.finalfantasyxiv.com/lds/d/c7fb786ed29dd5618309e36b58105dd329f255fa.png",
+      "lvl": 54,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 200.\nAdditional Effect: Increases Heat Gauge by 5"
+    },
+    {
+      "name": "Tactician",
+      "image": "https://img.finalfantasyxiv.com/lds/d/eb334bf6f4cfd728e234e09c1cc1521c37d9d73e.png",
+      "lvl": 56,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 90,
+      "cost": 0,
+      "effect": "Reduces damage taken by self and nearby party members by 10%.\nDuration: 15s\nEffect cannot be stacked with bard's Troubadour or dancer's Shield Samba."
+    },
+    {
+      "name": "Drill",
+      "image": "https://img.finalfantasyxiv.com/lds/d/c8bd9fe712521ac377c3359846437a640c0516b7.png",
+      "lvl": 58,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 20,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 600.\nShares a recast timer with Bioblaster."
+    },
+    {
+      "name": "Heated Slug Shot",
+      "image": "https://img.finalfantasyxiv.com/lds/d/7f91784177366a8b4dd069a15915b41601231f83.png",
+      "lvl": 60,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 120.\nCombo Action: Heated Split Shot\nCombo Potency: 300\nCombo Bonus: Increases Heat Gauge by 5"
+    },
+    {
+      "name": "Dismantle",
+      "image": "https://img.finalfantasyxiv.com/lds/d/94eaa7aadfa4d857c00551af690f42bb5d7a4a94.png",
+      "lvl": 62,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Lowers target's damage dealt by 10%.\nDuration: 10s"
+    },
+    {
+      "name": "Heated Clean Shot",
+      "image": "https://img.finalfantasyxiv.com/lds/d/3c8cababe00b6d512baada3b68a32cb866758a17.png",
+      "lvl": 64,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 120.\nCombo Action: Heated Slug Shot\nCombo Potency: 380\nCombo Bonus: Increases Heat Gauge by 5\nCombo Bonus: Increases Battery Gauge by 10"
+    },
+    {
+      "name": "Barrel Stabilizer",
+      "image": "https://img.finalfantasyxiv.com/lds/d/1688057a6b4150542d3c41e9e5202cf5aa14b5b7.png",
+      "lvl": 66,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Increases Heat Gauge by 50.\nCan only be executed while in combat."
+    },
+    {
+      "name": "Flamethrower",
+      "image": "https://img.finalfantasyxiv.com/lds/d/37f5418d1629e6ebc93161622a271d14aa82464e.png",
+      "lvl": 70,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "effect": "Delivers damage over time to all enemies in a cone before you.\nPotency: 80\nDuration: 10s\nEffect ends upon using another action or moving (including facing a different direction).\nCancels auto-attack upon execution.\nTriggers the cooldown of weaponskills upon execution. Cannot be executed during the cooldown of weaponskills."
+    },
+    {
+      "name": "Bioblaster",
+      "image": "https://img.finalfantasyxiv.com/lds/d/193879ae7c68f4e144e385a018c69e3626dfa569.png",
+      "lvl": 72,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 20,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 50 to all enemies in a cone before you.\nAdditional Effect: Damage over time\nPotency: 50\nDuration: 15s\nShares a recast timer with Drill."
+    },
+    {
+      "name": "Air Anchor",
+      "image": "https://img.finalfantasyxiv.com/lds/d/85abf6ce8fa5c7b7bda98e11f37df0e8c024015e.png",
+      "lvl": 76,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 40,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 600.\nAdditional Effect: Increases Battery Gauge by 20\nThis weaponskill does not share a recast timer with any other actions."
+    },
+    {
+      "name": "Automaton Queen",
+      "image": "https://img.finalfantasyxiv.com/lds/d/e27f4ccdaad09197dbb5c06734c52bd2e4b4af06.png",
+      "lvl": 80,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 6,
+      "cost": 0,
+      "effect": "Deploys an Automaton Queen to fight at your side.\nPotency of Automaton Queen actions increases as Battery Gauge exceeds required cost at time of deployment.\nBattery Gauge Cost: 50\nDuration: 12s\nConsumes Battery Gauge upon execution.\nShuts down when time expires or upon execution of Queen Overdrive.\nShares a recast timer with Queen Overdrive."
+    },
+    {
+      "name": "Queen Overdrive",
+      "image": "https://img.finalfantasyxiv.com/lds/d/1424989e6ca3765da1c9c323ebcf72d0c9ba1536.png",
+      "lvl": 80,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 15,
+      "cost": 0,
+      "effect": "Orders the Automaton Queen to use Pile Bunker.\nPile Bunker Potency: 340\nPotency increases as Battery Gauge exceeds required cost at time of deployment, up to a maximum of 680.\nThe Automaton Queen shuts down after execution. If this action is not used manually while the Automaton Queen is active, it will be triggered automatically immediately before shutting down.\nShares a recast timer with Automaton Queen."
+    },
+    {
+      "name": "Arm Punch",
+      "image": "https://img.finalfantasyxiv.com/lds/d/813737b1502285e729d93645fe816e75350bb1c9.png",
+      "lvl": 80,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 1.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 120.\nPotency increases as Battery Gauge exceeds required cost at time of deployment, up to a maximum of 240.\n\n※This action cannot be assigned to a hotbar."
+    },
+    {
+      "name": "Roller Dash",
+      "image": "https://img.finalfantasyxiv.com/lds/d/2f01267b74b97a5447bd88cf5a953e532313255a.png",
+      "lvl": 80,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 3,
+      "cost": 0,
+      "effect": "Rushes target and delivers an attack with a potency of 240.\nPotency increases as Battery Gauge exceeds required cost at time of deployment, up to a maximum of 480.\n\n※This action cannot be assigned to a hotbar."
+    },
+    {
+      "name": "Pile Bunker",
+      "image": "https://img.finalfantasyxiv.com/lds/d/5e8ab4cb384f66e2f6a041ab70923ac104fdab80.png",
+      "lvl": 80,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 0,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 340.\nPotency increases as Battery Gauge exceeds required cost at time of deployment, up to a maximum of 680.\nIf this action is not used manually while the Automaton Queen is active, it will be triggered automatically immediately before shutting down.\n\n※This action cannot be assigned to a hotbar."
+    },
+    {
+      "name": "Scattergun",
+      "image": "https://img.finalfantasyxiv.com/lds/d/8cde8fc67f1387b83328aa85cbe044d21a5bc9b0.png",
+      "lvl": 82,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 150 to all enemies in a cone before you.\nAdditional Effect: Increases Heat Gauge by 10"
+    },
+    {
+      "name": "Crowned Collider",
+      "image": "https://img.finalfantasyxiv.com/lds/d/e7dfcf4eb7f3e2cea526372e8edd8732348bc035.png",
+      "lvl": 86,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 0,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 390.\nPotency increases as Battery Gauge exceeds required cost at time of deployment, up to a maximum of 780.\nThe Automaton Queen shuts down after execution. If this action is not used manually while the Automaton Queen is active, it will be triggered automatically immediately before shutting down.\n\n※This action cannot be assigned to a hotbar."
+    },
+    {
+      "name": "Chain Saw",
+      "image": "https://img.finalfantasyxiv.com/lds/d/2f788128862828a0a36c66d4dcd6f521f8391d04.png",
+      "lvl": 90,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "effect": "Delivers an attack to all enemies in a straight line before you with a potency of 600 for the first enemy, and 65% less for all remaining enemies.\nAdditional Effect: Increases Battery Gauge by 20\nThis weaponskill does not share a recast timer with any other actions."
+    }
+  ],
+  "roleActions": [
+    {
+      "name": "Leg Graze",
+      "image": "https://img.finalfantasyxiv.com/lds/d/2a6b7be8517f51d8cbcc60be2ae5970668f515eb.png",
+      "lvl": 6,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 30,
+      "cost": 0,
+      "effect": "Afflicts target with Heavy +40%.\nDuration: 10s"
+    },
+    {
+      "name": "Second Wind",
+      "image": "https://img.finalfantasyxiv.com/lds/d/2b79d78f1ed471ace5708898e3388062fbd555fb.png",
+      "lvl": 8,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Instantly restores own HP.\nCure Potency: 500"
+    },
+    {
+      "name": "Foot Graze",
+      "image": "https://img.finalfantasyxiv.com/lds/d/8b1f979d2b1428f9791f54ad0e429ea94a8d95d6.png",
+      "lvl": 10,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 30,
+      "cost": 0,
+      "effect": "Binds target.\nDuration: 10s\nCancels auto-attack upon execution.\nTarget unbound if damage taken."
+    },
+    {
+      "name": "Peloton",
+      "image": "https://img.finalfantasyxiv.com/lds/d/fb8b0f0ca18af4362d27f6699579bd5a18b40137.png",
+      "lvl": 20,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 5,
+      "cost": 0,
+      "effect": "Increases movement speed of self and nearby party members.\nDuration: 30s\nEffect ends when enmity is generated. Has no effect in battle."
+    },
+    {
+      "name": "Head Graze",
+      "image": "https://img.finalfantasyxiv.com/lds/d/748fe5fc8262b58e9a35aa9e4d40e67a0dd006a5.png",
+      "lvl": 24,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 30,
+      "cost": 0,
+      "effect": "Interrupts the use of a target's action."
+    },
+    {
+      "name": "Arm's Length",
+      "image": "https://img.finalfantasyxiv.com/lds/d/00ff21ad3e1fb26d7b292a9d912931e7ea64daa4.png",
+      "lvl": 32,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Creates a barrier nullifying most knockback and draw-in effects.\nDuration: 6s\nAdditional Effect: Slow +20% when barrier is struck\nDuration: 15s"
+    }
+  ],
+  "traits": [
+    {
+      "name": "Increased Action Damage",
+      "lvl": 20,
+      "effect": "Increases base action damage and autoturret damage by 10%."
+    },
+    {
+      "name": "Increased Action Damage II",
+      "lvl": 40,
+      "effect": "Increases base action damage and autoturret damage by 20%."
+    },
+    {
+      "name": "Split Shot Mastery",
+      "lvl": 54,
+      "effect": "Upgrades Split Shot to Heated Split Shot."
+    },
+    {
+      "name": "Slug Shot Mastery",
+      "lvl": 60,
+      "effect": "Upgrades Slug Shot to Heated Slug Shot."
+    },
+    {
+      "name": "Clean Shot Mastery",
+      "lvl": 64,
+      "effect": "Upgrades Clean Shot to Heated Clean Shot."
+    },
+    {
+      "name": "Charged Action Mastery",
+      "lvl": 74,
+      "effect": "Allows a third charge of Gauss Round and Ricochet."
+    },
+    {
+      "name": "Hot Shot Mastery",
+      "lvl": 76,
+      "effect": "Upgrades Hot Shot to Air Anchor."
+    },
+    {
+      "name": "Enhanced Wildfire",
+      "lvl": 78,
+      "effect": "Improves Wildfire's potency increase for landing weaponskills to 240."
+    },
+    {
+      "name": "Promotion",
+      "lvl": 80,
+      "effect": "Upgrades Rook Autoturret and Rook Overdrive to Automaton Queen and Queen Overdrive respectively."
+    },
+    {
+      "name": "Spread Shot Mastery",
+      "lvl": 82,
+      "effect": "Upgrades Spread Shot to Scattergun."
+    },
+    {
+      "name": "Enhanced Reassemble",
+      "lvl": 84,
+      "effect": "Allows the accumulation of charges for consecutive uses of Reassemble.\nMaximum Charges: 2"
+    },
+    {
+      "name": "Marksman's Mastery",
+      "lvl": 84,
+      "effect": "Increases the potency of Heated Split Shot to 200, Heated Slug Shot to 120, and Heated Clean Shot to 120."
+    },
+    {
+      "name": "Queen's Gambit",
+      "lvl": 86,
+      "effect": "After executing Pile Bunker, the Automaton Queen will also execute Crowned Collider."
+    },
+    {
+      "name": "Enhanced Tactician",
+      "lvl": 88,
+      "effect": "Reduces Tactician recast time to 90 seconds."
+    }
+  ]
+}

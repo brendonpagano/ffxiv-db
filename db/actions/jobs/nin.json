@@ -1,0 +1,428 @@
+{
+  "jobActions": [
+    {
+      "name": "Spinning Edge",
+      "image": "https://img.finalfantasyxiv.com/lds/d/657b568d32fd379339d365704c75ee7ca7e0cbd9.png",
+      "lvl": 1,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 220.\nAdditional Effect: Increases Ninki Gauge by 5"
+    },
+    {
+      "name": "Shade Shift",
+      "image": "https://img.finalfantasyxiv.com/lds/d/533a4a3e924aaf268ee89a9c58845941bb73bad1.png",
+      "lvl": 2,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Create shadows that nullify damage up to 20% of maximum HP.\nDuration: 20s"
+    },
+    {
+      "name": "Gust Slash",
+      "image": "https://img.finalfantasyxiv.com/lds/d/3b3414364511f0fa913d25a989b88668c6152a90.png",
+      "lvl": 4,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 160.\nCombo Action: Spinning Edge\nCombo Potency: 320\nCombo Bonus: Increases Ninki Gauge by 5"
+    },
+    {
+      "name": "Hide",
+      "image": "https://img.finalfantasyxiv.com/lds/d/2dc011be7f8180f6559af70db7dc93c4b0229d95.png",
+      "lvl": 10,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 20,
+      "cost": 0,
+      "effect": "Blend in with your surroundings, making it impossible for most enemies to detect you, but reducing movement speed by 50%. Has no effect on enemies 10 levels higher than your own, or certain enemies with special sight.\nAdditional Effect: Restores 2 charges to all mudra\nThe effect of Doton ends upon execution of Hide.\nCannot be executed while in combat.\nEffect ends upon use of any action other than Sprint, or upon reuse of Hide."
+    },
+    {
+      "name": "Throwing Dagger",
+      "image": "https://img.finalfantasyxiv.com/lds/d/e874766b966c4e6a786b58a35d76d3c0bd25b973.png",
+      "lvl": 15,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers a ranged attack with a potency of 120.\nAdditional Effect: Increases Ninki Gauge by 5"
+    },
+    {
+      "name": "Mug",
+      "image": "https://img.finalfantasyxiv.com/lds/d/61a5e5150f8d24fa8d9d5dfbefceb5ec53fe4045.png",
+      "lvl": 15,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 150.\nAdditional Effect: Increases target's damage taken by 5%\nDuration: 20s\nAdditional Effect: Increases the chance of additional items being dropped by target if Mug is dealt before, or as, the finishing blow\nAdditional Effect: Increases Ninki Gauge by 40"
+    },
+    {
+      "name": "Trick Attack",
+      "image": "https://img.finalfantasyxiv.com/lds/d/fb4232c3fd76ce4d889759ec7ef7bffb15b78ede.png",
+      "lvl": 18,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 300.\n400 when executed from a target's rear.\nAdditional Effect: Increases damage you deal target by 10%\nDuration: 15s\nCan only be executed while under the effect of Hidden."
+    },
+    {
+      "name": "Aeolian Edge",
+      "image": "https://img.finalfantasyxiv.com/lds/d/e68ade763da71adb1e8401db79a08e1df6f4d9e1.png",
+      "lvl": 26,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 140.\n200 when executed from a target's rear.\nCombo Action: Gust Slash\nCombo Potency: 380\nRear Combo Potency: 440\nCombo Bonus: Increases Ninki Gauge by 15"
+    },
+    {
+      "name": "Ten",
+      "image": "https://img.finalfantasyxiv.com/lds/d/55c66e798d7404567ec69a023335542cef7cd916.png",
+      "lvl": 30,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 20,
+      "cost": 0,
+      "effect": "Make the ritual mudra hand gesture for \"heaven.\"\nDuration: 6s\nMaximum Charges: 2\nTriggers the cooldown of weaponskills, mudra, and Ninjutsu upon execution.\nConversely, execution of weaponskills triggers the cooldown of this action."
+    },
+    {
+      "name": "Ninjutsu",
+      "image": "https://img.finalfantasyxiv.com/lds/d/b1362c998dbfc19dfd13223d2ae275be7f4db7cc.png",
+      "lvl": 30,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1.5,
+      "cost": 0,
+      "effect": "Executes a specific ninjutsu action coinciding with the combination of mudra made immediately beforehand.\nIf any other action is used before the mudra are combined and the ninjutsu executed, Ninjutsu will fail.\nTriggers the cooldown of weaponskills, mudra, and Ninjutsu upon execution.\nConversely, execution of weaponskills triggers the cooldown of this action.\nRestores 2 charges to all mudra when Hide is executed while outside of combat."
+    },
+    {
+      "name": "Chi",
+      "image": "https://img.finalfantasyxiv.com/lds/d/1836df5cdf1d1f78ae7b2f65462661f2fa6a79d8.png",
+      "lvl": 35,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 20,
+      "cost": 0,
+      "effect": "Make the ritual mudra hand gesture for \"earth.\"\nDuration: 6s\nMaximum Charges: 2\nTriggers the cooldown of weaponskills, mudra, and Ninjutsu upon execution.\nConversely, execution of weaponskills triggers the cooldown of this action."
+    },
+    {
+      "name": "Death Blossom",
+      "image": "https://img.finalfantasyxiv.com/lds/d/d40b78dd5c99076b25086882f27de295f8a609af.png",
+      "lvl": 38,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 100 to all nearby enemies.\nAdditional Effect: Increases Ninki Gauge by 5"
+    },
+    {
+      "name": "Assassinate",
+      "image": "https://img.finalfantasyxiv.com/lds/d/99d0c3688cb4d3fafd0df210199783bcadc74cc2.png",
+      "lvl": 40,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 200."
+    },
+    {
+      "name": "Shukuchi",
+      "image": "https://img.finalfantasyxiv.com/lds/d/ea2717bad5b805b35bb32731d78113692104a30d.png",
+      "lvl": 40,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "effect": "Move quickly to the specified location.\nMaximum Charges: 2\nCannot be executed while bound."
+    },
+    {
+      "name": "Jin",
+      "image": "https://img.finalfantasyxiv.com/lds/d/2183f2672edde169e6276764503ec11ae06b4c1e.png",
+      "lvl": 45,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 20,
+      "cost": 0,
+      "effect": "Make the ritual mudra hand gesture for \"man.\"\nDuration: 6s\nMaximum Charges: 2\nTriggers the cooldown of weaponskills, mudra, and Ninjutsu upon execution.\nConversely, execution of weaponskills triggers the cooldown of this action."
+    },
+    {
+      "name": "Kassatsu",
+      "image": "https://img.finalfantasyxiv.com/lds/d/a12553440d7385aaafc940cac8f14682e3012392.png",
+      "lvl": 50,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "effect": "Allows the execution of a single ninjutsu without consumption of mudra charges.\nAdditional Effect: Increases damage for the next ninjutsu action by 30%\nDuration: 15s\nRecast timer of mudra is not affected by the execution of this action."
+    },
+    {
+      "name": "Hakke Mujinsatsu",
+      "image": "https://img.finalfantasyxiv.com/lds/d/86e59c1bd3dedee2a6b68d3321da04c68a3acb52.png",
+      "lvl": 52,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 100 to all nearby enemies.\nCombo Action: Death Blossom\nCombo Potency: 130\nCombo Bonus: Extends Huton duration by 10s to a maximum of 60s\nCombo Bonus: Increases Ninki Gauge by 5"
+    },
+    {
+      "name": "Armor Crush",
+      "image": "https://img.finalfantasyxiv.com/lds/d/f8e49f627d8f6e16b91b2192b322812f09c40475.png",
+      "lvl": 54,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 140.\n200 when executed from a target's flank.\nCombo Action: Gust Slash\nCombo Potency: 360\nFlank Combo Potency: 420\nCombo Bonus: Extends Huton duration by 30s to a maximum of 60s\nCombo Bonus: Increases Ninki Gauge by 15"
+    },
+    {
+      "name": "Dream Within a Dream",
+      "image": "https://img.finalfantasyxiv.com/lds/d/f2e750bda00af60c3a06480f512753c8b6d5951b.png",
+      "lvl": 56,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "effect": "Delivers a threefold attack, each hit with a potency of 150."
+    },
+    {
+      "name": "Huraijin",
+      "image": "https://img.finalfantasyxiv.com/lds/d/3bb09311515f9d0258b29e3751f0e05ec0c18cec.png",
+      "lvl": 60,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Delivers an attack with a potency of 200.\nAdditional Effect: Grants Huton\nDuration: 60s\nAdditional Effect: Increases Ninki Gauge by 5"
+    },
+    {
+      "name": "Hellfrog Medium",
+      "image": "https://img.finalfantasyxiv.com/lds/d/c802df3d7abd5e50889d1cc5e97cf64eb1610afa.png",
+      "lvl": 62,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 0,
+      "effect": "Deals fire damage with a potency of 160 to target and all enemies nearby it.\nNinki Gauge Cost: 50\nShares a recast timer with Bhavacakra."
+    },
+    {
+      "name": "Bhavacakra",
+      "image": "https://img.finalfantasyxiv.com/lds/d/7fa8283b30b9ac35aada60984cbfaf01d3268c95.png",
+      "lvl": 68,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 0,
+      "effect": "Deals unaspected damage with a potency of 350.\nMeisui Bonus: Potency is increased to 500 when under the effect of Meisui\nNinki Gauge Cost: 50\nShares a recast timer with Hellfrog Medium."
+    },
+    {
+      "name": "Ten Chi Jin",
+      "image": "https://img.finalfantasyxiv.com/lds/d/9c0c72efe9ba9c13d3765b1b7dd863c68eeaf4ba.png",
+      "lvl": 70,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Temporarily converts each of the three mudra into a ninjutsu action. Executing one of these actions will convert the remaining mudra into different ninjutsu actions until all three have been executed or the Ten Chi Jin effect expires.\nDuration: 6s\nOnly ninjutsu available while active. The same ninjutsu cannot be executed twice.\nCannot be executed while under the effect of Kassatsu. Effect ends upon moving."
+    },
+    {
+      "name": "Meisui",
+      "image": "https://img.finalfantasyxiv.com/lds/d/9c7d1c58eb10c5d105f1ee98a21f84a031d26518.png",
+      "lvl": 72,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Dispels Suiton, increasing the Ninki Gauge by 50.\nAdditional Effect: Increases the potency of Bhavacakra to 500\nDuration: 30s\nCan only be executed while in combat."
+    },
+    {
+      "name": "Bunshin",
+      "image": "https://img.finalfantasyxiv.com/lds/d/0469d406babef3b172ba2a567f748b6ff8e11860.png",
+      "lvl": 80,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 90,
+      "cost": 0,
+      "effect": "Grants 5 stacks of Bunshin, each stack allowing your shadow to attack enemies each time you execute a weaponskill. Shadow attack potency varies based on the attack executed, but is not affected by combo bonuses.\nMelee Attack Potency: 160\nRanged Attack Potency: 160\nArea Attack Potency: 80\nNinki Gauge increases by 5 each time your shadow lands an attack.\nDuration: 30s\nAdditional Effect: Grants Phantom Kamaitachi Ready\nDuration: 45s\nNinki Gauge Cost: 50\n\n※Action changes to Phantom Kamaitachi upon execution."
+    },
+    {
+      "name": "Phantom Kamaitachi",
+      "image": "https://img.finalfantasyxiv.com/lds/d/45a5ef76e62a78c0c0fcf1feeefb4b992ab82346.png",
+      "lvl": 82,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Your shadow deals wind damage to target and all enemies within 5 yalms with a potency of 600 for the first enemy, and 50% less for all remaining enemies.\nAdditional Effect: Extends Huton duration by 10s to a maximum of 60s\nAdditional Effect: Increases Ninki Gauge by 10\nCan only be executed while under the effect of Phantom Kamaitachi Ready.\n\n※This action cannot be assigned to a hotbar."
+    },
+    {
+      "name": "Hollow Nozuchi",
+      "image": "https://img.finalfantasyxiv.com/lds/d/54d329bd6de61295054388e35afdd610561884ca.png",
+      "lvl": 86,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 0,
+      "cost": 0,
+      "effect": "All enemies standing in the corrupted earth of Doton take additional earth damage with a potency of 50.\nRequires Hakke Mujinsatsu to be executed as a combo action or upon executing Katon, Goka Mekkyaku, or Phantom Kamaitachi.\nEffect can only be triggered while Doton is active.\n\n※This action cannot be assigned to a hotbar."
+    },
+    {
+      "name": "Forked Raiju",
+      "image": "https://img.finalfantasyxiv.com/lds/d/9ab20d782e03641292336da9b2453f426435a3b0.png",
+      "lvl": 90,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Rushes target and delivers a lightning attack with a potency of 560.\nAdditional Effect: Increases Ninki Gauge by 5\nCan only be executed while under the effect of Raiju Ready.\nCannot be executed while bound."
+    },
+    {
+      "name": "Fleeting Raiju",
+      "image": "https://img.finalfantasyxiv.com/lds/d/aaf631010c04fc9685247fe855060f640dff89f7.png",
+      "lvl": 90,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "effect": "Deals lightning damage with a potency of 560.\nAdditional Effect: Increases Ninki Gauge by 5\nCan only be executed while under the effect of Raiju Ready."
+    }
+  ],
+  "roleActions": [
+    {
+      "name": "Second Wind",
+      "image": "https://img.finalfantasyxiv.com/lds/d/2b79d78f1ed471ace5708898e3388062fbd555fb.png",
+      "lvl": 8,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Instantly restores own HP.\nCure Potency: 500"
+    },
+    {
+      "name": "Leg Sweep",
+      "image": "https://img.finalfantasyxiv.com/lds/d/8c9674aba5fe48e73cc80ceb4a49782c1539b942.png",
+      "lvl": 10,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 40,
+      "cost": 0,
+      "effect": "Stuns target.\nDuration: 3s"
+    },
+    {
+      "name": "Bloodbath",
+      "image": "https://img.finalfantasyxiv.com/lds/d/f76d6999b80178e51cfedf68f3af69ce6ed5016f.png",
+      "lvl": 12,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 90,
+      "cost": 0,
+      "effect": "Converts a portion of physical damage dealt into HP.\nDuration: 20s"
+    },
+    {
+      "name": "Feint",
+      "image": "https://img.finalfantasyxiv.com/lds/d/84c26a86cbbb8a599e5a2441cebcd33b0064bf07.png",
+      "lvl": 22,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 90,
+      "cost": 0,
+      "effect": "Lowers target's physical damage dealt by 10% and magic damage dealt by 5%.\nDuration: 10s"
+    },
+    {
+      "name": "Arm's Length",
+      "image": "https://img.finalfantasyxiv.com/lds/d/00ff21ad3e1fb26d7b292a9d912931e7ea64daa4.png",
+      "lvl": 32,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "effect": "Creates a barrier nullifying most knockback and draw-in effects.\nDuration: 6s\nAdditional Effect: Slow +20% when barrier is struck\nDuration: 15s"
+    },
+    {
+      "name": "True North",
+      "image": "https://img.finalfantasyxiv.com/lds/d/2d62e72f5da6d52e189c1ed10dfbd602625fc536.png",
+      "lvl": 50,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 45,
+      "cost": 0,
+      "effect": "Nullifies all action direction requirements.\nDuration: 10s\nMaximum Charges: 2"
+    }
+  ],
+  "traits": [
+    {
+      "name": "All Fours",
+      "lvl": 14,
+      "effect": "Reduces damage taken when falling."
+    },
+    {
+      "name": "Fleet of Foot",
+      "lvl": 20,
+      "effect": "Increases movement speed."
+    },
+    {
+      "name": "Adept Assassination",
+      "lvl": 56,
+      "effect": "Upgrades Assassinate to Dream Within a Dream."
+    },
+    {
+      "name": "Shukiho",
+      "lvl": 62,
+      "effect": "Increases Ninki Gauge by 5 upon successfully landing certain weaponskills or completing certain combos."
+    },
+    {
+      "name": "Enhanced Shukuchi",
+      "lvl": 64,
+      "effect": "Resets the recast timer for Shukuchi upon executing Katon, Raiton, or Hyoton on most targets."
+    },
+    {
+      "name": "Enhanced Mug",
+      "lvl": 66,
+      "effect": "Increases Ninki Gauge by 40 upon successfully landing Mug."
+    },
+    {
+      "name": "Enhanced Shukuchi II",
+      "lvl": 74,
+      "effect": "Allows the accumulation of charges for consecutive uses of Shukuchi.\nMaximum Charges: 2"
+    },
+    {
+      "name": "Melee Mastery",
+      "lvl": 74,
+      "effect": "Increases the potency of Gust Slash to 120, Aeolian Edge to 140, and Armor Crush to 140."
+    },
+    {
+      "name": "Enhanced Kassatsu",
+      "lvl": 76,
+      "effect": "Upgrades Katon and Hyoton to Goka Mekkyaku and Hyosho Ranryu while under the effect of Kassatsu."
+    },
+    {
+      "name": "Shukiho II",
+      "lvl": 78,
+      "effect": "Increases Ninki Gauge by 10 upon successfully completing a combo with Aeolian Edge or Armor Crush."
+    },
+    {
+      "name": "Shukiho III",
+      "lvl": 84,
+      "effect": "Increases Ninki Gauge by 15 upon successfully completing a combo with Aeolian Edge or Armor Crush."
+    },
+    {
+      "name": "Melee Mastery II",
+      "lvl": 84,
+      "effect": "Increases the potency of Spinning Edge to 220 and Gust Slash to 160."
+    },
+    {
+      "name": "Enhanced Meisui",
+      "lvl": 88,
+      "effect": "Increases the potency of Bhavacakra to 500 while under the effect of Meisui.\nDuration: 30s"
+    },
+    {
+      "name": "Enhanced Raiton",
+      "lvl": 90,
+      "effect": "Grants a stack of Raiju Ready upon executing Raiton.\nMaximum Stacks: 3\nDuration: 30s\nEffect of Raiju Ready ends upon execution of any melee weaponskill."
+    }
+  ]
+}
