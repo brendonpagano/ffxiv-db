@@ -7,28 +7,24 @@ export function crawl(elems) {
       rawTitle: 'Job Actions',
       serializedTitle: 'jobActions',
       serializerFn: serializeActions,
-      // Prevents executing more than once due to duplicate sections.
       done: false,
     },
     {
       rawTitle: 'Pet Actions',
       serializedTitle: 'petActions',
       serializerFn: serializeActions,
-      // Prevents executing more than once due to duplicate sections.
       done: false,
     },
     {
       rawTitle: 'Role Actions',
       serializedTitle: 'roleActions',
       serializerFn: serializeActions,
-      // Prevents executing more than once due to duplicate sections.
       done: false,
     },
     {
       rawTitle: 'Trait',
       serializedTitle: 'traits',
       serializerFn: serializeTraits,
-      // Prevents executing more than once due to duplicate sections.
       done: false,
     },
   ];
@@ -39,6 +35,8 @@ export function crawl(elems) {
       ?.innerText.trim();
     const matchingSection = SECTION_MAP.find((_) => _.rawTitle === sectionName);
 
+    // The `done` property prevents executing more than once due to duplicate
+    // sections.
     if (matchingSection && !matchingSection.done) {
       const { serializedTitle, serializerFn } = matchingSection;
       acc[serializedTitle] =
