@@ -5,17 +5,34 @@ import { SELECTOR, crawl as crawlPage } from './process.js';
 import { JOB_GUIDE_PAGES } from './pages.js';
 
 const OUTPUT_PATH = 'db/actions/jobs';
+const MAX_CONCURRENCY = 10;
 
 export async function crawl(browser) {
-  const page = await browser.newPage();
+  const pagesProgress = JOB_GUIDE_PAGES.map((page) => ({
+    inProgressOrDone: false,
+    ...page,
+  }));
 
-  for (let job of JOB_GUIDE_PAGES) {
-    console.info(`Crawling Job Guide: ${job.url}`);
+  return Promise.all(
+    Array.from(new Array(MAX_CONCURRENCY)).map(async () => {
+      const page = await browser.newPage();
 
-    await page.goto(job.url);
-    const data = await page.$$eval(SELECTOR, crawlPage);
+      while (true) {
+        const jobPage = pagesProgress.find((_) => !_.inProgressOrDone);
+        if (!jobPage) {
+          break;
+        }
 
-    const filename = path.resolve(OUTPUT_PATH, `${job.outputFilename}.json`);
-    await fs.writeFile(filename, JSON.stringify(data, null, 2));
-  }
+        console.info(`Crawling Job Guide: ${url}`);
+        jobPage.inProgressOrDone = true;
+        const { url, outputFilename } = jobPage;
+
+        await page.goto(url);
+        const data = await page.$$eval(SELECTOR, crawlPage);
+
+        const filename = path.resolve(OUTPUT_PATH, `${outputFilename}.json`);
+        await fs.writeFile(filename, JSON.stringify(data, null, 2));
+      }
+    })
+  );
 }
