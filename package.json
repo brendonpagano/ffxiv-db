@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "crawler.js",
+  "type": "module",
   "scripts": {
+    "start": "node src/crawler.js"
   },
   "repository": {
     "type": "git",
