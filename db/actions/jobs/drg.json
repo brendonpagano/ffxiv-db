@@ -8,7 +8,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 230.\n\n※Action changes to Raiden Thrust while under the effect of Draconian Fire."
+      "description": "Delivers an attack with a potency of 230.\n\n※Action changes to Raiden Thrust while under the effect of Draconian Fire."
     },
     {
       "name": "Vorpal Thrust",
@@ -18,7 +18,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 130.\nCombo Action: True Thrust\nCombo Potency: 280"
+      "description": "Delivers an attack with a potency of 130.\nCombo Action: True Thrust\nCombo Potency: 280"
     },
     {
       "name": "Life Surge",
@@ -28,7 +28,7 @@
       "cast": 0,
       "cooldown": 40,
       "cost": 0,
-      "effect": "Ensures critical damage for first weaponskill used while Life Surge is active.\nDuration: 5s\nIncreases damage dealt when under an effect that raises critical hit rate.\nEffect cannot be applied to damage over time.\nAdditional Effect: Absorbs a portion of damage dealt as HP\nMaximum Charges: 2"
+      "description": "Ensures critical damage for first weaponskill used while Life Surge is active.\nDuration: 5s\nIncreases damage dealt when under an effect that raises critical hit rate.\nEffect cannot be applied to damage over time.\nAdditional Effect: Absorbs a portion of damage dealt as HP\nMaximum Charges: 2"
     },
     {
       "name": "Piercing Talon",
@@ -38,7 +38,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers a ranged attack with a potency of 150."
+      "description": "Delivers a ranged attack with a potency of 150."
     },
     {
       "name": "Disembowel",
@@ -48,7 +48,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 140.\nCombo Action: True Thrust\nCombo Potency: 250\nCombo Bonus: Grants Power Surge\nPower Surge Effect: Increases damage dealt by 10%\nDuration: 30s"
+      "description": "Delivers an attack with a potency of 140.\nCombo Action: True Thrust\nCombo Potency: 250\nCombo Bonus: Grants Power Surge\nPower Surge Effect: Increases damage dealt by 10%\nDuration: 30s"
     },
     {
       "name": "Full Thrust",
@@ -58,7 +58,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 100.\nCombo Action: Vorpal Thrust\nCombo Potency: 400\nCombo Bonus: Grants Fang and Claw Bared\nDuration: 30s\nEffect of Fang and Claw Bared ends upon execution of any melee weaponskill."
+      "description": "Delivers an attack with a potency of 100.\nCombo Action: Vorpal Thrust\nCombo Potency: 400\nCombo Bonus: Grants Fang and Claw Bared\nDuration: 30s\nEffect of Fang and Claw Bared ends upon execution of any melee weaponskill."
     },
     {
       "name": "Lance Charge",
@@ -68,7 +68,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Increases damage dealt by 10%.\nDuration: 20s"
+      "description": "Increases damage dealt by 10%.\nDuration: 20s"
     },
     {
       "name": "Jump",
@@ -78,7 +78,7 @@
       "cast": 0,
       "cooldown": 30,
       "cost": 0,
-      "effect": "Delivers a jumping attack with a potency of 320. Returns you to your original position after the attack is made.\nAdditional Effect: Grants Dive Ready\nDuration: 15s"
+      "description": "Delivers a jumping attack with a potency of 320. Returns you to your original position after the attack is made.\nAdditional Effect: Grants Dive Ready\nDuration: 15s"
     },
     {
       "name": "Elusive Jump",
@@ -88,7 +88,7 @@
       "cast": 0,
       "cooldown": 30,
       "cost": 0,
-      "effect": "Executes a jump to a location 15 yalms behind you.\nCannot be executed while bound."
+      "description": "Executes a jump to a location 15 yalms behind you.\nCannot be executed while bound."
     },
     {
       "name": "Doom Spike",
@@ -98,7 +98,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 110 to all enemies in a straight line before you.\n\n※Action changes to Draconian Fury when under the effect of Draconian Fire."
+      "description": "Delivers an attack with a potency of 110 to all enemies in a straight line before you.\n\n※Action changes to Draconian Fury when under the effect of Draconian Fire."
     },
     {
       "name": "Spineshatter Dive",
@@ -108,7 +108,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Delivers a jumping attack with a potency of 250.\nMaximum Charges: 2\nCannot be executed while bound."
+      "description": "Delivers a jumping attack with a potency of 250.\nMaximum Charges: 2\nCannot be executed while bound."
     },
     {
       "name": "Chaos Thrust",
@@ -118,7 +118,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 100.\n140 when executed from a target's rear.\nCombo Action: Disembowel\nCombo Potency: 220\nRear Combo Potency: 260\nCombo Bonus: Damage over time\nPotency: 40\nDuration: 24s\nCombo Bonus: Grants Wheel in Motion\nDuration: 30s\nEffect of Wheel in Motion ends upon execution of any melee weaponskill."
+      "description": "Delivers an attack with a potency of 100.\n140 when executed from a target's rear.\nCombo Action: Disembowel\nCombo Potency: 220\nRear Combo Potency: 260\nCombo Bonus: Damage over time\nPotency: 40\nDuration: 24s\nCombo Bonus: Grants Wheel in Motion\nDuration: 30s\nEffect of Wheel in Motion ends upon execution of any melee weaponskill."
     },
     {
       "name": "Dragonfire Dive",
@@ -128,7 +128,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Delivers a jumping fire-based attack with a potency of 300 to target and all enemies nearby it.\nCannot be executed while bound."
+      "description": "Delivers a jumping fire-based attack with a potency of 300 to target and all enemies nearby it.\nCannot be executed while bound."
     },
     {
       "name": "Battle Litany",
@@ -138,7 +138,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Increases critical hit rate of self and nearby party members by 10%.\nDuration: 15s"
+      "description": "Increases critical hit rate of self and nearby party members by 10%.\nDuration: 15s"
     },
     {
       "name": "Fang and Claw",
@@ -148,7 +148,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 260.\n300 when executed from a target's flank.\nCan only be executed while under the effect of Fang and Claw Bared, granted by Heavens' Thrust."
+      "description": "Delivers an attack with a potency of 260.\n300 when executed from a target's flank.\nCan only be executed while under the effect of Fang and Claw Bared, granted by Heavens' Thrust."
     },
     {
       "name": "Wheeling Thrust",
@@ -158,7 +158,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 260.\n300 when executed from a target's rear.\nCan only be executed while under the effect of Wheel in Motion, granted by Chaotic Spring."
+      "description": "Delivers an attack with a potency of 260.\n300 when executed from a target's rear.\nCan only be executed while under the effect of Wheel in Motion, granted by Chaotic Spring."
     },
     {
       "name": "Geirskogul",
@@ -168,7 +168,7 @@
       "cast": 0,
       "cooldown": 30,
       "cost": 0,
-      "effect": "Delivers an attack to all enemies in a straight line before you with a potency of 260 for the first enemy, and 30% less for all remaining enemies.\nAdditional Effect: Grants Life of the Dragon while under the full gaze of the first brood\n\n※Action changes to Nastrond while under the effect of Life of the Dragon."
+      "description": "Delivers an attack to all enemies in a straight line before you with a potency of 260 for the first enemy, and 30% less for all remaining enemies.\nAdditional Effect: Grants Life of the Dragon while under the full gaze of the first brood\n\n※Action changes to Nastrond while under the effect of Life of the Dragon."
     },
     {
       "name": "Sonic Thrust",
@@ -178,7 +178,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 100 to all enemies in a straight line before you.\nCombo Action: Doom Spike\nCombo Potency: 120\nCombo Bonus: Grants Power Surge\nPower Surge Effect: Increases damage dealt by 10%\nDuration: 30s"
+      "description": "Delivers an attack with a potency of 100 to all enemies in a straight line before you.\nCombo Action: Doom Spike\nCombo Potency: 120\nCombo Bonus: Grants Power Surge\nPower Surge Effect: Increases damage dealt by 10%\nDuration: 30s"
     },
     {
       "name": "Dragon Sight",
@@ -188,7 +188,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Grants Right Eye to self, increasing damage dealt by 10% and nullifying all action direction requirements. Also grants target party member Left Eye, increasing damage dealt by 5%.\nDuration: 20s"
+      "description": "Grants Right Eye to self, increasing damage dealt by 10% and nullifying all action direction requirements. Also grants target party member Left Eye, increasing damage dealt by 5%.\nDuration: 20s"
     },
     {
       "name": "Mirage Dive",
@@ -198,7 +198,7 @@
       "cast": 0,
       "cooldown": 1,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 200.\nAdditional Effect: Strengthens the gaze of your Dragon Gauge by 1\nCan only be executed when Dive Ready."
+      "description": "Delivers an attack with a potency of 200.\nAdditional Effect: Strengthens the gaze of your Dragon Gauge by 1\nCan only be executed when Dive Ready."
     },
     {
       "name": "Nastrond",
@@ -208,7 +208,7 @@
       "cast": 0,
       "cooldown": 10,
       "cost": 0,
-      "effect": "Delivers an attack to all enemies in a straight line before you with a potency of 360 for the first enemy, and 30% less for all remaining enemies.\nCan only be executed while under the effect of Life of the Dragon.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Delivers an attack to all enemies in a straight line before you with a potency of 360 for the first enemy, and 30% less for all remaining enemies.\nCan only be executed while under the effect of Life of the Dragon.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Coerthan Torment",
@@ -218,7 +218,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 100 to all enemies in a straight line before you.\nCombo Action: Sonic Thrust\nCombo Potency: 150\nCombo Bonus: Grants Draconian Fire\nDuration: 30s"
+      "description": "Delivers an attack with a potency of 100 to all enemies in a straight line before you.\nCombo Action: Sonic Thrust\nCombo Potency: 150\nCombo Bonus: Grants Draconian Fire\nDuration: 30s"
     },
     {
       "name": "High Jump",
@@ -228,7 +228,7 @@
       "cast": 0,
       "cooldown": 30,
       "cost": 0,
-      "effect": "Delivers a jumping attack with a potency of 400. Returns you to your original position after the attack is made.\nAdditional Effect: Grants Dive Ready\nDuration: 15s"
+      "description": "Delivers a jumping attack with a potency of 400. Returns you to your original position after the attack is made.\nAdditional Effect: Grants Dive Ready\nDuration: 15s"
     },
     {
       "name": "Raiden Thrust",
@@ -238,7 +238,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 280.\nAdditional Effect: Sharpens the Firstminds' Focus by 1\nCan only be executed while under the effect of Draconian Fire.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Delivers an attack with a potency of 280.\nAdditional Effect: Sharpens the Firstminds' Focus by 1\nCan only be executed while under the effect of Draconian Fire.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Stardiver",
@@ -248,7 +248,7 @@
       "cast": 0,
       "cooldown": 30,
       "cost": 0,
-      "effect": "Delivers a jumping fire-based attack to target and all enemies nearby it with a potency of 620 for the first enemy, and 30% less for all remaining enemies.\nCan only be executed while under the effect of Life of the Dragon.\nCannot be executed while bound."
+      "description": "Delivers a jumping fire-based attack to target and all enemies nearby it with a potency of 620 for the first enemy, and 30% less for all remaining enemies.\nCan only be executed while under the effect of Life of the Dragon.\nCannot be executed while bound."
     },
     {
       "name": "Draconian Fury",
@@ -258,7 +258,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 130 to all enemies in a straight line before you.\nAdditional Effect: Sharpens the Firstminds' Focus by 1\nCan only be executed while under the effect of Draconian Fire.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Delivers an attack with a potency of 130 to all enemies in a straight line before you.\nAdditional Effect: Sharpens the Firstminds' Focus by 1\nCan only be executed while under the effect of Draconian Fire.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Heavens' Thrust",
@@ -268,7 +268,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 100.\nCombo Action: Vorpal Thrust\nCombo Potency: 480\nCombo Bonus: Grants Fang and Claw Bared\nDuration: 30s\nEffect of Fang and Claw Bared ends upon execution of any melee weaponskill."
+      "description": "Delivers an attack with a potency of 100.\nCombo Action: Vorpal Thrust\nCombo Potency: 480\nCombo Bonus: Grants Fang and Claw Bared\nDuration: 30s\nEffect of Fang and Claw Bared ends upon execution of any melee weaponskill."
     },
     {
       "name": "Chaotic Spring",
@@ -278,7 +278,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 100.\n140 when executed from a target's rear.\nCombo Action: Disembowel\nCombo Potency: 260\nRear Combo Potency: 300\nCombo Bonus: Damage over time\nPotency: 45\nDuration: 24s\nCombo Bonus: Grants Wheel in Motion\nDuration: 30s\nEffect of Wheel in Motion ends upon execution of any melee weaponskill."
+      "description": "Delivers an attack with a potency of 100.\n140 when executed from a target's rear.\nCombo Action: Disembowel\nCombo Potency: 260\nRear Combo Potency: 300\nCombo Bonus: Damage over time\nPotency: 45\nDuration: 24s\nCombo Bonus: Grants Wheel in Motion\nDuration: 30s\nEffect of Wheel in Motion ends upon execution of any melee weaponskill."
     },
     {
       "name": "Wyrmwind Thrust",
@@ -288,7 +288,7 @@
       "cast": 0,
       "cooldown": 10,
       "cost": 0,
-      "effect": "Delivers an attack to all enemies in a straight line before you with a potency of 420 for the first enemy, and 50% less for all remaining enemies.\nFirstminds' Focus Cost: 2"
+      "description": "Delivers an attack to all enemies in a straight line before you with a potency of 420 for the first enemy, and 50% less for all remaining enemies.\nFirstminds' Focus Cost: 2"
     }
   ],
   "roleActions": [
@@ -300,7 +300,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Instantly restores own HP.\nCure Potency: 500"
+      "description": "Instantly restores own HP.\nCure Potency: 500"
     },
     {
       "name": "Leg Sweep",
@@ -310,7 +310,7 @@
       "cast": 0,
       "cooldown": 40,
       "cost": 0,
-      "effect": "Stuns target.\nDuration: 3s"
+      "description": "Stuns target.\nDuration: 3s"
     },
     {
       "name": "Bloodbath",
@@ -320,7 +320,7 @@
       "cast": 0,
       "cooldown": 90,
       "cost": 0,
-      "effect": "Converts a portion of physical damage dealt into HP.\nDuration: 20s"
+      "description": "Converts a portion of physical damage dealt into HP.\nDuration: 20s"
     },
     {
       "name": "Feint",
@@ -330,7 +330,7 @@
       "cast": 0,
       "cooldown": 90,
       "cost": 0,
-      "effect": "Lowers target's physical damage dealt by 10% and magic damage dealt by 5%.\nDuration: 10s"
+      "description": "Lowers target's physical damage dealt by 10% and magic damage dealt by 5%.\nDuration: 10s"
     },
     {
       "name": "Arm's Length",
@@ -340,7 +340,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Creates a barrier nullifying most knockback and draw-in effects.\nDuration: 6s\nAdditional Effect: Slow +20% when barrier is struck\nDuration: 15s"
+      "description": "Creates a barrier nullifying most knockback and draw-in effects.\nDuration: 6s\nAdditional Effect: Slow +20% when barrier is struck\nDuration: 15s"
     },
     {
       "name": "True North",
@@ -350,64 +350,64 @@
       "cast": 0,
       "cooldown": 45,
       "cost": 0,
-      "effect": "Nullifies all action direction requirements.\nDuration: 10s\nMaximum Charges: 2"
+      "description": "Nullifies all action direction requirements.\nDuration: 10s\nMaximum Charges: 2"
     }
   ],
   "traits": [
     {
       "name": "Blood of the Dragon",
       "lvl": 54,
-      "effect": "Increases the potency of Jump to 320 and Spineshatter Dive to 250."
+      "description": "Increases the potency of Jump to 320 and Spineshatter Dive to 250."
     },
     {
       "name": "Lance Mastery",
       "lvl": 64,
-      "effect": "Allows for immediate execution of Wheeling Thrust after landing Fang and Claw, or Fang and Claw after landing Wheeling Thrust, increasing potency by 100."
+      "description": "Allows for immediate execution of Wheeling Thrust after landing Fang and Claw, or Fang and Claw after landing Wheeling Thrust, increasing potency by 100."
     },
     {
       "name": "Life of the Dragon",
       "lvl": 70,
-      "effect": "Allows for the strengthening of the gaze of the first brood upon successfully landing Mirage Dive. When the gaze is its strongest (2 units), Geirskogul will grant you the Life of the Dragon status. While under the effect of Life of the Dragon, Geirskogul will change to Nastrond.\nDuration: 20s"
+      "description": "Allows for the strengthening of the gaze of the first brood upon successfully landing Mirage Dive. When the gaze is its strongest (2 units), Geirskogul will grant you the Life of the Dragon status. While under the effect of Life of the Dragon, Geirskogul will change to Nastrond.\nDuration: 20s"
     },
     {
       "name": "Jump Mastery",
       "lvl": 74,
-      "effect": "Upgrades Jump to High Jump."
+      "description": "Upgrades Jump to High Jump."
     },
     {
       "name": "Lance Mastery II",
       "lvl": 76,
-      "effect": "Increases the potency of True Thrust to 230, Vorpal Thrust to 130, and Disembowel to 140.\nGrants Draconian Fire if Fang and Claw is executed following Wheeling Thrust, or vice versa.\nDuration: 30s\nEffect of Draconian Fire ends upon execution of any melee weaponskill.\nUpgrades True Thrust to Raiden Thrust while under the effect of Draconian Fire."
+      "description": "Increases the potency of True Thrust to 230, Vorpal Thrust to 130, and Disembowel to 140.\nGrants Draconian Fire if Fang and Claw is executed following Wheeling Thrust, or vice versa.\nDuration: 30s\nEffect of Draconian Fire ends upon execution of any melee weaponskill.\nUpgrades True Thrust to Raiden Thrust while under the effect of Draconian Fire."
     },
     {
       "name": "Life of the Dragon Mastery",
       "lvl": 78,
-      "effect": "Extends the duration of Life of the Dragon to 30 seconds."
+      "description": "Extends the duration of Life of the Dragon to 30 seconds."
     },
     {
       "name": "Enhanced Coerthan Torment",
       "lvl": 82,
-      "effect": "Grants the effect of Draconian Fire after successfully completing a combo with Coerthan Torment.\nDuration: 30s\nEffect of Draconian Fire ends upon execution of any melee weaponskill.\nUpgrades Doom Spike to Draconian Fury while under the effect of Draconian Fire."
+      "description": "Grants the effect of Draconian Fire after successfully completing a combo with Coerthan Torment.\nDuration: 30s\nEffect of Draconian Fire ends upon execution of any melee weaponskill.\nUpgrades Doom Spike to Draconian Fury while under the effect of Draconian Fire."
     },
     {
       "name": "Enhanced Spineshatter Dive",
       "lvl": 84,
-      "effect": "Allows the accumulation of charges for consecutive uses of Spineshatter Dive.\nMaximum Charges: 2"
+      "description": "Allows the accumulation of charges for consecutive uses of Spineshatter Dive.\nMaximum Charges: 2"
     },
     {
       "name": "Lance Mastery III",
       "lvl": 86,
-      "effect": "Upgrades Full Thrust to Heavens' Thrust and Chaos Thrust to Chaotic Spring."
+      "description": "Upgrades Full Thrust to Heavens' Thrust and Chaos Thrust to Chaotic Spring."
     },
     {
       "name": "Enhanced Life Surge",
       "lvl": 88,
-      "effect": "Allows the accumulation of charges for consecutive uses of Life Surge.\nMaximum Charges: 2"
+      "description": "Allows the accumulation of charges for consecutive uses of Life Surge.\nMaximum Charges: 2"
     },
     {
       "name": "Lance Mastery IV",
       "lvl": 90,
-      "effect": "Increases the potency of Geirskogul to 260 and Nastrond to 360.\nAllows for the sharpening of the Firstminds' Focus upon successfully landing Raiden Thrust or Draconian Fury, up to a maximum of 2 units."
+      "description": "Increases the potency of Geirskogul to 260 and Nastrond to 360.\nAllows for the sharpening of the Firstminds' Focus upon successfully landing Raiden Thrust or Draconian Fury, up to a maximum of 2 units."
     }
   ]
 }

@@ -59,7 +59,7 @@ export function crawl(elems) {
 
   function serializeActions(actions) {
     return Array.from(actions).map((ac) => {
-      const [name, lvl, type, cast, cooldown, cost, , effect] =
+      const [name, lvl, type, cast, cooldown, cost, , description] =
         ac.querySelectorAll('td');
 
       const actionImage = name.querySelector('.job__skill_icon img')?.src;
@@ -72,19 +72,19 @@ export function crawl(elems) {
         cast: tableColumnToNumber(cast),
         cooldown: tableColumnToNumber(cooldown),
         cost: tableColumnToNumber(cost),
-        effect: tableColumnToString(effect),
+        description: tableColumnToString(description),
       };
     });
   }
 
   function serializeTraits(traits) {
     return Array.from(traits).map((ac) => {
-      const [name, lvl, effect] = ac.querySelectorAll('td');
+      const [name, lvl, description] = ac.querySelectorAll('td');
 
       return {
         name: tableColumnToString(name),
         lvl: tableColumnToNumber(lvl),
-        effect: tableColumnToString(effect),
+        description: tableColumnToString(description),
       };
     });
   }

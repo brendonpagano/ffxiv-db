@@ -8,7 +8,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 220.\nAdditional Effect: 50% chance of granting Silken Symmetry\nDuration: 30s\n\n※Action changes to Emboite while dancing."
+      "description": "Delivers an attack with a potency of 220.\nAdditional Effect: 50% chance of granting Silken Symmetry\nDuration: 30s\n\n※Action changes to Emboite while dancing."
     },
     {
       "name": "Fountain",
@@ -18,7 +18,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 100.\nCombo Action: Cascade\nCombo Potency: 280\nCombo Bonus: 50% chance of granting Silken Flow\nDuration: 30s\n\n※Action changes to Entrechat while dancing."
+      "description": "Delivers an attack with a potency of 100.\nCombo Action: Cascade\nCombo Potency: 280\nCombo Bonus: 50% chance of granting Silken Flow\nDuration: 30s\n\n※Action changes to Entrechat while dancing."
     },
     {
       "name": "Windmill",
@@ -28,7 +28,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 100 to all nearby enemies.\nAdditional Effect: 50% chance of granting Silken Symmetry\nDuration: 30s\n\n※Action changes to Emboite while dancing."
+      "description": "Delivers an attack with a potency of 100 to all nearby enemies.\nAdditional Effect: 50% chance of granting Silken Symmetry\nDuration: 30s\n\n※Action changes to Emboite while dancing."
     },
     {
       "name": "Standard Step",
@@ -38,7 +38,7 @@
       "cast": 0,
       "cooldown": 30,
       "cost": 0,
-      "effect": "Begin dancing, granting yourself Standard Step.\nDuration: 15s\nAction changes to Standard Finish while dancing.\nOnly Standard Finish, En Avant, Curing Waltz, Shield Samba, step actions, role actions, Sprint, and Limit Break can be performed while dancing.\nThis weaponskill does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions."
+      "description": "Begin dancing, granting yourself Standard Step.\nDuration: 15s\nAction changes to Standard Finish while dancing.\nOnly Standard Finish, En Avant, Curing Waltz, Shield Samba, step actions, role actions, Sprint, and Limit Break can be performed while dancing.\nThis weaponskill does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions."
     },
     {
       "name": "Standard Finish",
@@ -48,7 +48,7 @@
       "cast": 0,
       "cooldown": 1.5,
       "cost": 0,
-      "effect": "Delivers an attack to all nearby enemies. Potency varies with number of successful steps, dealing full potency for the first enemy, and 75% less for all remaining enemies.\n0 Steps: 360\n1 Step: 540\n2 Steps: 720\nStep Bonus: Grants Standard Finish and Esprit to self and party member designated as your Dance Partner\nDamage bonus of Standard Finish varies with number of successful steps.\n1 Step: 2%\n2 Steps: 5%\nDuration: 60s\nThis weaponskill does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Delivers an attack to all nearby enemies. Potency varies with number of successful steps, dealing full potency for the first enemy, and 75% less for all remaining enemies.\n0 Steps: 360\n1 Step: 540\n2 Steps: 720\nStep Bonus: Grants Standard Finish and Esprit to self and party member designated as your Dance Partner\nDamage bonus of Standard Finish varies with number of successful steps.\n1 Step: 2%\n2 Steps: 5%\nDuration: 60s\nThis weaponskill does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Reverse Cascade",
@@ -58,7 +58,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 280.\nAdditional Effect: 50% chance of granting a Fourfold Feather\nCan only be executed while under the effect of Silken Symmetry or Flourishing Symmetry.\n\n※Action changes to Jete while dancing."
+      "description": "Delivers an attack with a potency of 280.\nAdditional Effect: 50% chance of granting a Fourfold Feather\nCan only be executed while under the effect of Silken Symmetry or Flourishing Symmetry.\n\n※Action changes to Jete while dancing."
     },
     {
       "name": "Bladeshower",
@@ -68,7 +68,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 100 to all nearby enemies.\nCombo Action: Windmill\nCombo Potency: 140\nCombo Bonus: 50% chance of granting Silken Flow\nDuration: 30s\n\n※Action changes to Entrechat while dancing."
+      "description": "Delivers an attack with a potency of 100 to all nearby enemies.\nCombo Action: Windmill\nCombo Potency: 140\nCombo Bonus: 50% chance of granting Silken Flow\nDuration: 30s\n\n※Action changes to Entrechat while dancing."
     },
     {
       "name": "Fan Dance",
@@ -78,7 +78,7 @@
       "cast": 0,
       "cooldown": 1,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 150.\nAdditional Effect: 50% chance of granting Threefold Fan Dance\nDuration: 30s\nCan only be executed while in possession of Fourfold Feathers."
+      "description": "Delivers an attack with a potency of 150.\nAdditional Effect: 50% chance of granting Threefold Fan Dance\nDuration: 30s\nCan only be executed while in possession of Fourfold Feathers."
     },
     {
       "name": "Rising Windmill",
@@ -88,7 +88,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 140 to all nearby enemies.\nAdditional Effect: 50% chance of granting a Fourfold Feather\nCan only be executed while under the effect of Silken Symmetry or Flourishing Symmetry.\n\n※Action changes to Jete while dancing."
+      "description": "Delivers an attack with a potency of 140 to all nearby enemies.\nAdditional Effect: 50% chance of granting a Fourfold Feather\nCan only be executed while under the effect of Silken Symmetry or Flourishing Symmetry.\n\n※Action changes to Jete while dancing."
     },
     {
       "name": "Fountainfall",
@@ -98,7 +98,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 340.\nAdditional Effect: 50% chance of granting a Fourfold Feather\nCan only be executed while under the effect of Silken Flow or Flourishing Flow.\n\n※Action changes to Pirouette while dancing."
+      "description": "Delivers an attack with a potency of 340.\nAdditional Effect: 50% chance of granting a Fourfold Feather\nCan only be executed while under the effect of Silken Flow or Flourishing Flow.\n\n※Action changes to Pirouette while dancing."
     },
     {
       "name": "Bloodshower",
@@ -108,7 +108,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 180 to all nearby enemies.\nAdditional Effect: 50% chance of granting a Fourfold Feather\nCan only be executed while under the effect of Silken Flow or Flourishing Flow.\n\n※Action changes to Pirouette while dancing."
+      "description": "Delivers an attack with a potency of 180 to all nearby enemies.\nAdditional Effect: 50% chance of granting a Fourfold Feather\nCan only be executed while under the effect of Silken Flow or Flourishing Flow.\n\n※Action changes to Pirouette while dancing."
     },
     {
       "name": "Fan Dance II",
@@ -118,7 +118,7 @@
       "cast": 0,
       "cooldown": 1,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 100 to all nearby enemies.\nAdditional Effect: 50% chance of granting Threefold Fan Dance\nDuration: 30s\nCan only be executed while in possession of Fourfold Feathers."
+      "description": "Delivers an attack with a potency of 100 to all nearby enemies.\nAdditional Effect: 50% chance of granting Threefold Fan Dance\nDuration: 30s\nCan only be executed while in possession of Fourfold Feathers."
     },
     {
       "name": "En Avant",
@@ -128,7 +128,7 @@
       "cast": 0,
       "cooldown": 30,
       "cost": 0,
-      "effect": "Quickly dash 10 yalms forward.\nMaximum Charges: 3\nCannot be executed while bound."
+      "description": "Quickly dash 10 yalms forward.\nMaximum Charges: 3\nCannot be executed while bound."
     },
     {
       "name": "Curing Waltz",
@@ -138,7 +138,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Restores own HP and the HP of all nearby party members.\nCure Potency: 300\nAdditional Effect: Party member designated as your Dance Partner will also heal self and nearby party members"
+      "description": "Restores own HP and the HP of all nearby party members.\nCure Potency: 300\nAdditional Effect: Party member designated as your Dance Partner will also heal self and nearby party members"
     },
     {
       "name": "Shield Samba",
@@ -148,7 +148,7 @@
       "cast": 0,
       "cooldown": 90,
       "cost": 0,
-      "effect": "Reduces damage taken by self and nearby party members by 10%.\nDuration: 15s\nEffect cannot be stacked with bard's Troubadour or machinist's Tactician."
+      "description": "Reduces damage taken by self and nearby party members by 10%.\nDuration: 15s\nEffect cannot be stacked with bard's Troubadour or machinist's Tactician."
     },
     {
       "name": "Closed Position",
@@ -158,7 +158,7 @@
       "cast": 0,
       "cooldown": 30,
       "cost": 0,
-      "effect": "Grants you Closed Position and designates a party member as your Dance Partner, allowing you to share the effects of Standard Finish, Curing Waltz, Devilment, and Tillana with said party member.\nEffect ends upon reuse."
+      "description": "Grants you Closed Position and designates a party member as your Dance Partner, allowing you to share the effects of Standard Finish, Curing Waltz, Devilment, and Tillana with said party member.\nEffect ends upon reuse."
     },
     {
       "name": "Ending",
@@ -168,7 +168,7 @@
       "cast": 0,
       "cooldown": 1,
       "cost": 0,
-      "effect": "Ends dance with your partner."
+      "description": "Ends dance with your partner."
     },
     {
       "name": "Devilment",
@@ -178,7 +178,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Increases critical hit rate and direct hit rate by 20%.\nDuration: 20s\nAdditional Effect: Party member designated as your Dance Partner will also receive the effect of Devilment\nAdditional Effect: Grants Flourishing Starfall\nDuration: 20s"
+      "description": "Increases critical hit rate and direct hit rate by 20%.\nDuration: 20s\nAdditional Effect: Party member designated as your Dance Partner will also receive the effect of Devilment\nAdditional Effect: Grants Flourishing Starfall\nDuration: 20s"
     },
     {
       "name": "Fan Dance III",
@@ -188,7 +188,7 @@
       "cast": 0,
       "cooldown": 1,
       "cost": 0,
-      "effect": "Delivers an attack to target and all enemies nearby it with a potency of 200 for the first enemy, and 50% less for all remaining enemies.\nCan only be executed while under the effect of Threefold Fan Dance."
+      "description": "Delivers an attack to target and all enemies nearby it with a potency of 200 for the first enemy, and 50% less for all remaining enemies.\nCan only be executed while under the effect of Threefold Fan Dance."
     },
     {
       "name": "Technical Step",
@@ -198,7 +198,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Begin dancing, granting yourself Technical Step.\nDuration: 15s\nAction changes to Technical Finish while dancing.\nOnly Technical Finish, En Avant, Curing Waltz, Shield Samba, step actions, role actions, Sprint, and Limit Break can be performed while dancing.\nThis weaponskill does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions."
+      "description": "Begin dancing, granting yourself Technical Step.\nDuration: 15s\nAction changes to Technical Finish while dancing.\nOnly Technical Finish, En Avant, Curing Waltz, Shield Samba, step actions, role actions, Sprint, and Limit Break can be performed while dancing.\nThis weaponskill does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions."
     },
     {
       "name": "Technical Finish",
@@ -208,7 +208,7 @@
       "cast": 0,
       "cooldown": 1.5,
       "cost": 0,
-      "effect": "Delivers an attack to all nearby enemies within 15 yalms. Potency varies with number of successful steps, dealing full potency for the first enemy, and 75% less for all remaining enemies.\n0 Steps: 350\n1 Step: 540\n2 Steps: 720\n3 Steps: 900\n4 Steps: 1,200\nStep Bonus: Grants Technical Finish and Esprit to self and party members within 30 yalms\nDamage bonus of Technical Finish varies with number of successful steps.\n1 Step: 1%\n2 Steps: 2%\n3 Steps: 3%\n4 Steps: 5%\nDuration: 20s\nAdditional Effect: Grants Flourishing Finish\nDuration: 30s\nThis weaponskill does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions.\n\n※Action changes to Tillana upon execution.\n※This action cannot be assigned to a hotbar."
+      "description": "Delivers an attack to all nearby enemies within 15 yalms. Potency varies with number of successful steps, dealing full potency for the first enemy, and 75% less for all remaining enemies.\n0 Steps: 350\n1 Step: 540\n2 Steps: 720\n3 Steps: 900\n4 Steps: 1,200\nStep Bonus: Grants Technical Finish and Esprit to self and party members within 30 yalms\nDamage bonus of Technical Finish varies with number of successful steps.\n1 Step: 1%\n2 Steps: 2%\n3 Steps: 3%\n4 Steps: 5%\nDuration: 20s\nAdditional Effect: Grants Flourishing Finish\nDuration: 30s\nThis weaponskill does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions.\n\n※Action changes to Tillana upon execution.\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Flourish",
@@ -218,7 +218,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Grants you the effects of Flourishing Symmetry, Flourishing Flow, Threefold Fan Dance, and Fourfold Fan Dance.\nDuration: 30s\nCan only be executed while in combat."
+      "description": "Grants you the effects of Flourishing Symmetry, Flourishing Flow, Threefold Fan Dance, and Fourfold Fan Dance.\nDuration: 30s\nCan only be executed while in combat."
     },
     {
       "name": "Saber Dance",
@@ -228,7 +228,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack to target and all enemies nearby it with a potency of 480 for the first enemy, and 50% less for all remaining enemies.\nEsprit Gauge Cost: 50"
+      "description": "Delivers an attack to target and all enemies nearby it with a potency of 480 for the first enemy, and 50% less for all remaining enemies.\nEsprit Gauge Cost: 50"
     },
     {
       "name": "Improvisation",
@@ -238,7 +238,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Dance to the beat of your own drum, granting Rising Rhythm to self.\nStacks increase every 3 seconds, up to a maximum of 4.\nAdditional Effect: Healing over time for self and nearby party members\nCure Potency: 100\nDuration: 15s\nEffect ends upon using another action or moving (including facing a different direction).\nCancels auto-attack upon execution.\n\n※Action changes to Improvised Finish upon execution."
+      "description": "Dance to the beat of your own drum, granting Rising Rhythm to self.\nStacks increase every 3 seconds, up to a maximum of 4.\nAdditional Effect: Healing over time for self and nearby party members\nCure Potency: 100\nDuration: 15s\nEffect ends upon using another action or moving (including facing a different direction).\nCancels auto-attack upon execution.\n\n※Action changes to Improvised Finish upon execution."
     },
     {
       "name": "Improvised Finish",
@@ -248,7 +248,7 @@
       "cast": 0,
       "cooldown": 1.5,
       "cost": 0,
-      "effect": "Creates a barrier around self and all nearby party members. Damage absorbed increases with stacks of Rising Rhythm.\n0 Stacks: 5% of maximum HP\n1 Stack: 6% of maximum HP\n2 Stacks: 7% of maximum HP\n3 Stacks: 8% of maximum HP\n4 Stacks: 10% of maximum HP\nDuration: 30s\nCan only be executed while Improvisation is active.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Creates a barrier around self and all nearby party members. Damage absorbed increases with stacks of Rising Rhythm.\n0 Stacks: 5% of maximum HP\n1 Stack: 6% of maximum HP\n2 Stacks: 7% of maximum HP\n3 Stacks: 8% of maximum HP\n4 Stacks: 10% of maximum HP\nDuration: 30s\nCan only be executed while Improvisation is active.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Tillana",
@@ -258,7 +258,7 @@
       "cast": 0,
       "cooldown": 1.5,
       "cost": 0,
-      "effect": "Delivers an attack to all nearby enemies with a potency of 360 for the first enemy, and 50% less for all remaining enemies.\nAdditional Effect: Grants Standard Finish and Esprit to self and party member designated as your Dance Partner\nStandard Finish Effect: Increases damage dealt by 5%\nDuration: 60s\nCan only be executed while under the effect of Flourishing Finish.\nThis action does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Delivers an attack to all nearby enemies with a potency of 360 for the first enemy, and 50% less for all remaining enemies.\nAdditional Effect: Grants Standard Finish and Esprit to self and party member designated as your Dance Partner\nStandard Finish Effect: Increases damage dealt by 5%\nDuration: 60s\nCan only be executed while under the effect of Flourishing Finish.\nThis action does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Fan Dance IV",
@@ -268,7 +268,7 @@
       "cast": 0,
       "cooldown": 1,
       "cost": 0,
-      "effect": "Delivers an attack to all enemies in a cone before you with a potency of 300 for the first enemy, and 50% less for all remaining enemies.\nCan only be executed while under the effect of Fourfold Fan Dance."
+      "description": "Delivers an attack to all enemies in a cone before you with a potency of 300 for the first enemy, and 50% less for all remaining enemies.\nCan only be executed while under the effect of Fourfold Fan Dance."
     },
     {
       "name": "Starfall Dance",
@@ -278,7 +278,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers a critical direct hit to all enemies in a straight line before you with a potency of 600 for the first enemy, and 75% less for all remaining enemies.\nDamage dealt is increased when under an effect that raises critical hit rate or direct hit rate.\nCan only be executed while under the effect of Flourishing Starfall."
+      "description": "Delivers a critical direct hit to all enemies in a straight line before you with a potency of 600 for the first enemy, and 75% less for all remaining enemies.\nDamage dealt is increased when under an effect that raises critical hit rate or direct hit rate.\nCan only be executed while under the effect of Flourishing Starfall."
     }
   ],
   "roleActions": [
@@ -290,7 +290,7 @@
       "cast": 0,
       "cooldown": 30,
       "cost": 0,
-      "effect": "Afflicts target with Heavy +40%.\nDuration: 10s"
+      "description": "Afflicts target with Heavy +40%.\nDuration: 10s"
     },
     {
       "name": "Second Wind",
@@ -300,7 +300,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Instantly restores own HP.\nCure Potency: 500"
+      "description": "Instantly restores own HP.\nCure Potency: 500"
     },
     {
       "name": "Foot Graze",
@@ -310,7 +310,7 @@
       "cast": 0,
       "cooldown": 30,
       "cost": 0,
-      "effect": "Binds target.\nDuration: 10s\nCancels auto-attack upon execution.\nTarget unbound if damage taken."
+      "description": "Binds target.\nDuration: 10s\nCancels auto-attack upon execution.\nTarget unbound if damage taken."
     },
     {
       "name": "Peloton",
@@ -320,7 +320,7 @@
       "cast": 0,
       "cooldown": 5,
       "cost": 0,
-      "effect": "Increases movement speed of self and nearby party members.\nDuration: 30s\nEffect ends when enmity is generated. Has no effect in battle."
+      "description": "Increases movement speed of self and nearby party members.\nDuration: 30s\nEffect ends when enmity is generated. Has no effect in battle."
     },
     {
       "name": "Head Graze",
@@ -330,7 +330,7 @@
       "cast": 0,
       "cooldown": 30,
       "cost": 0,
-      "effect": "Interrupts the use of a target's action."
+      "description": "Interrupts the use of a target's action."
     },
     {
       "name": "Arm's Length",
@@ -340,64 +340,64 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Creates a barrier nullifying most knockback and draw-in effects.\nDuration: 6s\nAdditional Effect: Slow +20% when barrier is struck\nDuration: 15s"
+      "description": "Creates a barrier nullifying most knockback and draw-in effects.\nDuration: 6s\nAdditional Effect: Slow +20% when barrier is struck\nDuration: 15s"
     }
   ],
   "traits": [
     {
       "name": "Fourfold Fantasy",
       "lvl": 30,
-      "effect": "Grants a Fourfold Feather upon landing certain actions.\nMaximum Stacks: 4"
+      "description": "Grants a Fourfold Feather upon landing certain actions.\nMaximum Stacks: 4"
     },
     {
       "name": "Increased Action Damage",
       "lvl": 50,
-      "effect": "Increases base action damage by 10%."
+      "description": "Increases base action damage by 10%."
     },
     {
       "name": "Increased Action Damage II",
       "lvl": 60,
-      "effect": "Increases base action damage by 20%."
+      "description": "Increases base action damage by 20%."
     },
     {
       "name": "Enhanced En Avant",
       "lvl": 68,
-      "effect": "Allows the accumulation of charges for consecutive uses of En Avant.\nMaximum Charges: 2"
+      "description": "Allows the accumulation of charges for consecutive uses of En Avant.\nMaximum Charges: 2"
     },
     {
       "name": "Esprit",
       "lvl": 76,
-      "effect": "Grants Esprit to self and nearby party members upon successfully executing Standard Finish or Technical Finish.\nEsprit Effect: Increases Esprit Gauge by 5 upon successfully landing Cascade, Reverse Cascade, Fountain, Fountainfall, Windmill, Rising Windmill, Bladeshower, or Bloodshower. When party members successfully land a weaponskill or cast a spell, has a chance of increasing Esprit Gauge by 10.\nChance of triggering party member effect differs according to job."
+      "description": "Grants Esprit to self and nearby party members upon successfully executing Standard Finish or Technical Finish.\nEsprit Effect: Increases Esprit Gauge by 5 upon successfully landing Cascade, Reverse Cascade, Fountain, Fountainfall, Windmill, Rising Windmill, Bladeshower, or Bloodshower. When party members successfully land a weaponskill or cast a spell, has a chance of increasing Esprit Gauge by 10.\nChance of triggering party member effect differs according to job."
     },
     {
       "name": "Enhanced En Avant II",
       "lvl": 78,
-      "effect": "Allows a third charge of En Avant."
+      "description": "Allows a third charge of En Avant."
     },
     {
       "name": "Enhanced Technical Finish",
       "lvl": 82,
-      "effect": "Grants Flourishing Finish after executing Technical Finish.\nDuration: 30s\nTechnical Finish becomes Tillana while under this effect."
+      "description": "Grants Flourishing Finish after executing Technical Finish.\nDuration: 30s\nTechnical Finish becomes Tillana while under this effect."
     },
     {
       "name": "Enhanced Esprit",
       "lvl": 84,
-      "effect": "Increases Esprit Gauge by 10 upon successfully landing Reverse Cascade, Fountainfall, Rising Windmill, or Bloodshower."
+      "description": "Increases Esprit Gauge by 10 upon successfully landing Reverse Cascade, Fountainfall, Rising Windmill, or Bloodshower."
     },
     {
       "name": "Enhanced Flourish",
       "lvl": 86,
-      "effect": "Grants Fourfold Fan Dance upon executing Flourish.\nDuration: 30s"
+      "description": "Grants Fourfold Fan Dance upon executing Flourish.\nDuration: 30s"
     },
     {
       "name": "Enhanced Shield Samba",
       "lvl": 88,
-      "effect": "Reduces Shield Samba recast time to 90 seconds."
+      "description": "Reduces Shield Samba recast time to 90 seconds."
     },
     {
       "name": "Enhanced Devilment",
       "lvl": 90,
-      "effect": "Grants Flourishing Starfall upon executing Devilment.\nDuration: 20s"
+      "description": "Grants Flourishing Starfall upon executing Devilment.\nDuration: 20s"
     }
   ]
 }

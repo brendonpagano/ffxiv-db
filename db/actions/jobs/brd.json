@@ -8,7 +8,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 160.\nAdditional Effect: 20% chance of becoming Straight Shot Ready\nDuration: 30s"
+      "description": "Delivers an attack with a potency of 160.\nAdditional Effect: 20% chance of becoming Straight Shot Ready\nDuration: 30s"
     },
     {
       "name": "Straight Shot",
@@ -18,7 +18,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 200.\nCan only be executed when Straight Shot Ready."
+      "description": "Delivers an attack with a potency of 200.\nCan only be executed when Straight Shot Ready."
     },
     {
       "name": "Raging Strikes",
@@ -28,7 +28,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Increases damage dealt by 15%.\nDuration: 20s"
+      "description": "Increases damage dealt by 15%.\nDuration: 20s"
     },
     {
       "name": "Venomous Bite",
@@ -38,7 +38,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 100.\nAdditional Effect: Venom\nPotency: 15\nDuration: 45s"
+      "description": "Delivers an attack with a potency of 100.\nAdditional Effect: Venom\nPotency: 15\nDuration: 45s"
     },
     {
       "name": "Bloodletter",
@@ -48,7 +48,7 @@
       "cast": 0,
       "cooldown": 15,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 110.\nMaximum Charges: 3\nShares a recast timer with Rain of Death."
+      "description": "Delivers an attack with a potency of 110.\nMaximum Charges: 3\nShares a recast timer with Rain of Death."
     },
     {
       "name": "Repelling Shot",
@@ -58,7 +58,7 @@
       "cast": 0,
       "cooldown": 30,
       "cost": 0,
-      "effect": "Jump 10 yalms away from current target.\nCannot be executed while bound."
+      "description": "Jump 10 yalms away from current target.\nCannot be executed while bound."
     },
     {
       "name": "Quick Nock",
@@ -68,7 +68,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 110 to all enemies in a cone before you.\nAdditional Effect: 35% chance of becoming Shadowbite Ready\nDuration: 30s"
+      "description": "Delivers an attack with a potency of 110 to all enemies in a cone before you.\nAdditional Effect: 35% chance of becoming Shadowbite Ready\nDuration: 30s"
     },
     {
       "name": "Windbite",
@@ -78,7 +78,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Deals wind damage with a potency of 60.\nAdditional Effect: Wind damage over time\nPotency: 20\nDuration: 45s"
+      "description": "Deals wind damage with a potency of 60.\nAdditional Effect: Wind damage over time\nPotency: 20\nDuration: 45s"
     },
     {
       "name": "Mage's Ballad",
@@ -88,7 +88,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Deals unaspected damage with a potency of 100.\nAdditional Effect: Grants Mage's Ballad to self and all party members within 50 yalms, increasing damage dealt by 1%\nDuration: 45s\nAdditional Effect: 80% chance to grant Repertoire\nRepertoire Effect: Reduces the recast time of Bloodletter and Rain of Death by 7.5s\nAdditional Effect: Grants Mage's Coda"
+      "description": "Deals unaspected damage with a potency of 100.\nAdditional Effect: Grants Mage's Ballad to self and all party members within 50 yalms, increasing damage dealt by 1%\nDuration: 45s\nAdditional Effect: 80% chance to grant Repertoire\nRepertoire Effect: Reduces the recast time of Bloodletter and Rain of Death by 7.5s\nAdditional Effect: Grants Mage's Coda"
     },
     {
       "name": "The Warden's Paean",
@@ -98,7 +98,7 @@
       "cast": 0,
       "cooldown": 45,
       "cost": 0,
-      "effect": "Removes one select detrimental effect from self or target party member. If the target is not enfeebled, a barrier is created nullifying the target's next detrimental effect suffered.\nDuration: 30s"
+      "description": "Removes one select detrimental effect from self or target party member. If the target is not enfeebled, a barrier is created nullifying the target's next detrimental effect suffered.\nDuration: 30s"
     },
     {
       "name": "Barrage",
@@ -108,7 +108,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Triples the number of strikes for a single-target weaponskill. Additional effects added only once.\nDuration: 10s\nAdditional Effect: Increases the potency of Shadowbite to 270\nAdditional Effect: Grants Straight Shot Ready\nDuration: 30s"
+      "description": "Triples the number of strikes for a single-target weaponskill. Additional effects added only once.\nDuration: 10s\nAdditional Effect: Increases the potency of Shadowbite to 270\nAdditional Effect: Grants Straight Shot Ready\nDuration: 30s"
     },
     {
       "name": "Army's Paeon",
@@ -118,7 +118,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Deals unaspected damage with a potency of 100.\nAdditional Effect: Grants Army's Paeon to self and all party members within 50 yalms, increasing direct hit rate by 3%\nDuration: 45s\nAdditional Effect: 80% chance to grant Repertoire\nRepertoire Effect: Reduces weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay by 4%\nCan be stacked up to 4 times.\nAdditional Effect: Grants Army's Coda"
+      "description": "Deals unaspected damage with a potency of 100.\nAdditional Effect: Grants Army's Paeon to self and all party members within 50 yalms, increasing direct hit rate by 3%\nDuration: 45s\nAdditional Effect: 80% chance to grant Repertoire\nRepertoire Effect: Reduces weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay by 4%\nCan be stacked up to 4 times.\nAdditional Effect: Grants Army's Coda"
     },
     {
       "name": "Rain of Death",
@@ -128,7 +128,7 @@
       "cast": 0,
       "cooldown": 15,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 100 to target and all enemies nearby it.\nMaximum Charges: 3\nShares a recast timer with Bloodletter."
+      "description": "Delivers an attack with a potency of 100 to target and all enemies nearby it.\nMaximum Charges: 3\nShares a recast timer with Bloodletter."
     },
     {
       "name": "Battle Voice",
@@ -138,7 +138,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Increases direct hit rate of self and all nearby party members by 20%.\nDuration: 15s"
+      "description": "Increases direct hit rate of self and all nearby party members by 20%.\nDuration: 15s"
     },
     {
       "name": "The Wanderer's Minuet",
@@ -148,7 +148,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Deals unaspected damage with a potency of 100.\nAdditional Effect: Grants the Wanderer's Minuet to self and all party members within 50 yalms, increasing critical hit rate by 2%\nDuration: 45s\nAdditional Effect: 80% chance to grant Repertoire\nRepertoire Effect: Allows execution of Pitch Perfect\nCan be stacked up to 3 times.\nAdditional Effect: Grants Wanderer's Coda\n\n※Action changes to Pitch Perfect upon execution."
+      "description": "Deals unaspected damage with a potency of 100.\nAdditional Effect: Grants the Wanderer's Minuet to self and all party members within 50 yalms, increasing critical hit rate by 2%\nDuration: 45s\nAdditional Effect: 80% chance to grant Repertoire\nRepertoire Effect: Allows execution of Pitch Perfect\nCan be stacked up to 3 times.\nAdditional Effect: Grants Wanderer's Coda\n\n※Action changes to Pitch Perfect upon execution."
     },
     {
       "name": "Pitch Perfect",
@@ -158,7 +158,7 @@
       "cast": 0,
       "cooldown": 1,
       "cost": 0,
-      "effect": "Delivers an attack to the target. Potency varies with number of Repertoire stacks.\n1 Repertoire Stack: 100\n2 Repertoire Stacks: 220\n3 Repertoire Stacks: 360\nCan only be executed when the Wanderer's Minuet is active.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Delivers an attack to the target. Potency varies with number of Repertoire stacks.\n1 Repertoire Stack: 100\n2 Repertoire Stacks: 220\n3 Repertoire Stacks: 360\nCan only be executed when the Wanderer's Minuet is active.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Empyreal Arrow",
@@ -168,7 +168,7 @@
       "cast": 0,
       "cooldown": 15,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 230."
+      "description": "Delivers an attack with a potency of 230."
     },
     {
       "name": "Iron Jaws",
@@ -178,7 +178,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 100.\nAdditional Effect: If the target is suffering from a Caustic Bite or Stormbite effect inflicted by you, the effect timer is reset\nAdditional Effect: 35% chance of becoming Straight Shot Ready\nDuration: 30s"
+      "description": "Delivers an attack with a potency of 100.\nAdditional Effect: If the target is suffering from a Caustic Bite or Stormbite effect inflicted by you, the effect timer is reset\nAdditional Effect: 35% chance of becoming Straight Shot Ready\nDuration: 30s"
     },
     {
       "name": "Sidewinder",
@@ -188,7 +188,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 300."
+      "description": "Delivers an attack with a potency of 300."
     },
     {
       "name": "Troubadour",
@@ -198,7 +198,7 @@
       "cast": 0,
       "cooldown": 90,
       "cost": 0,
-      "effect": "Reduces damage taken by self and nearby party members by 10%.\nDuration: 15s\nEffect cannot be stacked with machinist's Tactician or dancer's Shield Samba."
+      "description": "Reduces damage taken by self and nearby party members by 10%.\nDuration: 15s\nEffect cannot be stacked with machinist's Tactician or dancer's Shield Samba."
     },
     {
       "name": "Caustic Bite",
@@ -208,7 +208,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 150.\nAdditional Effect: Poison\nPotency: 20\nDuration: 45s\nAdditional Effect: 35% chance of becoming Straight Shot Ready\nDuration: 30s"
+      "description": "Delivers an attack with a potency of 150.\nAdditional Effect: Poison\nPotency: 20\nDuration: 45s\nAdditional Effect: 35% chance of becoming Straight Shot Ready\nDuration: 30s"
     },
     {
       "name": "Stormbite",
@@ -218,7 +218,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Deals wind damage with a potency of 100.\nAdditional Effect: Wind damage over time\nPotency: 25\nDuration: 45s\nAdditional Effect: 35% chance of becoming Straight Shot Ready\nDuration: 30s"
+      "description": "Deals wind damage with a potency of 100.\nAdditional Effect: Wind damage over time\nPotency: 25\nDuration: 45s\nAdditional Effect: 35% chance of becoming Straight Shot Ready\nDuration: 30s"
     },
     {
       "name": "Nature's Minne",
@@ -228,7 +228,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Increases HP recovery via healing actions by 15% for self and nearby party members.\nDuration: 15s"
+      "description": "Increases HP recovery via healing actions by 15% for self and nearby party members.\nDuration: 15s"
     },
     {
       "name": "Refulgent Arrow",
@@ -238,7 +238,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 280.\nCan only be executed when Straight Shot Ready."
+      "description": "Delivers an attack with a potency of 280.\nCan only be executed when Straight Shot Ready."
     },
     {
       "name": "Shadowbite",
@@ -248,7 +248,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 170 to target and all enemies nearby it.\nBarrage Potency: 270\nCan only be executed when Shadowbite Ready."
+      "description": "Delivers an attack with a potency of 170 to target and all enemies nearby it.\nBarrage Potency: 270\nCan only be executed when Shadowbite Ready."
     },
     {
       "name": "Burst Shot",
@@ -258,7 +258,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 220.\nAdditional Effect: 35% chance of becoming Straight Shot Ready\nDuration: 30s"
+      "description": "Delivers an attack with a potency of 220.\nAdditional Effect: 35% chance of becoming Straight Shot Ready\nDuration: 30s"
     },
     {
       "name": "Apex Arrow",
@@ -268,7 +268,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 100 to all enemies in a straight line before you.\nSoul Voice Gauge Cost: 20\nPotency increases up to 500 as Soul Voice Gauge exceeds minimum cost.\nAdditional Effect: Grants Blast Arrow Ready upon execution while Soul Voice Gauge is 80 or higher\nDuration: 10s\nConsumes Soul Voice Gauge upon execution.\n\n※Action changes to Blast Arrow while under the effect of Blast Arrow Ready."
+      "description": "Delivers an attack with a potency of 100 to all enemies in a straight line before you.\nSoul Voice Gauge Cost: 20\nPotency increases up to 500 as Soul Voice Gauge exceeds minimum cost.\nAdditional Effect: Grants Blast Arrow Ready upon execution while Soul Voice Gauge is 80 or higher\nDuration: 10s\nConsumes Soul Voice Gauge upon execution.\n\n※Action changes to Blast Arrow while under the effect of Blast Arrow Ready."
     },
     {
       "name": "Ladonsbite",
@@ -278,7 +278,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 130 to all enemies in a cone before you.\nAdditional Effect: 35% chance of becoming Shadowbite Ready\nDuration: 30s"
+      "description": "Delivers an attack with a potency of 130 to all enemies in a cone before you.\nAdditional Effect: 35% chance of becoming Shadowbite Ready\nDuration: 30s"
     },
     {
       "name": "Blast Arrow",
@@ -288,7 +288,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack to all enemies in a straight line before you with a potency of 600 for the first enemy, and 60% less for all remaining enemies.\nCan only be executed while under the effect of Blast Arrow Ready.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Delivers an attack to all enemies in a straight line before you with a potency of 600 for the first enemy, and 60% less for all remaining enemies.\nCan only be executed while under the effect of Blast Arrow Ready.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Radiant Finale",
@@ -298,7 +298,7 @@
       "cast": 0,
       "cooldown": 110,
       "cost": 0,
-      "effect": "Increases damage dealt by self and nearby party members.\nDuration: 15s\nEffectiveness is determined by the number of different Coda active in the Song Gauge.\n1 Coda: 2%\n2 Coda: 4%\n3 Coda: 6%\nCan only be executed when at least 1 coda is active."
+      "description": "Increases damage dealt by self and nearby party members.\nDuration: 15s\nEffectiveness is determined by the number of different Coda active in the Song Gauge.\n1 Coda: 2%\n2 Coda: 4%\n3 Coda: 6%\nCan only be executed when at least 1 coda is active."
     }
   ],
   "roleActions": [
@@ -310,7 +310,7 @@
       "cast": 0,
       "cooldown": 30,
       "cost": 0,
-      "effect": "Afflicts target with Heavy +40%.\nDuration: 10s"
+      "description": "Afflicts target with Heavy +40%.\nDuration: 10s"
     },
     {
       "name": "Second Wind",
@@ -320,7 +320,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Instantly restores own HP.\nCure Potency: 500"
+      "description": "Instantly restores own HP.\nCure Potency: 500"
     },
     {
       "name": "Foot Graze",
@@ -330,7 +330,7 @@
       "cast": 0,
       "cooldown": 30,
       "cost": 0,
-      "effect": "Binds target.\nDuration: 10s\nCancels auto-attack upon execution.\nTarget unbound if damage taken."
+      "description": "Binds target.\nDuration: 10s\nCancels auto-attack upon execution.\nTarget unbound if damage taken."
     },
     {
       "name": "Peloton",
@@ -340,7 +340,7 @@
       "cast": 0,
       "cooldown": 5,
       "cost": 0,
-      "effect": "Increases movement speed of self and nearby party members.\nDuration: 30s\nEffect ends when enmity is generated. Has no effect in battle."
+      "description": "Increases movement speed of self and nearby party members.\nDuration: 30s\nEffect ends when enmity is generated. Has no effect in battle."
     },
     {
       "name": "Head Graze",
@@ -350,7 +350,7 @@
       "cast": 0,
       "cooldown": 30,
       "cost": 0,
-      "effect": "Interrupts the use of a target's action."
+      "description": "Interrupts the use of a target's action."
     },
     {
       "name": "Arm's Length",
@@ -360,89 +360,89 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Creates a barrier nullifying most knockback and draw-in effects.\nDuration: 6s\nAdditional Effect: Slow +20% when barrier is struck\nDuration: 15s"
+      "description": "Creates a barrier nullifying most knockback and draw-in effects.\nDuration: 6s\nAdditional Effect: Slow +20% when barrier is struck\nDuration: 15s"
     }
   ],
   "traits": [
     {
       "name": "Heavier Shot",
       "lvl": 2,
-      "effect": "Adds to Heavy Shot a 20% chance that you will become Straight Shot Ready.\nDuration: 30s"
+      "description": "Adds to Heavy Shot a 20% chance that you will become Straight Shot Ready.\nDuration: 30s"
     },
     {
       "name": "Increased Action Damage",
       "lvl": 20,
-      "effect": "Increases base action damage by 10%."
+      "description": "Increases base action damage by 10%."
     },
     {
       "name": "Increased Action Damage II",
       "lvl": 40,
-      "effect": "Increases base action damage by 20%."
+      "description": "Increases base action damage by 20%."
     },
     {
       "name": "Bite Mastery",
       "lvl": 64,
-      "effect": "Upgrades Venomous Bite and Windbite to Caustic Bite and Stormbite respectively."
+      "description": "Upgrades Venomous Bite and Windbite to Caustic Bite and Stormbite respectively."
     },
     {
       "name": "Enhanced Empyreal Arrow",
       "lvl": 68,
-      "effect": "Guarantees the trigger of the additional effects for current Mage's Ballad, Army's Paeon, and the Wanderer's Minuet when Empyreal Arrow hits a target."
+      "description": "Guarantees the trigger of the additional effects for current Mage's Ballad, Army's Paeon, and the Wanderer's Minuet when Empyreal Arrow hits a target."
     },
     {
       "name": "Straight Shot Mastery",
       "lvl": 70,
-      "effect": "Upgrades Straight Shot to Refulgent Arrow."
+      "description": "Upgrades Straight Shot to Refulgent Arrow."
     },
     {
       "name": "Enhanced Quick Nock",
       "lvl": 72,
-      "effect": "Adds to Quick Nock a 35% chance that you will become Shadowbite Ready.\nDuration: 30s"
+      "description": "Adds to Quick Nock a 35% chance that you will become Shadowbite Ready.\nDuration: 30s"
     },
     {
       "name": "Bite Mastery II",
       "lvl": 76,
-      "effect": "Adds to Stormbite, Caustic Bite, and Iron Jaws a 35% chance that you will become Straight Shot Ready.\nDuration: 30s"
+      "description": "Adds to Stormbite, Caustic Bite, and Iron Jaws a 35% chance that you will become Straight Shot Ready.\nDuration: 30s"
     },
     {
       "name": "Heavy Shot Mastery",
       "lvl": 76,
-      "effect": "Upgrades Heavy Shot to Burst Shot."
+      "description": "Upgrades Heavy Shot to Burst Shot."
     },
     {
       "name": "Enhanced Army's Paeon",
       "lvl": 78,
-      "effect": "While under the effect of Army's Paeon with at least one stack of Repertoire, singing Mage's Ballad or the Wanderer's Minuet will grant Army's Muse, reducing weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay.\nDuration: 10s\nAllowing the effect of Army's Paeon and accumulated stacks of Repertoire to expire without singing Mage's Ballad or the Wanderer's Minuet will grant Army's Ethos.\nDuration: 30s\nWhile under the effect of Army's Ethos, singing Mage's Ballad or the Wanderer's Minuet will grant Army's Muse. Both Army's Ethos and Army's Muse require stacks of Repertoire, the number of which will determine the potency of the latter.\n1 Repertoire: 1%\n2 Repertoire: 2%\n3 Repertoire: 4%\n4 Repertoire: 12%"
+      "description": "While under the effect of Army's Paeon with at least one stack of Repertoire, singing Mage's Ballad or the Wanderer's Minuet will grant Army's Muse, reducing weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay.\nDuration: 10s\nAllowing the effect of Army's Paeon and accumulated stacks of Repertoire to expire without singing Mage's Ballad or the Wanderer's Minuet will grant Army's Ethos.\nDuration: 30s\nWhile under the effect of Army's Ethos, singing Mage's Ballad or the Wanderer's Minuet will grant Army's Muse. Both Army's Ethos and Army's Muse require stacks of Repertoire, the number of which will determine the potency of the latter.\n1 Repertoire: 1%\n2 Repertoire: 2%\n3 Repertoire: 4%\n4 Repertoire: 12%"
     },
     {
       "name": "Soul Voice",
       "lvl": 80,
-      "effect": "Increases Soul Voice Gauge by 5 each time Repertoire is granted."
+      "description": "Increases Soul Voice Gauge by 5 each time Repertoire is granted."
     },
     {
       "name": "Quick Nock Mastery",
       "lvl": 82,
-      "effect": "Upgrades Quick Nock to Ladonsbite."
+      "description": "Upgrades Quick Nock to Ladonsbite."
     },
     {
       "name": "Enhanced Bloodletter",
       "lvl": 84,
-      "effect": "Allows a third charge of Bloodletter and Rain of Death."
+      "description": "Allows a third charge of Bloodletter and Rain of Death."
     },
     {
       "name": "Enhanced Apex Arrow",
       "lvl": 86,
-      "effect": "Grants Blast Arrow Ready upon executing Apex Arrow after the Soul Voice Gauge has reached 80 or higher.\nDuration: 10s\nApex Arrow becomes Blast Arrow while under this effect."
+      "description": "Grants Blast Arrow Ready upon executing Apex Arrow after the Soul Voice Gauge has reached 80 or higher.\nDuration: 10s\nApex Arrow becomes Blast Arrow while under this effect."
     },
     {
       "name": "Enhanced Troubadour",
       "lvl": 88,
-      "effect": "Reduces Troubadour recast time to 90 seconds."
+      "description": "Reduces Troubadour recast time to 90 seconds."
     },
     {
       "name": "Minstrel's Coda",
       "lvl": 90,
-      "effect": "Grants Mage's Coda, Army's Coda, or Wanderer's Coda upon singing Mage's Ballad, Army's Paeon, or the Wanderer's Minuet respectively."
+      "description": "Grants Mage's Coda, Army's Coda, or Wanderer's Coda upon singing Mage's Ballad, Army's Paeon, or the Wanderer's Minuet respectively."
     }
   ]
 }

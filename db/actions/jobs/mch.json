@@ -8,7 +8,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 140.\nAdditional Effect: Increases Heat Gauge by 5"
+      "description": "Delivers an attack with a potency of 140.\nAdditional Effect: Increases Heat Gauge by 5"
     },
     {
       "name": "Slug Shot",
@@ -18,7 +18,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 100.\nCombo Action: Split Shot or Heated Split Shot\nCombo Potency: 210\nCombo Bonus: Increases Heat Gauge by 5"
+      "description": "Delivers an attack with a potency of 100.\nCombo Action: Split Shot or Heated Split Shot\nCombo Potency: 210\nCombo Bonus: Increases Heat Gauge by 5"
     },
     {
       "name": "Hot Shot",
@@ -28,7 +28,7 @@
       "cast": 0,
       "cooldown": 40,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 240.\nAdditional Effect: Increases Battery Gauge by 20\nThis weaponskill does not share a recast timer with any other actions."
+      "description": "Delivers an attack with a potency of 240.\nAdditional Effect: Increases Battery Gauge by 20\nThis weaponskill does not share a recast timer with any other actions."
     },
     {
       "name": "Reassemble",
@@ -38,7 +38,7 @@
       "cast": 0,
       "cooldown": 55,
       "cost": 0,
-      "effect": "Guarantees that next weaponskill is a critical direct hit.\nDuration: 5s\nIncreases damage dealt when under an effect that raises critical hit rate or direct hit rate.\nThis action does not affect damage over time effects.\nMaximum Charges: 2"
+      "description": "Guarantees that next weaponskill is a critical direct hit.\nDuration: 5s\nIncreases damage dealt when under an effect that raises critical hit rate or direct hit rate.\nThis action does not affect damage over time effects.\nMaximum Charges: 2"
     },
     {
       "name": "Gauss Round",
@@ -48,7 +48,7 @@
       "cast": 0,
       "cooldown": 30,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 130.\nMaximum Charges: 3"
+      "description": "Delivers an attack with a potency of 130.\nMaximum Charges: 3"
     },
     {
       "name": "Spread Shot",
@@ -58,7 +58,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 140 to all enemies in a cone before you.\nAdditional Effect: Increases Heat Gauge by 5"
+      "description": "Delivers an attack with a potency of 140 to all enemies in a cone before you.\nAdditional Effect: Increases Heat Gauge by 5"
     },
     {
       "name": "Clean Shot",
@@ -68,7 +68,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 100.\nCombo Action: Slug Shot or Heated Slug Shot\nCombo Potency: 270\nCombo Bonus: Increases Heat Gauge by 5\nCombo Bonus: Increases Battery Gauge by 10"
+      "description": "Delivers an attack with a potency of 100.\nCombo Action: Slug Shot or Heated Slug Shot\nCombo Potency: 270\nCombo Bonus: Increases Heat Gauge by 5\nCombo Bonus: Increases Battery Gauge by 10"
     },
     {
       "name": "Hypercharge",
@@ -78,7 +78,7 @@
       "cast": 0,
       "cooldown": 10,
       "cost": 0,
-      "effect": "Grants 5 stacks of Overheated, each stack allowing the execution of Heat Blast or Auto Crossbow.\nDuration: 10s\nOverheated Effect: Increases the potency of single-target weaponskills by 20\nHeat Gauge Cost: 50\nOverheated effect only applicable to machinist job actions."
+      "description": "Grants 5 stacks of Overheated, each stack allowing the execution of Heat Blast or Auto Crossbow.\nDuration: 10s\nOverheated Effect: Increases the potency of single-target weaponskills by 20\nHeat Gauge Cost: 50\nOverheated effect only applicable to machinist job actions."
     },
     {
       "name": "Heat Blast",
@@ -88,7 +88,7 @@
       "cast": 0,
       "cooldown": 1.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 200.\nAdditional Effect: Reduces the recast time of both Gauss Round and Ricochet by 15s\nCan only be executed when firearm is Overheated.\nThis weaponskill does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions."
+      "description": "Delivers an attack with a potency of 200.\nAdditional Effect: Reduces the recast time of both Gauss Round and Ricochet by 15s\nCan only be executed when firearm is Overheated.\nThis weaponskill does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions."
     },
     {
       "name": "Rook Autoturret",
@@ -98,7 +98,7 @@
       "cast": 0,
       "cooldown": 6,
       "cost": 0,
-      "effect": "Deploys a single-target battle turret which attacks using Volley Fire, dealing damage with a potency of 35.\nPotency increases as Battery Gauge exceeds required cost at time of deployment, up to a maximum of 75.\nBattery Gauge Cost: 50\nDuration: 9s\nConsumes Battery Gauge upon execution.\nShuts down when time expires or upon execution of Rook Overdrive.\nShares a recast timer with Rook Overdrive."
+      "description": "Deploys a single-target battle turret which attacks using Volley Fire, dealing damage with a potency of 35.\nPotency increases as Battery Gauge exceeds required cost at time of deployment, up to a maximum of 75.\nBattery Gauge Cost: 50\nDuration: 9s\nConsumes Battery Gauge upon execution.\nShuts down when time expires or upon execution of Rook Overdrive.\nShares a recast timer with Rook Overdrive."
     },
     {
       "name": "Rook Overdrive",
@@ -108,7 +108,7 @@
       "cast": 0,
       "cooldown": 15,
       "cost": 0,
-      "effect": "Orders the rook autoturret to use Rook Overload.\nRook Overload Potency: 160\nPotency increases as Battery Gauge exceeds required cost at time of deployment, up to a maximum of 320.\nThe rook autoturret shuts down after execution. If this action is not used manually while the rook autoturret is active, it will be triggered automatically immediately before shutting down.\nShares a recast timer with Rook Autoturret."
+      "description": "Orders the rook autoturret to use Rook Overload.\nRook Overload Potency: 160\nPotency increases as Battery Gauge exceeds required cost at time of deployment, up to a maximum of 320.\nThe rook autoturret shuts down after execution. If this action is not used manually while the rook autoturret is active, it will be triggered automatically immediately before shutting down.\nShares a recast timer with Rook Autoturret."
     },
     {
       "name": "Rook Overload",
@@ -118,7 +118,7 @@
       "cast": 0,
       "cooldown": 0,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 160.\nPotency increases as Battery Gauge exceeds required cost at time of deployment, up to a maximum of 320.\nThe rook autoturret shuts down after execution. If this action is not used manually while the rook autoturret is active, it will be triggered automatically immediately before shutting down.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Delivers an attack with a potency of 160.\nPotency increases as Battery Gauge exceeds required cost at time of deployment, up to a maximum of 320.\nThe rook autoturret shuts down after execution. If this action is not used manually while the rook autoturret is active, it will be triggered automatically immediately before shutting down.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Wildfire",
@@ -128,7 +128,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Covers target's body in a slow-burning pitch. Action is changed to Detonator for the duration of the effect.\nDeals damage when time expires or upon executing Detonator.\nPotency is increased by 240 for each of your own weaponskills you land prior to the end of the effect.\nCan be stacked up to 6 times.\nDuration: 10s"
+      "description": "Covers target's body in a slow-burning pitch. Action is changed to Detonator for the duration of the effect.\nDeals damage when time expires or upon executing Detonator.\nPotency is increased by 240 for each of your own weaponskills you land prior to the end of the effect.\nCan be stacked up to 6 times.\nDuration: 10s"
     },
     {
       "name": "Detonator",
@@ -138,7 +138,7 @@
       "cast": 0,
       "cooldown": 1,
       "cost": 0,
-      "effect": "Ends the effect of Wildfire, dealing damage to the target.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Ends the effect of Wildfire, dealing damage to the target.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Ricochet",
@@ -148,7 +148,7 @@
       "cast": 0,
       "cooldown": 30,
       "cost": 0,
-      "effect": "Deals damage to all nearby enemies with a potency of 130 for the first enemy, and 50% less for all remaining enemies.\nMaximum Charges: 3"
+      "description": "Deals damage to all nearby enemies with a potency of 130 for the first enemy, and 50% less for all remaining enemies.\nMaximum Charges: 3"
     },
     {
       "name": "Auto Crossbow",
@@ -158,7 +158,7 @@
       "cast": 0,
       "cooldown": 1.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 140 to all enemies in a cone before you.\nCan only be executed when firearm is Overheated.\nThis weaponskill does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions."
+      "description": "Delivers an attack with a potency of 140 to all enemies in a cone before you.\nCan only be executed when firearm is Overheated.\nThis weaponskill does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions."
     },
     {
       "name": "Heated Split Shot",
@@ -168,7 +168,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 200.\nAdditional Effect: Increases Heat Gauge by 5"
+      "description": "Delivers an attack with a potency of 200.\nAdditional Effect: Increases Heat Gauge by 5"
     },
     {
       "name": "Tactician",
@@ -178,7 +178,7 @@
       "cast": 0,
       "cooldown": 90,
       "cost": 0,
-      "effect": "Reduces damage taken by self and nearby party members by 10%.\nDuration: 15s\nEffect cannot be stacked with bard's Troubadour or dancer's Shield Samba."
+      "description": "Reduces damage taken by self and nearby party members by 10%.\nDuration: 15s\nEffect cannot be stacked with bard's Troubadour or dancer's Shield Samba."
     },
     {
       "name": "Drill",
@@ -188,7 +188,7 @@
       "cast": 0,
       "cooldown": 20,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 600.\nShares a recast timer with Bioblaster."
+      "description": "Delivers an attack with a potency of 600.\nShares a recast timer with Bioblaster."
     },
     {
       "name": "Heated Slug Shot",
@@ -198,7 +198,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 120.\nCombo Action: Heated Split Shot\nCombo Potency: 300\nCombo Bonus: Increases Heat Gauge by 5"
+      "description": "Delivers an attack with a potency of 120.\nCombo Action: Heated Split Shot\nCombo Potency: 300\nCombo Bonus: Increases Heat Gauge by 5"
     },
     {
       "name": "Dismantle",
@@ -208,7 +208,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Lowers target's damage dealt by 10%.\nDuration: 10s"
+      "description": "Lowers target's damage dealt by 10%.\nDuration: 10s"
     },
     {
       "name": "Heated Clean Shot",
@@ -218,7 +218,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 120.\nCombo Action: Heated Slug Shot\nCombo Potency: 380\nCombo Bonus: Increases Heat Gauge by 5\nCombo Bonus: Increases Battery Gauge by 10"
+      "description": "Delivers an attack with a potency of 120.\nCombo Action: Heated Slug Shot\nCombo Potency: 380\nCombo Bonus: Increases Heat Gauge by 5\nCombo Bonus: Increases Battery Gauge by 10"
     },
     {
       "name": "Barrel Stabilizer",
@@ -228,7 +228,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Increases Heat Gauge by 50.\nCan only be executed while in combat."
+      "description": "Increases Heat Gauge by 50.\nCan only be executed while in combat."
     },
     {
       "name": "Flamethrower",
@@ -238,7 +238,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Delivers damage over time to all enemies in a cone before you.\nPotency: 80\nDuration: 10s\nEffect ends upon using another action or moving (including facing a different direction).\nCancels auto-attack upon execution.\nTriggers the cooldown of weaponskills upon execution. Cannot be executed during the cooldown of weaponskills."
+      "description": "Delivers damage over time to all enemies in a cone before you.\nPotency: 80\nDuration: 10s\nEffect ends upon using another action or moving (including facing a different direction).\nCancels auto-attack upon execution.\nTriggers the cooldown of weaponskills upon execution. Cannot be executed during the cooldown of weaponskills."
     },
     {
       "name": "Bioblaster",
@@ -248,7 +248,7 @@
       "cast": 0,
       "cooldown": 20,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 50 to all enemies in a cone before you.\nAdditional Effect: Damage over time\nPotency: 50\nDuration: 15s\nShares a recast timer with Drill."
+      "description": "Delivers an attack with a potency of 50 to all enemies in a cone before you.\nAdditional Effect: Damage over time\nPotency: 50\nDuration: 15s\nShares a recast timer with Drill."
     },
     {
       "name": "Air Anchor",
@@ -258,7 +258,7 @@
       "cast": 0,
       "cooldown": 40,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 600.\nAdditional Effect: Increases Battery Gauge by 20\nThis weaponskill does not share a recast timer with any other actions."
+      "description": "Delivers an attack with a potency of 600.\nAdditional Effect: Increases Battery Gauge by 20\nThis weaponskill does not share a recast timer with any other actions."
     },
     {
       "name": "Automaton Queen",
@@ -268,7 +268,7 @@
       "cast": 0,
       "cooldown": 6,
       "cost": 0,
-      "effect": "Deploys an Automaton Queen to fight at your side.\nPotency of Automaton Queen actions increases as Battery Gauge exceeds required cost at time of deployment.\nBattery Gauge Cost: 50\nDuration: 12s\nConsumes Battery Gauge upon execution.\nShuts down when time expires or upon execution of Queen Overdrive.\nShares a recast timer with Queen Overdrive."
+      "description": "Deploys an Automaton Queen to fight at your side.\nPotency of Automaton Queen actions increases as Battery Gauge exceeds required cost at time of deployment.\nBattery Gauge Cost: 50\nDuration: 12s\nConsumes Battery Gauge upon execution.\nShuts down when time expires or upon execution of Queen Overdrive.\nShares a recast timer with Queen Overdrive."
     },
     {
       "name": "Queen Overdrive",
@@ -278,7 +278,7 @@
       "cast": 0,
       "cooldown": 15,
       "cost": 0,
-      "effect": "Orders the Automaton Queen to use Pile Bunker.\nPile Bunker Potency: 340\nPotency increases as Battery Gauge exceeds required cost at time of deployment, up to a maximum of 680.\nThe Automaton Queen shuts down after execution. If this action is not used manually while the Automaton Queen is active, it will be triggered automatically immediately before shutting down.\nShares a recast timer with Automaton Queen."
+      "description": "Orders the Automaton Queen to use Pile Bunker.\nPile Bunker Potency: 340\nPotency increases as Battery Gauge exceeds required cost at time of deployment, up to a maximum of 680.\nThe Automaton Queen shuts down after execution. If this action is not used manually while the Automaton Queen is active, it will be triggered automatically immediately before shutting down.\nShares a recast timer with Automaton Queen."
     },
     {
       "name": "Arm Punch",
@@ -288,7 +288,7 @@
       "cast": 0,
       "cooldown": 1.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 120.\nPotency increases as Battery Gauge exceeds required cost at time of deployment, up to a maximum of 240.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Delivers an attack with a potency of 120.\nPotency increases as Battery Gauge exceeds required cost at time of deployment, up to a maximum of 240.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Roller Dash",
@@ -298,7 +298,7 @@
       "cast": 0,
       "cooldown": 3,
       "cost": 0,
-      "effect": "Rushes target and delivers an attack with a potency of 240.\nPotency increases as Battery Gauge exceeds required cost at time of deployment, up to a maximum of 480.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Rushes target and delivers an attack with a potency of 240.\nPotency increases as Battery Gauge exceeds required cost at time of deployment, up to a maximum of 480.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Pile Bunker",
@@ -308,7 +308,7 @@
       "cast": 0,
       "cooldown": 0,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 340.\nPotency increases as Battery Gauge exceeds required cost at time of deployment, up to a maximum of 680.\nIf this action is not used manually while the Automaton Queen is active, it will be triggered automatically immediately before shutting down.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Delivers an attack with a potency of 340.\nPotency increases as Battery Gauge exceeds required cost at time of deployment, up to a maximum of 680.\nIf this action is not used manually while the Automaton Queen is active, it will be triggered automatically immediately before shutting down.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Scattergun",
@@ -318,7 +318,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 150 to all enemies in a cone before you.\nAdditional Effect: Increases Heat Gauge by 10"
+      "description": "Delivers an attack with a potency of 150 to all enemies in a cone before you.\nAdditional Effect: Increases Heat Gauge by 10"
     },
     {
       "name": "Crowned Collider",
@@ -328,7 +328,7 @@
       "cast": 0,
       "cooldown": 0,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 390.\nPotency increases as Battery Gauge exceeds required cost at time of deployment, up to a maximum of 780.\nThe Automaton Queen shuts down after execution. If this action is not used manually while the Automaton Queen is active, it will be triggered automatically immediately before shutting down.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Delivers an attack with a potency of 390.\nPotency increases as Battery Gauge exceeds required cost at time of deployment, up to a maximum of 780.\nThe Automaton Queen shuts down after execution. If this action is not used manually while the Automaton Queen is active, it will be triggered automatically immediately before shutting down.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Chain Saw",
@@ -338,7 +338,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Delivers an attack to all enemies in a straight line before you with a potency of 600 for the first enemy, and 65% less for all remaining enemies.\nAdditional Effect: Increases Battery Gauge by 20\nThis weaponskill does not share a recast timer with any other actions."
+      "description": "Delivers an attack to all enemies in a straight line before you with a potency of 600 for the first enemy, and 65% less for all remaining enemies.\nAdditional Effect: Increases Battery Gauge by 20\nThis weaponskill does not share a recast timer with any other actions."
     }
   ],
   "roleActions": [
@@ -350,7 +350,7 @@
       "cast": 0,
       "cooldown": 30,
       "cost": 0,
-      "effect": "Afflicts target with Heavy +40%.\nDuration: 10s"
+      "description": "Afflicts target with Heavy +40%.\nDuration: 10s"
     },
     {
       "name": "Second Wind",
@@ -360,7 +360,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Instantly restores own HP.\nCure Potency: 500"
+      "description": "Instantly restores own HP.\nCure Potency: 500"
     },
     {
       "name": "Foot Graze",
@@ -370,7 +370,7 @@
       "cast": 0,
       "cooldown": 30,
       "cost": 0,
-      "effect": "Binds target.\nDuration: 10s\nCancels auto-attack upon execution.\nTarget unbound if damage taken."
+      "description": "Binds target.\nDuration: 10s\nCancels auto-attack upon execution.\nTarget unbound if damage taken."
     },
     {
       "name": "Peloton",
@@ -380,7 +380,7 @@
       "cast": 0,
       "cooldown": 5,
       "cost": 0,
-      "effect": "Increases movement speed of self and nearby party members.\nDuration: 30s\nEffect ends when enmity is generated. Has no effect in battle."
+      "description": "Increases movement speed of self and nearby party members.\nDuration: 30s\nEffect ends when enmity is generated. Has no effect in battle."
     },
     {
       "name": "Head Graze",
@@ -390,7 +390,7 @@
       "cast": 0,
       "cooldown": 30,
       "cost": 0,
-      "effect": "Interrupts the use of a target's action."
+      "description": "Interrupts the use of a target's action."
     },
     {
       "name": "Arm's Length",
@@ -400,79 +400,79 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Creates a barrier nullifying most knockback and draw-in effects.\nDuration: 6s\nAdditional Effect: Slow +20% when barrier is struck\nDuration: 15s"
+      "description": "Creates a barrier nullifying most knockback and draw-in effects.\nDuration: 6s\nAdditional Effect: Slow +20% when barrier is struck\nDuration: 15s"
     }
   ],
   "traits": [
     {
       "name": "Increased Action Damage",
       "lvl": 20,
-      "effect": "Increases base action damage and autoturret damage by 10%."
+      "description": "Increases base action damage and autoturret damage by 10%."
     },
     {
       "name": "Increased Action Damage II",
       "lvl": 40,
-      "effect": "Increases base action damage and autoturret damage by 20%."
+      "description": "Increases base action damage and autoturret damage by 20%."
     },
     {
       "name": "Split Shot Mastery",
       "lvl": 54,
-      "effect": "Upgrades Split Shot to Heated Split Shot."
+      "description": "Upgrades Split Shot to Heated Split Shot."
     },
     {
       "name": "Slug Shot Mastery",
       "lvl": 60,
-      "effect": "Upgrades Slug Shot to Heated Slug Shot."
+      "description": "Upgrades Slug Shot to Heated Slug Shot."
     },
     {
       "name": "Clean Shot Mastery",
       "lvl": 64,
-      "effect": "Upgrades Clean Shot to Heated Clean Shot."
+      "description": "Upgrades Clean Shot to Heated Clean Shot."
     },
     {
       "name": "Charged Action Mastery",
       "lvl": 74,
-      "effect": "Allows a third charge of Gauss Round and Ricochet."
+      "description": "Allows a third charge of Gauss Round and Ricochet."
     },
     {
       "name": "Hot Shot Mastery",
       "lvl": 76,
-      "effect": "Upgrades Hot Shot to Air Anchor."
+      "description": "Upgrades Hot Shot to Air Anchor."
     },
     {
       "name": "Enhanced Wildfire",
       "lvl": 78,
-      "effect": "Improves Wildfire's potency increase for landing weaponskills to 240."
+      "description": "Improves Wildfire's potency increase for landing weaponskills to 240."
     },
     {
       "name": "Promotion",
       "lvl": 80,
-      "effect": "Upgrades Rook Autoturret and Rook Overdrive to Automaton Queen and Queen Overdrive respectively."
+      "description": "Upgrades Rook Autoturret and Rook Overdrive to Automaton Queen and Queen Overdrive respectively."
     },
     {
       "name": "Spread Shot Mastery",
       "lvl": 82,
-      "effect": "Upgrades Spread Shot to Scattergun."
+      "description": "Upgrades Spread Shot to Scattergun."
     },
     {
       "name": "Enhanced Reassemble",
       "lvl": 84,
-      "effect": "Allows the accumulation of charges for consecutive uses of Reassemble.\nMaximum Charges: 2"
+      "description": "Allows the accumulation of charges for consecutive uses of Reassemble.\nMaximum Charges: 2"
     },
     {
       "name": "Marksman's Mastery",
       "lvl": 84,
-      "effect": "Increases the potency of Heated Split Shot to 200, Heated Slug Shot to 120, and Heated Clean Shot to 120."
+      "description": "Increases the potency of Heated Split Shot to 200, Heated Slug Shot to 120, and Heated Clean Shot to 120."
     },
     {
       "name": "Queen's Gambit",
       "lvl": 86,
-      "effect": "After executing Pile Bunker, the Automaton Queen will also execute Crowned Collider."
+      "description": "After executing Pile Bunker, the Automaton Queen will also execute Crowned Collider."
     },
     {
       "name": "Enhanced Tactician",
       "lvl": 88,
-      "effect": "Reduces Tactician recast time to 90 seconds."
+      "description": "Reduces Tactician recast time to 90 seconds."
     }
   ]
 }

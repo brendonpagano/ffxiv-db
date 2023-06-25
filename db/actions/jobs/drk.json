@@ -8,7 +8,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 170."
+      "description": "Delivers an attack with a potency of 170."
     },
     {
       "name": "Syphon Strike",
@@ -18,7 +18,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 120.\nCombo Action: Hard Slash\nCombo Potency: 260\nCombo Bonus: Restores MP"
+      "description": "Delivers an attack with a potency of 120.\nCombo Action: Hard Slash\nCombo Potency: 260\nCombo Bonus: Restores MP"
     },
     {
       "name": "Unleash",
@@ -28,7 +28,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Deals unaspected damage with a potency of 120 to all nearby enemies."
+      "description": "Deals unaspected damage with a potency of 120 to all nearby enemies."
     },
     {
       "name": "Grit",
@@ -38,7 +38,7 @@
       "cast": 0,
       "cooldown": 2,
       "cost": 0,
-      "effect": "Significantly increases enmity generation.\nEffect ends upon reuse."
+      "description": "Significantly increases enmity generation.\nEffect ends upon reuse."
     },
     {
       "name": "Release Grit",
@@ -48,7 +48,7 @@
       "cast": 0,
       "cooldown": 1,
       "cost": 0,
-      "effect": "Cancels the effect of Grit."
+      "description": "Cancels the effect of Grit."
     },
     {
       "name": "Unmend",
@@ -58,7 +58,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Deals unaspected damage with a potency of 150.\nAdditional Effect: Increased enmity\nAdditional Effect: Reduces the recast time of Plunge by 5 seconds"
+      "description": "Deals unaspected damage with a potency of 150.\nAdditional Effect: Increased enmity\nAdditional Effect: Reduces the recast time of Plunge by 5 seconds"
     },
     {
       "name": "Souleater",
@@ -68,7 +68,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 120.\nCombo Action: Syphon Strike\nCombo Potency: 340\nCombo Bonus: Restores own HP\nCure Potency: 300\nCombo Bonus: Increases Blood Gauge by 20"
+      "description": "Delivers an attack with a potency of 120.\nCombo Action: Syphon Strike\nCombo Potency: 340\nCombo Bonus: Restores own HP\nCure Potency: 300\nCombo Bonus: Increases Blood Gauge by 20"
     },
     {
       "name": "Flood of Darkness",
@@ -78,7 +78,7 @@
       "cast": 0,
       "cooldown": 1,
       "cost": 3000,
-      "effect": "Deals unaspected damage with a potency of 100 to all enemies in a straight line before you.\nAdditional Effect: Grants Darkside, increasing damage dealt by 10%\nDuration: 30s\nExtends Darkside duration by 30s to a maximum of 60s.\nShares a recast timer with Edge of Darkness."
+      "description": "Deals unaspected damage with a potency of 100 to all enemies in a straight line before you.\nAdditional Effect: Grants Darkside, increasing damage dealt by 10%\nDuration: 30s\nExtends Darkside duration by 30s to a maximum of 60s.\nShares a recast timer with Edge of Darkness."
     },
     {
       "name": "Blood Weapon",
@@ -88,7 +88,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Grants 5 stacks of Blood Weapon, each stack increasing Blood Gauge by 10 and restoring MP upon landing weaponskills or spells.\nDuration: 15s\nEffect does not stack when hitting multiple targets with a single attack."
+      "description": "Grants 5 stacks of Blood Weapon, each stack increasing Blood Gauge by 10 and restoring MP upon landing weaponskills or spells.\nDuration: 15s\nEffect does not stack when hitting multiple targets with a single attack."
     },
     {
       "name": "Shadow Wall",
@@ -98,7 +98,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Reduces damage taken by 30%.\nDuration: 15s"
+      "description": "Reduces damage taken by 30%.\nDuration: 15s"
     },
     {
       "name": "Stalwart Soul",
@@ -108,7 +108,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Deals unaspected damage with a potency of 100 to all nearby enemies.\nCombo Action: Unleash\nCombo Potency: 140\nCombo Bonus: Restores MP\nCombo Bonus: Increases Blood Gauge by 20"
+      "description": "Deals unaspected damage with a potency of 100 to all nearby enemies.\nCombo Action: Unleash\nCombo Potency: 140\nCombo Bonus: Restores MP\nCombo Bonus: Increases Blood Gauge by 20"
     },
     {
       "name": "Edge of Darkness",
@@ -118,7 +118,7 @@
       "cast": 0,
       "cooldown": 1,
       "cost": 3000,
-      "effect": "Deals unaspected damage with a potency of 300.\nAdditional Effect: Grants Darkside, increasing damage dealt by 10%\nDuration: 30s\nExtends Darkside duration by 30s to a maximum of 60s.\nShares a recast timer with Flood of Darkness."
+      "description": "Deals unaspected damage with a potency of 300.\nAdditional Effect: Grants Darkside, increasing damage dealt by 10%\nDuration: 30s\nExtends Darkside duration by 30s to a maximum of 60s.\nShares a recast timer with Flood of Darkness."
     },
     {
       "name": "Dark Mind",
@@ -128,7 +128,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Reduces magic vulnerability by 20%.\nDuration: 10s"
+      "description": "Reduces magic vulnerability by 20%.\nDuration: 10s"
     },
     {
       "name": "Living Dead",
@@ -138,7 +138,7 @@
       "cast": 0,
       "cooldown": 300,
       "cost": 0,
-      "effect": "Grants the effect of Living Dead.\nWhen HP is reduced to 0 while under the effect of Living Dead, instead of becoming KO'd, your status will change to Walking Dead.\nLiving Dead Duration: 10s\nAdditional Effect: Restores HP with each weaponskill successfully delivered or spell cast\nCure Potency: 1500\nWhile under the effect of Walking Dead, most attacks will not lower your HP below 1. If, before the Walking Dead timer runs out, an amount of HP totaling your maximum HP is restored, the effect will change to Undead Rebirth. If this amount is not restored, you will be KO'd.\nWalking Dead Duration: 10s\nWhile under the effect of Undead Rebirth, most attacks will not lower your HP below 1.\nUndead Rebirth Duration: Time remaining on Walking Dead"
+      "description": "Grants the effect of Living Dead.\nWhen HP is reduced to 0 while under the effect of Living Dead, instead of becoming KO'd, your status will change to Walking Dead.\nLiving Dead Duration: 10s\nAdditional Effect: Restores HP with each weaponskill successfully delivered or spell cast\nCure Potency: 1500\nWhile under the effect of Walking Dead, most attacks will not lower your HP below 1. If, before the Walking Dead timer runs out, an amount of HP totaling your maximum HP is restored, the effect will change to Undead Rebirth. If this amount is not restored, you will be KO'd.\nWalking Dead Duration: 10s\nWhile under the effect of Undead Rebirth, most attacks will not lower your HP below 1.\nUndead Rebirth Duration: Time remaining on Walking Dead"
     },
     {
       "name": "Salted Earth",
@@ -148,7 +148,7 @@
       "cast": 0,
       "cooldown": 90,
       "cost": 0,
-      "effect": "Creates a patch of salted earth at your feet, dealing unaspected damage with a potency of 50 to any enemies who enter.\nDuration: 15s\n\n※Action changes to Salt and Darkness upon execution."
+      "description": "Creates a patch of salted earth at your feet, dealing unaspected damage with a potency of 50 to any enemies who enter.\nDuration: 15s\n\n※Action changes to Salt and Darkness upon execution."
     },
     {
       "name": "Plunge",
@@ -158,7 +158,7 @@
       "cast": 0,
       "cooldown": 30,
       "cost": 0,
-      "effect": "Delivers a jumping attack with a potency of 150.\nMaximum Charges: 2\nCannot be executed while bound."
+      "description": "Delivers a jumping attack with a potency of 150.\nMaximum Charges: 2\nCannot be executed while bound."
     },
     {
       "name": "Abyssal Drain",
@@ -168,7 +168,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Deals unaspected damage with a potency of 240 to target and all enemies nearby it.\nAdditional Effect: Restores own HP\nCure Potency: 200\nAdditional Effect: Restores MP\nShares a recast timer with Carve and Spit."
+      "description": "Deals unaspected damage with a potency of 240 to target and all enemies nearby it.\nAdditional Effect: Restores own HP\nCure Potency: 200\nAdditional Effect: Restores MP\nShares a recast timer with Carve and Spit."
     },
     {
       "name": "Carve and Spit",
@@ -178,7 +178,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Delivers a threefold attack with a potency of 510.\nAdditional Effect: Restores MP\nShares a recast timer with Abyssal Drain."
+      "description": "Delivers a threefold attack with a potency of 510.\nAdditional Effect: Restores MP\nShares a recast timer with Abyssal Drain."
     },
     {
       "name": "Bloodspiller",
@@ -188,7 +188,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 500.\nBlood Gauge Cost: 50"
+      "description": "Delivers an attack with a potency of 500.\nBlood Gauge Cost: 50"
     },
     {
       "name": "Quietus",
@@ -198,7 +198,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 200 to all nearby enemies.\nBlood Gauge Cost: 50"
+      "description": "Delivers an attack with a potency of 200 to all nearby enemies.\nBlood Gauge Cost: 50"
     },
     {
       "name": "Delirium",
@@ -208,7 +208,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Grants 3 stacks of Delirium, each stack allowing the execution of Quietus or Bloodspiller without Blackblood cost, restoring MP when landing either weaponskill.\nDuration: 15s"
+      "description": "Grants 3 stacks of Delirium, each stack allowing the execution of Quietus or Bloodspiller without Blackblood cost, restoring MP when landing either weaponskill.\nDuration: 15s"
     },
     {
       "name": "The Blackest Night",
@@ -218,7 +218,7 @@
       "cast": 0,
       "cooldown": 15,
       "cost": 3000,
-      "effect": "Creates a barrier around self or target party member that absorbs damage totaling 25% of target's maximum HP.\nDuration: 7s\nGrants Dark Arts when barrier is completely absorbed.\nDark Arts Effect: Consume Dark Arts instead of MP to execute Edge of Shadow or Flood of Shadow"
+      "description": "Creates a barrier around self or target party member that absorbs damage totaling 25% of target's maximum HP.\nDuration: 7s\nGrants Dark Arts when barrier is completely absorbed.\nDark Arts Effect: Consume Dark Arts instead of MP to execute Edge of Shadow or Flood of Shadow"
     },
     {
       "name": "Flood of Shadow",
@@ -228,7 +228,7 @@
       "cast": 0,
       "cooldown": 1,
       "cost": 3000,
-      "effect": "Deals unaspected damage with a potency of 160 to all enemies in a straight line before you.\nAdditional Effect: Grants Darkside, increasing damage dealt by 10%\nDuration: 30s\nExtends Darkside duration by 30s to a maximum of 60s.\nShares a recast timer with Edge of Shadow."
+      "description": "Deals unaspected damage with a potency of 160 to all enemies in a straight line before you.\nAdditional Effect: Grants Darkside, increasing damage dealt by 10%\nDuration: 30s\nExtends Darkside duration by 30s to a maximum of 60s.\nShares a recast timer with Edge of Shadow."
     },
     {
       "name": "Edge of Shadow",
@@ -238,7 +238,7 @@
       "cast": 0,
       "cooldown": 1,
       "cost": 3000,
-      "effect": "Deals unaspected damage with a potency of 460.\nAdditional Effect: Grants Darkside, increasing damage dealt by 10%\nDuration: 30s\nExtends Darkside duration by 30s to a maximum of 60s.\nShares a recast timer with Flood of Shadow."
+      "description": "Deals unaspected damage with a potency of 460.\nAdditional Effect: Grants Darkside, increasing damage dealt by 10%\nDuration: 30s\nExtends Darkside duration by 30s to a maximum of 60s.\nShares a recast timer with Flood of Shadow."
     },
     {
       "name": "Dark Missionary",
@@ -248,7 +248,7 @@
       "cast": 0,
       "cooldown": 90,
       "cost": 0,
-      "effect": "Reduces magic damage taken by self and nearby party members by 10%.\nDuration: 15s"
+      "description": "Reduces magic damage taken by self and nearby party members by 10%.\nDuration: 15s"
     },
     {
       "name": "Living Shadow",
@@ -258,7 +258,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Conjure a simulacrum of your darkside to fight alongside you.\nSimulacrum Attack Potency: 350\nDuration: 20s\nBlood Gauge Cost: 50\nAdditional Effect: Simulacrum is able to execute Shadowbringer, delivering an attack to all enemies in a straight line before it with a potency of 500 for the first enemy, and 25% less for all remaining enemies."
+      "description": "Conjure a simulacrum of your darkside to fight alongside you.\nSimulacrum Attack Potency: 350\nDuration: 20s\nBlood Gauge Cost: 50\nAdditional Effect: Simulacrum is able to execute Shadowbringer, delivering an attack to all enemies in a straight line before it with a potency of 500 for the first enemy, and 25% less for all remaining enemies."
     },
     {
       "name": "Oblation",
@@ -268,7 +268,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Reduces damage taken by target party member or self by 10%.\nDuration: 10s\nMaximum Charges: 2"
+      "description": "Reduces damage taken by target party member or self by 10%.\nDuration: 10s\nMaximum Charges: 2"
     },
     {
       "name": "Salt and Darkness",
@@ -278,7 +278,7 @@
       "cast": 0,
       "cooldown": 20,
       "cost": 0,
-      "effect": "All enemies standing in the corrupted patch of Salted Earth take additional unaspected damage with a potency of 500 for the first enemy, and 50% less for all remaining enemies.\n\n※This action cannot be assigned to a hotbar."
+      "description": "All enemies standing in the corrupted patch of Salted Earth take additional unaspected damage with a potency of 500 for the first enemy, and 50% less for all remaining enemies.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Shadowbringer",
@@ -288,7 +288,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Deals unaspected damage to all enemies in a straight line before you with a potency of 600 for the first enemy, and 50% less for all remaining enemies.\nMaximum Charges: 2\nCan only be executed while under the effect of Darkside."
+      "description": "Deals unaspected damage to all enemies in a straight line before you with a potency of 600 for the first enemy, and 50% less for all remaining enemies.\nMaximum Charges: 2\nCan only be executed while under the effect of Darkside."
     }
   ],
   "roleActions": [
@@ -300,7 +300,7 @@
       "cast": 0,
       "cooldown": 90,
       "cost": 0,
-      "effect": "Reduces damage taken by 20%.\nDuration: 20s"
+      "description": "Reduces damage taken by 20%.\nDuration: 20s"
     },
     {
       "name": "Low Blow",
@@ -310,7 +310,7 @@
       "cast": 0,
       "cooldown": 25,
       "cost": 0,
-      "effect": "Stuns target.\nDuration: 5s"
+      "description": "Stuns target.\nDuration: 5s"
     },
     {
       "name": "Provoke",
@@ -320,7 +320,7 @@
       "cast": 0,
       "cooldown": 30,
       "cost": 0,
-      "effect": "Gesture threateningly, placing yourself at the top of a target's enmity list while gaining additional enmity."
+      "description": "Gesture threateningly, placing yourself at the top of a target's enmity list while gaining additional enmity."
     },
     {
       "name": "Interject",
@@ -330,7 +330,7 @@
       "cast": 0,
       "cooldown": 30,
       "cost": 0,
-      "effect": "Interrupts the use of a target's action."
+      "description": "Interrupts the use of a target's action."
     },
     {
       "name": "Reprisal",
@@ -340,7 +340,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Reduces damage dealt by nearby enemies by 10%.\nDuration: 10s"
+      "description": "Reduces damage dealt by nearby enemies by 10%.\nDuration: 10s"
     },
     {
       "name": "Arm's Length",
@@ -350,7 +350,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Creates a barrier nullifying most knockback and draw-in effects.\nDuration: 6s\nAdditional Effect: Slow +20% when barrier is struck\nDuration: 15s"
+      "description": "Creates a barrier nullifying most knockback and draw-in effects.\nDuration: 6s\nAdditional Effect: Slow +20% when barrier is struck\nDuration: 15s"
     },
     {
       "name": "Shirk",
@@ -360,54 +360,54 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Diverts 25% of enmity to target party member."
+      "description": "Diverts 25% of enmity to target party member."
     }
   ],
   "traits": [
     {
       "name": "Tank Mastery",
       "lvl": 1,
-      "effect": "Reduces damage taken by 20%. Furthermore, grants a bonus to maximum HP based on your vitality attribute, and a bonus to damage dealt based on your strength attribute."
+      "description": "Reduces damage taken by 20%. Furthermore, grants a bonus to maximum HP based on your vitality attribute, and a bonus to damage dealt based on your strength attribute."
     },
     {
       "name": "Blackblood",
       "lvl": 62,
-      "effect": "Allows for Blood Gauge accumulation upon the landing of certain actions."
+      "description": "Allows for Blood Gauge accumulation upon the landing of certain actions."
     },
     {
       "name": "Enhanced Blackblood",
       "lvl": 66,
-      "effect": "Allows for Blood Gauge accumulation upon the landing of any weaponskill or spell while under the effect of Blood Weapon."
+      "description": "Allows for Blood Gauge accumulation upon the landing of any weaponskill or spell while under the effect of Blood Weapon."
     },
     {
       "name": "Darkside Mastery",
       "lvl": 74,
-      "effect": "Upgrades Flood of Darkness and Edge of Darkness to Flood of Shadow and Edge of Shadow respectively."
+      "description": "Upgrades Flood of Darkness and Edge of Darkness to Flood of Shadow and Edge of Shadow respectively."
     },
     {
       "name": "Enhanced Plunge",
       "lvl": 78,
-      "effect": "Allows the accumulation of charges for consecutive uses of Plunge.\nMaximum Charges: 2"
+      "description": "Allows the accumulation of charges for consecutive uses of Plunge.\nMaximum Charges: 2"
     },
     {
       "name": "Enhanced Unmend",
       "lvl": 84,
-      "effect": "Reduces recast time of Plunge by 5 seconds when executing Unmend on most targets."
+      "description": "Reduces recast time of Plunge by 5 seconds when executing Unmend on most targets."
     },
     {
       "name": "Melee Mastery",
       "lvl": 84,
-      "effect": "Increases the potency of Hard Slash to 170, Syphon Strike to 120, and Souleater to 120."
+      "description": "Increases the potency of Hard Slash to 170, Syphon Strike to 120, and Souleater to 120."
     },
     {
       "name": "Enhanced Living Shadow",
       "lvl": 88,
-      "effect": "Increases the potency of attacks dealt by your simulacrum to 350."
+      "description": "Increases the potency of attacks dealt by your simulacrum to 350."
     },
     {
       "name": "Enhanced Living Shadow II",
       "lvl": 90,
-      "effect": "Upgrades Flood of Shadow executed by your simulacrum to Shadowbringer, which delivers an attack to all enemies in a straight line before it with a potency of 500 for the first enemy, and 25% less for all remaining enemies."
+      "description": "Upgrades Flood of Shadow executed by your simulacrum to Shadowbringer, which delivers an attack to all enemies in a straight line before it with a potency of 500 for the first enemy, and 25% less for all remaining enemies."
     }
   ]
 }

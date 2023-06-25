@@ -8,7 +8,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 200."
+      "description": "Delivers an attack with a potency of 200."
     },
     {
       "name": "No Mercy",
@@ -18,7 +18,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Increases damage dealt by 20%.\nDuration: 20s"
+      "description": "Increases damage dealt by 20%.\nDuration: 20s"
     },
     {
       "name": "Brutal Shell",
@@ -28,7 +28,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 160.\nCombo Action: Keen Edge\nCombo Potency: 300\nCombo Bonus: Restores own HP\nCure Potency: 200\nCombo Bonus: Creates a barrier which nullifies damage equaling HP restored\nDuration: 30s"
+      "description": "Delivers an attack with a potency of 160.\nCombo Action: Keen Edge\nCombo Potency: 300\nCombo Bonus: Restores own HP\nCure Potency: 200\nCombo Bonus: Creates a barrier which nullifies damage equaling HP restored\nDuration: 30s"
     },
     {
       "name": "Camouflage",
@@ -38,7 +38,7 @@
       "cast": 0,
       "cooldown": 90,
       "cost": 0,
-      "effect": "Increases parry rate by 50% while reducing damage taken by 10%.\nDuration: 20s"
+      "description": "Increases parry rate by 50% while reducing damage taken by 10%.\nDuration: 20s"
     },
     {
       "name": "Demon Slice",
@@ -48,7 +48,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 100 to all nearby enemies."
+      "description": "Delivers an attack with a potency of 100 to all nearby enemies."
     },
     {
       "name": "Royal Guard",
@@ -58,7 +58,7 @@
       "cast": 0,
       "cooldown": 2,
       "cost": 0,
-      "effect": "Significantly increases enmity generation.\nEffect ends upon reuse."
+      "description": "Significantly increases enmity generation.\nEffect ends upon reuse."
     },
     {
       "name": "Release Royal Guard",
@@ -68,7 +68,7 @@
       "cast": 0,
       "cooldown": 1,
       "cost": 0,
-      "effect": "Cancels the effect of Royal Guard."
+      "description": "Cancels the effect of Royal Guard."
     },
     {
       "name": "Lightning Shot",
@@ -78,7 +78,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers a ranged attack with a potency of 150.\nAdditional Effect: Increased enmity"
+      "description": "Delivers a ranged attack with a potency of 150.\nAdditional Effect: Increased enmity"
     },
     {
       "name": "Danger Zone",
@@ -88,7 +88,7 @@
       "cast": 0,
       "cooldown": 30,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 250."
+      "description": "Delivers an attack with a potency of 250."
     },
     {
       "name": "Solid Barrel",
@@ -98,7 +98,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 140.\nCombo Action: Brutal Shell\nCombo Potency: 360\nCombo Bonus: Adds a Cartridge to your Powder Gauge"
+      "description": "Delivers an attack with a potency of 140.\nCombo Action: Brutal Shell\nCombo Potency: 360\nCombo Bonus: Adds a Cartridge to your Powder Gauge"
     },
     {
       "name": "Burst Strike",
@@ -108,7 +108,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 380.\nAdditional Effect: Grants Ready to Blast\nDuration: 10s\nEffect of Ready to Blast ends upon execution of any weaponskill.\nCartridge Cost: 1"
+      "description": "Delivers an attack with a potency of 380.\nAdditional Effect: Grants Ready to Blast\nDuration: 10s\nEffect of Ready to Blast ends upon execution of any weaponskill.\nCartridge Cost: 1"
     },
     {
       "name": "Nebula",
@@ -118,7 +118,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Reduces damage taken by 30%.\nDuration: 15s"
+      "description": "Reduces damage taken by 30%.\nDuration: 15s"
     },
     {
       "name": "Demon Slaughter",
@@ -128,7 +128,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 100 to all nearby enemies.\nCombo Action: Demon Slice\nCombo Potency: 160\nCombo Bonus: Adds a Cartridge to your Powder Gauge"
+      "description": "Delivers an attack with a potency of 100 to all nearby enemies.\nCombo Action: Demon Slice\nCombo Potency: 160\nCombo Bonus: Adds a Cartridge to your Powder Gauge"
     },
     {
       "name": "Aurora",
@@ -138,7 +138,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Grants Regen to target.\nCure Potency: 200\nDuration: 18s\nMaximum Charges: 2"
+      "description": "Grants Regen to target.\nCure Potency: 200\nDuration: 18s\nMaximum Charges: 2"
     },
     {
       "name": "Superbolide",
@@ -148,7 +148,7 @@
       "cast": 0,
       "cooldown": 360,
       "cost": 0,
-      "effect": "Reduces HP to 1 and renders you impervious to most attacks.\nDuration: 10s"
+      "description": "Reduces HP to 1 and renders you impervious to most attacks.\nDuration: 10s"
     },
     {
       "name": "Sonic Break",
@@ -158,7 +158,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 300.\nAdditional Effect: Damage over time\nPotency: 60\nDuration: 30s\nThis weaponskill does not share a recast timer with any other actions."
+      "description": "Delivers an attack with a potency of 300.\nAdditional Effect: Damage over time\nPotency: 60\nDuration: 30s\nThis weaponskill does not share a recast timer with any other actions."
     },
     {
       "name": "Rough Divide",
@@ -168,7 +168,7 @@
       "cast": 0,
       "cooldown": 30,
       "cost": 0,
-      "effect": "Delivers a jumping attack with a potency of 150.\nMaximum Charges: 2\nCannot be executed while bound."
+      "description": "Delivers a jumping attack with a potency of 150.\nMaximum Charges: 2\nCannot be executed while bound."
     },
     {
       "name": "Gnashing Fang",
@@ -178,7 +178,7 @@
       "cast": 0,
       "cooldown": 30,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 380.\nAdditional Effect: Grants Ready to Rip\nDuration: 10s\nEffect of Ready to Rip ends upon execution of any weaponskill.\nCartridge Cost: 1\nThis weaponskill does not share a recast timer with any other actions."
+      "description": "Delivers an attack with a potency of 380.\nAdditional Effect: Grants Ready to Rip\nDuration: 10s\nEffect of Ready to Rip ends upon execution of any weaponskill.\nCartridge Cost: 1\nThis weaponskill does not share a recast timer with any other actions."
     },
     {
       "name": "Savage Claw",
@@ -188,7 +188,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 460.\nCombo Action: Gnashing Fang\nCombo Bonus: Grants Ready to Tear\nDuration: 10s\nEffect of Ready to Tear ends upon execution of any weaponskill.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Delivers an attack with a potency of 460.\nCombo Action: Gnashing Fang\nCombo Bonus: Grants Ready to Tear\nDuration: 10s\nEffect of Ready to Tear ends upon execution of any weaponskill.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Wicked Talon",
@@ -198,7 +198,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 540.\nCombo Action: Savage Claw\nCombo Bonus: Grants Ready to Gouge\nDuration: 10s\nEffect of Ready to Gouge ends upon execution of any weaponskill.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Delivers an attack with a potency of 540.\nCombo Action: Savage Claw\nCombo Bonus: Grants Ready to Gouge\nDuration: 10s\nEffect of Ready to Gouge ends upon execution of any weaponskill.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Bow Shock",
@@ -208,7 +208,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 150 to all nearby enemies.\nAdditional Effect: Damage over time\nPotency: 60\nDuration: 15s"
+      "description": "Delivers an attack with a potency of 150 to all nearby enemies.\nAdditional Effect: Damage over time\nPotency: 60\nDuration: 15s"
     },
     {
       "name": "Heart of Light",
@@ -218,7 +218,7 @@
       "cast": 0,
       "cooldown": 90,
       "cost": 0,
-      "effect": "Reduces magic damage taken by self and nearby party members by 10%.\nDuration: 15s"
+      "description": "Reduces magic damage taken by self and nearby party members by 10%.\nDuration: 15s"
     },
     {
       "name": "Heart of Stone",
@@ -228,7 +228,7 @@
       "cast": 0,
       "cooldown": 25,
       "cost": 0,
-      "effect": "Reduces damage taken by a party member or self by 15%.\nDuration: 7s\nAdditional Effect: When targeting a party member while under the effect of Brutal Shell, that effect is also granted to the target\nDuration: 30s"
+      "description": "Reduces damage taken by a party member or self by 15%.\nDuration: 7s\nAdditional Effect: When targeting a party member while under the effect of Brutal Shell, that effect is also granted to the target\nDuration: 30s"
     },
     {
       "name": "Continuation",
@@ -238,7 +238,7 @@
       "cast": 0,
       "cooldown": 1,
       "cost": 0,
-      "effect": "Allows the firing of successive rounds with your gunblade.\nGnashing Fang may be followed by Jugular Rip.\nSavage Claw may be followed by Abdomen Tear.\nWicked Talon may be followed by Eye Gouge.\nBurst Strike may be followed by Hypervelocity."
+      "description": "Allows the firing of successive rounds with your gunblade.\nGnashing Fang may be followed by Jugular Rip.\nSavage Claw may be followed by Abdomen Tear.\nWicked Talon may be followed by Eye Gouge.\nBurst Strike may be followed by Hypervelocity."
     },
     {
       "name": "Jugular Rip",
@@ -248,7 +248,7 @@
       "cast": 0,
       "cooldown": 1,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 200.\nCan only be executed when Ready to Rip.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Delivers an attack with a potency of 200.\nCan only be executed when Ready to Rip.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Abdomen Tear",
@@ -258,7 +258,7 @@
       "cast": 0,
       "cooldown": 1,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 240.\nCan only be executed when Ready to Tear.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Delivers an attack with a potency of 240.\nCan only be executed when Ready to Tear.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Eye Gouge",
@@ -268,7 +268,7 @@
       "cast": 0,
       "cooldown": 1,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 280.\nCan only be executed when Ready to Gouge.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Delivers an attack with a potency of 280.\nCan only be executed when Ready to Gouge.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Fated Circle",
@@ -278,7 +278,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 300 to all nearby enemies.\nCartridge Cost: 1"
+      "description": "Delivers an attack with a potency of 300 to all nearby enemies.\nCartridge Cost: 1"
     },
     {
       "name": "Bloodfest",
@@ -288,7 +288,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Draws aetheric energy from target, adding 3 Cartridges to your Powder Gauge."
+      "description": "Draws aetheric energy from target, adding 3 Cartridges to your Powder Gauge."
     },
     {
       "name": "Blasting Zone",
@@ -298,7 +298,7 @@
       "cast": 0,
       "cooldown": 30,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 720."
+      "description": "Delivers an attack with a potency of 720."
     },
     {
       "name": "Heart of Corundum",
@@ -308,7 +308,7 @@
       "cast": 0,
       "cooldown": 25,
       "cost": 0,
-      "effect": "Reduces damage taken by target party member or self by 15%.\nDuration: 8s\nAdditional Effect: When targeting a party member while under the effect of Brutal Shell, that effect is also granted to the target\nDuration: 30s\nAdditional Effect: Grants Clarity of Corundum to target\nClarity of Corundum Effect: Reduces damage taken by 15%\nDuration: 4s\nAdditional Effect: Grants Catharsis of Corundum to target\nCatharsis of Corundum Effect: Restores HP when HP falls below 50% or upon effect duration expiration\nCure Potency: 900\nDuration: 20s"
+      "description": "Reduces damage taken by target party member or self by 15%.\nDuration: 8s\nAdditional Effect: When targeting a party member while under the effect of Brutal Shell, that effect is also granted to the target\nDuration: 30s\nAdditional Effect: Grants Clarity of Corundum to target\nClarity of Corundum Effect: Reduces damage taken by 15%\nDuration: 4s\nAdditional Effect: Grants Catharsis of Corundum to target\nCatharsis of Corundum Effect: Restores HP when HP falls below 50% or upon effect duration expiration\nCure Potency: 900\nDuration: 20s"
     },
     {
       "name": "Hypervelocity",
@@ -318,7 +318,7 @@
       "cast": 0,
       "cooldown": 1,
       "cost": 0,
-      "effect": "Delivers an attack with a potency of 180.\nCan only be executed when Ready to Blast.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Delivers an attack with a potency of 180.\nCan only be executed when Ready to Blast.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Double Down",
@@ -328,7 +328,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Delivers an attack to all nearby enemies with a potency of 1,200 for the first enemy, and 15% less for all remaining enemies.\nCartridge Cost: 2\nThis weaponskill does not share a recast timer with any other actions."
+      "description": "Delivers an attack to all nearby enemies with a potency of 1,200 for the first enemy, and 15% less for all remaining enemies.\nCartridge Cost: 2\nThis weaponskill does not share a recast timer with any other actions."
     }
   ],
   "roleActions": [
@@ -340,7 +340,7 @@
       "cast": 0,
       "cooldown": 90,
       "cost": 0,
-      "effect": "Reduces damage taken by 20%.\nDuration: 20s"
+      "description": "Reduces damage taken by 20%.\nDuration: 20s"
     },
     {
       "name": "Low Blow",
@@ -350,7 +350,7 @@
       "cast": 0,
       "cooldown": 25,
       "cost": 0,
-      "effect": "Stuns target.\nDuration: 5s"
+      "description": "Stuns target.\nDuration: 5s"
     },
     {
       "name": "Provoke",
@@ -360,7 +360,7 @@
       "cast": 0,
       "cooldown": 30,
       "cost": 0,
-      "effect": "Gesture threateningly, placing yourself at the top of a target's enmity list while gaining additional enmity."
+      "description": "Gesture threateningly, placing yourself at the top of a target's enmity list while gaining additional enmity."
     },
     {
       "name": "Interject",
@@ -370,7 +370,7 @@
       "cast": 0,
       "cooldown": 30,
       "cost": 0,
-      "effect": "Interrupts the use of a target's action."
+      "description": "Interrupts the use of a target's action."
     },
     {
       "name": "Reprisal",
@@ -380,7 +380,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Reduces damage dealt by nearby enemies by 10%.\nDuration: 10s"
+      "description": "Reduces damage dealt by nearby enemies by 10%.\nDuration: 10s"
     },
     {
       "name": "Arm's Length",
@@ -390,7 +390,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Creates a barrier nullifying most knockback and draw-in effects.\nDuration: 6s\nAdditional Effect: Slow +20% when barrier is struck\nDuration: 15s"
+      "description": "Creates a barrier nullifying most knockback and draw-in effects.\nDuration: 6s\nAdditional Effect: Slow +20% when barrier is struck\nDuration: 15s"
     },
     {
       "name": "Shirk",
@@ -400,54 +400,54 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Diverts 25% of enmity to target party member."
+      "description": "Diverts 25% of enmity to target party member."
     }
   ],
   "traits": [
     {
       "name": "Tank Mastery",
       "lvl": 1,
-      "effect": "Reduces damage taken by 20%. Furthermore, grants a bonus to maximum HP based on your vitality attribute, and a bonus to damage dealt based on your strength attribute."
+      "description": "Reduces damage taken by 20%. Furthermore, grants a bonus to maximum HP based on your vitality attribute, and a bonus to damage dealt based on your strength attribute."
     },
     {
       "name": "Cartridge Charge",
       "lvl": 30,
-      "effect": "Stores a Cartridge in your Powder Gauge after successfully completing a combo with Solid Barrel.\nMaximum Cartridges: 2"
+      "description": "Stores a Cartridge in your Powder Gauge after successfully completing a combo with Solid Barrel.\nMaximum Cartridges: 2"
     },
     {
       "name": "Enhanced Brutal Shell",
       "lvl": 52,
-      "effect": "Grants the effect of Brutal Shell after successfully completing a combo with Brutal Shell.\nDuration: 30s"
+      "description": "Grants the effect of Brutal Shell after successfully completing a combo with Brutal Shell.\nDuration: 30s"
     },
     {
       "name": "Danger Zone Mastery",
       "lvl": 80,
-      "effect": "Upgrades Danger Zone to Blasting Zone."
+      "description": "Upgrades Danger Zone to Blasting Zone."
     },
     {
       "name": "Heart of Stone Mastery",
       "lvl": 82,
-      "effect": "Upgrades Heart of Stone to Heart of Corundum."
+      "description": "Upgrades Heart of Stone to Heart of Corundum."
     },
     {
       "name": "Enhanced Aurora",
       "lvl": 84,
-      "effect": "Allows the accumulation of charges for consecutive uses of Aurora.\nMaximum Charges: 2"
+      "description": "Allows the accumulation of charges for consecutive uses of Aurora.\nMaximum Charges: 2"
     },
     {
       "name": "Melee Mastery",
       "lvl": 84,
-      "effect": "Increases the potency of Keen Edge to 200, Brutal Shell to 160, and Solid Barrel to 140."
+      "description": "Increases the potency of Keen Edge to 200, Brutal Shell to 160, and Solid Barrel to 140."
     },
     {
       "name": "Enhanced Continuation",
       "lvl": 86,
-      "effect": "Become Ready to Blast after executing Burst Strike.\nDuration: 10s"
+      "description": "Become Ready to Blast after executing Burst Strike.\nDuration: 10s"
     },
     {
       "name": "Cartridge Charge II",
       "lvl": 88,
-      "effect": "Increases Powder Gauge capacity to 3 Cartridges.\nExecuting Bloodfest stores 3 Cartridges."
+      "description": "Increases Powder Gauge capacity to 3 Cartridges.\nExecuting Bloodfest stores 3 Cartridges."
     }
   ]
 }

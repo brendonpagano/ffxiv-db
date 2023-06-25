@@ -8,7 +8,7 @@
       "cast": 1.5,
       "cooldown": 2.5,
       "cost": 300,
-      "effect": "Deals unaspected damage with a potency of 240."
+      "description": "Deals unaspected damage with a potency of 240."
     },
     {
       "name": "Summon Carbuncle",
@@ -18,7 +18,7 @@
       "cast": 1.5,
       "cooldown": 2.5,
       "cost": 400,
-      "effect": "Summons Carbuncle to your side."
+      "description": "Summons Carbuncle to your side."
     },
     {
       "name": "Radiant Aegis",
@@ -28,7 +28,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Orders Carbuncle to execute Radiant Aegis.\nRadiant Aegis Effect: Creates a barrier around self that absorbs damage totaling 20% of your maximum HP\nDuration: 30s\nMaximum Charges: 2\nCan only be executed while Carbuncle is summoned."
+      "description": "Orders Carbuncle to execute Radiant Aegis.\nRadiant Aegis Effect: Creates a barrier around self that absorbs damage totaling 20% of your maximum HP\nDuration: 30s\nMaximum Charges: 2\nCan only be executed while Carbuncle is summoned."
     },
     {
       "name": "Physick",
@@ -38,7 +38,7 @@
       "cast": 1.5,
       "cooldown": 2.5,
       "cost": 400,
-      "effect": "Restores target's HP.\nCure Potency: 400"
+      "description": "Restores target's HP.\nCure Potency: 400"
     },
     {
       "name": "Aethercharge",
@@ -48,7 +48,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Grants Aethercharge, increasing the potency of Ruin, Ruin II, and Ruin III by 50, and Outburst by 20.\nDuration: 15s\nAdditional Effect: Grants Ruby Arcanum, Topaz Arcanum, and Emerald Arcanum\nCan only be executed in combat and while Carbuncle is summoned."
+      "description": "Grants Aethercharge, increasing the potency of Ruin, Ruin II, and Ruin III by 50, and Outburst by 20.\nDuration: 15s\nAdditional Effect: Grants Ruby Arcanum, Topaz Arcanum, and Emerald Arcanum\nCan only be executed in combat and while Carbuncle is summoned."
     },
     {
       "name": "Summon Ruby",
@@ -58,7 +58,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Summons Ruby Carbuncle, and orders it to execute Glittering Ruby.\nGlittering Ruby Effect: Rushes target and deals fire damage with a potency of 400\nAdditional Effect: Grants 2 stacks of Fire Attunement\nFire Attunement Effect: Gemshine and Precious Brilliance become fire-aspected\nDuration: 30s\nCan only be executed while under the effect of Ruby Arcanum and Carbuncle is summoned.\nCurrent pet will leave the battlefield while Ruby Carbuncle is present, and return once gone."
+      "description": "Summons Ruby Carbuncle, and orders it to execute Glittering Ruby.\nGlittering Ruby Effect: Rushes target and deals fire damage with a potency of 400\nAdditional Effect: Grants 2 stacks of Fire Attunement\nFire Attunement Effect: Gemshine and Precious Brilliance become fire-aspected\nDuration: 30s\nCan only be executed while under the effect of Ruby Arcanum and Carbuncle is summoned.\nCurrent pet will leave the battlefield while Ruby Carbuncle is present, and return once gone."
     },
     {
       "name": "Gemshine",
@@ -68,7 +68,7 @@
       "cast": 2.5,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Channel the energies of your active elemental attunement to attack your enemy.\nFire Attunement Effect: Deal fire damage to a single target\nEarth Attunement Effect: Deal earth damage to a single target\nWind Attunement Effect: Deal wind damage to a single target"
+      "description": "Channel the energies of your active elemental attunement to attack your enemy.\nFire Attunement Effect: Deal fire damage to a single target\nEarth Attunement Effect: Deal earth damage to a single target\nWind Attunement Effect: Deal wind damage to a single target"
     },
     {
       "name": "Ruby Ruin",
@@ -78,7 +78,7 @@
       "cast": 2.8,
       "cooldown": 3,
       "cost": 300,
-      "effect": "Deals fire damage with a potency of 340.\nFire Attunement Cost: 1\nThis action does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals fire damage with a potency of 340.\nFire Attunement Cost: 1\nThis action does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Fester",
@@ -88,7 +88,7 @@
       "cast": 0,
       "cooldown": 1,
       "cost": 0,
-      "effect": "Deals unaspected damage with a potency of 340.\nAetherflow Gauge Cost: 1"
+      "description": "Deals unaspected damage with a potency of 340.\nAetherflow Gauge Cost: 1"
     },
     {
       "name": "Energy Drain",
@@ -98,7 +98,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Deals unaspected damage with a potency of 200.\nAdditional Effect: Aetherflow II\nAdditional Effect: Grants Further Ruin\nDuration: 60s\nShares a recast timer with Energy Siphon."
+      "description": "Deals unaspected damage with a potency of 200.\nAdditional Effect: Aetherflow II\nAdditional Effect: Grants Further Ruin\nDuration: 60s\nShares a recast timer with Energy Siphon."
     },
     {
       "name": "Resurrection",
@@ -108,7 +108,7 @@
       "cast": 8,
       "cooldown": 2.5,
       "cost": 2400,
-      "effect": "Resurrects target to a weakened state."
+      "description": "Resurrects target to a weakened state."
     },
     {
       "name": "Summon Topaz",
@@ -118,7 +118,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Summons Topaz Carbuncle, and orders it to execute Glittering Topaz.\nGlittering Topaz Effect: Rushes target and deals earth damage with a potency of 400\nAdditional Effect: Grants 4 stacks of Earth Attunement\nEarth Attunement Effect: Gemshine and Precious Brilliance become earth-aspected\nDuration: 30s\nCan only be executed while under the effect of Topaz Arcanum and Carbuncle is summoned.\nCurrent pet will leave the battlefield while Topaz Carbuncle is present, and return once gone."
+      "description": "Summons Topaz Carbuncle, and orders it to execute Glittering Topaz.\nGlittering Topaz Effect: Rushes target and deals earth damage with a potency of 400\nAdditional Effect: Grants 4 stacks of Earth Attunement\nEarth Attunement Effect: Gemshine and Precious Brilliance become earth-aspected\nDuration: 30s\nCan only be executed while under the effect of Topaz Arcanum and Carbuncle is summoned.\nCurrent pet will leave the battlefield while Topaz Carbuncle is present, and return once gone."
     },
     {
       "name": "Topaz Ruin",
@@ -128,7 +128,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 300,
-      "effect": "Deals earth damage with a potency of 240.\nEarth Attunement Cost: 1\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals earth damage with a potency of 240.\nEarth Attunement Cost: 1\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Summon Emerald",
@@ -138,7 +138,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Summons Emerald Carbuncle, and orders it to execute Glittering Emerald.\nGlittering Emerald Effect: Deals wind damage with a potency of 400\nAdditional Effect: Grants 4 stacks of Wind Attunement\nWind Attunement Effect: Gemshine and Precious Brilliance become wind-aspected\nDuration: 30s\nCan only be executed while under the effect of Emerald Arcanum and Carbuncle is summoned.\nCurrent pet will leave the battlefield while Emerald Carbuncle is present, and return once gone."
+      "description": "Summons Emerald Carbuncle, and orders it to execute Glittering Emerald.\nGlittering Emerald Effect: Deals wind damage with a potency of 400\nAdditional Effect: Grants 4 stacks of Wind Attunement\nWind Attunement Effect: Gemshine and Precious Brilliance become wind-aspected\nDuration: 30s\nCan only be executed while under the effect of Emerald Arcanum and Carbuncle is summoned.\nCurrent pet will leave the battlefield while Emerald Carbuncle is present, and return once gone."
     },
     {
       "name": "Emerald Ruin",
@@ -148,7 +148,7 @@
       "cast": 0,
       "cooldown": 1.5,
       "cost": 300,
-      "effect": "Deals wind damage with a potency of 160.\nWind Attunement Cost: 1\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals wind damage with a potency of 160.\nWind Attunement Cost: 1\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Outburst",
@@ -158,7 +158,7 @@
       "cast": 1.5,
       "cooldown": 2.5,
       "cost": 300,
-      "effect": "Deals unaspected damage with a potency of 100 to target and all enemies nearby it."
+      "description": "Deals unaspected damage with a potency of 100 to target and all enemies nearby it."
     },
     {
       "name": "Precious Brilliance",
@@ -168,7 +168,7 @@
       "cast": 2.5,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Channel the energies of your active elemental attunement to attack multiple enemies.\nFire Attunement Effect: Deal fire damage to a target and all enemies nearby it\nEarth Attunement Effect: Deal earth damage to a target and all enemies nearby it\nWind Attunement Effect: Deal wind damage to a target and all enemies nearby it"
+      "description": "Channel the energies of your active elemental attunement to attack multiple enemies.\nFire Attunement Effect: Deal fire damage to a target and all enemies nearby it\nEarth Attunement Effect: Deal earth damage to a target and all enemies nearby it\nWind Attunement Effect: Deal wind damage to a target and all enemies nearby it"
     },
     {
       "name": "Ruby Outburst",
@@ -178,7 +178,7 @@
       "cast": 2.8,
       "cooldown": 3,
       "cost": 300,
-      "effect": "Deals fire damage with a potency of 160 to target and all enemies nearby it.\nFire Attunement Cost: 1\nThis action does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals fire damage with a potency of 160 to target and all enemies nearby it.\nFire Attunement Cost: 1\nThis action does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Topaz Outburst",
@@ -188,7 +188,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 300,
-      "effect": "Deals earth damage with a potency of 110 to target and all enemies nearby it.\nEarth Attunement Cost: 1\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals earth damage with a potency of 110 to target and all enemies nearby it.\nEarth Attunement Cost: 1\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Emerald Outburst",
@@ -198,7 +198,7 @@
       "cast": 0,
       "cooldown": 1.5,
       "cost": 300,
-      "effect": "Deals wind damage with a potency of 70 to target and all enemies nearby it.\nWind Attunement Cost: 1\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals wind damage with a potency of 70 to target and all enemies nearby it.\nWind Attunement Cost: 1\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Ruin II",
@@ -208,7 +208,7 @@
       "cast": 1.5,
       "cooldown": 2.5,
       "cost": 300,
-      "effect": "Deals unaspected damage with a potency of 270."
+      "description": "Deals unaspected damage with a potency of 270."
     },
     {
       "name": "Summon Ifrit",
@@ -218,7 +218,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Summons Ifrit-Egi and orders it to execute Inferno.\nInferno Effect: Rushes forward and deals fire damage to all enemies in a 5-yalm cone before it with a potency of 600 for the first enemy, and 60% less for all remaining enemies\nAdditional Effect: Grants 2 stacks of Fire Attunement\nFire Attunement Effect: Gemshine and Precious Brilliance become fire-aspected\nDuration: 30s\nAdditional Effect: Grants Ifrit's Favor\nEffect of Ifrit's Favor ends upon execution of certain summoner actions.\nCan only be executed while under the effect of Ruby Arcanum and Carbuncle is summoned.\nCurrent pet will leave the battlefield while Ifrit-Egi is present, and return once gone."
+      "description": "Summons Ifrit-Egi and orders it to execute Inferno.\nInferno Effect: Rushes forward and deals fire damage to all enemies in a 5-yalm cone before it with a potency of 600 for the first enemy, and 60% less for all remaining enemies\nAdditional Effect: Grants 2 stacks of Fire Attunement\nFire Attunement Effect: Gemshine and Precious Brilliance become fire-aspected\nDuration: 30s\nAdditional Effect: Grants Ifrit's Favor\nEffect of Ifrit's Favor ends upon execution of certain summoner actions.\nCan only be executed while under the effect of Ruby Arcanum and Carbuncle is summoned.\nCurrent pet will leave the battlefield while Ifrit-Egi is present, and return once gone."
     },
     {
       "name": "Ruby Ruin II",
@@ -228,7 +228,7 @@
       "cast": 2.8,
       "cooldown": 3,
       "cost": 300,
-      "effect": "Deals fire damage with a potency of 380.\nFire Attunement Cost: 1\nThis action does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals fire damage with a potency of 380.\nFire Attunement Cost: 1\nThis action does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Topaz Ruin II",
@@ -238,7 +238,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 300,
-      "effect": "Deals earth damage with a potency of 270.\nEarth Attunement Cost: 1\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals earth damage with a potency of 270.\nEarth Attunement Cost: 1\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Emerald Ruin II",
@@ -248,7 +248,7 @@
       "cast": 0,
       "cooldown": 1.5,
       "cost": 300,
-      "effect": "Deals wind damage with a potency of 170.\nWind Attunement Cost: 1\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals wind damage with a potency of 170.\nWind Attunement Cost: 1\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Summon Titan",
@@ -258,7 +258,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Summons Titan-Egi and orders it to execute Earthen Fury.\nEarthen Fury Effect: Rushes forward and deals earth damage to all enemies within 5 yalms with a potency of 600 for the first enemy, and 60% less for all remaining enemies\nAdditional Effect: Grants 4 stacks of Earth Attunement\nEarth Attunement Effect: Gemshine and Precious Brilliance become earth-aspected\nDuration: 30s\nCan only be executed while under the effect of Topaz Arcanum and Carbuncle is summoned.\nCurrent pet will leave the battlefield while Titan-Egi is present, and return once gone."
+      "description": "Summons Titan-Egi and orders it to execute Earthen Fury.\nEarthen Fury Effect: Rushes forward and deals earth damage to all enemies within 5 yalms with a potency of 600 for the first enemy, and 60% less for all remaining enemies\nAdditional Effect: Grants 4 stacks of Earth Attunement\nEarth Attunement Effect: Gemshine and Precious Brilliance become earth-aspected\nDuration: 30s\nCan only be executed while under the effect of Topaz Arcanum and Carbuncle is summoned.\nCurrent pet will leave the battlefield while Titan-Egi is present, and return once gone."
     },
     {
       "name": "Painflare",
@@ -268,7 +268,7 @@
       "cast": 0,
       "cooldown": 1,
       "cost": 0,
-      "effect": "Deals unaspected damage with a potency of 150 to target and all enemies nearby it.\nAetherflow Gauge Cost: 1"
+      "description": "Deals unaspected damage with a potency of 150 to target and all enemies nearby it.\nAetherflow Gauge Cost: 1"
     },
     {
       "name": "Summon Garuda",
@@ -278,7 +278,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Summons Garuda-Egi and orders it to execute Aerial Blast.\nAerial Blast Effect: Deals wind damage to target and all enemies within 5 yalms with a potency of 600 for the first enemy, and 60% less for all remaining enemies\nAdditional Effect: Grants 4 stacks of Wind Attunement\nWind Attunement Effect: Gemshine and Precious Brilliance become wind-aspected\nDuration: 30s\nAdditional Effect: Grants Garuda's Favor\nEffect of Garuda's Favor ends upon execution of certain summoner actions.\nCan only be executed while under the effect of Emerald Arcanum and Carbuncle is summoned.\nCurrent pet will leave the battlefield while Garuda-Egi is present, and return once gone."
+      "description": "Summons Garuda-Egi and orders it to execute Aerial Blast.\nAerial Blast Effect: Deals wind damage to target and all enemies within 5 yalms with a potency of 600 for the first enemy, and 60% less for all remaining enemies\nAdditional Effect: Grants 4 stacks of Wind Attunement\nWind Attunement Effect: Gemshine and Precious Brilliance become wind-aspected\nDuration: 30s\nAdditional Effect: Grants Garuda's Favor\nEffect of Garuda's Favor ends upon execution of certain summoner actions.\nCan only be executed while under the effect of Emerald Arcanum and Carbuncle is summoned.\nCurrent pet will leave the battlefield while Garuda-Egi is present, and return once gone."
     },
     {
       "name": "Energy Siphon",
@@ -288,7 +288,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Deals unaspected damage with a potency of 100 to target and all enemies nearby it.\nAdditional Effect: Aetherflow II\nAdditional Effect: Grants Further Ruin\nDuration: 60s\nShares a recast timer with Energy Drain."
+      "description": "Deals unaspected damage with a potency of 100 to target and all enemies nearby it.\nAdditional Effect: Aetherflow II\nAdditional Effect: Grants Further Ruin\nDuration: 60s\nShares a recast timer with Energy Drain."
     },
     {
       "name": "Ruin III",
@@ -298,7 +298,7 @@
       "cast": 1.5,
       "cooldown": 2.5,
       "cost": 300,
-      "effect": "Deals unaspected damage with a potency of 310."
+      "description": "Deals unaspected damage with a potency of 310."
     },
     {
       "name": "Ruby Ruin III",
@@ -308,7 +308,7 @@
       "cast": 2.8,
       "cooldown": 3,
       "cost": 300,
-      "effect": "Deals fire damage with a potency of 410.\nFire Attunement Cost: 1\nThis action does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals fire damage with a potency of 410.\nFire Attunement Cost: 1\nThis action does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Topaz Ruin III",
@@ -318,7 +318,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 300,
-      "effect": "Deals earth damage with a potency of 300.\nEarth Attunement Cost: 1\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals earth damage with a potency of 300.\nEarth Attunement Cost: 1\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Emerald Ruin III",
@@ -328,7 +328,7 @@
       "cast": 0,
       "cooldown": 1.5,
       "cost": 300,
-      "effect": "Deals wind damage with a potency of 180.\nWind Attunement Cost: 1\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals wind damage with a potency of 180.\nWind Attunement Cost: 1\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Dreadwyrm Trance",
@@ -338,7 +338,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Enters Dreadwyrm Trance.\nDuration: 15s\nAdditional Effect: Changes Ruin III to Astral Impulse and Outburst to Astral Flare\nAdditional Effect: Grants Ruby Arcanum, Topaz Arcanum, and Emerald Arcanum\nCan only be executed in combat and while Carbuncle is summoned.\nThis action does not share a recast timer with any other actions."
+      "description": "Enters Dreadwyrm Trance.\nDuration: 15s\nAdditional Effect: Changes Ruin III to Astral Impulse and Outburst to Astral Flare\nAdditional Effect: Grants Ruby Arcanum, Topaz Arcanum, and Emerald Arcanum\nCan only be executed in combat and while Carbuncle is summoned.\nThis action does not share a recast timer with any other actions."
     },
     {
       "name": "Astral Impulse",
@@ -348,7 +348,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 300,
-      "effect": "Deals unaspected damage with a potency of 440.\nCan only be executed while in Dreadwyrm Trance.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals unaspected damage with a potency of 440.\nCan only be executed while in Dreadwyrm Trance.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Astral Flare",
@@ -358,7 +358,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 300,
-      "effect": "Deals unaspected damage with a potency of 180 to target and all enemies nearby it.\nCan only be executed while in Dreadwyrm Trance.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals unaspected damage with a potency of 180 to target and all enemies nearby it.\nCan only be executed while in Dreadwyrm Trance.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Astral Flow",
@@ -368,7 +368,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Channel the energies of your active trance or elemental favor to perform one of several actions.\nDreadwyrm Trance Effect: Action changes to Deathflare\nFirebird Trance Effect: Action changes to Rekindle\nIfrit's Favor Effect: Action changes to Crimson Cyclone\nTitan's Favor Effect: Action changes to Mountain Buster\nGaruda's Favor Effect: Action changes to Slipstream"
+      "description": "Channel the energies of your active trance or elemental favor to perform one of several actions.\nDreadwyrm Trance Effect: Action changes to Deathflare\nFirebird Trance Effect: Action changes to Rekindle\nIfrit's Favor Effect: Action changes to Crimson Cyclone\nTitan's Favor Effect: Action changes to Mountain Buster\nGaruda's Favor Effect: Action changes to Slipstream"
     },
     {
       "name": "Deathflare",
@@ -378,7 +378,7 @@
       "cast": 0,
       "cooldown": 20,
       "cost": 0,
-      "effect": "Deals unaspected damage to target and all enemies nearby it with a potency of 500 for the first enemy, and 60% less for all remaining enemies.\nCan only be executed while in Dreadwyrm Trance.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals unaspected damage to target and all enemies nearby it with a potency of 500 for the first enemy, and 60% less for all remaining enemies.\nCan only be executed while in Dreadwyrm Trance.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Ruin IV",
@@ -388,7 +388,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 400,
-      "effect": "Deals unaspected damage to target and all enemies nearby it with a potency of 430 for the first enemy, and 60% less for all remaining enemies.\nCan only be executed while under the effect of Further Ruin."
+      "description": "Deals unaspected damage to target and all enemies nearby it with a potency of 430 for the first enemy, and 60% less for all remaining enemies.\nCan only be executed while under the effect of Further Ruin."
     },
     {
       "name": "Searing Light",
@@ -398,7 +398,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Increases damage dealt by self and nearby party members by 3%.\nDuration: 30s"
+      "description": "Increases damage dealt by self and nearby party members by 3%.\nDuration: 30s"
     },
     {
       "name": "Summon Bahamut",
@@ -408,7 +408,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Enters Dreadwyrm Trance and summons Demi-Bahamut to fight your target.\nDemi-Bahamut will execute Wyrmwave automatically on the targets attacked by you after summoning.\nIncreases enmity in target when Demi-Bahamut is summoned.\nDuration: 15s\nAdditional Effect: Changes Ruin III to Astral Impulse and Tri-disaster to Astral Flare\nAdditional Effect: Grants Ruby Arcanum, Topaz Arcanum, and Emerald Arcanum\nCan only be executed in combat and while Carbuncle is summoned.\nThis action does not share a recast timer with any other actions."
+      "description": "Enters Dreadwyrm Trance and summons Demi-Bahamut to fight your target.\nDemi-Bahamut will execute Wyrmwave automatically on the targets attacked by you after summoning.\nIncreases enmity in target when Demi-Bahamut is summoned.\nDuration: 15s\nAdditional Effect: Changes Ruin III to Astral Impulse and Tri-disaster to Astral Flare\nAdditional Effect: Grants Ruby Arcanum, Topaz Arcanum, and Emerald Arcanum\nCan only be executed in combat and while Carbuncle is summoned.\nThis action does not share a recast timer with any other actions."
     },
     {
       "name": "Wyrmwave",
@@ -418,7 +418,7 @@
       "cast": 0,
       "cooldown": 1.5,
       "cost": 0,
-      "effect": "Deals unaspected damage with a potency of 150.\nWill only execute while Demi-Bahamut is summoned.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals unaspected damage with a potency of 150.\nWill only execute while Demi-Bahamut is summoned.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Enkindle Bahamut",
@@ -428,7 +428,7 @@
       "cast": 0,
       "cooldown": 20,
       "cost": 0,
-      "effect": "Orders Demi-Bahamut to execute Akh Morn.\nAkh Morn Effect: Deals unaspected damage to target and all enemies nearby it with a potency of 1,300 for the first enemy, and 60% less for all remaining enemies"
+      "description": "Orders Demi-Bahamut to execute Akh Morn.\nAkh Morn Effect: Deals unaspected damage to target and all enemies nearby it with a potency of 1,300 for the first enemy, and 60% less for all remaining enemies"
     },
     {
       "name": "Akh Morn",
@@ -438,7 +438,7 @@
       "cast": 0,
       "cooldown": 0,
       "cost": 0,
-      "effect": "Deals unaspected damage to target and all enemies nearby it with a potency of 1,300 for the first enemy, and 60% less for all remaining enemies.\nCan only be executed while Demi-Bahamut is summoned.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals unaspected damage to target and all enemies nearby it with a potency of 1,300 for the first enemy, and 60% less for all remaining enemies.\nCan only be executed while Demi-Bahamut is summoned.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Ruby Rite",
@@ -448,7 +448,7 @@
       "cast": 2.8,
       "cooldown": 3,
       "cost": 300,
-      "effect": "Deals fire damage with a potency of 510.\nFire Attunement Cost: 1\nThis action does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals fire damage with a potency of 510.\nFire Attunement Cost: 1\nThis action does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Topaz Rite",
@@ -458,7 +458,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 300,
-      "effect": "Deals earth damage with a potency of 330.\nAdditional Effect: Grants Titan's Favor\nEffect of Titan's Favor ends upon execution of certain summoner actions.\nEarth Attunement Cost: 1\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals earth damage with a potency of 330.\nAdditional Effect: Grants Titan's Favor\nEffect of Titan's Favor ends upon execution of certain summoner actions.\nEarth Attunement Cost: 1\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Emerald Rite",
@@ -468,7 +468,7 @@
       "cast": 0,
       "cooldown": 1.5,
       "cost": 300,
-      "effect": "Deals wind damage with a potency of 230.\nWind Attunement Cost: 1\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals wind damage with a potency of 230.\nWind Attunement Cost: 1\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Tri-disaster",
@@ -478,7 +478,7 @@
       "cast": 1.5,
       "cooldown": 2.5,
       "cost": 300,
-      "effect": "Deals unaspected damage with a potency of 120 to target and all enemies nearby it."
+      "description": "Deals unaspected damage with a potency of 120 to target and all enemies nearby it."
     },
     {
       "name": "Ruby Disaster",
@@ -488,7 +488,7 @@
       "cast": 2.8,
       "cooldown": 3,
       "cost": 300,
-      "effect": "Deals fire damage with a potency of 190 to target and all enemies nearby it.\nFire Attunement Cost: 1\nThis action does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals fire damage with a potency of 190 to target and all enemies nearby it.\nFire Attunement Cost: 1\nThis action does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Topaz Disaster",
@@ -498,7 +498,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 300,
-      "effect": "Deals earth damage with a potency of 130 to target and all enemies nearby it.\nEarth Attunement Cost: 1\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals earth damage with a potency of 130 to target and all enemies nearby it.\nEarth Attunement Cost: 1\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Emerald Disaster",
@@ -508,7 +508,7 @@
       "cast": 0,
       "cooldown": 1.5,
       "cost": 300,
-      "effect": "Deals wind damage with a potency of 90 to target and all enemies nearby it.\nWind Attunement Cost: 1\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals wind damage with a potency of 90 to target and all enemies nearby it.\nWind Attunement Cost: 1\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Fountain of Fire",
@@ -518,7 +518,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 300,
-      "effect": "Deals fire damage with a potency of 540.\nCan only be executed while under the effect of Firebird Trance.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals fire damage with a potency of 540.\nCan only be executed while under the effect of Firebird Trance.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Brand of Purgatory",
@@ -528,7 +528,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 300,
-      "effect": "Deals fire damage with a potency of 240 to target and all enemies nearby it.\nCan only be executed while under the effect of Firebird Trance.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals fire damage with a potency of 240 to target and all enemies nearby it.\nCan only be executed while under the effect of Firebird Trance.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Summon Phoenix",
@@ -538,7 +538,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Enters Firebird Trance and summons Demi-Phoenix to fight by your side, which executes Everlasting Flight as it manifests.\nDemi-Phoenix will execute Scarlet Flame automatically on the targets attacked by you after summoning.\nIncreases enmity in target when Demi-Phoenix is summoned.\nDuration: 15s\nAdditional Effect: Changes Ruin III to Fountain of Fire and Tri-disaster to Brand of Purgatory\nAdditional Effect: Grants Ruby Arcanum, Topaz Arcanum, and Emerald Arcanum\nCan only be executed in combat and while Carbuncle is summoned.\nThis action does not share a recast timer with any other actions."
+      "description": "Enters Firebird Trance and summons Demi-Phoenix to fight by your side, which executes Everlasting Flight as it manifests.\nDemi-Phoenix will execute Scarlet Flame automatically on the targets attacked by you after summoning.\nIncreases enmity in target when Demi-Phoenix is summoned.\nDuration: 15s\nAdditional Effect: Changes Ruin III to Fountain of Fire and Tri-disaster to Brand of Purgatory\nAdditional Effect: Grants Ruby Arcanum, Topaz Arcanum, and Emerald Arcanum\nCan only be executed in combat and while Carbuncle is summoned.\nThis action does not share a recast timer with any other actions."
     },
     {
       "name": "Everlasting Flight",
@@ -548,7 +548,7 @@
       "cast": 0,
       "cooldown": 0,
       "cost": 0,
-      "effect": "Gradually restores own HP and the HP of all nearby party members.\nCure Potency: 100\nDuration: 21s\n\n※This action cannot be assigned to a hotbar."
+      "description": "Gradually restores own HP and the HP of all nearby party members.\nCure Potency: 100\nDuration: 21s\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Rekindle",
@@ -558,7 +558,7 @@
       "cast": 0,
       "cooldown": 20,
       "cost": 0,
-      "effect": "Restores own or target party member's HP.\nCure Potency: 400\nAdditional Effect: Grants Rekindle to target\nDuration: 30s\nRekindle Effect: Healing over time when HP falls below 75% or upon effect duration expiration\nCure Potency: 200\nDuration: 15s\nCan only be executed while in Firebird Trance.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Restores own or target party member's HP.\nCure Potency: 400\nAdditional Effect: Grants Rekindle to target\nDuration: 30s\nRekindle Effect: Healing over time when HP falls below 75% or upon effect duration expiration\nCure Potency: 200\nDuration: 15s\nCan only be executed while in Firebird Trance.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Scarlet Flame",
@@ -568,7 +568,7 @@
       "cast": 0,
       "cooldown": 1.5,
       "cost": 0,
-      "effect": "Deals fire damage with a potency of 150.\nWill only execute while Demi-Phoenix is summoned.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals fire damage with a potency of 150.\nWill only execute while Demi-Phoenix is summoned.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Enkindle Phoenix",
@@ -578,7 +578,7 @@
       "cast": 0,
       "cooldown": 20,
       "cost": 0,
-      "effect": "Orders Demi-Phoenix to execute Revelation.\nRevelation Effect: Deals fire damage to target and all enemies nearby it with a potency of 1,300 for the first enemy, and 60% less for all remaining enemies\nAction replaces Enkindle Bahamut while Demi-Phoenix is summoned.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Orders Demi-Phoenix to execute Revelation.\nRevelation Effect: Deals fire damage to target and all enemies nearby it with a potency of 1,300 for the first enemy, and 60% less for all remaining enemies\nAction replaces Enkindle Bahamut while Demi-Phoenix is summoned.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Revelation",
@@ -588,7 +588,7 @@
       "cast": 0,
       "cooldown": 0,
       "cost": 0,
-      "effect": "Deals fire damage to target and all enemies nearby it with a potency of 1,300 for the first enemy, and 60% less for all remaining enemies.\nCan only be executed while Demi-Phoenix is summoned.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals fire damage to target and all enemies nearby it with a potency of 1,300 for the first enemy, and 60% less for all remaining enemies.\nCan only be executed while Demi-Phoenix is summoned.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Ruby Catastrophe",
@@ -598,7 +598,7 @@
       "cast": 2.8,
       "cooldown": 3,
       "cost": 300,
-      "effect": "Deals fire damage with a potency of 210 to target and all enemies nearby it.\nFire Attunement Cost: 1\nThis action does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals fire damage with a potency of 210 to target and all enemies nearby it.\nFire Attunement Cost: 1\nThis action does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Topaz Catastrophe",
@@ -608,7 +608,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 300,
-      "effect": "Deals earth damage with a potency of 140 to target and all enemies nearby it.\nAdditional Effect: Grants Titan's Favor\nEffect of Titan's Favor ends upon execution of certain summoner actions.\nEarth Attunement Cost: 1\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals earth damage with a potency of 140 to target and all enemies nearby it.\nAdditional Effect: Grants Titan's Favor\nEffect of Titan's Favor ends upon execution of certain summoner actions.\nEarth Attunement Cost: 1\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Emerald Catastrophe",
@@ -618,7 +618,7 @@
       "cast": 0,
       "cooldown": 1.5,
       "cost": 300,
-      "effect": "Deals wind damage with a potency of 100 to target and all enemies nearby it.\nWind Attunement Cost: 1\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals wind damage with a potency of 100 to target and all enemies nearby it.\nWind Attunement Cost: 1\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Crimson Cyclone",
@@ -628,7 +628,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Rushes forward and delivers a fire attack to target and all enemies nearby it with a potency of 430 for the first enemy, and 65% less for all remaining enemies.\nCan only be executed while under the effect of Ifrit's Favor.\nCannot be executed while bound.\n\n※Action changes to Crimson Strike upon execution.\n※This action cannot be assigned to a hotbar."
+      "description": "Rushes forward and delivers a fire attack to target and all enemies nearby it with a potency of 430 for the first enemy, and 65% less for all remaining enemies.\nCan only be executed while under the effect of Ifrit's Favor.\nCannot be executed while bound.\n\n※Action changes to Crimson Strike upon execution.\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Crimson Strike",
@@ -638,7 +638,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Deals fire damage to target and all enemies nearby it with a potency of 430 for the first enemy, and 65% less for all remaining enemies.\nCombo Action: Crimson Cyclone\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals fire damage to target and all enemies nearby it with a potency of 430 for the first enemy, and 65% less for all remaining enemies.\nCombo Action: Crimson Cyclone\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Mountain Buster",
@@ -648,7 +648,7 @@
       "cast": 0,
       "cooldown": 1,
       "cost": 0,
-      "effect": "Deals earth damage to target and all enemies nearby it with a potency of 150 for the first enemy, and 70% less for all remaining enemies.\nCan only be executed while under the effect of Titan's Favor.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals earth damage to target and all enemies nearby it with a potency of 150 for the first enemy, and 70% less for all remaining enemies.\nCan only be executed while under the effect of Titan's Favor.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Slipstream",
@@ -658,7 +658,7 @@
       "cast": 3,
       "cooldown": 3.5,
       "cost": 0,
-      "effect": "Deals wind damage to target and all enemies nearby it with a potency of 430 for the first enemy, and 65% less for all remaining enemies.\nAdditional Effect: Creates a windstorm centered around the target, dealing damage to any enemies who enter\nPotency: 30\nDuration: 15s\nCan only be executed while under the effect of Garuda's Favor.\nThis action does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals wind damage to target and all enemies nearby it with a potency of 430 for the first enemy, and 65% less for all remaining enemies.\nAdditional Effect: Creates a windstorm centered around the target, dealing damage to any enemies who enter\nPotency: 30\nDuration: 15s\nCan only be executed while under the effect of Garuda's Favor.\nThis action does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Summon Ifrit II",
@@ -668,7 +668,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Summons Ruby Ifrit and orders it to execute Inferno.\nInferno Effect: Deals fire damage to target and all enemies within 5 yalms with a potency of 750 for the first enemy, and 60% less for all remaining enemies\nAdditional Effect: Grants 2 stacks of Fire Attunement\nDuration: 30s\nFire Attunement Effect: Gemshine and Precious Brilliance become fire-aspected\nAdditional Effect: Grants Ifrit's Favor\nEffect of Ifrit's Favor ends upon execution of certain summoner actions.\nCan only be executed while under the effect of Ruby Arcanum and Carbuncle is summoned.\nCurrent pet will leave the battlefield while Ruby Ifrit is present, and return once gone."
+      "description": "Summons Ruby Ifrit and orders it to execute Inferno.\nInferno Effect: Deals fire damage to target and all enemies within 5 yalms with a potency of 750 for the first enemy, and 60% less for all remaining enemies\nAdditional Effect: Grants 2 stacks of Fire Attunement\nDuration: 30s\nFire Attunement Effect: Gemshine and Precious Brilliance become fire-aspected\nAdditional Effect: Grants Ifrit's Favor\nEffect of Ifrit's Favor ends upon execution of certain summoner actions.\nCan only be executed while under the effect of Ruby Arcanum and Carbuncle is summoned.\nCurrent pet will leave the battlefield while Ruby Ifrit is present, and return once gone."
     },
     {
       "name": "Summon Titan II",
@@ -678,7 +678,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Summons Topaz Titan and orders it to execute Earthen Fury.\nEarthen Fury Effect: Deals earth damage to target and all enemies within 5 yalms with a potency of 750 for the first enemy, and 60% less for all remaining enemies\nAdditional Effect: Grants 4 stacks of Earth Attunement\nDuration: 30s\nEarth Attunement Effect: Gemshine and Precious Brilliance become earth-aspected\nCan only be executed while under the effect of Topaz Arcanum and Carbuncle is summoned.\nCurrent pet will leave the battlefield while Topaz Titan is present, and return once gone."
+      "description": "Summons Topaz Titan and orders it to execute Earthen Fury.\nEarthen Fury Effect: Deals earth damage to target and all enemies within 5 yalms with a potency of 750 for the first enemy, and 60% less for all remaining enemies\nAdditional Effect: Grants 4 stacks of Earth Attunement\nDuration: 30s\nEarth Attunement Effect: Gemshine and Precious Brilliance become earth-aspected\nCan only be executed while under the effect of Topaz Arcanum and Carbuncle is summoned.\nCurrent pet will leave the battlefield while Topaz Titan is present, and return once gone."
     },
     {
       "name": "Summon Garuda II",
@@ -688,7 +688,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Summons Emerald Garuda and orders it to execute Aerial Blast.\nAerial Blast Effect: Deals wind damage to target and all enemies within 5 yalms with a potency of 750 for the first enemy, and 60% less for all remaining enemies\nAdditional Effect: Grants 4 stacks of Wind Attunement\nDuration: 30s\nWind Attunement Effect: Gemshine and Precious Brilliance become wind-aspected\nAdditional Effect: Grants Garuda's Favor\nEffect of Garuda's Favor ends upon execution of certain summoner actions.\nCan only be executed while under the effect of Emerald Arcanum and Carbuncle is summoned.\nCurrent pet will leave the battlefield while Emerald Garuda is present, and return once gone."
+      "description": "Summons Emerald Garuda and orders it to execute Aerial Blast.\nAerial Blast Effect: Deals wind damage to target and all enemies within 5 yalms with a potency of 750 for the first enemy, and 60% less for all remaining enemies\nAdditional Effect: Grants 4 stacks of Wind Attunement\nDuration: 30s\nWind Attunement Effect: Gemshine and Precious Brilliance become wind-aspected\nAdditional Effect: Grants Garuda's Favor\nEffect of Garuda's Favor ends upon execution of certain summoner actions.\nCan only be executed while under the effect of Emerald Arcanum and Carbuncle is summoned.\nCurrent pet will leave the battlefield while Emerald Garuda is present, and return once gone."
     }
   ],
   "petActions": [
@@ -700,7 +700,7 @@
       "cast": 0,
       "cooldown": 0,
       "cost": 0,
-      "effect": "Creates a barrier around you that absorbs damage totaling 20% of your maximum HP.\nDuration: 30s\n\n※This action cannot be assigned to a hotbar."
+      "description": "Creates a barrier around you that absorbs damage totaling 20% of your maximum HP.\nDuration: 30s\n\n※This action cannot be assigned to a hotbar."
     }
   ],
   "roleActions": [
@@ -712,7 +712,7 @@
       "cast": 0,
       "cooldown": 90,
       "cost": 0,
-      "effect": "Lowers target's physical damage dealt by 5% and magic damage dealt by 10%.\nDuration: 10s"
+      "description": "Lowers target's physical damage dealt by 5% and magic damage dealt by 10%.\nDuration: 10s"
     },
     {
       "name": "Sleep",
@@ -722,7 +722,7 @@
       "cast": 2.5,
       "cooldown": 2.5,
       "cost": 800,
-      "effect": "Puts target and all nearby enemies to sleep.\nDuration: 30s\nCancels auto-attack upon execution."
+      "description": "Puts target and all nearby enemies to sleep.\nDuration: 30s\nCancels auto-attack upon execution."
     },
     {
       "name": "Swiftcast",
@@ -732,7 +732,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Next spell is cast immediately.\nDuration: 10s"
+      "description": "Next spell is cast immediately.\nDuration: 10s"
     },
     {
       "name": "Lucid Dreaming",
@@ -742,7 +742,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Gradually restores own MP.\nPotency: 55\nDuration: 21s"
+      "description": "Gradually restores own MP.\nPotency: 55\nDuration: 21s"
     },
     {
       "name": "Surecast",
@@ -752,114 +752,114 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Spells can be cast without interruption.\nAdditional Effect: Nullifies most knockback and draw-in effects\nDuration: 6s"
+      "description": "Spells can be cast without interruption.\nAdditional Effect: Nullifies most knockback and draw-in effects\nDuration: 6s"
     }
   ],
   "traits": [
     {
       "name": "Enhanced Aethercharge",
       "lvl": 15,
-      "effect": "Grants Ruby Arcanum and Topaz Arcanum upon executing Aethercharge."
+      "description": "Grants Ruby Arcanum and Topaz Arcanum upon executing Aethercharge."
     },
     {
       "name": "Maim and Mend",
       "lvl": 20,
-      "effect": "Increases base action damage and HP restoration by 10%. Also increases base damage and HP restoration of your pet by 10%."
+      "description": "Increases base action damage and HP restoration by 10%. Also increases base damage and HP restoration of your pet by 10%."
     },
     {
       "name": "Enhanced Aethercharge II",
       "lvl": 22,
-      "effect": "Grants Ruby Arcanum, Topaz Arcanum, and Emerald Arcanum upon executing Aethercharge."
+      "description": "Grants Ruby Arcanum, Topaz Arcanum, and Emerald Arcanum upon executing Aethercharge."
     },
     {
       "name": "Ruin Mastery",
       "lvl": 30,
-      "effect": "Upgrades Ruin to Ruin II."
+      "description": "Upgrades Ruin to Ruin II."
     },
     {
       "name": "Ruby Summoning Mastery",
       "lvl": 30,
-      "effect": "Upgrades Summon Ruby to Summon Ifrit."
+      "description": "Upgrades Summon Ruby to Summon Ifrit."
     },
     {
       "name": "Topaz Summoning Mastery",
       "lvl": 35,
-      "effect": "Upgrades Summon Topaz to Summon Titan."
+      "description": "Upgrades Summon Topaz to Summon Titan."
     },
     {
       "name": "Maim and Mend II",
       "lvl": 40,
-      "effect": "Increases base action damage and HP restoration by 30%. Also increases base damage and HP restoration of your pet by 30%."
+      "description": "Increases base action damage and HP restoration by 30%. Also increases base damage and HP restoration of your pet by 30%."
     },
     {
       "name": "Emerald Summoning Mastery",
       "lvl": 45,
-      "effect": "Upgrades Summon Emerald to Summon Garuda."
+      "description": "Upgrades Summon Emerald to Summon Garuda."
     },
     {
       "name": "Enkindle",
       "lvl": 50,
-      "effect": "Enhances the signature attack of summons, upgrading Ifrit-Egi's Burning Strike to Inferno, Titan-Egi's Rock Buster to Earthen Fury, and Garuda-Egi's Aerial Slash to Aerial Blast."
+      "description": "Enhances the signature attack of summons, upgrading Ifrit-Egi's Burning Strike to Inferno, Titan-Egi's Rock Buster to Earthen Fury, and Garuda-Egi's Aerial Slash to Aerial Blast."
     },
     {
       "name": "Ruin Mastery II",
       "lvl": 54,
-      "effect": "Upgrades Ruin II to Ruin III."
+      "description": "Upgrades Ruin II to Ruin III."
     },
     {
       "name": "Aethercharge Mastery",
       "lvl": 58,
-      "effect": "Upgrades Aethercharge to Dreadwyrm Trance."
+      "description": "Upgrades Aethercharge to Dreadwyrm Trance."
     },
     {
       "name": "Enhanced Energy Siphon",
       "lvl": 62,
-      "effect": "Grants Further Ruin upon executing Energy Drain or Energy Siphon."
+      "description": "Grants Further Ruin upon executing Energy Drain or Energy Siphon."
     },
     {
       "name": "Enhanced Dreadwyrm Trance",
       "lvl": 70,
-      "effect": "Upgrades Dreadwyrm Trance to Summon Bahamut."
+      "description": "Upgrades Dreadwyrm Trance to Summon Bahamut."
     },
     {
       "name": "Ruin Mastery III",
       "lvl": 72,
-      "effect": "Enhances Gemshine according to your current elemental attunement.\nFire Attunement Upgrade: Ruby Rite\nEarth Attunement Upgrade: Topaz Rite\nWind Attunement Upgrade: Emerald Rite"
+      "description": "Enhances Gemshine according to your current elemental attunement.\nFire Attunement Upgrade: Ruby Rite\nEarth Attunement Upgrade: Topaz Rite\nWind Attunement Upgrade: Emerald Rite"
     },
     {
       "name": "Outburst Mastery",
       "lvl": 74,
-      "effect": "Upgrades Outburst to Tri-disaster."
+      "description": "Upgrades Outburst to Tri-disaster."
     },
     {
       "name": "Enhanced Summon Bahamut",
       "lvl": 80,
-      "effect": "Upgrades Summon Bahamut to Summon Phoenix when Demi-Bahamut returns from summoning."
+      "description": "Upgrades Summon Bahamut to Summon Phoenix when Demi-Bahamut returns from summoning."
     },
     {
       "name": "Outburst Mastery II",
       "lvl": 82,
-      "effect": "Enhances Precious Brilliance according to your current elemental attunement.\nFire Attunement Upgrade: Ruby Catastrophe\nEarth Attunement Upgrade: Topaz Catastrophe\nWind Attunement Upgrade: Emerald Catastrophe"
+      "description": "Enhances Precious Brilliance according to your current elemental attunement.\nFire Attunement Upgrade: Ruby Catastrophe\nEarth Attunement Upgrade: Topaz Catastrophe\nWind Attunement Upgrade: Emerald Catastrophe"
     },
     {
       "name": "Ruin Mastery IV",
       "lvl": 84,
-      "effect": "Increases the potency of Ruin III to 310, Ruby Rite to 510, Topaz Rite to 330, and Emerald Rite to 230."
+      "description": "Increases the potency of Ruin III to 310, Ruby Rite to 510, Topaz Rite to 330, and Emerald Rite to 230."
     },
     {
       "name": "Elemental Mastery",
       "lvl": 86,
-      "effect": "Grants Ifrit's Favor upon executing Summon Ifrit, Titan's Favor upon executing Topaz Rite or Topaz Catastrophe, and Garuda's Favor upon executing Summon Garuda.\nEnhances Astral Flow according to your current elemental favor.\nIfrit's Favor Upgrade: Crimson Cyclone\nTitan's Favor Upgrade: Mountain Buster\nGaruda's Favor Upgrade: Slipstream"
+      "description": "Grants Ifrit's Favor upon executing Summon Ifrit, Titan's Favor upon executing Topaz Rite or Topaz Catastrophe, and Garuda's Favor upon executing Summon Garuda.\nEnhances Astral Flow according to your current elemental favor.\nIfrit's Favor Upgrade: Crimson Cyclone\nTitan's Favor Upgrade: Mountain Buster\nGaruda's Favor Upgrade: Slipstream"
     },
     {
       "name": "Enhanced Radiant Aegis",
       "lvl": 88,
-      "effect": "Allows the accumulation of charges for consecutive uses of Radiant Aegis.\nMaximum Charges: 2"
+      "description": "Allows the accumulation of charges for consecutive uses of Radiant Aegis.\nMaximum Charges: 2"
     },
     {
       "name": "Enkindle II",
       "lvl": 90,
-      "effect": "Upgrades Summon Ifrit to Summon Ifrit II, Summon Titan to Summon Titan II, and Summon Garuda to Summon Garuda II."
+      "description": "Upgrades Summon Ifrit to Summon Ifrit II, Summon Titan to Summon Titan II, and Summon Garuda to Summon Garuda II."
     }
   ]
 }

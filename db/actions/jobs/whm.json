@@ -8,7 +8,7 @@
       "cast": 1.5,
       "cooldown": 2.5,
       "cost": 200,
-      "effect": "Deals earth damage with a potency of 140."
+      "description": "Deals earth damage with a potency of 140."
     },
     {
       "name": "Cure",
@@ -18,7 +18,7 @@
       "cast": 1.5,
       "cooldown": 2.5,
       "cost": 400,
-      "effect": "Restores target's HP.\nCure Potency: 500\nAdditional Effect: 15% chance next Cure II will cost no MP\nDuration: 15s"
+      "description": "Restores target's HP.\nCure Potency: 500\nAdditional Effect: 15% chance next Cure II will cost no MP\nDuration: 15s"
     },
     {
       "name": "Aero",
@@ -28,7 +28,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 200,
-      "effect": "Deals wind damage with a potency of 50.\nAdditional Effect: Wind damage over time\nPotency: 30\nDuration: 30s"
+      "description": "Deals wind damage with a potency of 50.\nAdditional Effect: Wind damage over time\nPotency: 30\nDuration: 30s"
     },
     {
       "name": "Medica",
@@ -38,7 +38,7 @@
       "cast": 2,
       "cooldown": 2.5,
       "cost": 900,
-      "effect": "Restores own HP and the HP of all nearby party members.\nCure Potency: 400"
+      "description": "Restores own HP and the HP of all nearby party members.\nCure Potency: 400"
     },
     {
       "name": "Raise",
@@ -48,7 +48,7 @@
       "cast": 8,
       "cooldown": 2.5,
       "cost": 2400,
-      "effect": "Resurrects target to a weakened state."
+      "description": "Resurrects target to a weakened state."
     },
     {
       "name": "Stone II",
@@ -58,7 +58,7 @@
       "cast": 1.5,
       "cooldown": 2.5,
       "cost": 200,
-      "effect": "Deals earth damage with a potency of 190."
+      "description": "Deals earth damage with a potency of 190."
     },
     {
       "name": "Cure II",
@@ -68,7 +68,7 @@
       "cast": 2,
       "cooldown": 2.5,
       "cost": 1000,
-      "effect": "Restores target's HP.\nCure Potency: 800"
+      "description": "Restores target's HP.\nCure Potency: 800"
     },
     {
       "name": "Presence of Mind",
@@ -78,7 +78,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Reduces spell cast time and recast time, and auto-attack delay by 20%.\nDuration: 15s"
+      "description": "Reduces spell cast time and recast time, and auto-attack delay by 20%.\nDuration: 15s"
     },
     {
       "name": "Regen",
@@ -88,7 +88,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 400,
-      "effect": "Grants healing over time effect to target.\nCure Potency: 250\nDuration: 18s"
+      "description": "Grants healing over time effect to target.\nCure Potency: 250\nDuration: 18s"
     },
     {
       "name": "Cure III",
@@ -98,7 +98,7 @@
       "cast": 2,
       "cooldown": 2.5,
       "cost": 1500,
-      "effect": "Restores own or target party member's HP and all party members nearby target.\nCure Potency: 600"
+      "description": "Restores own or target party member's HP and all party members nearby target.\nCure Potency: 600"
     },
     {
       "name": "Holy",
@@ -108,7 +108,7 @@
       "cast": 2.5,
       "cooldown": 2.5,
       "cost": 400,
-      "effect": "Deals unaspected damage with a potency of 140 to all nearby enemies.\nAdditional Effect: Stun\nDuration: 4s"
+      "description": "Deals unaspected damage with a potency of 140 to all nearby enemies.\nAdditional Effect: Stun\nDuration: 4s"
     },
     {
       "name": "Aero II",
@@ -118,7 +118,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 200,
-      "effect": "Deals wind damage with a potency of 50.\nAdditional Effect: Wind damage over time\nPotency: 50\nDuration: 30s"
+      "description": "Deals wind damage with a potency of 50.\nAdditional Effect: Wind damage over time\nPotency: 50\nDuration: 30s"
     },
     {
       "name": "Medica II",
@@ -128,7 +128,7 @@
       "cast": 2,
       "cooldown": 2.5,
       "cost": 1000,
-      "effect": "Restores own HP and the HP of all nearby party members.\nCure Potency: 250\nAdditional Effect: Regen\nCure Potency: 150\nDuration: 15s"
+      "description": "Restores own HP and the HP of all nearby party members.\nCure Potency: 250\nAdditional Effect: Regen\nCure Potency: 150\nDuration: 15s"
     },
     {
       "name": "Benediction",
@@ -138,7 +138,7 @@
       "cast": 0,
       "cooldown": 180,
       "cost": 0,
-      "effect": "Restores all of a target's HP."
+      "description": "Restores all of a target's HP."
     },
     {
       "name": "Afflatus Solace",
@@ -148,7 +148,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Restores target's HP.\nCure Potency: 800\nAdditional Effect: Nourishes the Blood Lily\nHealing Gauge Cost: 1 Lily"
+      "description": "Restores target's HP.\nCure Potency: 800\nAdditional Effect: Nourishes the Blood Lily\nHealing Gauge Cost: 1 Lily"
     },
     {
       "name": "Asylum",
@@ -158,7 +158,7 @@
       "cast": 0,
       "cooldown": 90,
       "cost": 0,
-      "effect": "Envelops a designated area in a veil of succor, granting healing over time to self and any party members who enter.\nCure Potency: 100\nDuration: 24s\nAdditional Effect: Increases HP recovery via healing actions on party members in the designated area by 10%"
+      "description": "Envelops a designated area in a veil of succor, granting healing over time to self and any party members who enter.\nCure Potency: 100\nDuration: 24s\nAdditional Effect: Increases HP recovery via healing actions on party members in the designated area by 10%"
     },
     {
       "name": "Stone III",
@@ -168,7 +168,7 @@
       "cast": 1.5,
       "cooldown": 2.5,
       "cost": 300,
-      "effect": "Deals earth damage with a potency of 220."
+      "description": "Deals earth damage with a potency of 220."
     },
     {
       "name": "Assize",
@@ -178,7 +178,7 @@
       "cast": 0,
       "cooldown": 40,
       "cost": 0,
-      "effect": "Deals unaspected damage with a potency of 400 to all nearby enemies.\nAdditional Effect: Restores own HP and the HP of nearby party members\nCure Potency: 400\nAdditional Effect: Restores 5% of maximum MP"
+      "description": "Deals unaspected damage with a potency of 400 to all nearby enemies.\nAdditional Effect: Restores own HP and the HP of nearby party members\nCure Potency: 400\nAdditional Effect: Restores 5% of maximum MP"
     },
     {
       "name": "Thin Air",
@@ -188,7 +188,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Next action is executed without MP cost.\nDuration: 12s\nMaximum Charges: 2"
+      "description": "Next action is executed without MP cost.\nDuration: 12s\nMaximum Charges: 2"
     },
     {
       "name": "Tetragrammaton",
@@ -198,7 +198,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Restores target's HP.\nCure Potency: 700"
+      "description": "Restores target's HP.\nCure Potency: 700"
     },
     {
       "name": "Stone IV",
@@ -208,7 +208,7 @@
       "cast": 1.5,
       "cooldown": 2.5,
       "cost": 400,
-      "effect": "Deals earth damage with a potency of 260."
+      "description": "Deals earth damage with a potency of 260."
     },
     {
       "name": "Divine Benison",
@@ -218,7 +218,7 @@
       "cast": 0,
       "cooldown": 30,
       "cost": 0,
-      "effect": "Creates a barrier around self or target party member that absorbs damage equivalent to a heal of 500 potency.\nDuration: 15s\nMaximum Charges: 2"
+      "description": "Creates a barrier around self or target party member that absorbs damage equivalent to a heal of 500 potency.\nDuration: 15s\nMaximum Charges: 2"
     },
     {
       "name": "Plenary Indulgence",
@@ -228,7 +228,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Grants Confession to self and nearby party members.\nUpon receiving HP recovery via Medica, Medica II, Cure III, or Afflatus Rapture cast by self, Confession triggers an additional healing effect.\nCure Potency: 200\nDuration: 10s"
+      "description": "Grants Confession to self and nearby party members.\nUpon receiving HP recovery via Medica, Medica II, Cure III, or Afflatus Rapture cast by self, Confession triggers an additional healing effect.\nCure Potency: 200\nDuration: 10s"
     },
     {
       "name": "Dia",
@@ -238,7 +238,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 400,
-      "effect": "Deals unaspected damage with a potency of 65.\nAdditional Effect: Unaspected damage over time\nPotency: 65\nDuration: 30s"
+      "description": "Deals unaspected damage with a potency of 65.\nAdditional Effect: Unaspected damage over time\nPotency: 65\nDuration: 30s"
     },
     {
       "name": "Glare",
@@ -248,7 +248,7 @@
       "cast": 1.5,
       "cooldown": 2.5,
       "cost": 400,
-      "effect": "Deals unaspected damage with a potency of 290."
+      "description": "Deals unaspected damage with a potency of 290."
     },
     {
       "name": "Afflatus Misery",
@@ -258,7 +258,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Deals unaspected damage to target and all enemies nearby it with a potency of 1,240 for the first enemy, and 50% less for all remaining enemies.\nCan only be executed when the Blood Lily is in full bloom."
+      "description": "Deals unaspected damage to target and all enemies nearby it with a potency of 1,240 for the first enemy, and 50% less for all remaining enemies.\nCan only be executed when the Blood Lily is in full bloom."
     },
     {
       "name": "Afflatus Rapture",
@@ -268,7 +268,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "effect": "Restores own HP and the HP of all nearby party members.\nCure Potency: 400\nAdditional Effect: Nourishes the Blood Lily\nHealing Gauge Cost: 1 Lily"
+      "description": "Restores own HP and the HP of all nearby party members.\nCure Potency: 400\nAdditional Effect: Nourishes the Blood Lily\nHealing Gauge Cost: 1 Lily"
     },
     {
       "name": "Temperance",
@@ -278,7 +278,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Increases healing magic potency by 20%, while reducing damage taken by self and all party members within a radius of 50 yalms by 10%.\nDuration: 20s"
+      "description": "Increases healing magic potency by 20%, while reducing damage taken by self and all party members within a radius of 50 yalms by 10%.\nDuration: 20s"
     },
     {
       "name": "Glare III",
@@ -288,7 +288,7 @@
       "cast": 1.5,
       "cooldown": 2.5,
       "cost": 400,
-      "effect": "Deals unaspected damage with a potency of 310."
+      "description": "Deals unaspected damage with a potency of 310."
     },
     {
       "name": "Holy III",
@@ -298,7 +298,7 @@
       "cast": 2.5,
       "cooldown": 2.5,
       "cost": 400,
-      "effect": "Deals unaspected damage with a potency of 150 to all nearby enemies.\nAdditional Effect: Stun\nDuration: 4s"
+      "description": "Deals unaspected damage with a potency of 150 to all nearby enemies.\nAdditional Effect: Stun\nDuration: 4s"
     },
     {
       "name": "Aquaveil",
@@ -308,7 +308,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Reduces damage taken by a party member or self by 15%.\nDuration: 8s"
+      "description": "Reduces damage taken by a party member or self by 15%.\nDuration: 8s"
     },
     {
       "name": "Liturgy of the Bell",
@@ -318,7 +318,7 @@
       "cast": 0,
       "cooldown": 180,
       "cost": 0,
-      "effect": "Places a healing blossom at the designated location and grants 5 stacks of Liturgy of the Bell to self.\nDuration: 20s\nTaking damage will expend 1 stack of Liturgy of the Bell to heal self and all party members within a radius of 20 yalms.\nCure Potency: 400\nThe effect of this action can only be triggered once per second.\nAny remaining stacks of Liturgy of the Bell will trigger an additional healing effect when time expires or upon executing this action a second time.\nCure Potency: 200 for every remaining stack of Liturgy of the Bell\nThis action does not share a recast timer with any other actions."
+      "description": "Places a healing blossom at the designated location and grants 5 stacks of Liturgy of the Bell to self.\nDuration: 20s\nTaking damage will expend 1 stack of Liturgy of the Bell to heal self and all party members within a radius of 20 yalms.\nCure Potency: 400\nThe effect of this action can only be triggered once per second.\nAny remaining stacks of Liturgy of the Bell will trigger an additional healing effect when time expires or upon executing this action a second time.\nCure Potency: 200 for every remaining stack of Liturgy of the Bell\nThis action does not share a recast timer with any other actions."
     }
   ],
   "roleActions": [
@@ -330,7 +330,7 @@
       "cast": 2.5,
       "cooldown": 2.5,
       "cost": 600,
-      "effect": "Afflicts target with Sleep.\nDuration: 30s\nCancels auto-attack upon execution."
+      "description": "Afflicts target with Sleep.\nDuration: 30s\nCancels auto-attack upon execution."
     },
     {
       "name": "Esuna",
@@ -340,7 +340,7 @@
       "cast": 1,
       "cooldown": 2.5,
       "cost": 400,
-      "effect": "Removes a single detrimental effect from target."
+      "description": "Removes a single detrimental effect from target."
     },
     {
       "name": "Swiftcast",
@@ -350,7 +350,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Next spell is cast immediately.\nDuration: 10s"
+      "description": "Next spell is cast immediately.\nDuration: 10s"
     },
     {
       "name": "Lucid Dreaming",
@@ -360,7 +360,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Gradually restores own MP.\nPotency: 55\nDuration: 21s"
+      "description": "Gradually restores own MP.\nPotency: 55\nDuration: 21s"
     },
     {
       "name": "Surecast",
@@ -370,7 +370,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Spells can be cast without interruption.\nAdditional Effect: Nullifies most knockback and draw-in effects\nDuration: 6s"
+      "description": "Spells can be cast without interruption.\nAdditional Effect: Nullifies most knockback and draw-in effects\nDuration: 6s"
     },
     {
       "name": "Rescue",
@@ -380,89 +380,89 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Instantly draws target party member to your side. Cannot be used outside of combat or when target is suffering from certain enfeeblements."
+      "description": "Instantly draws target party member to your side. Cannot be used outside of combat or when target is suffering from certain enfeeblements."
     }
   ],
   "traits": [
     {
       "name": "Stone Mastery",
       "lvl": 18,
-      "effect": "Upgrades Stone to Stone II."
+      "description": "Upgrades Stone to Stone II."
     },
     {
       "name": "Maim and Mend",
       "lvl": 20,
-      "effect": "Increases base action damage and HP restoration by 10%."
+      "description": "Increases base action damage and HP restoration by 10%."
     },
     {
       "name": "Freecure",
       "lvl": 32,
-      "effect": "Grants a 15% chance that after casting Cure, the MP cost for your next Cure II will be 0.\nDuration: 15s"
+      "description": "Grants a 15% chance that after casting Cure, the MP cost for your next Cure II will be 0.\nDuration: 15s"
     },
     {
       "name": "Maim and Mend II",
       "lvl": 40,
-      "effect": "Increases base action damage and HP restoration by 30%."
+      "description": "Increases base action damage and HP restoration by 30%."
     },
     {
       "name": "Aero Mastery",
       "lvl": 46,
-      "effect": "Upgrades Aero to Aero II."
+      "description": "Upgrades Aero to Aero II."
     },
     {
       "name": "Secret of the Lily",
       "lvl": 52,
-      "effect": "Adds a Lily to your Healing Gauge for every 20 seconds you are engaged in combat, up to a maximum of 3."
+      "description": "Adds a Lily to your Healing Gauge for every 20 seconds you are engaged in combat, up to a maximum of 3."
     },
     {
       "name": "Stone Mastery II",
       "lvl": 54,
-      "effect": "Upgrades Stone II to Stone III."
+      "description": "Upgrades Stone II to Stone III."
     },
     {
       "name": "Stone Mastery III",
       "lvl": 64,
-      "effect": "Upgrades Stone III to Stone IV."
+      "description": "Upgrades Stone III to Stone IV."
     },
     {
       "name": "Aero Mastery II",
       "lvl": 72,
-      "effect": "Upgrades Aero II to Dia."
+      "description": "Upgrades Aero II to Dia."
     },
     {
       "name": "Stone Mastery IV",
       "lvl": 72,
-      "effect": "Upgrades Stone IV to Glare."
+      "description": "Upgrades Stone IV to Glare."
     },
     {
       "name": "Transcendent Afflatus",
       "lvl": 74,
-      "effect": "Adds a Blood Lily to the Healing Gauge that blooms after three uses of Afflatus Solace or Afflatus Rapture."
+      "description": "Adds a Blood Lily to the Healing Gauge that blooms after three uses of Afflatus Solace or Afflatus Rapture."
     },
     {
       "name": "Enhanced Asylum",
       "lvl": 78,
-      "effect": "Adds an additional effect to Asylum that increases HP recovery via healing actions by 10%."
+      "description": "Adds an additional effect to Asylum that increases HP recovery via healing actions by 10%."
     },
     {
       "name": "Glare Mastery",
       "lvl": 82,
-      "effect": "Upgrades Glare to Glare III."
+      "description": "Upgrades Glare to Glare III."
     },
     {
       "name": "Holy Mastery",
       "lvl": 82,
-      "effect": "Upgrades Holy to Holy III."
+      "description": "Upgrades Holy to Holy III."
     },
     {
       "name": "Enhanced Healing Magic",
       "lvl": 85,
-      "effect": "Increases the healing potency of Cure to 500, Medica to 400, Cure II to 800, Regen to 250, Cure III to 600, Medica II to 250, Medica II's Regen effect to 150, Afflatus Solace to 800, and Afflatus Rapture to 400."
+      "description": "Increases the healing potency of Cure to 500, Medica to 400, Cure II to 800, Regen to 250, Cure III to 600, Medica II to 250, Medica II's Regen effect to 150, Afflatus Solace to 800, and Afflatus Rapture to 400."
     },
     {
       "name": "Enhanced Divine Benison",
       "lvl": 88,
-      "effect": "Allows the accumulation of charges for consecutive uses of Divine Benison.\nMaximum Charges: 2"
+      "description": "Allows the accumulation of charges for consecutive uses of Divine Benison.\nMaximum Charges: 2"
     }
   ]
 }

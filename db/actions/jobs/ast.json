@@ -8,7 +8,7 @@
       "cast": 1.5,
       "cooldown": 2.5,
       "cost": 400,
-      "effect": "Deals unaspected damage with a potency of 150."
+      "description": "Deals unaspected damage with a potency of 150."
     },
     {
       "name": "Benefic",
@@ -18,7 +18,7 @@
       "cast": 1.5,
       "cooldown": 2.5,
       "cost": 400,
-      "effect": "Restores target's HP.\nCure Potency: 500\nAdditional Effect: 15% chance next Benefic II will restore critical HP\nDuration: 15s"
+      "description": "Restores target's HP.\nCure Potency: 500\nAdditional Effect: 15% chance next Benefic II will restore critical HP\nDuration: 15s"
     },
     {
       "name": "Combust",
@@ -28,7 +28,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 400,
-      "effect": "Deals unaspected damage over time.\nPotency: 40\nDuration: 30s"
+      "description": "Deals unaspected damage over time.\nPotency: 40\nDuration: 30s"
     },
     {
       "name": "Lightspeed",
@@ -38,7 +38,7 @@
       "cast": 0,
       "cooldown": 90,
       "cost": 0,
-      "effect": "Reduces cast times for spells by 2.5 seconds.\nDuration: 15s"
+      "description": "Reduces cast times for spells by 2.5 seconds.\nDuration: 15s"
     },
     {
       "name": "Helios",
@@ -48,7 +48,7 @@
       "cast": 1.5,
       "cooldown": 2.5,
       "cost": 700,
-      "effect": "Restores own HP and the HP of all nearby party members.\nCure Potency: 400"
+      "description": "Restores own HP and the HP of all nearby party members.\nCure Potency: 400"
     },
     {
       "name": "Ascend",
@@ -58,7 +58,7 @@
       "cast": 8,
       "cooldown": 2.5,
       "cost": 2400,
-      "effect": "Resurrects target to a weakened state."
+      "description": "Resurrects target to a weakened state."
     },
     {
       "name": "Essential Dignity",
@@ -68,7 +68,7 @@
       "cast": 0,
       "cooldown": 40,
       "cost": 0,
-      "effect": "Restores target's HP.\nCure Potency: 400\nPotency increases up to 900 as the target's HP decreases, reaching its maximum value when the target has 30% HP or less.\nMaximum Charges: 2"
+      "description": "Restores target's HP.\nCure Potency: 400\nPotency increases up to 900 as the target's HP decreases, reaching its maximum value when the target has 30% HP or less.\nMaximum Charges: 2"
     },
     {
       "name": "Benefic II",
@@ -78,7 +78,7 @@
       "cast": 1.5,
       "cooldown": 2.5,
       "cost": 700,
-      "effect": "Restores target's HP.\nCure Potency: 800"
+      "description": "Restores target's HP.\nCure Potency: 800"
     },
     {
       "name": "Draw",
@@ -88,7 +88,7 @@
       "cast": 0,
       "cooldown": 30,
       "cost": 0,
-      "effect": "Draws a card (arcanum) from your divining deck. Only one arcanum can be drawn at a time.\nArcanum effect can be triggered using the action Play.\nAdditional Effect: Restores 5% of maximum MP\nAdditional Effect: Grants Clarifying Draw, allowing the execution of Redraw\nMaximum Charges: 2"
+      "description": "Draws a card (arcanum) from your divining deck. Only one arcanum can be drawn at a time.\nArcanum effect can be triggered using the action Play.\nAdditional Effect: Restores 5% of maximum MP\nAdditional Effect: Grants Clarifying Draw, allowing the execution of Redraw\nMaximum Charges: 2"
     },
     {
       "name": "Undraw",
@@ -98,7 +98,7 @@
       "cast": 0,
       "cooldown": 1,
       "cost": 0,
-      "effect": "Returns the currently drawn arcanum back to your deck."
+      "description": "Returns the currently drawn arcanum back to your deck."
     },
     {
       "name": "Play",
@@ -108,7 +108,7 @@
       "cast": 0,
       "cooldown": 1,
       "cost": 0,
-      "effect": "Triggers the effect of your drawn arcanum."
+      "description": "Triggers the effect of your drawn arcanum."
     },
     {
       "name": "Aspected Benefic",
@@ -118,7 +118,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 400,
-      "effect": "Restores target's HP.\nCure Potency: 250\nAdditional Effect: Regen\nCure Potency: 250\nDuration: 15s"
+      "description": "Restores target's HP.\nCure Potency: 250\nAdditional Effect: Regen\nCure Potency: 250\nDuration: 15s"
     },
     {
       "name": "Redraw",
@@ -128,7 +128,7 @@
       "cast": 0,
       "cooldown": 1,
       "cost": 0,
-      "effect": "Draws a different arcanum from your deck.\nCan only be executed while under the effect of Clarifying Draw."
+      "description": "Draws a different arcanum from your deck.\nCan only be executed while under the effect of Clarifying Draw."
     },
     {
       "name": "Aspected Helios",
@@ -138,7 +138,7 @@
       "cast": 1.5,
       "cooldown": 2.5,
       "cost": 800,
-      "effect": "Restores own HP and the HP of all nearby party members.\nCure Potency: 250\nAdditional Effect: Regen\nCure Potency: 150\nDuration: 15s"
+      "description": "Restores own HP and the HP of all nearby party members.\nCure Potency: 250\nAdditional Effect: Regen\nCure Potency: 150\nDuration: 15s"
     },
     {
       "name": "Gravity",
@@ -148,7 +148,7 @@
       "cast": 1.5,
       "cooldown": 2.5,
       "cost": 400,
-      "effect": "Deals unaspected damage with a potency of 120 to target and all enemies nearby it."
+      "description": "Deals unaspected damage with a potency of 120 to target and all enemies nearby it."
     },
     {
       "name": "Combust II",
@@ -158,7 +158,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 400,
-      "effect": "Deals unaspected damage over time.\nPotency: 50\nDuration: 30s"
+      "description": "Deals unaspected damage over time.\nPotency: 50\nDuration: 30s"
     },
     {
       "name": "Synastry",
@@ -168,7 +168,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Generate an aetheric bond with target party member. Each time you cast a single-target healing spell on yourself or a party member, the party member with whom you have the bond will also recover HP equaling 40% of the original spell.\nDuration: 20s"
+      "description": "Generate an aetheric bond with target party member. Each time you cast a single-target healing spell on yourself or a party member, the party member with whom you have the bond will also recover HP equaling 40% of the original spell.\nDuration: 20s"
     },
     {
       "name": "Divination",
@@ -178,7 +178,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Increases damage dealt by self and nearby party members by 6%.\nDuration: 15s"
+      "description": "Increases damage dealt by self and nearby party members by 6%.\nDuration: 15s"
     },
     {
       "name": "Astrodyne",
@@ -188,7 +188,7 @@
       "cast": 0,
       "cooldown": 1,
       "cost": 0,
-      "effect": "Grants an effect using the astrosigns read from your divining deck.\nCan only be executed after reading three astrosigns.\nEffects granted are determined by the number of different types of astrosigns read.\n1 Sign Type: Grants Harmony of Spirit\n2 Sign Types: Grants Harmony of Spirit and Harmony of Body\n3 Sign Types: Grants Harmony of Spirit, Harmony of Body, and Harmony of Mind\nDuration: 15s\nHarmony of Spirit Effect: Gradually restores own MP\nPotency: 50\nHarmony of Body Effect: Reduces spell cast time and recast time, and auto-attack delay by 10%\nHarmony of Mind Effect: Increases damage dealt and healing potency by 5%"
+      "description": "Grants an effect using the astrosigns read from your divining deck.\nCan only be executed after reading three astrosigns.\nEffects granted are determined by the number of different types of astrosigns read.\n1 Sign Type: Grants Harmony of Spirit\n2 Sign Types: Grants Harmony of Spirit and Harmony of Body\n3 Sign Types: Grants Harmony of Spirit, Harmony of Body, and Harmony of Mind\nDuration: 15s\nHarmony of Spirit Effect: Gradually restores own MP\nPotency: 50\nHarmony of Body Effect: Reduces spell cast time and recast time, and auto-attack delay by 10%\nHarmony of Mind Effect: Increases damage dealt and healing potency by 5%"
     },
     {
       "name": "Malefic II",
@@ -198,7 +198,7 @@
       "cast": 1.5,
       "cooldown": 2.5,
       "cost": 400,
-      "effect": "Deals unaspected damage with a potency of 160."
+      "description": "Deals unaspected damage with a potency of 160."
     },
     {
       "name": "Collective Unconscious",
@@ -208,7 +208,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Creates a celestial ring 8 yalms around the caster.\nDuration: 18s\nAdditional Effect: Reduces damage taken by 10% and applies Wheel of Fortune to self and any party members within 30 yalms\nDuration: 5s\nWheel of Fortune Effect: Regen\nCure Potency: 100\nDuration: 15s\nEffects will be applied continuously to self and all party members standing within the celestial ring.\nCollective Unconscious effect ends upon using another action or moving (including facing a different direction).\nCancels auto-attack upon execution."
+      "description": "Creates a celestial ring 8 yalms around the caster.\nDuration: 18s\nAdditional Effect: Reduces damage taken by 10% and applies Wheel of Fortune to self and any party members within 30 yalms\nDuration: 5s\nWheel of Fortune Effect: Regen\nCure Potency: 100\nDuration: 15s\nEffects will be applied continuously to self and all party members standing within the celestial ring.\nCollective Unconscious effect ends upon using another action or moving (including facing a different direction).\nCancels auto-attack upon execution."
     },
     {
       "name": "Celestial Opposition",
@@ -218,7 +218,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Restores own HP and the HP of all nearby party members.\nCure Potency: 200\nAdditional Effect: Regen\nCure Potency: 100\nDuration: 15s"
+      "description": "Restores own HP and the HP of all nearby party members.\nCure Potency: 200\nAdditional Effect: Regen\nCure Potency: 100\nDuration: 15s"
     },
     {
       "name": "Earthly Star",
@@ -228,7 +228,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Deploys an Earthly Star in the designated area and grants the effect of Earthly Dominance.\nDuration: 10s\nExecuting Stellar Detonation while under the effect of Earthly Dominance creates a Stellar Burst dealing unaspected damage with a potency of 205 to all nearby enemies. Also restores own HP and the HP of all nearby party members.\nCure Potency: 540\nAfter 10s, Earthly Dominance effect is changed to Giant Dominance.\nDuration: 10s\nWaiting 10s or executing Stellar Detonation while under the effect of Giant Dominance creates a Stellar Explosion dealing unaspected damage with a potency of 310 to all nearby enemies. Also restores own HP and the HP of all nearby party members.\nCure Potency: 720"
+      "description": "Deploys an Earthly Star in the designated area and grants the effect of Earthly Dominance.\nDuration: 10s\nExecuting Stellar Detonation while under the effect of Earthly Dominance creates a Stellar Burst dealing unaspected damage with a potency of 205 to all nearby enemies. Also restores own HP and the HP of all nearby party members.\nCure Potency: 540\nAfter 10s, Earthly Dominance effect is changed to Giant Dominance.\nDuration: 10s\nWaiting 10s or executing Stellar Detonation while under the effect of Giant Dominance creates a Stellar Explosion dealing unaspected damage with a potency of 310 to all nearby enemies. Also restores own HP and the HP of all nearby party members.\nCure Potency: 720"
     },
     {
       "name": "Stellar Detonation",
@@ -238,7 +238,7 @@
       "cast": 0,
       "cooldown": 3,
       "cost": 0,
-      "effect": "While under the effect of Earthly Dominance, detonates the currently deployed Earthly Star, creating a Stellar Burst that deals unaspected damage with a potency of 205 to all nearby enemies.\nAdditional Effect: Restores own HP and the HP of all nearby party members\nCure Potency: 540\nWhile under the effect of Giant Dominance, detonates the currently deployed Earthly Star, creating a Stellar Explosion that deals unaspected damage with a potency of 310 to all nearby enemies.\nAdditional Effect: Restores own HP and the HP of all nearby party members\nCure Potency: 720"
+      "description": "While under the effect of Earthly Dominance, detonates the currently deployed Earthly Star, creating a Stellar Burst that deals unaspected damage with a potency of 205 to all nearby enemies.\nAdditional Effect: Restores own HP and the HP of all nearby party members\nCure Potency: 540\nWhile under the effect of Giant Dominance, detonates the currently deployed Earthly Star, creating a Stellar Explosion that deals unaspected damage with a potency of 310 to all nearby enemies.\nAdditional Effect: Restores own HP and the HP of all nearby party members\nCure Potency: 720"
     },
     {
       "name": "Malefic III",
@@ -248,7 +248,7 @@
       "cast": 1.5,
       "cooldown": 2.5,
       "cost": 400,
-      "effect": "Deals unaspected damage with a potency of 190."
+      "description": "Deals unaspected damage with a potency of 190."
     },
     {
       "name": "Minor Arcana",
@@ -258,7 +258,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Draws either the Lord of Crowns or the Lady of Crowns from your divining deck.\nAction changes to the drawn arcanum.\nCan only be executed while in combat."
+      "description": "Draws either the Lord of Crowns or the Lady of Crowns from your divining deck.\nAction changes to the drawn arcanum.\nCan only be executed while in combat."
     },
     {
       "name": "Combust III",
@@ -268,7 +268,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 400,
-      "effect": "Deals unaspected damage over time.\nPotency: 55\nDuration: 30s"
+      "description": "Deals unaspected damage over time.\nPotency: 55\nDuration: 30s"
     },
     {
       "name": "Malefic IV",
@@ -278,7 +278,7 @@
       "cast": 1.5,
       "cooldown": 2.5,
       "cost": 400,
-      "effect": "Deals unaspected damage with a potency of 230."
+      "description": "Deals unaspected damage with a potency of 230."
     },
     {
       "name": "Celestial Intersection",
@@ -288,7 +288,7 @@
       "cast": 0,
       "cooldown": 30,
       "cost": 0,
-      "effect": "Restores own or target party member's HP.\nCure Potency: 200\nAdditional Sect Effect: Erects a magicked barrier which nullifies damage equaling 200% of the amount of HP restored\nDuration: 30s\nMaximum Charges: 2"
+      "description": "Restores own or target party member's HP.\nCure Potency: 200\nAdditional Sect Effect: Erects a magicked barrier which nullifies damage equaling 200% of the amount of HP restored\nDuration: 30s\nMaximum Charges: 2"
     },
     {
       "name": "Horoscope",
@@ -298,7 +298,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Reads your fortune and those of nearby party members, granting them Horoscope.\nDuration: 10s\nEffect upgraded to Horoscope Helios upon receiving the effects of Helios or Aspected Helios.\nDuration: 30s\nRestores the HP of those under either effect when the cards are read a second time or the effect expires.\nHoroscope Cure Potency: 200\nHoroscope Helios Cure Potency: 400"
+      "description": "Reads your fortune and those of nearby party members, granting them Horoscope.\nDuration: 10s\nEffect upgraded to Horoscope Helios upon receiving the effects of Helios or Aspected Helios.\nDuration: 30s\nRestores the HP of those under either effect when the cards are read a second time or the effect expires.\nHoroscope Cure Potency: 200\nHoroscope Helios Cure Potency: 400"
     },
     {
       "name": "Horoscope",
@@ -308,7 +308,7 @@
       "cast": 0,
       "cooldown": 1,
       "cost": 0,
-      "effect": "Restores own HP and the HP of all nearby party members.\nPotency is determined by the Horoscope effect of party members. Effect expires upon execution.\nHoroscope Potency: 200\nHoroscope Helios Potency: 400"
+      "description": "Restores own HP and the HP of all nearby party members.\nPotency is determined by the Horoscope effect of party members. Effect expires upon execution.\nHoroscope Potency: 200\nHoroscope Helios Potency: 400"
     },
     {
       "name": "Neutral Sect",
@@ -318,7 +318,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Increases healing magic potency by 20%.\nDuration: 20s\nAdditional Effect: When casting Aspected Benefic or Aspected Helios, erects a magicked barrier which nullifies damage\nAspected Benefic Effect: Nullifies damage equaling 250% of the amount of HP restored\nAspected Helios Effect: Nullifies damage equaling 125% of the amount of HP restored\nDuration: 30s"
+      "description": "Increases healing magic potency by 20%.\nDuration: 20s\nAdditional Effect: When casting Aspected Benefic or Aspected Helios, erects a magicked barrier which nullifies damage\nAspected Benefic Effect: Nullifies damage equaling 250% of the amount of HP restored\nAspected Helios Effect: Nullifies damage equaling 125% of the amount of HP restored\nDuration: 30s"
     },
     {
       "name": "Fall Malefic",
@@ -328,7 +328,7 @@
       "cast": 1.5,
       "cooldown": 2.5,
       "cost": 400,
-      "effect": "Deals unaspected damage with a potency of 250."
+      "description": "Deals unaspected damage with a potency of 250."
     },
     {
       "name": "Gravity II",
@@ -338,7 +338,7 @@
       "cast": 1.5,
       "cooldown": 2.5,
       "cost": 400,
-      "effect": "Deals unaspected damage with a potency of 130 to target and all enemies nearby it."
+      "description": "Deals unaspected damage with a potency of 130 to target and all enemies nearby it."
     },
     {
       "name": "Exaltation",
@@ -348,7 +348,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Reduces damage taken by self or target party member by 10%.\nDuration: 8s\nAdditional Effect: Restores HP at the end of the effect's duration\nCure Potency: 500"
+      "description": "Reduces damage taken by self or target party member by 10%.\nDuration: 8s\nAdditional Effect: Restores HP at the end of the effect's duration\nCure Potency: 500"
     },
     {
       "name": "Macrocosmos",
@@ -358,7 +358,7 @@
       "cast": 0,
       "cooldown": 180,
       "cost": 600,
-      "effect": "Deals unaspected damage to all nearby enemies with a potency of 250 for the first enemy, and 40% less for all remaining enemies.\nAdditional Effect: Grants Macrocosmos to self and all nearby party members\nDuration: 15s\nAction changes to Microcosmos upon execution.\nFor the effect's duration, 50% of damage taken is compiled.\nRestores HP equal to a cure of 200 potency plus compiled damage when the effect expires or upon execution of Microcosmos.\nAmount restored cannot exceed the target's maximum HP.\nRecast timer cannot be affected by status effects or gear attributes."
+      "description": "Deals unaspected damage to all nearby enemies with a potency of 250 for the first enemy, and 40% less for all remaining enemies.\nAdditional Effect: Grants Macrocosmos to self and all nearby party members\nDuration: 15s\nAction changes to Microcosmos upon execution.\nFor the effect's duration, 50% of damage taken is compiled.\nRestores HP equal to a cure of 200 potency plus compiled damage when the effect expires or upon execution of Microcosmos.\nAmount restored cannot exceed the target's maximum HP.\nRecast timer cannot be affected by status effects or gear attributes."
     },
     {
       "name": "Microcosmos",
@@ -368,7 +368,7 @@
       "cast": 0,
       "cooldown": 1,
       "cost": 0,
-      "effect": "Triggers the healing effect of Macrocosmos, restoring HP equal to a cure of 200 potency plus 50% of compiled damage.\nAmount restored cannot exceed the target's maximum HP."
+      "description": "Triggers the healing effect of Macrocosmos, restoring HP equal to a cure of 200 potency plus 50% of compiled damage.\nAmount restored cannot exceed the target's maximum HP."
     }
   ],
   "roleActions": [
@@ -380,7 +380,7 @@
       "cast": 2.5,
       "cooldown": 2.5,
       "cost": 600,
-      "effect": "Afflicts target with Sleep.\nDuration: 30s\nCancels auto-attack upon execution."
+      "description": "Afflicts target with Sleep.\nDuration: 30s\nCancels auto-attack upon execution."
     },
     {
       "name": "Esuna",
@@ -390,7 +390,7 @@
       "cast": 1,
       "cooldown": 2.5,
       "cost": 400,
-      "effect": "Removes a single detrimental effect from target."
+      "description": "Removes a single detrimental effect from target."
     },
     {
       "name": "Swiftcast",
@@ -400,7 +400,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Next spell is cast immediately.\nDuration: 10s"
+      "description": "Next spell is cast immediately.\nDuration: 10s"
     },
     {
       "name": "Lucid Dreaming",
@@ -410,7 +410,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Gradually restores own MP.\nPotency: 55\nDuration: 21s"
+      "description": "Gradually restores own MP.\nPotency: 55\nDuration: 21s"
     },
     {
       "name": "Surecast",
@@ -420,7 +420,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Spells can be cast without interruption.\nAdditional Effect: Nullifies most knockback and draw-in effects\nDuration: 6s"
+      "description": "Spells can be cast without interruption.\nAdditional Effect: Nullifies most knockback and draw-in effects\nDuration: 6s"
     },
     {
       "name": "Rescue",
@@ -430,89 +430,89 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Instantly draws target party member to your side. Cannot be used outside of combat or when target is suffering from certain enfeeblements."
+      "description": "Instantly draws target party member to your side. Cannot be used outside of combat or when target is suffering from certain enfeeblements."
     }
   ],
   "traits": [
     {
       "name": "Maim and Mend",
       "lvl": 20,
-      "effect": "Increases base action damage and HP restoration by 10%."
+      "description": "Increases base action damage and HP restoration by 10%."
     },
     {
       "name": "Enhanced Benefic",
       "lvl": 36,
-      "effect": "Grants a 15% chance that your next Benefic II will restore critical HP.\nDuration: 15s"
+      "description": "Grants a 15% chance that your next Benefic II will restore critical HP.\nDuration: 15s"
     },
     {
       "name": "Maim and Mend II",
       "lvl": 40,
-      "effect": "Increases base action damage and HP restoration by 30%."
+      "description": "Increases base action damage and HP restoration by 30%."
     },
     {
       "name": "Enhanced Draw",
       "lvl": 40,
-      "effect": "Grants Clarifying Draw after executing Draw."
+      "description": "Grants Clarifying Draw after executing Draw."
     },
     {
       "name": "Combust Mastery",
       "lvl": 46,
-      "effect": "Upgrades Combust to Combust II."
+      "description": "Upgrades Combust to Combust II."
     },
     {
       "name": "Enhanced Draw II",
       "lvl": 50,
-      "effect": "Grants a Solar Sign, Lunar Sign, or Celestial Sign according to your arcanum played in combat."
+      "description": "Grants a Solar Sign, Lunar Sign, or Celestial Sign according to your arcanum played in combat."
     },
     {
       "name": "Malefic Mastery",
       "lvl": 54,
-      "effect": "Upgrades Malefic to Malefic II."
+      "description": "Upgrades Malefic to Malefic II."
     },
     {
       "name": "Malefic Mastery II",
       "lvl": 64,
-      "effect": "Upgrades Malefic II to Malefic III."
+      "description": "Upgrades Malefic II to Malefic III."
     },
     {
       "name": "Hyper Lightspeed",
       "lvl": 68,
-      "effect": "Reduces Lightspeed recast time to 90 seconds."
+      "description": "Reduces Lightspeed recast time to 90 seconds."
     },
     {
       "name": "Combust Mastery II",
       "lvl": 72,
-      "effect": "Upgrades Combust II to Combust III."
+      "description": "Upgrades Combust II to Combust III."
     },
     {
       "name": "Malefic Mastery III",
       "lvl": 72,
-      "effect": "Upgrades Malefic III to Malefic IV."
+      "description": "Upgrades Malefic III to Malefic IV."
     },
     {
       "name": "Enhanced Essential Dignity",
       "lvl": 78,
-      "effect": "Allows the accumulation of charges for consecutive uses of Essential Dignity.\nMaximum Charges: 2"
+      "description": "Allows the accumulation of charges for consecutive uses of Essential Dignity.\nMaximum Charges: 2"
     },
     {
       "name": "Malefic Mastery IV",
       "lvl": 82,
-      "effect": "Upgrades Malefic IV to Fall Malefic."
+      "description": "Upgrades Malefic IV to Fall Malefic."
     },
     {
       "name": "Gravity Mastery",
       "lvl": 82,
-      "effect": "Upgrades Gravity to Gravity II."
+      "description": "Upgrades Gravity to Gravity II."
     },
     {
       "name": "Enhanced Healing Magic",
       "lvl": 85,
-      "effect": "Increases the healing potency of Benefic to 500, Helios to 400, Benefic II to 800, Aspected Benefic to 250, Aspected Benefic's Regen effect to 250, Aspected Helios to 250, and Aspected Helios's Regen effect to 150."
+      "description": "Increases the healing potency of Benefic to 500, Helios to 400, Benefic II to 800, Aspected Benefic to 250, Aspected Benefic's Regen effect to 250, Aspected Helios to 250, and Aspected Helios's Regen effect to 150."
     },
     {
       "name": "Enhanced Celestial Intersection",
       "lvl": 88,
-      "effect": "Allows the accumulation of charges for consecutive uses of Celestial Intersection.\nMaximum Charges: 2"
+      "description": "Allows the accumulation of charges for consecutive uses of Celestial Intersection.\nMaximum Charges: 2"
     }
   ]
 }

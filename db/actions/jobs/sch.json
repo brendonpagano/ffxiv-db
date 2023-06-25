@@ -8,7 +8,7 @@
       "cast": 1.5,
       "cooldown": 2.5,
       "cost": 300,
-      "effect": "Deals unaspected damage with a potency of 150."
+      "description": "Deals unaspected damage with a potency of 150."
     },
     {
       "name": "Bio",
@@ -18,7 +18,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 300,
-      "effect": "Deals unaspected damage over time.\nPotency: 20\nDuration: 30s"
+      "description": "Deals unaspected damage over time.\nPotency: 20\nDuration: 30s"
     },
     {
       "name": "Physick",
@@ -28,7 +28,7 @@
       "cast": 1.5,
       "cooldown": 2.5,
       "cost": 400,
-      "effect": "Restores target's HP.\nCure Potency: 450"
+      "description": "Restores target's HP.\nCure Potency: 450"
     },
     {
       "name": "Summon Eos",
@@ -38,7 +38,7 @@
       "cast": 1.5,
       "cooldown": 2.5,
       "cost": 200,
-      "effect": "Summons the faerie Eos to fight at your side. When set to guard, automatically casts Embrace on party members who suffer damage."
+      "description": "Summons the faerie Eos to fight at your side. When set to guard, automatically casts Embrace on party members who suffer damage."
     },
     {
       "name": "Resurrection",
@@ -48,7 +48,7 @@
       "cast": 8,
       "cooldown": 2.5,
       "cost": 2400,
-      "effect": "Resurrects target to a weakened state."
+      "description": "Resurrects target to a weakened state."
     },
     {
       "name": "Whispering Dawn",
@@ -58,7 +58,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Orders faerie to execute Whispering Dawn. If Seraph is summoned, orders her to execute Angel's Whisper.\nWhispering Dawn/Angel's Whisper Effect: Gradually restores the HP of all nearby party members\nCure Potency: 80\nDuration: 21s"
+      "description": "Orders faerie to execute Whispering Dawn. If Seraph is summoned, orders her to execute Angel's Whisper.\nWhispering Dawn/Angel's Whisper Effect: Gradually restores the HP of all nearby party members\nCure Potency: 80\nDuration: 21s"
     },
     {
       "name": "Bio II",
@@ -68,7 +68,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 300,
-      "effect": "Deals unaspected damage over time.\nPotency: 40\nDuration: 30s"
+      "description": "Deals unaspected damage over time.\nPotency: 40\nDuration: 30s"
     },
     {
       "name": "Adloquium",
@@ -78,7 +78,7 @@
       "cast": 2,
       "cooldown": 2.5,
       "cost": 1000,
-      "effect": "Restores target's HP.\nCure Potency: 300\nAdditional Effect: Grants Galvanize to target, nullifying damage equaling 180% of the amount of HP restored. When critical HP is restored, also grants Catalyze, nullifying damage equaling 180% the amount of HP restored.\nDuration: 30s\nEffect cannot be stacked with certain sage barrier effects."
+      "description": "Restores target's HP.\nCure Potency: 300\nAdditional Effect: Grants Galvanize to target, nullifying damage equaling 180% of the amount of HP restored. When critical HP is restored, also grants Catalyze, nullifying damage equaling 180% the amount of HP restored.\nDuration: 30s\nEffect cannot be stacked with certain sage barrier effects."
     },
     {
       "name": "Succor",
@@ -88,7 +88,7 @@
       "cast": 2,
       "cooldown": 2.5,
       "cost": 1000,
-      "effect": "Restores own HP and the HP of all nearby party members.\nCure Potency: 200\nAdditional Effect: Erects a magicked barrier which nullifies damage equaling 160% of the amount of HP restored\nDuration: 30s\nEffect cannot be stacked with certain sage barrier effects."
+      "description": "Restores own HP and the HP of all nearby party members.\nCure Potency: 200\nAdditional Effect: Erects a magicked barrier which nullifies damage equaling 160% of the amount of HP restored\nDuration: 30s\nEffect cannot be stacked with certain sage barrier effects."
     },
     {
       "name": "Ruin II",
@@ -98,7 +98,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 400,
-      "effect": "Deals unaspected damage with a potency of 220."
+      "description": "Deals unaspected damage with a potency of 220."
     },
     {
       "name": "Fey Illumination",
@@ -108,7 +108,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Orders faerie to execute Fey Illumination. If Seraph is summoned, orders her to execute Seraphic Illumination.\nFey Illumination/Seraphic Illumination Effect: Increases healing magic potency of all nearby party members by 10%, while reducing magic damage taken by all nearby party members by 5%\nDuration: 20s\nEffect cannot be stacked with Seraphic Illumination."
+      "description": "Orders faerie to execute Fey Illumination. If Seraph is summoned, orders her to execute Seraphic Illumination.\nFey Illumination/Seraphic Illumination Effect: Increases healing magic potency of all nearby party members by 10%, while reducing magic damage taken by all nearby party members by 5%\nDuration: 20s\nEffect cannot be stacked with Seraphic Illumination."
     },
     {
       "name": "Aetherflow",
@@ -118,7 +118,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Restores 20% of maximum MP.\nAdditional Effect: Aetherflow III\nCan only be executed while in combat."
+      "description": "Restores 20% of maximum MP.\nAdditional Effect: Aetherflow III\nCan only be executed while in combat."
     },
     {
       "name": "Energy Drain",
@@ -128,7 +128,7 @@
       "cast": 0,
       "cooldown": 1,
       "cost": 0,
-      "effect": "Deals unaspected damage with a potency of 100.\nAdditional Effect: Absorbs a portion of damage dealt as HP\nAdditional Effect: Increases Faerie Gauge by 10\nAetherflow Gauge Cost: 1"
+      "description": "Deals unaspected damage with a potency of 100.\nAdditional Effect: Absorbs a portion of damage dealt as HP\nAdditional Effect: Increases Faerie Gauge by 10\nAetherflow Gauge Cost: 1"
     },
     {
       "name": "Lustrate",
@@ -138,7 +138,7 @@
       "cast": 0,
       "cooldown": 1,
       "cost": 0,
-      "effect": "Restores target's HP.\nCure Potency: 600\nAdditional Effect: Increases Faerie Gauge by 10\nAetherflow Gauge Cost: 1"
+      "description": "Restores target's HP.\nCure Potency: 600\nAdditional Effect: Increases Faerie Gauge by 10\nAetherflow Gauge Cost: 1"
     },
     {
       "name": "Art of War",
@@ -148,7 +148,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 400,
-      "effect": "Deals unaspected damage with a potency of 165 to all nearby enemies."
+      "description": "Deals unaspected damage with a potency of 165 to all nearby enemies."
     },
     {
       "name": "Sacred Soil",
@@ -158,7 +158,7 @@
       "cast": 0,
       "cooldown": 30,
       "cost": 0,
-      "effect": "Creates a designated area in which party members will only suffer 90% of all damage inflicted.\nDuration: 15s\nAdditional Effect: Regen\nCure Potency: 100\nAdditional Effect: Increases Faerie Gauge by 10\nAetherflow Gauge Cost: 1"
+      "description": "Creates a designated area in which party members will only suffer 90% of all damage inflicted.\nDuration: 15s\nAdditional Effect: Regen\nCure Potency: 100\nAdditional Effect: Increases Faerie Gauge by 10\nAetherflow Gauge Cost: 1"
     },
     {
       "name": "Indomitability",
@@ -168,7 +168,7 @@
       "cast": 0,
       "cooldown": 30,
       "cost": 0,
-      "effect": "Restores own HP and the HP of all nearby party members.\nCure Potency: 400\nAdditional Effect: Increases Faerie Gauge by 10\nAetherflow Gauge Cost: 1"
+      "description": "Restores own HP and the HP of all nearby party members.\nCure Potency: 400\nAdditional Effect: Increases Faerie Gauge by 10\nAetherflow Gauge Cost: 1"
     },
     {
       "name": "Broil",
@@ -178,7 +178,7 @@
       "cast": 1.5,
       "cooldown": 2.5,
       "cost": 400,
-      "effect": "Deals unaspected damage with a potency of 220."
+      "description": "Deals unaspected damage with a potency of 220."
     },
     {
       "name": "Deployment Tactics",
@@ -188,7 +188,7 @@
       "cast": 0,
       "cooldown": 90,
       "cost": 0,
-      "effect": "Extends Galvanize effect cast on self or target party member to other nearby party members.\nDuration: Time remaining on original effect\nNo effect when target is not under the effect of Galvanize."
+      "description": "Extends Galvanize effect cast on self or target party member to other nearby party members.\nDuration: Time remaining on original effect\nNo effect when target is not under the effect of Galvanize."
     },
     {
       "name": "Emergency Tactics",
@@ -198,7 +198,7 @@
       "cast": 0,
       "cooldown": 15,
       "cost": 0,
-      "effect": "Transforms the next Galvanize and Catalyze statuses into HP recovery equaling the amount of damage reduction intended for the barrier.\nDuration: 15s"
+      "description": "Transforms the next Galvanize and Catalyze statuses into HP recovery equaling the amount of damage reduction intended for the barrier.\nDuration: 15s"
     },
     {
       "name": "Dissipation",
@@ -208,7 +208,7 @@
       "cast": 0,
       "cooldown": 180,
       "cost": 0,
-      "effect": "Orders your faerie away while granting you a full Aetherflow stack. Also increases healing magic potency by 20%.\nDuration: 30s\nCurrent faerie will return once the effect expires.\nSummon Eos cannot be executed while under the effect of Dissipation.\nCan only be executed while in combat."
+      "description": "Orders your faerie away while granting you a full Aetherflow stack. Also increases healing magic potency by 20%.\nDuration: 30s\nCurrent faerie will return once the effect expires.\nSummon Eos cannot be executed while under the effect of Dissipation.\nCan only be executed while in combat."
     },
     {
       "name": "Excogitation",
@@ -218,7 +218,7 @@
       "cast": 0,
       "cooldown": 45,
       "cost": 0,
-      "effect": "Grants self or target party member the effect of Excogitation, restoring HP when member's HP falls below 50% or upon effect duration expiration.\nCure Potency: 800\nDuration: 45s\nAdditional Effect: Increases Faerie Gauge by 10\nAetherflow Gauge Cost: 1"
+      "description": "Grants self or target party member the effect of Excogitation, restoring HP when member's HP falls below 50% or upon effect duration expiration.\nCure Potency: 800\nDuration: 45s\nAdditional Effect: Increases Faerie Gauge by 10\nAetherflow Gauge Cost: 1"
     },
     {
       "name": "Broil II",
@@ -228,7 +228,7 @@
       "cast": 1.5,
       "cooldown": 2.5,
       "cost": 400,
-      "effect": "Deals unaspected damage with a potency of 240."
+      "description": "Deals unaspected damage with a potency of 240."
     },
     {
       "name": "Chain Stratagem",
@@ -238,7 +238,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Increases rate at which target takes critical hits by 10%.\nDuration: 15s"
+      "description": "Increases rate at which target takes critical hits by 10%.\nDuration: 15s"
     },
     {
       "name": "Aetherpact",
@@ -248,7 +248,7 @@
       "cast": 0,
       "cooldown": 3,
       "cost": 0,
-      "effect": "Orders faerie to execute Fey Union with target party member. Effect ends upon reuse.\nFaerie Gauge Cost: 10\nFey Union Effect: Gradually restores HP of party member with which faerie has a Fey Union.\nCure Potency: 300\nFaerie Gauge is depleted by 10 periodically while HP is restored. Fey Union effect fades upon execution of other faerie actions or when party member moves from within 30 yalms of the faerie.\nThe Faerie Gauge increases when a faerie or Seraph is summoned and an Aetherflow action is successfully executed while in combat."
+      "description": "Orders faerie to execute Fey Union with target party member. Effect ends upon reuse.\nFaerie Gauge Cost: 10\nFey Union Effect: Gradually restores HP of party member with which faerie has a Fey Union.\nCure Potency: 300\nFaerie Gauge is depleted by 10 periodically while HP is restored. Fey Union effect fades upon execution of other faerie actions or when party member moves from within 30 yalms of the faerie.\nThe Faerie Gauge increases when a faerie or Seraph is summoned and an Aetherflow action is successfully executed while in combat."
     },
     {
       "name": "Dissolve Union",
@@ -258,7 +258,7 @@
       "cast": 0,
       "cooldown": 1,
       "cost": 0,
-      "effect": "Dissolves current Fey Union."
+      "description": "Dissolves current Fey Union."
     },
     {
       "name": "Biolysis",
@@ -268,7 +268,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 400,
-      "effect": "Deals unaspected damage over time.\nPotency: 70\nDuration: 30s"
+      "description": "Deals unaspected damage over time.\nPotency: 70\nDuration: 30s"
     },
     {
       "name": "Broil III",
@@ -278,7 +278,7 @@
       "cast": 1.5,
       "cooldown": 2.5,
       "cost": 400,
-      "effect": "Deals unaspected damage with a potency of 255."
+      "description": "Deals unaspected damage with a potency of 255."
     },
     {
       "name": "Recitation",
@@ -288,7 +288,7 @@
       "cast": 0,
       "cooldown": 90,
       "cost": 0,
-      "effect": "Allows the execution of Adloquium, Succor, Indomitability, or Excogitation without consuming resources while also ensuring critical HP is restored.\nDuration: 15s"
+      "description": "Allows the execution of Adloquium, Succor, Indomitability, or Excogitation without consuming resources while also ensuring critical HP is restored.\nDuration: 15s"
     },
     {
       "name": "Fey Blessing",
@@ -298,7 +298,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Orders faerie to execute Fey Blessing.\nFey Blessing Effect: Restores the HP of all nearby party members\nCure Potency: 320"
+      "description": "Orders faerie to execute Fey Blessing.\nFey Blessing Effect: Restores the HP of all nearby party members\nCure Potency: 320"
     },
     {
       "name": "Summon Seraph",
@@ -308,7 +308,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Summons Seraph to fight at your side. When set to guard, automatically casts Seraphic Veil on party members who suffer damage.\nCannot summon Seraph unless a pet is already summoned. Current pet will leave the battlefield while Seraph is present, and return once gone.\nDuration: 22s\n\n※Action changes to Consolation upon execution."
+      "description": "Summons Seraph to fight at your side. When set to guard, automatically casts Seraphic Veil on party members who suffer damage.\nCannot summon Seraph unless a pet is already summoned. Current pet will leave the battlefield while Seraph is present, and return once gone.\nDuration: 22s\n\n※Action changes to Consolation upon execution."
     },
     {
       "name": "Consolation",
@@ -318,7 +318,7 @@
       "cast": 0,
       "cooldown": 30,
       "cost": 0,
-      "effect": "Orders Seraph to execute Consolation.\nConsolation Effect: Restores the HP of all nearby party members\nCure Potency: 250\nAdditional Effect: Erects a magicked barrier which nullifies damage equaling the amount of HP restored\nDuration: 30s\nMaximum Charges: 2\n\n※This action cannot be assigned to a hotbar."
+      "description": "Orders Seraph to execute Consolation.\nConsolation Effect: Restores the HP of all nearby party members\nCure Potency: 250\nAdditional Effect: Erects a magicked barrier which nullifies damage equaling the amount of HP restored\nDuration: 30s\nMaximum Charges: 2\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Broil IV",
@@ -328,7 +328,7 @@
       "cast": 1.5,
       "cooldown": 2.5,
       "cost": 400,
-      "effect": "Deals unaspected damage with a potency of 295."
+      "description": "Deals unaspected damage with a potency of 295."
     },
     {
       "name": "Art of War II",
@@ -338,7 +338,7 @@
       "cast": 0,
       "cooldown": 2.5,
       "cost": 400,
-      "effect": "Deals unaspected damage with a potency of 180 to all nearby enemies."
+      "description": "Deals unaspected damage with a potency of 180 to all nearby enemies."
     },
     {
       "name": "Protraction",
@@ -348,7 +348,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Increases maximum HP of a party member or self by 10% and restores the amount increased.\nAdditional Effect: Increases HP recovery via healing actions by 10%\nDuration: 10s"
+      "description": "Increases maximum HP of a party member or self by 10% and restores the amount increased.\nAdditional Effect: Increases HP recovery via healing actions by 10%\nDuration: 10s"
     },
     {
       "name": "Expedient",
@@ -358,7 +358,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Grants Expedience and Desperate Measures to all nearby party members.\nExpedience Effect: Increases movement speed\nDuration: 10s\nDesperate Measures Effect: Reduces damage taken by 10%\nDuration: 20s"
+      "description": "Grants Expedience and Desperate Measures to all nearby party members.\nExpedience Effect: Increases movement speed\nDuration: 10s\nDesperate Measures Effect: Reduces damage taken by 10%\nDuration: 20s"
     }
   ],
   "petActions": [
@@ -370,7 +370,7 @@
       "cast": 0,
       "cooldown": 3,
       "cost": 0,
-      "effect": "Restores target's HP.\nCure Potency: 180\n\n※This action cannot be assigned to a hotbar."
+      "description": "Restores target's HP.\nCure Potency: 180\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Whispering Dawn",
@@ -380,7 +380,7 @@
       "cast": 0,
       "cooldown": 0,
       "cost": 0,
-      "effect": "Gradually restores the HP of all nearby party members.\nCure Potency: 80\nDuration: 21s\n\n※This action cannot be assigned to a hotbar."
+      "description": "Gradually restores the HP of all nearby party members.\nCure Potency: 80\nDuration: 21s\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Fey Illumination",
@@ -390,7 +390,7 @@
       "cast": 0,
       "cooldown": 0,
       "cost": 0,
-      "effect": "Increases healing magic potency of all nearby party members by 10%, while reducing magic damage taken by all nearby party members by 5%.\nDuration: 20s\nEffect cannot be stacked with Seraphic Illumination.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Increases healing magic potency of all nearby party members by 10%, while reducing magic damage taken by all nearby party members by 5%.\nDuration: 20s\nEffect cannot be stacked with Seraphic Illumination.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Fey Union",
@@ -400,7 +400,7 @@
       "cast": 0,
       "cooldown": 0,
       "cost": 0,
-      "effect": "Gradually restores HP of party member with which faerie has a Fey Union.\nCure Potency: 300\nFaerie Gauge is depleted by 10 periodically while HP is restored. Fey Union effect fades upon execution of other faerie actions or when party member moves from within 30 yalms of the faerie.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Gradually restores HP of party member with which faerie has a Fey Union.\nCure Potency: 300\nFaerie Gauge is depleted by 10 periodically while HP is restored. Fey Union effect fades upon execution of other faerie actions or when party member moves from within 30 yalms of the faerie.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Fey Blessing",
@@ -410,7 +410,7 @@
       "cast": 0,
       "cooldown": 0,
       "cost": 0,
-      "effect": "Restores the HP of all nearby party members.\nCure Potency: 320\n\n※This action cannot be assigned to a hotbar."
+      "description": "Restores the HP of all nearby party members.\nCure Potency: 320\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Seraphic Veil",
@@ -420,7 +420,7 @@
       "cast": 0,
       "cooldown": 3,
       "cost": 0,
-      "effect": "Restores target's HP.\nCure Potency: 180\nAdditional Effect: Erects a magicked barrier which nullifies damage equaling the amount of HP restored\nDuration: 30s\n\n※This action cannot be assigned to a hotbar."
+      "description": "Restores target's HP.\nCure Potency: 180\nAdditional Effect: Erects a magicked barrier which nullifies damage equaling the amount of HP restored\nDuration: 30s\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Angel's Whisper",
@@ -430,7 +430,7 @@
       "cast": 0,
       "cooldown": 0,
       "cost": 0,
-      "effect": "Gradually restores the HP of all nearby party members.\nCure Potency: 80\nDuration: 21s\n\n※This action cannot be assigned to a hotbar."
+      "description": "Gradually restores the HP of all nearby party members.\nCure Potency: 80\nDuration: 21s\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Seraphic Illumination",
@@ -440,7 +440,7 @@
       "cast": 0,
       "cooldown": 0,
       "cost": 0,
-      "effect": "Increases healing magic potency of nearby party members by 10%, while reducing magic damage taken by nearby party members by 5%.\nDuration: 20s\nEffect cannot be stacked with Fey Illumination.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Increases healing magic potency of nearby party members by 10%, while reducing magic damage taken by nearby party members by 5%.\nDuration: 20s\nEffect cannot be stacked with Fey Illumination.\n\n※This action cannot be assigned to a hotbar."
     },
     {
       "name": "Consolation",
@@ -450,7 +450,7 @@
       "cast": 0,
       "cooldown": 0,
       "cost": 0,
-      "effect": "Restores the HP of all nearby party members.\nCure Potency: 250\nAdditional Effect: Erects a magicked barrier which nullifies damage equaling the amount of HP restored\nDuration: 30s\n\n※This action cannot be assigned to a hotbar."
+      "description": "Restores the HP of all nearby party members.\nCure Potency: 250\nAdditional Effect: Erects a magicked barrier which nullifies damage equaling the amount of HP restored\nDuration: 30s\n\n※This action cannot be assigned to a hotbar."
     }
   ],
   "roleActions": [
@@ -462,7 +462,7 @@
       "cast": 2.5,
       "cooldown": 2.5,
       "cost": 600,
-      "effect": "Afflicts target with Sleep.\nDuration: 30s\nCancels auto-attack upon execution."
+      "description": "Afflicts target with Sleep.\nDuration: 30s\nCancels auto-attack upon execution."
     },
     {
       "name": "Esuna",
@@ -472,7 +472,7 @@
       "cast": 1,
       "cooldown": 2.5,
       "cost": 400,
-      "effect": "Removes a single detrimental effect from target."
+      "description": "Removes a single detrimental effect from target."
     },
     {
       "name": "Swiftcast",
@@ -482,7 +482,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Next spell is cast immediately.\nDuration: 10s"
+      "description": "Next spell is cast immediately.\nDuration: 10s"
     },
     {
       "name": "Lucid Dreaming",
@@ -492,7 +492,7 @@
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "effect": "Gradually restores own MP.\nPotency: 55\nDuration: 21s"
+      "description": "Gradually restores own MP.\nPotency: 55\nDuration: 21s"
     },
     {
       "name": "Surecast",
@@ -502,7 +502,7 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Spells can be cast without interruption.\nAdditional Effect: Nullifies most knockback and draw-in effects\nDuration: 6s"
+      "description": "Spells can be cast without interruption.\nAdditional Effect: Nullifies most knockback and draw-in effects\nDuration: 6s"
     },
     {
       "name": "Rescue",
@@ -512,69 +512,69 @@
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "effect": "Instantly draws target party member to your side. Cannot be used outside of combat or when target is suffering from certain enfeeblements."
+      "description": "Instantly draws target party member to your side. Cannot be used outside of combat or when target is suffering from certain enfeeblements."
     }
   ],
   "traits": [
     {
       "name": "Maim and Mend",
       "lvl": 20,
-      "effect": "Increases base action damage and HP restoration by 10%. Also increases base damage and HP restoration of your pet by 10%."
+      "description": "Increases base action damage and HP restoration by 10%. Also increases base damage and HP restoration of your pet by 10%."
     },
     {
       "name": "Corruption Mastery",
       "lvl": 26,
-      "effect": "Upgrades Bio to Bio II."
+      "description": "Upgrades Bio to Bio II."
     },
     {
       "name": "Maim and Mend II",
       "lvl": 40,
-      "effect": "Increases base action damage and HP restoration by 30%. Also increases base damage and HP restoration of your pet by 30%."
+      "description": "Increases base action damage and HP restoration by 30%. Also increases base damage and HP restoration of your pet by 30%."
     },
     {
       "name": "Broil Mastery",
       "lvl": 54,
-      "effect": "Upgrades Ruin to Broil and increases the potency of Ruin II to 160, and Art of War to 165."
+      "description": "Upgrades Ruin to Broil and increases the potency of Ruin II to 160, and Art of War to 165."
     },
     {
       "name": "Broil Mastery II",
       "lvl": 64,
-      "effect": "Upgrades Broil to Broil II and increases the potency of Ruin II to 180."
+      "description": "Upgrades Broil to Broil II and increases the potency of Ruin II to 180."
     },
     {
       "name": "Corruption Mastery II",
       "lvl": 72,
-      "effect": "Upgrades Bio II to Biolysis."
+      "description": "Upgrades Bio II to Biolysis."
     },
     {
       "name": "Broil Mastery III",
       "lvl": 72,
-      "effect": "Upgrades Broil II to Broil III and increases the potency of Ruin II to 200."
+      "description": "Upgrades Broil II to Broil III and increases the potency of Ruin II to 200."
     },
     {
       "name": "Enhanced Sacred Soil",
       "lvl": 78,
-      "effect": "Adds an additional effect to Sacred Soil that grants healing over time."
+      "description": "Adds an additional effect to Sacred Soil that grants healing over time."
     },
     {
       "name": "Broil Mastery IV",
       "lvl": 82,
-      "effect": "Upgrades Broil III to Broil IV and increases the potency of Ruin II to 220."
+      "description": "Upgrades Broil III to Broil IV and increases the potency of Ruin II to 220."
     },
     {
       "name": "Art of War Mastery",
       "lvl": 82,
-      "effect": "Upgrades Art of War to Art of War II."
+      "description": "Upgrades Art of War to Art of War II."
     },
     {
       "name": "Enhanced Healing Magic",
       "lvl": 85,
-      "effect": "Increases the healing potency of Physick to 450, Embrace to 180, and Seraphic Veil to 180.\nIncreases the barrier potency of Adloquium to 180% the amount healed and Succor to 160% the amount healed."
+      "description": "Increases the healing potency of Physick to 450, Embrace to 180, and Seraphic Veil to 180.\nIncreases the barrier potency of Adloquium to 180% the amount healed and Succor to 160% the amount healed."
     },
     {
       "name": "Enhanced Deployment Tactics",
       "lvl": 88,
-      "effect": "Reduces Deployment Tactics recast time to 90 seconds."
+      "description": "Reduces Deployment Tactics recast time to 90 seconds."
     }
   ]
 }
