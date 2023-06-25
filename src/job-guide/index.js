@@ -23,9 +23,9 @@ export async function crawl(browser) {
           break;
         }
 
+        const { url, outputFilename } = jobPage;
         console.info(`Crawling Job Guide: ${url}`);
         jobPage.inProgressOrDone = true;
-        const { url, outputFilename } = jobPage;
 
         await page.goto(url);
         const data = await page.$$eval(SELECTOR, crawlPage);
