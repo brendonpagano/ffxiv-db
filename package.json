@@ -5,7 +5,9 @@
   "main": "crawler.js",
   "type": "module",
   "scripts": {
-    "start": "node src/crawler.js"
+    "start": "node src/crawler.js",
+    "crawl": "node src/crawler.js",
+    "process": "node src/effect-processor.js"
   },
   "repository": {
     "type": "git",
