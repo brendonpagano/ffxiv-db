@@ -2,27 +2,27 @@
   "jobActions": [
     {
       "name": "Heavy Shot",
-      "image": "https://img.finalfantasyxiv.com/lds/d/c2be827c9e88459a397d2d02851c435d27a7bfd8.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/c2be827c9e88459a397d2d02851c435d27a7bfd8.png",
       "lvl": 1,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 160.\nAdditional Effect: 20% chance of becoming Straight Shot Ready\nDuration: 30s"
+      "description": "Delivers an attack with a potency of 160.\nAdditional Effect: 20% chance of granting Hawk's Eye\nDuration: 30s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Straight Shot",
-      "image": "https://img.finalfantasyxiv.com/lds/d/58345465e1b0bb46bac9920464892ef4e51be34f.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/58345465e1b0bb46bac9920464892ef4e51be34f.png",
       "lvl": 2,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 200.\nCan only be executed when Straight Shot Ready."
+      "description": "Delivers an attack with a potency of 200.\nCan only be executed when under the effect of Hawk's Eye.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Raging Strikes",
-      "image": "https://img.finalfantasyxiv.com/lds/d/444bd0d452881277e79be184fdb8ca6d21906014.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/444bd0d452881277e79be184fdb8ca6d21906014.png",
       "lvl": 4,
       "type": "Ability",
       "cast": 0,
@@ -32,7 +32,7 @@
     },
     {
       "name": "Venomous Bite",
-      "image": "https://img.finalfantasyxiv.com/lds/d/5628b34f3942ef93659f9f03dd2c0556b66f83ea.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/5628b34f3942ef93659f9f03dd2c0556b66f83ea.png",
       "lvl": 6,
       "type": "Weaponskill",
       "cast": 0,
@@ -42,17 +42,17 @@
     },
     {
       "name": "Bloodletter",
-      "image": "https://img.finalfantasyxiv.com/lds/d/fd9763578c2d9e6fca1cc0637d953ba405aa5b2b.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/fd9763578c2d9e6fca1cc0637d953ba405aa5b2b.png",
       "lvl": 12,
       "type": "Ability",
       "cast": 0,
       "cooldown": 15,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 110.\nMaximum Charges: 3\nShares a recast timer with Rain of Death."
+      "description": "Delivers an attack with a potency of 130.\nMaximum Charges: 3\nShares a recast timer with Rain of Death.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Repelling Shot",
-      "image": "https://img.finalfantasyxiv.com/lds/d/33e4423b5606c916b4c92db7a6cfb7d22d8f89ac.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/33e4423b5606c916b4c92db7a6cfb7d22d8f89ac.png",
       "lvl": 15,
       "type": "Ability",
       "cast": 0,
@@ -62,17 +62,27 @@
     },
     {
       "name": "Quick Nock",
-      "image": "https://img.finalfantasyxiv.com/lds/d/674767e2dcc3f57156cd13273601bd4ed337657b.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/674767e2dcc3f57156cd13273601bd4ed337657b.png",
       "lvl": 18,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 110 to all enemies in a cone before you.\nAdditional Effect: 35% chance of becoming Shadowbite Ready\nDuration: 30s"
+      "description": "Delivers an attack with a potency of 110 to all enemies in a cone before you.\nAdditional Effect: 20% chance of granting Hawk's Eye\nDuration: 30s\nRevisions (Patch 6.5x - Patch 7.05)"
+    },
+    {
+      "name": "Wide Volley",
+      "image": "https://lds-img.finalfantasyxiv.com/d/f935382d44889e5e74a995ed49bb6db78532edd4.png",
+      "lvl": 25,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "description": "Delivers an attack with a potency of 140 to target and all enemies nearby it.\nBarrage Potency: 220\nCan only be executed while under the effect of Hawk's Eye."
     },
     {
       "name": "Windbite",
-      "image": "https://img.finalfantasyxiv.com/lds/d/798e2b8207ce793087365990d0996232238b9225.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/798e2b8207ce793087365990d0996232238b9225.png",
       "lvl": 30,
       "type": "Weaponskill",
       "cast": 0,
@@ -82,17 +92,17 @@
     },
     {
       "name": "Mage's Ballad",
-      "image": "https://img.finalfantasyxiv.com/lds/d/eda9a8394ad037b3dec2b0013883bfddb34f54c4.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/7744e7d846192e0c01c11c8854e6701d3a1000e1.png",
       "lvl": 30,
       "type": "Ability",
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "description": "Deals unaspected damage with a potency of 100.\nAdditional Effect: Grants Mage's Ballad to self and all party members within 50 yalms, increasing damage dealt by 1%\nDuration: 45s\nAdditional Effect: 80% chance to grant Repertoire\nRepertoire Effect: Reduces the recast time of Bloodletter and Rain of Death by 7.5s\nAdditional Effect: Grants Mage's Coda"
+      "description": "Grants Mage's Ballad to self and all party members within 50 yalms, increasing damage dealt by 1%.\nDuration: 45s\nAdditional Effect: 80% chance to grant Repertoire\nThis effect can trigger repeatedly while singing the Mage's Ballad.\nRepertoire Effect: Reduces the recast time of Heartbreak Shot and Rain of Death by 7.5s\nAdditional Effect: Grants Mage's Coda\nCan only be executed while in combat.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "The Warden's Paean",
-      "image": "https://img.finalfantasyxiv.com/lds/d/4df97f99863b3eade0fc5bba2937eff52a70fa6f.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/e2358f71a46fe53449fdff7c7e42bb99c51987ca.png",
       "lvl": 35,
       "type": "Ability",
       "cast": 0,
@@ -102,127 +112,127 @@
     },
     {
       "name": "Barrage",
-      "image": "https://img.finalfantasyxiv.com/lds/d/28e7d01b94a703869a9bfae6f06864154f1bd2f3.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/28e7d01b94a703869a9bfae6f06864154f1bd2f3.png",
       "lvl": 38,
       "type": "Ability",
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "description": "Triples the number of strikes for a single-target weaponskill. Additional effects added only once.\nDuration: 10s\nAdditional Effect: Increases the potency of Shadowbite to 270\nAdditional Effect: Grants Straight Shot Ready\nDuration: 30s"
+      "description": "Grants Barrage, allowing the use of Refulgent Arrow and Shadowbite. Upon execution, Refulgent Arrow will strike the selected target three times, while Shadowbite's potency will be increased to 270.\nDuration: 10s\nAdditional Effect: Grants Resonant Arrow Ready\nDuration: 30s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Army's Paeon",
-      "image": "https://img.finalfantasyxiv.com/lds/d/008c12ecfaee3427ff9c25c7f8d2307aee93df31.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/d8e2b6d980867d94b2c2f3b5067e50dede5b9064.png",
       "lvl": 40,
       "type": "Ability",
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "description": "Deals unaspected damage with a potency of 100.\nAdditional Effect: Grants Army's Paeon to self and all party members within 50 yalms, increasing direct hit rate by 3%\nDuration: 45s\nAdditional Effect: 80% chance to grant Repertoire\nRepertoire Effect: Reduces weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay by 4%\nCan be stacked up to 4 times.\nAdditional Effect: Grants Army's Coda"
+      "description": "Grants Army's Paeon to self and all party members within 50 yalms, increasing direct hit rate by 3%.\nDuration: 45s\nAdditional Effect: 80% chance to grant Repertoire\nThis effect can trigger repeatedly while singing the Army's Paeon.\nRepertoire Effect: Reduces weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay by 4%\nCan be stacked up to 4 times.\nAdditional Effect: Grants Army's Coda\nCan only be executed while in combat.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Rain of Death",
-      "image": "https://img.finalfantasyxiv.com/lds/d/f6aff04bfff3c98ae2e81e955c3c453f70a24e59.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/86a4368f7c70f8ff48ac30768d6ee6253c73b3f5.png",
       "lvl": 45,
       "type": "Ability",
       "cast": 0,
       "cooldown": 15,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 100 to target and all enemies nearby it.\nMaximum Charges: 3\nShares a recast timer with Bloodletter."
+      "description": "Delivers an attack with a potency of 100 to target and all enemies nearby it.\nMaximum Charges: 3\nShares a recast timer with Heartbreak Shot.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Battle Voice",
-      "image": "https://img.finalfantasyxiv.com/lds/d/3c4e15bf310cd0ac2d57e067057e4ef50d150705.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/0b50ad3e2e20b0d9a5478c296c861592f0eccd41.png",
       "lvl": 50,
       "type": "Ability",
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "description": "Increases direct hit rate of self and all nearby party members by 20%.\nDuration: 15s"
+      "description": "Increases direct hit rate of self and all nearby party members by 20%.\nDuration: 20s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "The Wanderer's Minuet",
-      "image": "https://img.finalfantasyxiv.com/lds/d/53e0411604846053cbec196bed125f38a71b73c1.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/3f0462d7211269eb0dc49978c35f58e4e1077aae.png",
       "lvl": 52,
       "type": "Ability",
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "description": "Deals unaspected damage with a potency of 100.\nAdditional Effect: Grants the Wanderer's Minuet to self and all party members within 50 yalms, increasing critical hit rate by 2%\nDuration: 45s\nAdditional Effect: 80% chance to grant Repertoire\nRepertoire Effect: Allows execution of Pitch Perfect\nCan be stacked up to 3 times.\nAdditional Effect: Grants Wanderer's Coda\n\n※Action changes to Pitch Perfect upon execution."
+      "description": "Grants the Wanderer's Minuet to self and all party members within 50 yalms, increasing critical hit rate by 2%.\nDuration: 45s\nAdditional Effect: 80% chance to grant Repertoire\nThis effect can trigger repeatedly while singing the Wanderer's Minuet.\nRepertoire Effect: Allows execution of Pitch Perfect\nCan be stacked up to 3 times.\nAdditional Effect: Grants Wanderer's Coda\nCan only be executed while in combat.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Pitch Perfect",
-      "image": "https://img.finalfantasyxiv.com/lds/d/fa05309833a74ae0a743b41574347b02408148c5.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/4b5cb786bc03d337b39054027f6087b4f7cb6882.png",
       "lvl": 52,
       "type": "Ability",
       "cast": 0,
       "cooldown": 1,
       "cost": 0,
-      "description": "Delivers an attack to the target. Potency varies with number of Repertoire stacks.\n1 Repertoire Stack: 100\n2 Repertoire Stacks: 220\n3 Repertoire Stacks: 360\nCan only be executed when the Wanderer's Minuet is active.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Delivers an attack to the target and all enemies nearby it. Potency varies with number of Repertoire stacks, dealing full damage for the first enemy, and 50% less for all remaining enemies.\n1 Repertoire Stack: 100\n2 Repertoire Stacks: 220\n3 Repertoire Stacks: 360\nCan only be executed when the Wanderer's Minuet is active and you have at least one stack of Repertoire.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Empyreal Arrow",
-      "image": "https://img.finalfantasyxiv.com/lds/d/06f5720224fc5d70aaf47a8850f683e0d4e89b02.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/df058855e5500505c31eda4041f74e8fe4dbdb76.png",
       "lvl": 54,
       "type": "Ability",
       "cast": 0,
       "cooldown": 15,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 230."
+      "description": "Delivers an attack with a potency of 260.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Iron Jaws",
-      "image": "https://img.finalfantasyxiv.com/lds/d/60a919b5c963e842d9c69066761319737f00253f.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/3224b272a8cb080df1f93bfaf11d1cfec05533d8.png",
       "lvl": 56,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 100.\nAdditional Effect: If the target is suffering from a Caustic Bite or Stormbite effect inflicted by you, the effect timer is reset\nAdditional Effect: 35% chance of becoming Straight Shot Ready\nDuration: 30s"
+      "description": "Delivers an attack with a potency of 100.\nAdditional Effect: If the target is suffering from a Caustic Bite or Stormbite effect inflicted by you, the effect timer is reset\nAdditional Effect: 35% chance of granting Hawk's Eye\nDuration: 30s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Sidewinder",
-      "image": "https://img.finalfantasyxiv.com/lds/d/ac6fcd72c5f1c20fe9106dbf9d1936b01a643ff4.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/f39927d0bec5c6d20e72bddd59b9a9f250c99e2c.png",
       "lvl": 60,
       "type": "Ability",
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 300."
+      "description": "Delivers an attack with a potency of 400.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Troubadour",
-      "image": "https://img.finalfantasyxiv.com/lds/d/8afc3a84c2ec0f215d378e8ed011fd260d3cdc6b.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/6618d7a1a2770ce51edecf1c26a2937b5fc95963.png",
       "lvl": 62,
       "type": "Ability",
       "cast": 0,
       "cooldown": 90,
       "cost": 0,
-      "description": "Reduces damage taken by self and nearby party members by 10%.\nDuration: 15s\nEffect cannot be stacked with machinist's Tactician or dancer's Shield Samba."
+      "description": "Reduces damage taken by self and nearby party members by 15%.\nDuration: 15s\nEffect cannot be stacked with machinist's Tactician or dancer's Shield Samba.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Caustic Bite",
-      "image": "https://img.finalfantasyxiv.com/lds/d/534f0bede51a66ae9c6b36f0d2727280c4fc72b1.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/d9dd6ba8d37d6319c1eafd39f665bfb7dc6953d5.png",
       "lvl": 64,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 150.\nAdditional Effect: Poison\nPotency: 20\nDuration: 45s\nAdditional Effect: 35% chance of becoming Straight Shot Ready\nDuration: 30s"
+      "description": "Delivers an attack with a potency of 150.\nAdditional Effect: Poison\nPotency: 20\nDuration: 45s\nAdditional Effect: 35% chance of granting Hawk's Eye\nDuration: 30s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Stormbite",
-      "image": "https://img.finalfantasyxiv.com/lds/d/90e699e1bfbc23abf1ba96217b631ed04109be28.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/f40a7b8d145d3419b05d7c491c388a448773c995.png",
       "lvl": 64,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "description": "Deals wind damage with a potency of 100.\nAdditional Effect: Wind damage over time\nPotency: 25\nDuration: 45s\nAdditional Effect: 35% chance of becoming Straight Shot Ready\nDuration: 30s"
+      "description": "Deals wind damage with a potency of 100.\nAdditional Effect: Wind damage over time\nPotency: 25\nDuration: 45s\nAdditional Effect: 35% chance of granting Hawk's Eye\nDuration: 30s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Nature's Minne",
-      "image": "https://img.finalfantasyxiv.com/lds/d/18695708d8d7ea8d7f9a7ffe0857dafcaea57694.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/03c3c2cabca1caf35d1c9a6ef8d0fe150e03762c.png",
       "lvl": 66,
       "type": "Ability",
       "cast": 0,
@@ -232,79 +242,109 @@
     },
     {
       "name": "Refulgent Arrow",
-      "image": "https://img.finalfantasyxiv.com/lds/d/82ad905241d7a83faf26dd9d31227a6d79a6ae86.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/3595a008f1495d37a1cf915ecd72b10754e1fbc9.png",
       "lvl": 70,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 280.\nCan only be executed when Straight Shot Ready."
+      "description": "Delivers an attack with a potency of 280.\nCan only be executed when under the effect of Hawk's Eye.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Shadowbite",
-      "image": "https://img.finalfantasyxiv.com/lds/d/4606071e2563a6b58da4e53f374c1a3e2aad73b7.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/88f59edc609d2adbd323ced0d409048e30ca0b35.png",
       "lvl": 72,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 170 to target and all enemies nearby it.\nBarrage Potency: 270\nCan only be executed when Shadowbite Ready."
+      "description": "Delivers an attack with a potency of 170 to target and all enemies nearby it.\nBarrage Potency: 270\nCan only be executed when under the effect of Hawk's Eye.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Burst Shot",
-      "image": "https://img.finalfantasyxiv.com/lds/d/d97a50687d4bb81c0d01155d889a89252e9365f3.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/5690bdb5a291ff736672ec4e52eb99fbed475e94.png",
       "lvl": 76,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 220.\nAdditional Effect: 35% chance of becoming Straight Shot Ready\nDuration: 30s"
+      "description": "Delivers an attack with a potency of 220.\nAdditional Effect: 35% chance of granting Hawk's Eye\nDuration: 30s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Apex Arrow",
-      "image": "https://img.finalfantasyxiv.com/lds/d/bb3db0cfb0a935f62b178ae16ce11e03d4cd16b5.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/7f89a5408c4dec6ee1ccdc71968eed0c0a3e97bc.png",
       "lvl": 80,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 100 to all enemies in a straight line before you.\nSoul Voice Gauge Cost: 20\nPotency increases up to 500 as Soul Voice Gauge exceeds minimum cost.\nAdditional Effect: Grants Blast Arrow Ready upon execution while Soul Voice Gauge is 80 or higher\nDuration: 10s\nConsumes Soul Voice Gauge upon execution.\n\n※Action changes to Blast Arrow while under the effect of Blast Arrow Ready."
+      "description": "Delivers an attack with a potency of 120 to all enemies in a straight line before you.\nSoul Voice Gauge Cost: 20\nPotency increases up to 600 as Soul Voice Gauge exceeds minimum cost.\nAdditional Effect: Grants Blast Arrow Ready upon execution while Soul Voice Gauge is 80 or higher\nDuration: 10s\nConsumes Soul Voice Gauge upon execution.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Ladonsbite",
-      "image": "https://img.finalfantasyxiv.com/lds/d/f98902415153b56b16c933530c8a836ffd3f38a2.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/3efef1c2c0b7ffb04ab2a5e4d167bdad1fa69906.png",
       "lvl": 82,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 130 to all enemies in a cone before you.\nAdditional Effect: 35% chance of becoming Shadowbite Ready\nDuration: 30s"
+      "description": "Delivers an attack with a potency of 130 to all enemies in a cone before you.\nAdditional Effect: 35% chance of granting Hawk's Eye\nDuration: 30s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Blast Arrow",
-      "image": "https://img.finalfantasyxiv.com/lds/d/5822409165097e5bdc147d6dddd40e9296d5d6c1.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/3d00d8fc59c62a0ebd964ad501cc401abddc3105.png",
       "lvl": 86,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "description": "Delivers an attack to all enemies in a straight line before you with a potency of 600 for the first enemy, and 60% less for all remaining enemies.\nCan only be executed while under the effect of Blast Arrow Ready.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Delivers an attack to all enemies in a straight line before you with a potency of 600 for the first enemy, and 60% less for all remaining enemies.\nCan only be executed while under the effect of Blast Arrow Ready.\n\n※This action cannot be assigned to a hotbar.\n※Apex Arrow changes to Blast Arrow when requirements for execution are met."
     },
     {
       "name": "Radiant Finale",
-      "image": "https://img.finalfantasyxiv.com/lds/d/c22031ccb99f6446f2921d6250d646005535c684.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/38d93335592c001b3839ad49b743bb4f4341eb83.png",
       "lvl": 90,
       "type": "Ability",
       "cast": 0,
       "cooldown": 110,
       "cost": 0,
-      "description": "Increases damage dealt by self and nearby party members.\nDuration: 15s\nEffectiveness is determined by the number of different Coda active in the Song Gauge.\n1 Coda: 2%\n2 Coda: 4%\n3 Coda: 6%\nCan only be executed when at least 1 coda is active."
+      "description": "Increases damage dealt by self and nearby party members.\nDuration: 20s\nEffectiveness is determined by the number of different Coda active in the Song Gauge.\n1 Coda: 2%\n2 Coda: 4%\n3 Coda: 6%\nAdditional Effect: Grants Radiant Encore Ready\nDuration: 30s\nCan only be executed when at least 1 coda is active.\nRevisions (Patch 6.5x - Patch 7.05)"
+    },
+    {
+      "name": "Heartbreak Shot",
+      "image": "https://lds-img.finalfantasyxiv.com/d/c0a5370256054855bc11136374ddbd388c3f8c98.png",
+      "lvl": 92,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 15,
+      "cost": 0,
+      "description": "Delivers an attack with a potency of 180.\nMaximum Charges: 3\nShares a recast timer with Rain of Death."
+    },
+    {
+      "name": "Resonant Arrow",
+      "image": "https://lds-img.finalfantasyxiv.com/d/5ecc6e2f2f492310758f85277b00eb134eec6c68.png",
+      "lvl": 96,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "description": "Delivers an attack to target and all enemies nearby it with a potency of 600 for the first enemy, and 50% less for all remaining enemies.\nCan only be executed while under the effect of Resonant Arrow Ready."
+    },
+    {
+      "name": "Radiant Encore",
+      "image": "https://lds-img.finalfantasyxiv.com/d/f2f516fd00c23f16a32c6278b6d9ebd7481d41a3.png",
+      "lvl": 100,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "description": "Delivers an attack to target and all enemies nearby it.\nPotency is determined by the number of different Coda consumed in the Radiant Finale executed prior, dealing full damage for the first enemy, and 50% less for all remaining enemies.\n1 Coda: 500\n2 Coda: 600\n3 Coda: 900\nCan only be executed while under the effect of Radiant Encore Ready."
     }
   ],
   "roleActions": [
     {
       "name": "Leg Graze",
-      "image": "https://img.finalfantasyxiv.com/lds/d/2a6b7be8517f51d8cbcc60be2ae5970668f515eb.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/2a6b7be8517f51d8cbcc60be2ae5970668f515eb.png",
       "lvl": 6,
       "type": "Ability",
       "cast": 0,
@@ -314,17 +354,17 @@
     },
     {
       "name": "Second Wind",
-      "image": "https://img.finalfantasyxiv.com/lds/d/2b79d78f1ed471ace5708898e3388062fbd555fb.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/2b79d78f1ed471ace5708898e3388062fbd555fb.png",
       "lvl": 8,
       "type": "Ability",
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "description": "Instantly restores own HP.\nCure Potency: 500"
+      "description": "Instantly restores own HP.\nCure Potency: 800\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Foot Graze",
-      "image": "https://img.finalfantasyxiv.com/lds/d/8b1f979d2b1428f9791f54ad0e429ea94a8d95d6.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/8b1f979d2b1428f9791f54ad0e429ea94a8d95d6.png",
       "lvl": 10,
       "type": "Ability",
       "cast": 0,
@@ -334,7 +374,7 @@
     },
     {
       "name": "Peloton",
-      "image": "https://img.finalfantasyxiv.com/lds/d/fb8b0f0ca18af4362d27f6699579bd5a18b40137.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/fb8b0f0ca18af4362d27f6699579bd5a18b40137.png",
       "lvl": 20,
       "type": "Ability",
       "cast": 0,
@@ -344,7 +384,7 @@
     },
     {
       "name": "Head Graze",
-      "image": "https://img.finalfantasyxiv.com/lds/d/748fe5fc8262b58e9a35aa9e4d40e67a0dd006a5.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/748fe5fc8262b58e9a35aa9e4d40e67a0dd006a5.png",
       "lvl": 24,
       "type": "Ability",
       "cast": 0,
@@ -354,7 +394,7 @@
     },
     {
       "name": "Arm's Length",
-      "image": "https://img.finalfantasyxiv.com/lds/d/00ff21ad3e1fb26d7b292a9d912931e7ea64daa4.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/00ff21ad3e1fb26d7b292a9d912931e7ea64daa4.png",
       "lvl": 32,
       "type": "Ability",
       "cast": 0,
@@ -367,12 +407,17 @@
     {
       "name": "Heavier Shot",
       "lvl": 2,
-      "description": "Adds to Heavy Shot a 20% chance that you will become Straight Shot Ready.\nDuration: 30s"
+      "description": "Adds to Heavy Shot a 20% chance to grant Hawk's Eye.\nDuration: 30s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Increased Action Damage",
       "lvl": 20,
       "description": "Increases base action damage by 10%."
+    },
+    {
+      "name": "Enhanced Quick Nock",
+      "lvl": 25,
+      "description": "Adds to Quick Nock a 20% chance to grant Hawk's Eye.\nDuration: 30s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Increased Action Damage II",
@@ -395,14 +440,14 @@
       "description": "Upgrades Straight Shot to Refulgent Arrow."
     },
     {
-      "name": "Enhanced Quick Nock",
+      "name": "Wide Volley Mastery",
       "lvl": 72,
-      "description": "Adds to Quick Nock a 35% chance that you will become Shadowbite Ready.\nDuration: 30s"
+      "description": "Upgrades Wide Volley to Shadowbite."
     },
     {
       "name": "Bite Mastery II",
       "lvl": 76,
-      "description": "Adds to Stormbite, Caustic Bite, and Iron Jaws a 35% chance that you will become Straight Shot Ready.\nDuration: 30s"
+      "description": "Adds to Stormbite, Caustic Bite, and Iron Jaws a 35% chance to grant Hawk's Eye.\nDuration: 30s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Heavy Shot Mastery",
@@ -443,6 +488,31 @@
       "name": "Minstrel's Coda",
       "lvl": 90,
       "description": "Grants Mage's Coda, Army's Coda, or Wanderer's Coda upon singing Mage's Ballad, Army's Paeon, or the Wanderer's Minuet respectively."
+    },
+    {
+      "name": "Bloodletter Mastery",
+      "lvl": 92,
+      "description": "Upgrades Bloodletter to Heartbreak Shot."
+    },
+    {
+      "name": "Ranged Mastery",
+      "lvl": 94,
+      "description": "Increases the potency of Empyreal Arrow to 260, Sidewinder to 400, Refulgent Arrow to 280, Burst Shot to 220, and Apex Arrow to 120 up to 600."
+    },
+    {
+      "name": "Enhanced Barrage",
+      "lvl": 96,
+      "description": "Grants Resonant Arrow Ready upon executing Barrage.\nDuration: 30s"
+    },
+    {
+      "name": "Enhanced Troubadour II",
+      "lvl": 98,
+      "description": "Improves Troubadour's damage reduction effect to 15%."
+    },
+    {
+      "name": "Enhanced Radiant Finale",
+      "lvl": 100,
+      "description": "Grants Radiant Encore Ready upon executing Radiant Finale.\nDuration: 30s"
     }
   ]
 }

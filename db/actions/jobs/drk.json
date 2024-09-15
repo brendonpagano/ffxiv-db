@@ -2,37 +2,37 @@
   "jobActions": [
     {
       "name": "Hard Slash",
-      "image": "https://img.finalfantasyxiv.com/lds/d/5c0fef99ef9100285ede6dbc62a5c35cea188d7c.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/5c0fef99ef9100285ede6dbc62a5c35cea188d7c.png",
       "lvl": 1,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 170."
+      "description": "Delivers an attack with a potency of 300.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Syphon Strike",
-      "image": "https://img.finalfantasyxiv.com/lds/d/e2a305d72e05ef339e0692bd5f7ed9626b6eb9ea.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/e2a305d72e05ef339e0692bd5f7ed9626b6eb9ea.png",
       "lvl": 2,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 120.\nCombo Action: Hard Slash\nCombo Potency: 260\nCombo Bonus: Restores MP"
+      "description": "Delivers an attack with a potency of 240.\nCombo Action: Hard Slash\nCombo Potency: 380\nCombo Bonus: Restores MP\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Unleash",
-      "image": "https://img.finalfantasyxiv.com/lds/d/600c6a17bd8c4e08c783d1fb8891f12eea132a9a.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/600c6a17bd8c4e08c783d1fb8891f12eea132a9a.png",
       "lvl": 6,
       "type": "Spell",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "description": "Deals unaspected damage with a potency of 120 to all nearby enemies."
+      "description": "Deals unaspected damage with a potency of 120 to all nearby enemies.\nAdditional Effect: Increased enmity\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Grit",
-      "image": "https://img.finalfantasyxiv.com/lds/d/b6d1592d4fcbcafe1e3b0958d688c50346fe2bd4.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/b6d1592d4fcbcafe1e3b0958d688c50346fe2bd4.png",
       "lvl": 10,
       "type": "Ability",
       "cast": 0,
@@ -42,7 +42,7 @@
     },
     {
       "name": "Release Grit",
-      "image": "https://img.finalfantasyxiv.com/lds/d/13a97691011df3c616e3181fd21b5f6805ce5799.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/13a97691011df3c616e3181fd21b5f6805ce5799.png",
       "lvl": 10,
       "type": "Ability",
       "cast": 0,
@@ -52,27 +52,27 @@
     },
     {
       "name": "Unmend",
-      "image": "https://img.finalfantasyxiv.com/lds/d/6203d55695d1cdde37d875f7b4b4253606266ad0.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/6203d55695d1cdde37d875f7b4b4253606266ad0.png",
       "lvl": 15,
       "type": "Spell",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "description": "Deals unaspected damage with a potency of 150.\nAdditional Effect: Increased enmity\nAdditional Effect: Reduces the recast time of Plunge by 5 seconds"
+      "description": "Deals unaspected damage with a potency of 150.\nAdditional Effect: Increased enmity\nAdditional Effect: Reduces the recast time of Shadowstride by 5 seconds\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Souleater",
-      "image": "https://img.finalfantasyxiv.com/lds/d/8c6a197869a69116f52b41b3fef2ce03c29b5212.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/8c6a197869a69116f52b41b3fef2ce03c29b5212.png",
       "lvl": 26,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 120.\nCombo Action: Syphon Strike\nCombo Potency: 340\nCombo Bonus: Restores own HP\nCure Potency: 300\nCombo Bonus: Increases Blood Gauge by 20"
+      "description": "Delivers an attack with a potency of 260.\nCombo Action: Syphon Strike\nCombo Potency: 480\nCombo Bonus: Restores own HP\nCure Potency: 300\nCombo Bonus: Increases Blood Gauge by 20\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Flood of Darkness",
-      "image": "https://img.finalfantasyxiv.com/lds/d/438927fdaa593ec9d1bd020e1c60fad9ca495f3f.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/438927fdaa593ec9d1bd020e1c60fad9ca495f3f.png",
       "lvl": 30,
       "type": "Ability",
       "cast": 0,
@@ -82,17 +82,17 @@
     },
     {
       "name": "Blood Weapon",
-      "image": "https://img.finalfantasyxiv.com/lds/d/c0c4dd65cec09b11aa7ecfecf6526aff4c59b83f.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/c0c4dd65cec09b11aa7ecfecf6526aff4c59b83f.png",
       "lvl": 35,
       "type": "Ability",
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "description": "Grants 5 stacks of Blood Weapon, each stack increasing Blood Gauge by 10 and restoring MP upon landing weaponskills or spells.\nDuration: 15s\nEffect does not stack when hitting multiple targets with a single attack."
+      "description": "Grants 3 stacks of Blood Weapon, each stack increasing Blood Gauge by 10 and restoring MP upon landing weaponskills or spells.\nDuration: 15s\nEffect does not stack when hitting multiple targets with a single attack.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Shadow Wall",
-      "image": "https://img.finalfantasyxiv.com/lds/d/7ea7904a9e066bb33d542755b5984ad78c711a45.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/7ea7904a9e066bb33d542755b5984ad78c711a45.png",
       "lvl": 38,
       "type": "Ability",
       "cast": 0,
@@ -102,17 +102,17 @@
     },
     {
       "name": "Stalwart Soul",
-      "image": "https://img.finalfantasyxiv.com/lds/d/cc2fff4dcbf82d405c36a0d153fb28af5fcb9068.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/cc2fff4dcbf82d405c36a0d153fb28af5fcb9068.png",
       "lvl": 40,
       "type": "Spell",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "description": "Deals unaspected damage with a potency of 100 to all nearby enemies.\nCombo Action: Unleash\nCombo Potency: 140\nCombo Bonus: Restores MP\nCombo Bonus: Increases Blood Gauge by 20"
+      "description": "Deals unaspected damage with a potency of 120 to all nearby enemies.\nAdditional Effect: Increased enmity\nCombo Action: Unleash\nCombo Potency: 160\nCombo Bonus: Restores MP\nCombo Bonus: Increases Blood Gauge by 20\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Edge of Darkness",
-      "image": "https://img.finalfantasyxiv.com/lds/d/e62374eb5036fcaa1201fec390bc266620501abe.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/e62374eb5036fcaa1201fec390bc266620501abe.png",
       "lvl": 40,
       "type": "Ability",
       "cast": 0,
@@ -122,7 +122,7 @@
     },
     {
       "name": "Dark Mind",
-      "image": "https://img.finalfantasyxiv.com/lds/d/adb1f756a8cfa746f5ec2f97e487e41c06026a61.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/adb1f756a8cfa746f5ec2f97e487e41c06026a61.png",
       "lvl": 45,
       "type": "Ability",
       "cast": 0,
@@ -132,7 +132,7 @@
     },
     {
       "name": "Living Dead",
-      "image": "https://img.finalfantasyxiv.com/lds/d/968fc4ccd880ca468fff7b34680e793a80ffdab1.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/968fc4ccd880ca468fff7b34680e793a80ffdab1.png",
       "lvl": 50,
       "type": "Ability",
       "cast": 0,
@@ -142,27 +142,27 @@
     },
     {
       "name": "Salted Earth",
-      "image": "https://img.finalfantasyxiv.com/lds/d/8c3e2f641cea5b3c0693034e6feafeff359341c5.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/8c3e2f641cea5b3c0693034e6feafeff359341c5.png",
       "lvl": 52,
       "type": "Ability",
       "cast": 0,
       "cooldown": 90,
       "cost": 0,
-      "description": "Creates a patch of salted earth at your feet, dealing unaspected damage with a potency of 50 to any enemies who enter.\nDuration: 15s\n\n※Action changes to Salt and Darkness upon execution."
+      "description": "Creates a patch of salted earth at your feet, dealing unaspected damage with a potency of 50 to any enemies who enter.\nDuration: 15s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
-      "name": "Plunge",
-      "image": "https://img.finalfantasyxiv.com/lds/d/d95cc50b9a8950878a034c0d6f58c8bd8c58929d.png",
+      "name": "Shadowstride",
+      "image": "https://lds-img.finalfantasyxiv.com/d/52870f24b14efd37172003e974b8c45ca3d38010.png",
       "lvl": 54,
       "type": "Ability",
       "cast": 0,
       "cooldown": 30,
       "cost": 0,
-      "description": "Delivers a jumping attack with a potency of 150.\nMaximum Charges: 2\nCannot be executed while bound."
+      "description": "Rush to a targeted enemy's location.\nAdditional Effect: Increased enmity\nMaximum Charges: 2\nCannot be executed while bound."
     },
     {
       "name": "Abyssal Drain",
-      "image": "https://img.finalfantasyxiv.com/lds/d/17543c65847814b073fe6481402a347c7efc9225.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/17543c65847814b073fe6481402a347c7efc9225.png",
       "lvl": 56,
       "type": "Ability",
       "cast": 0,
@@ -172,47 +172,47 @@
     },
     {
       "name": "Carve and Spit",
-      "image": "https://img.finalfantasyxiv.com/lds/d/6bbe53b6e1f87598b98967ae9d29e4337a7afadd.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/6bbe53b6e1f87598b98967ae9d29e4337a7afadd.png",
       "lvl": 60,
       "type": "Ability",
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "description": "Delivers a threefold attack with a potency of 510.\nAdditional Effect: Restores MP\nShares a recast timer with Abyssal Drain."
+      "description": "Delivers a threefold attack with a potency of 540.\nAdditional Effect: Restores MP\nShares a recast timer with Abyssal Drain.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Bloodspiller",
-      "image": "https://img.finalfantasyxiv.com/lds/d/4e5cbcae7dcf48cf8e3522d308f0c86df9114f0d.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/4e5cbcae7dcf48cf8e3522d308f0c86df9114f0d.png",
       "lvl": 62,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 500.\nBlood Gauge Cost: 50"
+      "description": "Delivers an attack with a potency of 580.\nBlood Gauge Cost: 50\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Quietus",
-      "image": "https://img.finalfantasyxiv.com/lds/d/ea30bbaacc0da577820f8b027cec26738c1be840.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/ea30bbaacc0da577820f8b027cec26738c1be840.png",
       "lvl": 64,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 200 to all nearby enemies.\nBlood Gauge Cost: 50"
+      "description": "Delivers an attack with a potency of 240 to all nearby enemies.\nBlood Gauge Cost: 50\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Delirium",
-      "image": "https://img.finalfantasyxiv.com/lds/d/fbf4ae3878ecc04c6201114ce6b0aadf26bef857.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/fbf4ae3878ecc04c6201114ce6b0aadf26bef857.png",
       "lvl": 68,
       "type": "Ability",
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "description": "Grants 3 stacks of Delirium, each stack allowing the execution of Quietus or Bloodspiller without Blackblood cost, restoring MP when landing either weaponskill.\nDuration: 15s"
+      "description": "Grants 3 stacks of Delirium and Blood Weapon.\nDelirium Effect: Changes Bloodspiller to Scarlet Delirium and Quietus to Impalement\nDuration: 15s\nBlood Weapon Effect: Each stack increases Blood Gauge by 10 and restores MP upon landing weaponskills or spells\nDuration: 15s\nEffect does not stack when hitting multiple targets with a single attack.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "The Blackest Night",
-      "image": "https://img.finalfantasyxiv.com/lds/d/f82c8fbcd6549c8cd72108a937aade172f8b98a8.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/f82c8fbcd6549c8cd72108a937aade172f8b98a8.png",
       "lvl": 70,
       "type": "Ability",
       "cast": 0,
@@ -222,7 +222,7 @@
     },
     {
       "name": "Flood of Shadow",
-      "image": "https://img.finalfantasyxiv.com/lds/d/de4960def285cc69e33455acae0f50808a6cd623.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/de4960def285cc69e33455acae0f50808a6cd623.png",
       "lvl": 74,
       "type": "Ability",
       "cast": 0,
@@ -232,7 +232,7 @@
     },
     {
       "name": "Edge of Shadow",
-      "image": "https://img.finalfantasyxiv.com/lds/d/e4536e75673663bf1b91d1a78a565dabc2f041f6.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/e4536e75673663bf1b91d1a78a565dabc2f041f6.png",
       "lvl": 74,
       "type": "Ability",
       "cast": 0,
@@ -242,7 +242,7 @@
     },
     {
       "name": "Dark Missionary",
-      "image": "https://img.finalfantasyxiv.com/lds/d/1dc1a1d830e5355e2cd251531e85932c24ba1b8d.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/1dc1a1d830e5355e2cd251531e85932c24ba1b8d.png",
       "lvl": 76,
       "type": "Ability",
       "cast": 0,
@@ -252,17 +252,17 @@
     },
     {
       "name": "Living Shadow",
-      "image": "https://img.finalfantasyxiv.com/lds/d/5150a7bff7be43d689f896e7be140f4720a23f6e.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/5150a7bff7be43d689f896e7be140f4720a23f6e.png",
       "lvl": 80,
       "type": "Ability",
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "description": "Conjure a simulacrum of your darkside to fight alongside you.\nSimulacrum Attack Potency: 350\nDuration: 20s\nBlood Gauge Cost: 50\nAdditional Effect: Simulacrum is able to execute Shadowbringer, delivering an attack to all enemies in a straight line before it with a potency of 500 for the first enemy, and 25% less for all remaining enemies."
+      "description": "Conjure a simulacrum of your darkside to fight alongside you.\nDuration: 20s\nAdditional Effect: Grants Scorn\nDuration: 30s\nSimulacrum Attack Potency: 420\nAdditional Effect: Simulacrum is able to execute Shadowbringer and Disesteem\nShadowbringer Potency: 570 for the first enemy, and 25% less for all remaining enemies\nDisesteem Potency: 620 for the first enemy, and 25% less for all remaining enemies\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Oblation",
-      "image": "https://img.finalfantasyxiv.com/lds/d/5a42ca000eb7ab0c80e3952539ed260af3d4c5e8.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/5a42ca000eb7ab0c80e3952539ed260af3d4c5e8.png",
       "lvl": 82,
       "type": "Ability",
       "cast": 0,
@@ -271,40 +271,100 @@
       "description": "Reduces damage taken by target party member or self by 10%.\nDuration: 10s\nMaximum Charges: 2"
     },
     {
-      "name": "Salt and Darkness",
-      "image": "https://img.finalfantasyxiv.com/lds/d/bb0216fb548f749ceb5bf25f071af462129be59b.png",
+      "name": "Salt and Darkness\nPrerequisite Quest",
+      "image": "https://lds-img.finalfantasyxiv.com/d/bb0216fb548f749ceb5bf25f071af462129be59b.png",
       "lvl": 86,
       "type": "Ability",
       "cast": 0,
       "cooldown": 20,
       "cost": 0,
-      "description": "All enemies standing in the corrupted patch of Salted Earth take additional unaspected damage with a potency of 500 for the first enemy, and 50% less for all remaining enemies.\n\n※This action cannot be assigned to a hotbar."
+      "description": "All enemies standing in the corrupted patch of Salted Earth take additional unaspected damage with a potency of 500 for the first enemy, and 50% less for all remaining enemies.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Shadowbringer",
-      "image": "https://img.finalfantasyxiv.com/lds/d/bb5281f6fd7eb6900cbda1c39722b4d3c7e51b6e.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/bb5281f6fd7eb6900cbda1c39722b4d3c7e51b6e.png",
       "lvl": 90,
       "type": "Ability",
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
       "description": "Deals unaspected damage to all enemies in a straight line before you with a potency of 600 for the first enemy, and 50% less for all remaining enemies.\nMaximum Charges: 2\nCan only be executed while under the effect of Darkside."
+    },
+    {
+      "name": "Shadowed Vigil",
+      "image": "https://lds-img.finalfantasyxiv.com/d/093f2ddb0a06f04a76fe41fd5c31f7fceb46d2ea.png",
+      "lvl": 92,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "description": "Reduces damage taken by 40%.\nDuration: 15s\nAdditional Effect: Grants Vigilant\nDuration: 20s\nVigilant Effect: Restores HP when HP falls below 50% or upon effect duration expiration\nCure Potency: 1,200"
+    },
+    {
+      "name": "Scarlet Delirium",
+      "image": "https://lds-img.finalfantasyxiv.com/d/457d3fa4f25afb9c4494105c0afc15644bbaad7a.png",
+      "lvl": 96,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "description": "Delivers an attack with a potency of 600.\nAdditional Effect: Restores MP\nCan only be executed while under the effect of Delirium.\n\n※This action cannot be assigned to a hotbar.\n※Bloodspiller changes to Scarlet Delirium while under the effect of Delirium."
+    },
+    {
+      "name": "Comeuppance",
+      "image": "https://lds-img.finalfantasyxiv.com/d/cc157e7338d9b4c32f880aed1838519933bc6797.png",
+      "lvl": 96,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "description": "Delivers an attack with a potency of 700.\nCombo Action: Scarlet Delirium\nAdditional Effect: Restores MP\nCan only be executed while under the effect of Delirium.\n\n※This action cannot be assigned to a hotbar.\n※Scarlet Delirium changes to Comeuppance when requirements for execution are met."
+    },
+    {
+      "name": "Torcleaver",
+      "image": "https://lds-img.finalfantasyxiv.com/d/2510476b643976c09c1b42f6eb9f011b7de6902c.png",
+      "lvl": 96,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "description": "Delivers an attack with a potency of 800.\nCombo Action: Comeuppance\nAdditional Effect: Restores MP\nCan only be executed while under the effect of Delirium.\n\n※This action cannot be assigned to a hotbar.\n※Comeuppance changes to Torcleaver when requirements for execution are met."
+    },
+    {
+      "name": "Impalement",
+      "image": "https://lds-img.finalfantasyxiv.com/d/77ef69ee0efdb439996373d7e47f2744a7604b10.png",
+      "lvl": 96,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "description": "Delivers an attack with a potency of 320 to all nearby enemies.\nAdditional Effect: Restores MP\nCan only be executed while under the effect of Delirium.\n\n※This action cannot be assigned to a hotbar.\n※Quietus changes to Impalement when requirements for execution are met."
+    },
+    {
+      "name": "Disesteem",
+      "image": "https://lds-img.finalfantasyxiv.com/d/acf9474555312bfc65c8d4e8e93cf368f819f503.png",
+      "lvl": 100,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "description": "Deals physical damage to all enemies in a straight line before you with a potency of 1,000 for the first enemy, and 50% less for all remaining enemies.\nCan only be executed while Scorn is active."
     }
   ],
   "roleActions": [
     {
       "name": "Rampart",
-      "image": "https://img.finalfantasyxiv.com/lds/d/37546679ae5e431c0903b20fa2c91a88c5a8e001.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/37546679ae5e431c0903b20fa2c91a88c5a8e001.png",
       "lvl": 8,
       "type": "Ability",
       "cast": 0,
       "cooldown": 90,
       "cost": 0,
-      "description": "Reduces damage taken by 20%.\nDuration: 20s"
+      "description": "Reduces damage taken by 20%.\nAdditional Effect: Increases HP recovery via healing actions on self by 15%\nDuration: 20s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Low Blow",
-      "image": "https://img.finalfantasyxiv.com/lds/d/af837b3dd467ee9cdf865a06eb2b1633dd2b492a.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/af837b3dd467ee9cdf865a06eb2b1633dd2b492a.png",
       "lvl": 12,
       "type": "Ability",
       "cast": 0,
@@ -314,7 +374,7 @@
     },
     {
       "name": "Provoke",
-      "image": "https://img.finalfantasyxiv.com/lds/d/2b45fea903bcf1edd9e08110cf95e8bba9a73c0d.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/2b45fea903bcf1edd9e08110cf95e8bba9a73c0d.png",
       "lvl": 15,
       "type": "Ability",
       "cast": 0,
@@ -324,7 +384,7 @@
     },
     {
       "name": "Interject",
-      "image": "https://img.finalfantasyxiv.com/lds/d/8442bcce1ec21a449546af9afb79ae9ea8c226cb.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/8442bcce1ec21a449546af9afb79ae9ea8c226cb.png",
       "lvl": 18,
       "type": "Ability",
       "cast": 0,
@@ -334,17 +394,17 @@
     },
     {
       "name": "Reprisal",
-      "image": "https://img.finalfantasyxiv.com/lds/d/6b83d9368623d5cd20a426d26916021b59a14963.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/6b83d9368623d5cd20a426d26916021b59a14963.png",
       "lvl": 22,
       "type": "Ability",
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "description": "Reduces damage dealt by nearby enemies by 10%.\nDuration: 10s"
+      "description": "Reduces damage dealt by nearby enemies by 10%.\nDuration: 15s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Arm's Length",
-      "image": "https://img.finalfantasyxiv.com/lds/d/00ff21ad3e1fb26d7b292a9d912931e7ea64daa4.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/00ff21ad3e1fb26d7b292a9d912931e7ea64daa4.png",
       "lvl": 32,
       "type": "Ability",
       "cast": 0,
@@ -354,7 +414,7 @@
     },
     {
       "name": "Shirk",
-      "image": "https://img.finalfantasyxiv.com/lds/d/4abd24800cb0999fff8ea79ed1085a7b5f8b14cb.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/4abd24800cb0999fff8ea79ed1085a7b5f8b14cb.png",
       "lvl": 48,
       "type": "Ability",
       "cast": 0,
@@ -380,34 +440,54 @@
       "description": "Allows for Blood Gauge accumulation upon the landing of any weaponskill or spell while under the effect of Blood Weapon."
     },
     {
+      "name": "Blood Weapon Mastery",
+      "lvl": 68,
+      "description": "Upgrades Blood Weapon to Delirium."
+    },
+    {
       "name": "Darkside Mastery",
       "lvl": 74,
       "description": "Upgrades Flood of Darkness and Edge of Darkness to Flood of Shadow and Edge of Shadow respectively."
     },
     {
-      "name": "Enhanced Plunge",
-      "lvl": 78,
-      "description": "Allows the accumulation of charges for consecutive uses of Plunge.\nMaximum Charges: 2"
-    },
-    {
       "name": "Enhanced Unmend",
       "lvl": 84,
-      "description": "Reduces recast time of Plunge by 5 seconds when executing Unmend on most targets."
+      "description": "Reduces recast time of Shadowstride by 5 seconds when executing Unmend on most targets.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Melee Mastery",
       "lvl": 84,
-      "description": "Increases the potency of Hard Slash to 170, Syphon Strike to 120, and Souleater to 120."
+      "description": "Increases the potency of Hard Slash to 180, Syphon Strike to 120, and Souleater to 140.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Enhanced Living Shadow",
       "lvl": 88,
-      "description": "Increases the potency of attacks dealt by your simulacrum to 350."
+      "description": "Increases the potency of attacks dealt by your simulacrum to 420.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Enhanced Living Shadow II",
       "lvl": 90,
-      "description": "Upgrades Flood of Shadow executed by your simulacrum to Shadowbringer, which delivers an attack to all enemies in a straight line before it with a potency of 500 for the first enemy, and 25% less for all remaining enemies."
+      "description": "Upgrades Flood of Shadow executed by your simulacrum to Shadowbringer, which delivers an attack to all enemies in a straight line before it with a potency of 570 for the first enemy, and 25% less for all remaining enemies.\nRevisions (Patch 6.5x - Patch 7.05)"
+    },
+    {
+      "name": "Shadow Wall Mastery",
+      "lvl": 92,
+      "description": "Upgrades Shadow Wall to Shadowed Vigil."
+    },
+    {
+      "name": "Melee Mastery II",
+      "lvl": 94,
+      "description": "Increases the potency of Hard Slash to 300, Syphon Strike to 240, Souleater to 260, Stalwart Soul to 120, Carve and Spit to 540, Bloodspiller to 580, and Quietus to 240."
+    },
+    {
+      "name": "Enhanced Delirium",
+      "lvl": 96,
+      "description": "Upgrades Bloodspiller and Quietus to Scarlet Delirium and Impalement respectively."
+    },
+    {
+      "name": "Enhanced Living Shadow III",
+      "lvl": 100,
+      "description": "Grants the effect of Scorn after executing Living Shadow.\nDuration: 30s\n\nAdditionally upgrades Carve and Spit executed by your simulacrum to Disesteem, which delivers an attack to all enemies in a straight line before it with a potency of 620 for the first enemy, and 25% less for all remaining enemies."
     }
   ]
 }

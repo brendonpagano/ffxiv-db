@@ -2,7 +2,7 @@
   "jobActions": [
     {
       "name": "Ruin",
-      "image": "https://img.finalfantasyxiv.com/lds/d/1c74fa1688f3d89d6f5b972ce384df15f62e35d1.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/1c74fa1688f3d89d6f5b972ce384df15f62e35d1.png",
       "lvl": 1,
       "type": "Spell",
       "cast": 1.5,
@@ -12,7 +12,7 @@
     },
     {
       "name": "Summon Carbuncle",
-      "image": "https://img.finalfantasyxiv.com/lds/d/14a64b174c103f36179809458245dc5e4f4fe0a6.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/14a64b174c103f36179809458245dc5e4f4fe0a6.png",
       "lvl": 2,
       "type": "Spell",
       "cast": 1.5,
@@ -22,7 +22,7 @@
     },
     {
       "name": "Radiant Aegis",
-      "image": "https://img.finalfantasyxiv.com/lds/d/a116b861109158ee5db8e36cf922fae8f923e7d5.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/a116b861109158ee5db8e36cf922fae8f923e7d5.png",
       "lvl": 2,
       "type": "Ability",
       "cast": 0,
@@ -32,7 +32,7 @@
     },
     {
       "name": "Physick",
-      "image": "https://img.finalfantasyxiv.com/lds/d/e51f309947cde0c36f3a0cd815ca01e268928eb6.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/e51f309947cde0c36f3a0cd815ca01e268928eb6.png",
       "lvl": 4,
       "type": "Spell",
       "cast": 1.5,
@@ -42,7 +42,7 @@
     },
     {
       "name": "Aethercharge",
-      "image": "https://img.finalfantasyxiv.com/lds/d/ad9a8a02fa446a43dc54439c8ac1d04dad1384b2.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/ad9a8a02fa446a43dc54439c8ac1d04dad1384b2.png",
       "lvl": 6,
       "type": "Spell",
       "cast": 0,
@@ -52,7 +52,7 @@
     },
     {
       "name": "Summon Ruby",
-      "image": "https://img.finalfantasyxiv.com/lds/d/23ce1df0ac3aa5df6aa4b22cdf2369ff364cabc0.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/23ce1df0ac3aa5df6aa4b22cdf2369ff364cabc0.png",
       "lvl": 6,
       "type": "Spell",
       "cast": 0,
@@ -62,7 +62,7 @@
     },
     {
       "name": "Gemshine",
-      "image": "https://img.finalfantasyxiv.com/lds/d/b1b0a655e18e0c446a0774ef264f010a8766db7f.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/b1b0a655e18e0c446a0774ef264f010a8766db7f.png",
       "lvl": 6,
       "type": "Spell",
       "cast": 2.5,
@@ -72,7 +72,7 @@
     },
     {
       "name": "Ruby Ruin",
-      "image": "https://img.finalfantasyxiv.com/lds/d/1c74fa1688f3d89d6f5b972ce384df15f62e35d1.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/1c74fa1688f3d89d6f5b972ce384df15f62e35d1.png",
       "lvl": 6,
       "type": "Spell",
       "cast": 2.8,
@@ -82,7 +82,7 @@
     },
     {
       "name": "Fester",
-      "image": "https://img.finalfantasyxiv.com/lds/d/b2df31cca5d00be7bba89943c76b799ae82aba8d.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/34e34cc7ee016c8dc1493838cefc523aea784378.png",
       "lvl": 10,
       "type": "Ability",
       "cast": 0,
@@ -92,7 +92,7 @@
     },
     {
       "name": "Energy Drain",
-      "image": "https://img.finalfantasyxiv.com/lds/d/92ea9227a8a09c62eb53852e2c26c0d6763a35c2.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/92ea9227a8a09c62eb53852e2c26c0d6763a35c2.png",
       "lvl": 10,
       "type": "Ability",
       "cast": 0,
@@ -102,7 +102,7 @@
     },
     {
       "name": "Resurrection",
-      "image": "https://img.finalfantasyxiv.com/lds/d/9e61ea15caf1f7c0e4b44943dcbee0178e61a9fd.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/9e61ea15caf1f7c0e4b44943dcbee0178e61a9fd.png",
       "lvl": 12,
       "type": "Spell",
       "cast": 8,
@@ -112,7 +112,7 @@
     },
     {
       "name": "Summon Topaz",
-      "image": "https://img.finalfantasyxiv.com/lds/d/45345cb4f108a07c372f8a355b26c13661d51887.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/45345cb4f108a07c372f8a355b26c13661d51887.png",
       "lvl": 15,
       "type": "Spell",
       "cast": 0,
@@ -122,7 +122,7 @@
     },
     {
       "name": "Topaz Ruin",
-      "image": "https://img.finalfantasyxiv.com/lds/d/1c74fa1688f3d89d6f5b972ce384df15f62e35d1.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/1c74fa1688f3d89d6f5b972ce384df15f62e35d1.png",
       "lvl": 15,
       "type": "Spell",
       "cast": 0,
@@ -132,7 +132,7 @@
     },
     {
       "name": "Summon Emerald",
-      "image": "https://img.finalfantasyxiv.com/lds/d/d9d328ec1a7b30579dd56ad69fad33981e197f70.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/d9d328ec1a7b30579dd56ad69fad33981e197f70.png",
       "lvl": 22,
       "type": "Spell",
       "cast": 0,
@@ -142,7 +142,7 @@
     },
     {
       "name": "Emerald Ruin",
-      "image": "https://img.finalfantasyxiv.com/lds/d/1c74fa1688f3d89d6f5b972ce384df15f62e35d1.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/1c74fa1688f3d89d6f5b972ce384df15f62e35d1.png",
       "lvl": 22,
       "type": "Spell",
       "cast": 0,
@@ -152,7 +152,7 @@
     },
     {
       "name": "Outburst",
-      "image": "https://img.finalfantasyxiv.com/lds/d/aa5a6e6d676d222c70ac9c001132276cd401a140.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/2b85c12f6f9b3f7bd5d4599d9fb2d88f42e7d551.png",
       "lvl": 26,
       "type": "Spell",
       "cast": 1.5,
@@ -162,7 +162,7 @@
     },
     {
       "name": "Precious Brilliance",
-      "image": "https://img.finalfantasyxiv.com/lds/d/1fa3119e51a423fedea3e3a238497548d0c64960.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/1fa3119e51a423fedea3e3a238497548d0c64960.png",
       "lvl": 26,
       "type": "Spell",
       "cast": 2.5,
@@ -172,7 +172,7 @@
     },
     {
       "name": "Ruby Outburst",
-      "image": "https://img.finalfantasyxiv.com/lds/d/aa5a6e6d676d222c70ac9c001132276cd401a140.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/2b85c12f6f9b3f7bd5d4599d9fb2d88f42e7d551.png",
       "lvl": 26,
       "type": "Spell",
       "cast": 2.8,
@@ -182,7 +182,7 @@
     },
     {
       "name": "Topaz Outburst",
-      "image": "https://img.finalfantasyxiv.com/lds/d/aa5a6e6d676d222c70ac9c001132276cd401a140.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/2b85c12f6f9b3f7bd5d4599d9fb2d88f42e7d551.png",
       "lvl": 26,
       "type": "Spell",
       "cast": 0,
@@ -192,7 +192,7 @@
     },
     {
       "name": "Emerald Outburst",
-      "image": "https://img.finalfantasyxiv.com/lds/d/aa5a6e6d676d222c70ac9c001132276cd401a140.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/2b85c12f6f9b3f7bd5d4599d9fb2d88f42e7d551.png",
       "lvl": 26,
       "type": "Spell",
       "cast": 0,
@@ -202,7 +202,7 @@
     },
     {
       "name": "Ruin II",
-      "image": "https://img.finalfantasyxiv.com/lds/d/d6875ae1008a9e4b2d04562cff42646752e919c5.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/d6875ae1008a9e4b2d04562cff42646752e919c5.png",
       "lvl": 30,
       "type": "Spell",
       "cast": 1.5,
@@ -212,7 +212,7 @@
     },
     {
       "name": "Summon Ifrit",
-      "image": "https://img.finalfantasyxiv.com/lds/d/5e826d0c09e4894638df5676fc15863cce8d5182.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/715b4b554a74c32f7c76258400c2e254c6b9d401.png",
       "lvl": 30,
       "type": "Spell",
       "cast": 0,
@@ -222,7 +222,7 @@
     },
     {
       "name": "Ruby Ruin II",
-      "image": "https://img.finalfantasyxiv.com/lds/d/d6875ae1008a9e4b2d04562cff42646752e919c5.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/d6875ae1008a9e4b2d04562cff42646752e919c5.png",
       "lvl": 30,
       "type": "Spell",
       "cast": 2.8,
@@ -232,7 +232,7 @@
     },
     {
       "name": "Topaz Ruin II",
-      "image": "https://img.finalfantasyxiv.com/lds/d/d6875ae1008a9e4b2d04562cff42646752e919c5.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/d6875ae1008a9e4b2d04562cff42646752e919c5.png",
       "lvl": 30,
       "type": "Spell",
       "cast": 0,
@@ -242,7 +242,7 @@
     },
     {
       "name": "Emerald Ruin II",
-      "image": "https://img.finalfantasyxiv.com/lds/d/d6875ae1008a9e4b2d04562cff42646752e919c5.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/d6875ae1008a9e4b2d04562cff42646752e919c5.png",
       "lvl": 30,
       "type": "Spell",
       "cast": 0,
@@ -252,7 +252,7 @@
     },
     {
       "name": "Summon Titan",
-      "image": "https://img.finalfantasyxiv.com/lds/d/0e63c4fe037c46bb8fcb3b1402319d0cf1084711.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/0e63c4fe037c46bb8fcb3b1402319d0cf1084711.png",
       "lvl": 35,
       "type": "Spell",
       "cast": 0,
@@ -262,7 +262,7 @@
     },
     {
       "name": "Painflare",
-      "image": "https://img.finalfantasyxiv.com/lds/d/0d06f6fcf4a18fc6dcf2e084098a5acecf958f28.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/f9335b8757ce19d93307eb4686a8271552de608d.png",
       "lvl": 40,
       "type": "Ability",
       "cast": 0,
@@ -272,7 +272,7 @@
     },
     {
       "name": "Summon Garuda",
-      "image": "https://img.finalfantasyxiv.com/lds/d/f0d45cc564da364190b10ea26b9978147b3813fd.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/f0d45cc564da364190b10ea26b9978147b3813fd.png",
       "lvl": 45,
       "type": "Spell",
       "cast": 0,
@@ -282,7 +282,7 @@
     },
     {
       "name": "Energy Siphon",
-      "image": "https://img.finalfantasyxiv.com/lds/d/9a6ba0bc2e8f682c23f8c2d9241a2ed4bf6a637c.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/f7611746e0238a496d85af166ef6da7cff071f43.png",
       "lvl": 52,
       "type": "Ability",
       "cast": 0,
@@ -292,17 +292,17 @@
     },
     {
       "name": "Ruin III",
-      "image": "https://img.finalfantasyxiv.com/lds/d/5d2d65267abd378e60f7f9e832ee92be084ff6d7.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/d133d1c9ecf315375c76bc25ddd5c01d9ce56512.png",
       "lvl": 54,
       "type": "Spell",
       "cast": 1.5,
       "cooldown": 2.5,
       "cost": 300,
-      "description": "Deals unaspected damage with a potency of 310."
+      "description": "Deals unaspected damage with a potency of 360.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Ruby Ruin III",
-      "image": "https://img.finalfantasyxiv.com/lds/d/5d2d65267abd378e60f7f9e832ee92be084ff6d7.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/d133d1c9ecf315375c76bc25ddd5c01d9ce56512.png",
       "lvl": 54,
       "type": "Spell",
       "cast": 2.8,
@@ -312,7 +312,7 @@
     },
     {
       "name": "Topaz Ruin III",
-      "image": "https://img.finalfantasyxiv.com/lds/d/5d2d65267abd378e60f7f9e832ee92be084ff6d7.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/d133d1c9ecf315375c76bc25ddd5c01d9ce56512.png",
       "lvl": 54,
       "type": "Spell",
       "cast": 0,
@@ -322,7 +322,7 @@
     },
     {
       "name": "Emerald Ruin III",
-      "image": "https://img.finalfantasyxiv.com/lds/d/5d2d65267abd378e60f7f9e832ee92be084ff6d7.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/d133d1c9ecf315375c76bc25ddd5c01d9ce56512.png",
       "lvl": 54,
       "type": "Spell",
       "cast": 0,
@@ -332,7 +332,7 @@
     },
     {
       "name": "Dreadwyrm Trance",
-      "image": "https://img.finalfantasyxiv.com/lds/d/629a0b7a52fe0aad68cf3d0a7a0d40ab0d9c45bf.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/7509846b70611448faedd354f58cb626c90fe0b5.png",
       "lvl": 58,
       "type": "Spell",
       "cast": 0,
@@ -342,77 +342,77 @@
     },
     {
       "name": "Astral Impulse",
-      "image": "https://img.finalfantasyxiv.com/lds/d/2ba7ab41cd2f8dac96ba0c89426eebff963d6be0.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/2ba7ab41cd2f8dac96ba0c89426eebff963d6be0.png",
       "lvl": 58,
       "type": "Spell",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 300,
-      "description": "Deals unaspected damage with a potency of 440.\nCan only be executed while in Dreadwyrm Trance.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals unaspected damage with a potency of 500.\nCan only be executed while in Dreadwyrm Trance.\n\n※This action cannot be assigned to a hotbar.\n※Ruin III changes to Astral Impulse when requirements for execution are met.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Astral Flare",
-      "image": "https://img.finalfantasyxiv.com/lds/d/41380367e3ff56dfc723ac049dbcacd00ac5c6f8.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/41380367e3ff56dfc723ac049dbcacd00ac5c6f8.png",
       "lvl": 58,
       "type": "Spell",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 300,
-      "description": "Deals unaspected damage with a potency of 180 to target and all enemies nearby it.\nCan only be executed while in Dreadwyrm Trance.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals unaspected damage with a potency of 180 to target and all enemies nearby it.\nCan only be executed while in Dreadwyrm Trance.\n\n※This action cannot be assigned to a hotbar.\n※Tri-disaster changes to Astral Flare when requirements for execution are met."
     },
     {
       "name": "Astral Flow",
-      "image": "https://img.finalfantasyxiv.com/lds/d/3fd44c9091d6888f7b3b3ee449d3f71d94d9b05a.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/3fd44c9091d6888f7b3b3ee449d3f71d94d9b05a.png",
       "lvl": 60,
       "type": "Spell",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "description": "Channel the energies of your active trance or elemental favor to perform one of several actions.\nDreadwyrm Trance Effect: Action changes to Deathflare\nFirebird Trance Effect: Action changes to Rekindle\nIfrit's Favor Effect: Action changes to Crimson Cyclone\nTitan's Favor Effect: Action changes to Mountain Buster\nGaruda's Favor Effect: Action changes to Slipstream"
+      "description": "Channel the energies of your active trance or elemental favor to perform one of several actions.\nDreadwyrm Trance Effect: Action changes to Deathflare\nLightwyrm Trance Effect: Action changes to Sunflare\nFirebird Trance Effect: Action changes to Rekindle\nIfrit's Favor Effect: Action changes to Crimson Cyclone\nTitan's Favor Effect: Action changes to Mountain Buster\nGaruda's Favor Effect: Action changes to Slipstream\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Deathflare",
-      "image": "https://img.finalfantasyxiv.com/lds/d/710d60dfcdf5a59cb192084786c7c37bff62fb99.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/e88a1de4bbb8cdaa4c08ef5717797c2872bb42dd.png",
       "lvl": 60,
       "type": "Ability",
       "cast": 0,
       "cooldown": 20,
       "cost": 0,
-      "description": "Deals unaspected damage to target and all enemies nearby it with a potency of 500 for the first enemy, and 60% less for all remaining enemies.\nCan only be executed while in Dreadwyrm Trance.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals unaspected damage to target and all enemies nearby it with a potency of 500 for the first enemy, and 60% less for all remaining enemies.\nCan only be executed while in Dreadwyrm Trance.\n\n※This action cannot be assigned to a hotbar.\n※Astral Flow changes to Deathflare when requirements for execution are met."
     },
     {
       "name": "Ruin IV",
-      "image": "https://img.finalfantasyxiv.com/lds/d/84226db4cce94d2c2c686af2c6fca01dfc6a63f9.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/289900e8f6153efeabb601c5cce046b80eed4c88.png",
       "lvl": 62,
       "type": "Spell",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 400,
-      "description": "Deals unaspected damage to target and all enemies nearby it with a potency of 430 for the first enemy, and 60% less for all remaining enemies.\nCan only be executed while under the effect of Further Ruin."
+      "description": "Deals unaspected damage to target and all enemies nearby it with a potency of 490 for the first enemy, and 60% less for all remaining enemies.\nCan only be executed while under the effect of Further Ruin.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Searing Light",
-      "image": "https://img.finalfantasyxiv.com/lds/d/6c4b1ae3c69201feb415963f374cd3449a4ad7db.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/6c4b1ae3c69201feb415963f374cd3449a4ad7db.png",
       "lvl": 66,
       "type": "Ability",
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "description": "Increases damage dealt by self and nearby party members by 3%.\nDuration: 30s"
+      "description": "Increases damage dealt by self and nearby party members by 5%.\nDuration: 20s\nAdditional Effect: Grants Ruby's Glimmer\nDuration: 30s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Summon Bahamut",
-      "image": "https://img.finalfantasyxiv.com/lds/d/2e961ffd2e67115c99ad1b4863fc29d5064c4fe9.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/88e476ec7f35cfb0f94120dc2ef1b7ed0c00768a.png",
       "lvl": 70,
       "type": "Spell",
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "description": "Enters Dreadwyrm Trance and summons Demi-Bahamut to fight your target.\nDemi-Bahamut will execute Wyrmwave automatically on the targets attacked by you after summoning.\nIncreases enmity in target when Demi-Bahamut is summoned.\nDuration: 15s\nAdditional Effect: Changes Ruin III to Astral Impulse and Tri-disaster to Astral Flare\nAdditional Effect: Grants Ruby Arcanum, Topaz Arcanum, and Emerald Arcanum\nCan only be executed in combat and while Carbuncle is summoned.\nThis action does not share a recast timer with any other actions."
+      "description": "Enters Dreadwyrm Trance and summons Demi-Bahamut to fight your target.\nDemi-Bahamut will execute Wyrmwave automatically on the targets attacked by you after summoning.\nIncreases enmity in target when Demi-Bahamut is summoned.\nDuration: 15s\nAdditional Effect: Changes Ruin III to Astral Impulse and Tri-disaster to Astral Flare\nAdditional Effect: Grants Ruby Arcanum, Topaz Arcanum, and Emerald Arcanum\nCan only be executed while Carbuncle is summoned.\nThis action does not share a recast timer with any other actions."
     },
     {
       "name": "Wyrmwave",
-      "image": "https://img.finalfantasyxiv.com/lds/d/d2234447db9cad86e7f87d6af71b7088e5fee400.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/0e7bcb6dd7b20399f831c58338994005b10da6b3.png",
       "lvl": 70,
       "type": "Spell",
       "cast": 0,
@@ -422,7 +422,7 @@
     },
     {
       "name": "Enkindle Bahamut",
-      "image": "https://img.finalfantasyxiv.com/lds/d/cbf72c7579e45d4a64a7232be3fa7d38a34b703f.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/7841102eeddcd359b9bc0af66a8c51aee6c7b258.png",
       "lvl": 70,
       "type": "Ability",
       "cast": 0,
@@ -432,7 +432,7 @@
     },
     {
       "name": "Akh Morn",
-      "image": "https://img.finalfantasyxiv.com/lds/d/bdea704b3466837dbf634ca8fa4b21e80cddf833.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/ffbcb07b5ee81884939776d358768995cb4083ae.png",
       "lvl": 70,
       "type": "Ability",
       "cast": 0,
@@ -442,37 +442,37 @@
     },
     {
       "name": "Ruby Rite",
-      "image": "https://img.finalfantasyxiv.com/lds/d/3c739e3604ba2d045b691a46c0dbef1a658951f3.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/3c739e3604ba2d045b691a46c0dbef1a658951f3.png",
       "lvl": 72,
       "type": "Spell",
       "cast": 2.8,
       "cooldown": 3,
       "cost": 300,
-      "description": "Deals fire damage with a potency of 510.\nFire Attunement Cost: 1\nThis action does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals fire damage with a potency of 540.\nFire Attunement Cost: 1\nThis action does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions.\n\n※This action cannot be assigned to a hotbar.\n※Gemshine changes to Ruby Rite when requirements for execution are met.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Topaz Rite",
-      "image": "https://img.finalfantasyxiv.com/lds/d/4c4900529cf628e2f3fda4134c996741f8b465c3.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/4c4900529cf628e2f3fda4134c996741f8b465c3.png",
       "lvl": 72,
       "type": "Spell",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 300,
-      "description": "Deals earth damage with a potency of 330.\nAdditional Effect: Grants Titan's Favor\nEffect of Titan's Favor ends upon execution of certain summoner actions.\nEarth Attunement Cost: 1\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals earth damage with a potency of 340.\nAdditional Effect: Grants Titan's Favor\nEffect of Titan's Favor ends upon execution of certain summoner actions.\nEarth Attunement Cost: 1\n\n※This action cannot be assigned to a hotbar.\n※Gemshine changes to Topaz Rite when requirements for execution are met.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Emerald Rite",
-      "image": "https://img.finalfantasyxiv.com/lds/d/87c16672ddea00204d4c0489b5417166cdb2546a.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/87c16672ddea00204d4c0489b5417166cdb2546a.png",
       "lvl": 72,
       "type": "Spell",
       "cast": 0,
       "cooldown": 1.5,
       "cost": 300,
-      "description": "Deals wind damage with a potency of 230.\nWind Attunement Cost: 1\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals wind damage with a potency of 240.\nWind Attunement Cost: 1\n\n※This action cannot be assigned to a hotbar.\n※Gemshine changes to Emerald Rite when requirements for execution are met.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Tri-disaster",
-      "image": "https://img.finalfantasyxiv.com/lds/d/20e1e40922c159401231154ab0cc94c789b1f58f.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/20e1e40922c159401231154ab0cc94c789b1f58f.png",
       "lvl": 74,
       "type": "Spell",
       "cast": 1.5,
@@ -482,7 +482,7 @@
     },
     {
       "name": "Ruby Disaster",
-      "image": "https://img.finalfantasyxiv.com/lds/d/20e1e40922c159401231154ab0cc94c789b1f58f.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/20e1e40922c159401231154ab0cc94c789b1f58f.png",
       "lvl": 74,
       "type": "Spell",
       "cast": 2.8,
@@ -492,7 +492,7 @@
     },
     {
       "name": "Topaz Disaster",
-      "image": "https://img.finalfantasyxiv.com/lds/d/20e1e40922c159401231154ab0cc94c789b1f58f.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/20e1e40922c159401231154ab0cc94c789b1f58f.png",
       "lvl": 74,
       "type": "Spell",
       "cast": 0,
@@ -502,7 +502,7 @@
     },
     {
       "name": "Emerald Disaster",
-      "image": "https://img.finalfantasyxiv.com/lds/d/20e1e40922c159401231154ab0cc94c789b1f58f.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/20e1e40922c159401231154ab0cc94c789b1f58f.png",
       "lvl": 74,
       "type": "Spell",
       "cast": 0,
@@ -511,38 +511,58 @@
       "description": "Deals wind damage with a potency of 90 to target and all enemies nearby it.\nWind Attunement Cost: 1\n\n※This action cannot be assigned to a hotbar."
     },
     {
-      "name": "Fountain of Fire",
-      "image": "https://img.finalfantasyxiv.com/lds/d/1b50beab981774f701d16ac61674bfc01747f38b.png",
-      "lvl": 80,
-      "type": "Spell",
-      "cast": 0,
-      "cooldown": 2.5,
-      "cost": 300,
-      "description": "Deals fire damage with a potency of 540.\nCan only be executed while under the effect of Firebird Trance.\n\n※This action cannot be assigned to a hotbar."
-    },
-    {
-      "name": "Brand of Purgatory",
-      "image": "https://img.finalfantasyxiv.com/lds/d/daebb0133d31dbdcc989ecf9fd04ef3acf040cba.png",
-      "lvl": 80,
-      "type": "Spell",
-      "cast": 0,
-      "cooldown": 2.5,
-      "cost": 300,
-      "description": "Deals fire damage with a potency of 240 to target and all enemies nearby it.\nCan only be executed while under the effect of Firebird Trance.\n\n※This action cannot be assigned to a hotbar."
-    },
-    {
       "name": "Summon Phoenix",
-      "image": "https://img.finalfantasyxiv.com/lds/d/e38e769e9f268f4dcc345b25d310cd53d10d4795.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/e38e769e9f268f4dcc345b25d310cd53d10d4795.png",
       "lvl": 80,
       "type": "Spell",
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "description": "Enters Firebird Trance and summons Demi-Phoenix to fight by your side, which executes Everlasting Flight as it manifests.\nDemi-Phoenix will execute Scarlet Flame automatically on the targets attacked by you after summoning.\nIncreases enmity in target when Demi-Phoenix is summoned.\nDuration: 15s\nAdditional Effect: Changes Ruin III to Fountain of Fire and Tri-disaster to Brand of Purgatory\nAdditional Effect: Grants Ruby Arcanum, Topaz Arcanum, and Emerald Arcanum\nCan only be executed in combat and while Carbuncle is summoned.\nThis action does not share a recast timer with any other actions."
+      "description": "Enters Firebird Trance and summons Demi-Phoenix to fight by your side, which executes Everlasting Flight as it manifests.\nDemi-Phoenix will execute Scarlet Flame automatically on the targets attacked by you after summoning.\nIncreases enmity in target when Demi-Phoenix is summoned.\nDuration: 15s\nAdditional Effect: Changes Ruin III to Fountain of Fire and Tri-disaster to Brand of Purgatory\nAdditional Effect: Grants Ruby Arcanum, Topaz Arcanum, and Emerald Arcanum\nCan only be executed while Carbuncle is summoned.\nThis action does not share a recast timer with any other actions.\n\n※This action cannot be assigned to a hotbar.\n※Summon Bahamut changes to Summon Phoenix when requirements for execution are met."
+    },
+    {
+      "name": "Fountain of Fire",
+      "image": "https://lds-img.finalfantasyxiv.com/d/1b50beab981774f701d16ac61674bfc01747f38b.png",
+      "lvl": 80,
+      "type": "Spell",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 300,
+      "description": "Deals fire damage with a potency of 580.\nCan only be executed while under the effect of Firebird Trance.\n\n※This action cannot be assigned to a hotbar.\n※Ruin III changes to Fountain of Fire when requirements for execution are met.\nRevisions (Patch 6.5x - Patch 7.05)"
+    },
+    {
+      "name": "Brand of Purgatory",
+      "image": "https://lds-img.finalfantasyxiv.com/d/daebb0133d31dbdcc989ecf9fd04ef3acf040cba.png",
+      "lvl": 80,
+      "type": "Spell",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 300,
+      "description": "Deals fire damage with a potency of 240 to target and all enemies nearby it.\nCan only be executed while under the effect of Firebird Trance.\n\n※This action cannot be assigned to a hotbar.\n※Tri-disaster changes to Brand of Purgatory when requirements for execution are met."
+    },
+    {
+      "name": "Rekindle",
+      "image": "https://lds-img.finalfantasyxiv.com/d/6b2befa4d39ad77fa8992d934bd796e836eed13f.png",
+      "lvl": 80,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 20,
+      "cost": 0,
+      "description": "Restores own or target party member's HP.\nCure Potency: 400\nAdditional Effect: Grants Rekindle to target\nDuration: 30s\nRekindle Effect: Healing over time when HP falls below 75% or upon effect duration expiration\nCure Potency: 200\nDuration: 15s\nCan only be executed while in Firebird Trance.\n\n※This action cannot be assigned to a hotbar.\n※Astral Flow changes to Rekindle when requirements for execution are met."
+    },
+    {
+      "name": "Enkindle Phoenix",
+      "image": "https://lds-img.finalfantasyxiv.com/d/596917791c140eef84754e4488df04bfb7aabf87.png",
+      "lvl": 80,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 20,
+      "cost": 0,
+      "description": "Orders Demi-Phoenix to execute Revelation.\nRevelation Effect: Deals fire damage to target and all enemies nearby it with a potency of 1,300 for the first enemy, and 60% less for all remaining enemies\n\n※This action cannot be assigned to a hotbar.\n※Enkindle Bahamut changes to Enkindle Phoenix when requirements for execution are met."
     },
     {
       "name": "Everlasting Flight",
-      "image": "https://img.finalfantasyxiv.com/lds/d/47555a1b908cba86b377560667afa40e8471b69a.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/47555a1b908cba86b377560667afa40e8471b69a.png",
       "lvl": 80,
       "type": "Ability",
       "cast": 0,
@@ -551,18 +571,8 @@
       "description": "Gradually restores own HP and the HP of all nearby party members.\nCure Potency: 100\nDuration: 21s\n\n※This action cannot be assigned to a hotbar."
     },
     {
-      "name": "Rekindle",
-      "image": "https://img.finalfantasyxiv.com/lds/d/6b2befa4d39ad77fa8992d934bd796e836eed13f.png",
-      "lvl": 80,
-      "type": "Ability",
-      "cast": 0,
-      "cooldown": 20,
-      "cost": 0,
-      "description": "Restores own or target party member's HP.\nCure Potency: 400\nAdditional Effect: Grants Rekindle to target\nDuration: 30s\nRekindle Effect: Healing over time when HP falls below 75% or upon effect duration expiration\nCure Potency: 200\nDuration: 15s\nCan only be executed while in Firebird Trance.\n\n※This action cannot be assigned to a hotbar."
-    },
-    {
       "name": "Scarlet Flame",
-      "image": "https://img.finalfantasyxiv.com/lds/d/865ff61841e27dc0ede5742b0109c45b672c2ef2.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/865ff61841e27dc0ede5742b0109c45b672c2ef2.png",
       "lvl": 80,
       "type": "Spell",
       "cast": 0,
@@ -571,18 +581,8 @@
       "description": "Deals fire damage with a potency of 150.\nWill only execute while Demi-Phoenix is summoned.\n\n※This action cannot be assigned to a hotbar."
     },
     {
-      "name": "Enkindle Phoenix",
-      "image": "https://img.finalfantasyxiv.com/lds/d/596917791c140eef84754e4488df04bfb7aabf87.png",
-      "lvl": 80,
-      "type": "Ability",
-      "cast": 0,
-      "cooldown": 20,
-      "cost": 0,
-      "description": "Orders Demi-Phoenix to execute Revelation.\nRevelation Effect: Deals fire damage to target and all enemies nearby it with a potency of 1,300 for the first enemy, and 60% less for all remaining enemies\nAction replaces Enkindle Bahamut while Demi-Phoenix is summoned.\n\n※This action cannot be assigned to a hotbar."
-    },
-    {
       "name": "Revelation",
-      "image": "https://img.finalfantasyxiv.com/lds/d/9358e80cfda84c41bef60f05c6f66218842a6f74.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/9358e80cfda84c41bef60f05c6f66218842a6f74.png",
       "lvl": 80,
       "type": "Ability",
       "cast": 0,
@@ -592,109 +592,209 @@
     },
     {
       "name": "Ruby Catastrophe",
-      "image": "https://img.finalfantasyxiv.com/lds/d/aff103d032034722b3a4063ad749eb2bb85793aa.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/aff103d032034722b3a4063ad749eb2bb85793aa.png",
       "lvl": 82,
       "type": "Spell",
       "cast": 2.8,
       "cooldown": 3,
       "cost": 300,
-      "description": "Deals fire damage with a potency of 210 to target and all enemies nearby it.\nFire Attunement Cost: 1\nThis action does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals fire damage with a potency of 210 to target and all enemies nearby it.\nFire Attunement Cost: 1\nThis action does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions.\n\n※This action cannot be assigned to a hotbar.\n※Precious Brilliance changes to Ruby Catastrophe when requirements for execution are met."
     },
     {
       "name": "Topaz Catastrophe",
-      "image": "https://img.finalfantasyxiv.com/lds/d/8f6bc648e6b39fcdfdb5d747cc28ea98dd65b441.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/8f6bc648e6b39fcdfdb5d747cc28ea98dd65b441.png",
       "lvl": 82,
       "type": "Spell",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 300,
-      "description": "Deals earth damage with a potency of 140 to target and all enemies nearby it.\nAdditional Effect: Grants Titan's Favor\nEffect of Titan's Favor ends upon execution of certain summoner actions.\nEarth Attunement Cost: 1\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals earth damage with a potency of 140 to target and all enemies nearby it.\nAdditional Effect: Grants Titan's Favor\nEffect of Titan's Favor ends upon execution of certain summoner actions.\nEarth Attunement Cost: 1\n\n※This action cannot be assigned to a hotbar.\n※Precious Brilliance changes to Topaz Catastrophe when requirements for execution are met."
     },
     {
       "name": "Emerald Catastrophe",
-      "image": "https://img.finalfantasyxiv.com/lds/d/876d6589f594c3f74d7d2834d297f18da7809199.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/876d6589f594c3f74d7d2834d297f18da7809199.png",
       "lvl": 82,
       "type": "Spell",
       "cast": 0,
       "cooldown": 1.5,
       "cost": 300,
-      "description": "Deals wind damage with a potency of 100 to target and all enemies nearby it.\nWind Attunement Cost: 1\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals wind damage with a potency of 100 to target and all enemies nearby it.\nWind Attunement Cost: 1\n\n※This action cannot be assigned to a hotbar.\n※Precious Brilliance changes to Emerald Catastrophe when requirements for execution are met."
     },
     {
       "name": "Crimson Cyclone",
-      "image": "https://img.finalfantasyxiv.com/lds/d/7ec3b0243e57959d38e7bcbfaaab4fe0bbf8972b.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/7ec3b0243e57959d38e7bcbfaaab4fe0bbf8972b.png",
       "lvl": 86,
       "type": "Spell",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "description": "Rushes forward and delivers a fire attack to target and all enemies nearby it with a potency of 430 for the first enemy, and 65% less for all remaining enemies.\nCan only be executed while under the effect of Ifrit's Favor.\nCannot be executed while bound.\n\n※Action changes to Crimson Strike upon execution.\n※This action cannot be assigned to a hotbar."
+      "description": "Rushes forward and delivers a fire attack to target and all enemies nearby it with a potency of 490 for the first enemy, and 65% less for all remaining enemies.\nCan only be executed while under the effect of Ifrit's Favor.\nCannot be executed while bound.\n\n※This action cannot be assigned to a hotbar.\n※Astral Flow changes to Crimson Cyclone when requirements for execution are met.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Crimson Strike",
-      "image": "https://img.finalfantasyxiv.com/lds/d/a63bb4e29d20c938e1b68ea0dc0ab64c3a8a9fdf.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/a63bb4e29d20c938e1b68ea0dc0ab64c3a8a9fdf.png",
       "lvl": 86,
       "type": "Spell",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "description": "Deals fire damage to target and all enemies nearby it with a potency of 430 for the first enemy, and 65% less for all remaining enemies.\nCombo Action: Crimson Cyclone\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals fire damage to target and all enemies nearby it with a potency of 490 for the first enemy, and 65% less for all remaining enemies.\nCombo Action: Crimson Cyclone\n\n※This action cannot be assigned to a hotbar.\n※Crimson Cyclone changes to Crimson Strike when requirements for execution are met.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Mountain Buster",
-      "image": "https://img.finalfantasyxiv.com/lds/d/735d3aabed75539866193ca97b356367f818821f.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/735d3aabed75539866193ca97b356367f818821f.png",
       "lvl": 86,
       "type": "Ability",
       "cast": 0,
       "cooldown": 1,
       "cost": 0,
-      "description": "Deals earth damage to target and all enemies nearby it with a potency of 150 for the first enemy, and 70% less for all remaining enemies.\nCan only be executed while under the effect of Titan's Favor.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals earth damage to target and all enemies nearby it with a potency of 160 for the first enemy, and 70% less for all remaining enemies.\nCan only be executed while under the effect of Titan's Favor.\n\n※This action cannot be assigned to a hotbar.\n※Astral Flow changes to Mountain Buster when requirements for execution are met.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Slipstream",
-      "image": "https://img.finalfantasyxiv.com/lds/d/6a54b05a1f6bd144d28149045f1f9cc61f86daf3.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/6a54b05a1f6bd144d28149045f1f9cc61f86daf3.png",
       "lvl": 86,
       "type": "Spell",
       "cast": 3,
       "cooldown": 3.5,
       "cost": 0,
-      "description": "Deals wind damage to target and all enemies nearby it with a potency of 430 for the first enemy, and 65% less for all remaining enemies.\nAdditional Effect: Creates a windstorm centered around the target, dealing damage to any enemies who enter\nPotency: 30\nDuration: 15s\nCan only be executed while under the effect of Garuda's Favor.\nThis action does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals wind damage to target and all enemies nearby it with a potency of 490 for the first enemy, and 65% less for all remaining enemies.\nAdditional Effect: Creates a windstorm centered around the target, dealing damage to any enemies who enter\nPotency: 30\nDuration: 15s\nCan only be executed while under the effect of Garuda's Favor.\nThis action does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions.\n\n※This action cannot be assigned to a hotbar.\n※Astral Flow changes to Slipstream when requirements for execution are met.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Summon Ifrit II",
-      "image": "https://img.finalfantasyxiv.com/lds/d/e49b3a55b75a637cb0e6e794d588b2ba4886c742.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/e49b3a55b75a637cb0e6e794d588b2ba4886c742.png",
       "lvl": 90,
       "type": "Spell",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "description": "Summons Ruby Ifrit and orders it to execute Inferno.\nInferno Effect: Deals fire damage to target and all enemies within 5 yalms with a potency of 750 for the first enemy, and 60% less for all remaining enemies\nAdditional Effect: Grants 2 stacks of Fire Attunement\nDuration: 30s\nFire Attunement Effect: Gemshine and Precious Brilliance become fire-aspected\nAdditional Effect: Grants Ifrit's Favor\nEffect of Ifrit's Favor ends upon execution of certain summoner actions.\nCan only be executed while under the effect of Ruby Arcanum and Carbuncle is summoned.\nCurrent pet will leave the battlefield while Ruby Ifrit is present, and return once gone."
+      "description": "Summons Ruby Ifrit and orders it to execute Inferno.\nInferno Effect: Deals fire damage to target and all enemies within 5 yalms with a potency of 800 for the first enemy, and 60% less for all remaining enemies\nAdditional Effect: Grants 2 stacks of Fire Attunement\nDuration: 30s\nFire Attunement Effect: Gemshine and Precious Brilliance become fire-aspected\nAdditional Effect: Grants Ifrit's Favor\nEffect of Ifrit's Favor ends upon execution of certain summoner actions.\nCan only be executed while under the effect of Ruby Arcanum and Carbuncle is summoned.\nCurrent pet will leave the battlefield while Ruby Ifrit is present, and return once gone.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Summon Titan II",
-      "image": "https://img.finalfantasyxiv.com/lds/d/d5e3edcb915673621b1ccb51774abf494eba6b5e.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/d5e3edcb915673621b1ccb51774abf494eba6b5e.png",
       "lvl": 90,
       "type": "Spell",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "description": "Summons Topaz Titan and orders it to execute Earthen Fury.\nEarthen Fury Effect: Deals earth damage to target and all enemies within 5 yalms with a potency of 750 for the first enemy, and 60% less for all remaining enemies\nAdditional Effect: Grants 4 stacks of Earth Attunement\nDuration: 30s\nEarth Attunement Effect: Gemshine and Precious Brilliance become earth-aspected\nCan only be executed while under the effect of Topaz Arcanum and Carbuncle is summoned.\nCurrent pet will leave the battlefield while Topaz Titan is present, and return once gone."
+      "description": "Summons Topaz Titan and orders it to execute Earthen Fury.\nEarthen Fury Effect: Deals earth damage to target and all enemies within 5 yalms with a potency of 800 for the first enemy, and 60% less for all remaining enemies\nAdditional Effect: Grants 4 stacks of Earth Attunement\nDuration: 30s\nEarth Attunement Effect: Gemshine and Precious Brilliance become earth-aspected\nCan only be executed while under the effect of Topaz Arcanum and Carbuncle is summoned.\nCurrent pet will leave the battlefield while Topaz Titan is present, and return once gone.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Summon Garuda II",
-      "image": "https://img.finalfantasyxiv.com/lds/d/f25f4c81570c889872295e4ba99496ee6bf3fc89.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/f25f4c81570c889872295e4ba99496ee6bf3fc89.png",
       "lvl": 90,
       "type": "Spell",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "description": "Summons Emerald Garuda and orders it to execute Aerial Blast.\nAerial Blast Effect: Deals wind damage to target and all enemies within 5 yalms with a potency of 750 for the first enemy, and 60% less for all remaining enemies\nAdditional Effect: Grants 4 stacks of Wind Attunement\nDuration: 30s\nWind Attunement Effect: Gemshine and Precious Brilliance become wind-aspected\nAdditional Effect: Grants Garuda's Favor\nEffect of Garuda's Favor ends upon execution of certain summoner actions.\nCan only be executed while under the effect of Emerald Arcanum and Carbuncle is summoned.\nCurrent pet will leave the battlefield while Emerald Garuda is present, and return once gone."
+      "description": "Summons Emerald Garuda and orders it to execute Aerial Blast.\nAerial Blast Effect: Deals wind damage to target and all enemies within 5 yalms with a potency of 800 for the first enemy, and 60% less for all remaining enemies\nAdditional Effect: Grants 4 stacks of Wind Attunement\nDuration: 30s\nWind Attunement Effect: Gemshine and Precious Brilliance become wind-aspected\nAdditional Effect: Grants Garuda's Favor\nEffect of Garuda's Favor ends upon execution of certain summoner actions.\nCan only be executed while under the effect of Emerald Arcanum and Carbuncle is summoned.\nCurrent pet will leave the battlefield while Emerald Garuda is present, and return once gone.\nRevisions (Patch 6.5x - Patch 7.05)"
+    },
+    {
+      "name": "Necrotize",
+      "image": "https://lds-img.finalfantasyxiv.com/d/f224b169e6f0f4b35b361e5c6666293e09a1f0ac.png",
+      "lvl": 92,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 0,
+      "description": "Deals unaspected damage with a potency of 440.\nAetherflow Gauge Cost: 1"
+    },
+    {
+      "name": "Searing Flash",
+      "image": "https://lds-img.finalfantasyxiv.com/d/b1edfc3a4d1b47e1df840e26e0969529070fed58.png",
+      "lvl": 96,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 0,
+      "description": "Deals unaspected damage with a potency of 600 to target and all enemies nearby it.\nCan only be executed while under the effect of Ruby's Glimmer."
+    },
+    {
+      "name": "Lux Solaris",
+      "image": "https://lds-img.finalfantasyxiv.com/d/38e51b1e903bd0b7bc685ec95c2ac105779bbc8c.png",
+      "lvl": 100,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "description": "Restores own HP and the HP of all nearby party members.\nCure Potency: 500\nCan only be executed while under the effect of Refulgent Lux."
+    },
+    {
+      "name": "Summon Solar Bahamut",
+      "image": "https://lds-img.finalfantasyxiv.com/d/8b65e3df95387470664286d1e2a0f71dd29b8f77.png",
+      "lvl": 100,
+      "type": "Spell",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "description": "Enters Lightwyrm Trance and summons Solar Bahamut to fight your target.\nSolar Bahamut will execute Luxwave automatically on the targets attacked by you after summoning.\nIncreases enmity in target when Solar Bahamut is summoned.\nDuration: 15s\nAdditional Effect: Grants Refulgent Lux\nDuration: 30s\nAdditional Effect: Changes Ruin III to Umbral Impulse and Tri-disaster to Umbral Flare\nAdditional Effect: Grants Ruby Arcanum, Topaz Arcanum, and Emerald Arcanum\nCan only be executed while Carbuncle is summoned.\nThis action does not share a recast timer with any other actions.\n\n※This action cannot be assigned to a hotbar.\n※Summon Bahamut changes to Summon Solar Bahamut when requirements for execution are met."
+    },
+    {
+      "name": "Umbral Impulse",
+      "image": "https://lds-img.finalfantasyxiv.com/d/097755a6dc321ca146451fbb0e5c42dca4d9dd02.png",
+      "lvl": 100,
+      "type": "Spell",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 300,
+      "description": "Deals unaspected damage with a potency of 620.\nCan only be executed while in Lightwyrm Trance.\n\n※This action cannot be assigned to a hotbar.\n※Ruin III changes to Umbral Impulse when requirements for execution are met."
+    },
+    {
+      "name": "Umbral Flare",
+      "image": "https://lds-img.finalfantasyxiv.com/d/e20b0b341a670598c6af9548925d4da35c2e4365.png",
+      "lvl": 100,
+      "type": "Spell",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 300,
+      "description": "Deals unaspected damage with a potency of 280 to target and all enemies nearby it.\nCan only be executed while in Lightwyrm Trance.\n\n※This action cannot be assigned to a hotbar.\n※Tri-disaster changes to Umbral Flare when requirements for execution are met."
+    },
+    {
+      "name": "Sunflare",
+      "image": "https://lds-img.finalfantasyxiv.com/d/ea98821592c274277d2472f4eb33e014c66a751f.png",
+      "lvl": 100,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 20,
+      "cost": 0,
+      "description": "Deals unaspected damage to target and all enemies nearby it with a potency of 700 for the first enemy, and 60% less for all remaining enemies.\nCan only be executed while in Lightwyrm Trance.\n\n※This action cannot be assigned to a hotbar.\n※Astral Flow changes to Sunflare when requirements for execution are met."
+    },
+    {
+      "name": "Enkindle Solar Bahamut",
+      "image": "https://lds-img.finalfantasyxiv.com/d/4deaaa9815c4b1bd5fc52e76019d9192342568b9.png",
+      "lvl": 100,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 20,
+      "cost": 0,
+      "description": "Orders Solar Bahamut to execute Exodus.\nExodus Effect: Deals unaspected damage to target and all enemies nearby it with a potency of 1,400 for the first enemy, and 60% less for all remaining enemies\n\n※This action cannot be assigned to a hotbar.\n※Enkindle Bahamut changes to Enkindle Solar Bahamut when requirements for execution are met."
+    },
+    {
+      "name": "Luxwave",
+      "image": "https://lds-img.finalfantasyxiv.com/d/7ea77f0af91e55be0b619e4dc72e20c5ba56f516.png",
+      "lvl": 100,
+      "type": "Spell",
+      "cast": 0,
+      "cooldown": 1.5,
+      "cost": 0,
+      "description": "Deals unaspected damage with a potency of 160.\nWill only execute while Solar Bahamut is summoned.\n\n※This action cannot be assigned to a hotbar."
+    },
+    {
+      "name": "Exodus",
+      "image": "https://lds-img.finalfantasyxiv.com/d/97f91c1009d19698ee6e2e3272b974a4c0dd62ff.png",
+      "lvl": 100,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 0,
+      "cost": 0,
+      "description": "Deals unaspected damage to target and all enemies nearby it with a potency of 1,400 for the first enemy, and 60% less for all remaining enemies.\nCan only be executed while Solar Bahamut is summoned.\n\n※This action cannot be assigned to a hotbar."
     }
   ],
   "petActions": [
     {
       "name": "Radiant Aegis",
-      "image": "https://img.finalfantasyxiv.com/lds/d/926e42e9a30e357e4214c95427cd1dd1592974c5.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/926e42e9a30e357e4214c95427cd1dd1592974c5.png",
       "lvl": 2,
       "type": "Ability",
       "cast": 0,
@@ -706,17 +806,17 @@
   "roleActions": [
     {
       "name": "Addle",
-      "image": "https://img.finalfantasyxiv.com/lds/d/b45e688d81b5607246600f904aac008364db0d1e.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/b45e688d81b5607246600f904aac008364db0d1e.png",
       "lvl": 8,
       "type": "Ability",
       "cast": 0,
       "cooldown": 90,
       "cost": 0,
-      "description": "Lowers target's physical damage dealt by 5% and magic damage dealt by 10%.\nDuration: 10s"
+      "description": "Lowers target's physical damage dealt by 5% and magic damage dealt by 10%.\nDuration: 15s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Sleep",
-      "image": "https://img.finalfantasyxiv.com/lds/d/10e9fb5302668c923b8237ffbd4841ccc6c2edb4.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/10e9fb5302668c923b8237ffbd4841ccc6c2edb4.png",
       "lvl": 10,
       "type": "Spell",
       "cast": 2.5,
@@ -725,18 +825,8 @@
       "description": "Puts target and all nearby enemies to sleep.\nDuration: 30s\nCancels auto-attack upon execution."
     },
     {
-      "name": "Swiftcast",
-      "image": "https://img.finalfantasyxiv.com/lds/d/27d401b3cfbf90c846ffeaa9f661afb4bd77ce98.png",
-      "lvl": 18,
-      "type": "Ability",
-      "cast": 0,
-      "cooldown": 60,
-      "cost": 0,
-      "description": "Next spell is cast immediately.\nDuration: 10s"
-    },
-    {
       "name": "Lucid Dreaming",
-      "image": "https://img.finalfantasyxiv.com/lds/d/3629c6854aa559656623925e2489b60c2fa91e18.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/3629c6854aa559656623925e2489b60c2fa91e18.png",
       "lvl": 14,
       "type": "Ability",
       "cast": 0,
@@ -745,8 +835,18 @@
       "description": "Gradually restores own MP.\nPotency: 55\nDuration: 21s"
     },
     {
+      "name": "Swiftcast",
+      "image": "https://lds-img.finalfantasyxiv.com/d/27d401b3cfbf90c846ffeaa9f661afb4bd77ce98.png",
+      "lvl": 18,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 40,
+      "cost": 0,
+      "description": "Next spell is cast immediately.\nDuration: 10s\nRevisions (Patch 6.5x - Patch 7.05)"
+    },
+    {
       "name": "Surecast",
-      "image": "https://img.finalfantasyxiv.com/lds/d/477d1e7f7115db19c344c0f5cadfcfa2ac0cdcc0.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/477d1e7f7115db19c344c0f5cadfcfa2ac0cdcc0.png",
       "lvl": 44,
       "type": "Ability",
       "cast": 0,
@@ -860,6 +960,26 @@
       "name": "Enkindle II",
       "lvl": 90,
       "description": "Upgrades Summon Ifrit to Summon Ifrit II, Summon Titan to Summon Titan II, and Summon Garuda to Summon Garuda II."
+    },
+    {
+      "name": "Enhanced Fester",
+      "lvl": 92,
+      "description": "Upgrades Fester to Necrotize."
+    },
+    {
+      "name": "Arcane Mastery",
+      "lvl": 94,
+      "description": "Increases the potency of Ruin III to 360, Astral Impulse to 500, Ruin IV to 490, Ruby Rite to 540, Topaz Rite to 340, Emerald Rite to 240, Fountain of Fire to 580, Crimson Strike to 490, Crimson Cyclone to 490, Mountain Buster to 160, Slipstream to 490, Inferno to 800, Earthen Fury to 800, and Aerial Blast to 800."
+    },
+    {
+      "name": "Enhanced Searing Light",
+      "lvl": 96,
+      "description": "Grants Ruby's Glimmer after executing Searing Light.\nDuration: 30s"
+    },
+    {
+      "name": "Enhanced Summon Bahamut II",
+      "lvl": 100,
+      "description": "Allows the summoning of Solar Bahamut in addition to Demi-Phoenix and Demi-Bahamut."
     }
   ]
 }

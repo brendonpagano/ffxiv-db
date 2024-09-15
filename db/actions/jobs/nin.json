@@ -2,17 +2,17 @@
   "jobActions": [
     {
       "name": "Spinning Edge",
-      "image": "https://img.finalfantasyxiv.com/lds/d/657b568d32fd379339d365704c75ee7ca7e0cbd9.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/150bf30be1a1ae0bcb2716d0ee4db448b71609c6.png",
       "lvl": 1,
       "type": "Weaponskill",
       "cast": 0,
-      "cooldown": 2.5,
+      "cooldown": 2.1,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 220.\nAdditional Effect: Increases Ninki Gauge by 5"
+      "description": "Delivers an attack with a potency of 300.\nAdditional Effect: Increases Ninki Gauge by 5\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Shade Shift",
-      "image": "https://img.finalfantasyxiv.com/lds/d/533a4a3e924aaf268ee89a9c58845941bb73bad1.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/cad6fe9181335338ed411e0d9a2357a6e8496efc.png",
       "lvl": 2,
       "type": "Ability",
       "cast": 0,
@@ -22,17 +22,17 @@
     },
     {
       "name": "Gust Slash",
-      "image": "https://img.finalfantasyxiv.com/lds/d/3b3414364511f0fa913d25a989b88668c6152a90.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/7891f6fad42ffdcf2a4f2b1fa37570c9a1f3a1a9.png",
       "lvl": 4,
       "type": "Weaponskill",
       "cast": 0,
-      "cooldown": 2.5,
+      "cooldown": 2.1,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 160.\nCombo Action: Spinning Edge\nCombo Potency: 320\nCombo Bonus: Increases Ninki Gauge by 5"
+      "description": "Delivers an attack with a potency of 240.\nCombo Action: Spinning Edge\nCombo Potency: 400\nCombo Bonus: Increases Ninki Gauge by 5\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Hide",
-      "image": "https://img.finalfantasyxiv.com/lds/d/2dc011be7f8180f6559af70db7dc93c4b0229d95.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/5b5c3b6be21935b60b3e60b8b2b473fd3c0a7530.png",
       "lvl": 10,
       "type": "Ability",
       "cast": 0,
@@ -42,27 +42,27 @@
     },
     {
       "name": "Throwing Dagger",
-      "image": "https://img.finalfantasyxiv.com/lds/d/e874766b966c4e6a786b58a35d76d3c0bd25b973.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/e3d6094d93d1e6f8cb9034229a9f4bed0571471b.png",
       "lvl": 15,
       "type": "Weaponskill",
       "cast": 0,
-      "cooldown": 2.5,
+      "cooldown": 2.1,
       "cost": 0,
       "description": "Delivers a ranged attack with a potency of 120.\nAdditional Effect: Increases Ninki Gauge by 5"
     },
     {
       "name": "Mug",
-      "image": "https://img.finalfantasyxiv.com/lds/d/61a5e5150f8d24fa8d9d5dfbefceb5ec53fe4045.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/b36d71590151a6f7f3d5fd616933f452bc9eeb68.png",
       "lvl": 15,
       "type": "Ability",
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 150.\nAdditional Effect: Increases target's damage taken by 5%\nDuration: 20s\nAdditional Effect: Increases the chance of additional items being dropped by target if Mug is dealt before, or as, the finishing blow\nAdditional Effect: Increases Ninki Gauge by 40"
+      "description": "Delivers an attack with a potency of 150.\nAdditional Effect: Increases target's damage taken by 5%\nDuration: 20s\nAdditional Effect: Increases the chance of additional items being dropped by target if Mug is dealt before, or as, the finishing blow\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Trick Attack",
-      "image": "https://img.finalfantasyxiv.com/lds/d/fb4232c3fd76ce4d889759ec7ef7bffb15b78ede.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/820c1eb36bd9488505973d7141d73e7fa1c3d1db.png",
       "lvl": 18,
       "type": "Ability",
       "cast": 0,
@@ -72,17 +72,17 @@
     },
     {
       "name": "Aeolian Edge",
-      "image": "https://img.finalfantasyxiv.com/lds/d/e68ade763da71adb1e8401db79a08e1df6f4d9e1.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/c2741e8be4448134b1497cf59fa8a32d096cb91e.png",
       "lvl": 26,
       "type": "Weaponskill",
       "cast": 0,
-      "cooldown": 2.5,
+      "cooldown": 2.1,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 140.\n200 when executed from a target's rear.\nCombo Action: Gust Slash\nCombo Potency: 380\nRear Combo Potency: 440\nCombo Bonus: Increases Ninki Gauge by 15"
+      "description": "Delivers an attack with a potency of 200.\n260 when executed from a target's rear.\nCombo Action: Gust Slash\nCombo Potency: 380\nRear Combo Potency: 440\nPotencies are increased by 100 while under the effect of Kazematoi.\nCombo Bonus: Increases Ninki Gauge by 15\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Ten",
-      "image": "https://img.finalfantasyxiv.com/lds/d/55c66e798d7404567ec69a023335542cef7cd916.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/55c66e798d7404567ec69a023335542cef7cd916.png",
       "lvl": 30,
       "type": "Ability",
       "cast": 0,
@@ -92,7 +92,7 @@
     },
     {
       "name": "Ninjutsu",
-      "image": "https://img.finalfantasyxiv.com/lds/d/b1362c998dbfc19dfd13223d2ae275be7f4db7cc.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/b1362c998dbfc19dfd13223d2ae275be7f4db7cc.png",
       "lvl": 30,
       "type": "Ability",
       "cast": 0,
@@ -102,7 +102,7 @@
     },
     {
       "name": "Chi",
-      "image": "https://img.finalfantasyxiv.com/lds/d/1836df5cdf1d1f78ae7b2f65462661f2fa6a79d8.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/1836df5cdf1d1f78ae7b2f65462661f2fa6a79d8.png",
       "lvl": 35,
       "type": "Ability",
       "cast": 0,
@@ -112,17 +112,17 @@
     },
     {
       "name": "Death Blossom",
-      "image": "https://img.finalfantasyxiv.com/lds/d/d40b78dd5c99076b25086882f27de295f8a609af.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/08a91ba599c83a9fdbe791137d57f411f130bcc3.png",
       "lvl": 38,
       "type": "Weaponskill",
       "cast": 0,
-      "cooldown": 2.5,
+      "cooldown": 2.1,
       "cost": 0,
       "description": "Delivers an attack with a potency of 100 to all nearby enemies.\nAdditional Effect: Increases Ninki Gauge by 5"
     },
     {
       "name": "Assassinate",
-      "image": "https://img.finalfantasyxiv.com/lds/d/99d0c3688cb4d3fafd0df210199783bcadc74cc2.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/c8f030128bce9d193521eb5cfcd9ff4636bbea61.png",
       "lvl": 40,
       "type": "Ability",
       "cast": 0,
@@ -132,7 +132,7 @@
     },
     {
       "name": "Shukuchi",
-      "image": "https://img.finalfantasyxiv.com/lds/d/ea2717bad5b805b35bb32731d78113692104a30d.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/ea2717bad5b805b35bb32731d78113692104a30d.png",
       "lvl": 40,
       "type": "Ability",
       "cast": 0,
@@ -142,7 +142,7 @@
     },
     {
       "name": "Jin",
-      "image": "https://img.finalfantasyxiv.com/lds/d/2183f2672edde169e6276764503ec11ae06b4c1e.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/2183f2672edde169e6276764503ec11ae06b4c1e.png",
       "lvl": 45,
       "type": "Ability",
       "cast": 0,
@@ -152,7 +152,7 @@
     },
     {
       "name": "Kassatsu",
-      "image": "https://img.finalfantasyxiv.com/lds/d/a12553440d7385aaafc940cac8f14682e3012392.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/a12553440d7385aaafc940cac8f14682e3012392.png",
       "lvl": 50,
       "type": "Ability",
       "cast": 0,
@@ -162,27 +162,27 @@
     },
     {
       "name": "Hakke Mujinsatsu",
-      "image": "https://img.finalfantasyxiv.com/lds/d/86e59c1bd3dedee2a6b68d3321da04c68a3acb52.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/86e59c1bd3dedee2a6b68d3321da04c68a3acb52.png",
       "lvl": 52,
       "type": "Weaponskill",
       "cast": 0,
-      "cooldown": 2.5,
+      "cooldown": 2.1,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 100 to all nearby enemies.\nCombo Action: Death Blossom\nCombo Potency: 130\nCombo Bonus: Extends Huton duration by 10s to a maximum of 60s\nCombo Bonus: Increases Ninki Gauge by 5"
+      "description": "Delivers an attack with a potency of 100 to all nearby enemies.\nCombo Action: Death Blossom\nCombo Potency: 130\nCombo Bonus: Increases Ninki Gauge by 5\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Armor Crush",
-      "image": "https://img.finalfantasyxiv.com/lds/d/f8e49f627d8f6e16b91b2192b322812f09c40475.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/f8e49f627d8f6e16b91b2192b322812f09c40475.png",
       "lvl": 54,
       "type": "Weaponskill",
       "cast": 0,
-      "cooldown": 2.5,
+      "cooldown": 2.1,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 140.\n200 when executed from a target's flank.\nCombo Action: Gust Slash\nCombo Potency: 360\nFlank Combo Potency: 420\nCombo Bonus: Extends Huton duration by 30s to a maximum of 60s\nCombo Bonus: Increases Ninki Gauge by 15"
+      "description": "Delivers an attack with a potency of 220.\n280 when executed from a target's flank.\nCombo Action: Gust Slash\nCombo Potency: 420\nFlank Combo Potency: 480\nCombo Bonus: Grants 2 stacks of Kazematoi\nKazematoi Effect: Increases potency of Aeolian Edge by 100\nMaximum Stacks: 5\nCombo Bonus: Increases Ninki Gauge by 15\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Dream Within a Dream",
-      "image": "https://img.finalfantasyxiv.com/lds/d/f2e750bda00af60c3a06480f512753c8b6d5951b.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/f2e750bda00af60c3a06480f512753c8b6d5951b.png",
       "lvl": 56,
       "type": "Ability",
       "cast": 0,
@@ -191,18 +191,8 @@
       "description": "Delivers a threefold attack, each hit with a potency of 150."
     },
     {
-      "name": "Huraijin",
-      "image": "https://img.finalfantasyxiv.com/lds/d/3bb09311515f9d0258b29e3751f0e05ec0c18cec.png",
-      "lvl": 60,
-      "type": "Weaponskill",
-      "cast": 0,
-      "cooldown": 2.5,
-      "cost": 0,
-      "description": "Delivers an attack with a potency of 200.\nAdditional Effect: Grants Huton\nDuration: 60s\nAdditional Effect: Increases Ninki Gauge by 5"
-    },
-    {
       "name": "Hellfrog Medium",
-      "image": "https://img.finalfantasyxiv.com/lds/d/c802df3d7abd5e50889d1cc5e97cf64eb1610afa.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/c802df3d7abd5e50889d1cc5e97cf64eb1610afa.png",
       "lvl": 62,
       "type": "Ability",
       "cast": 0,
@@ -211,58 +201,68 @@
       "description": "Deals fire damage with a potency of 160 to target and all enemies nearby it.\nNinki Gauge Cost: 50\nShares a recast timer with Bhavacakra."
     },
     {
+      "name": "Dokumori",
+      "image": "https://lds-img.finalfantasyxiv.com/d/751e11fc60c05f5ac427b522211ae510ef845f6c.png",
+      "lvl": 66,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 120,
+      "cost": 0,
+      "description": "Delivers an attack with a potency of 300.\nAdditional Effect: Increases target's damage taken by 5%\nDuration: 20s\nAdditional Effect: Increases the chance of additional items being dropped by target if Dokumori is dealt before, or as, the finishing blow\nAdditional Effect: Increases Ninki Gauge by 40\nAdditional Effect: Grants Higi\nDuration: 30s"
+    },
+    {
       "name": "Bhavacakra",
-      "image": "https://img.finalfantasyxiv.com/lds/d/7fa8283b30b9ac35aada60984cbfaf01d3268c95.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/7fa8283b30b9ac35aada60984cbfaf01d3268c95.png",
       "lvl": 68,
       "type": "Ability",
       "cast": 0,
       "cooldown": 1,
       "cost": 0,
-      "description": "Deals unaspected damage with a potency of 350.\nMeisui Bonus: Potency is increased to 500 when under the effect of Meisui\nNinki Gauge Cost: 50\nShares a recast timer with Hellfrog Medium."
+      "description": "Deals unaspected damage with a potency of 380.\nMeisui Bonus: Potency is increased to 530 when under the effect of Meisui\nNinki Gauge Cost: 50\nShares a recast timer with Hellfrog Medium.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Ten Chi Jin",
-      "image": "https://img.finalfantasyxiv.com/lds/d/9c0c72efe9ba9c13d3765b1b7dd863c68eeaf4ba.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/9c0c72efe9ba9c13d3765b1b7dd863c68eeaf4ba.png",
       "lvl": 70,
       "type": "Ability",
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "description": "Temporarily converts each of the three mudra into a ninjutsu action. Executing one of these actions will convert the remaining mudra into different ninjutsu actions until all three have been executed or the Ten Chi Jin effect expires.\nDuration: 6s\nOnly ninjutsu available while active. The same ninjutsu cannot be executed twice.\nCannot be executed while under the effect of Kassatsu. Effect ends upon moving."
+      "description": "Temporarily converts each of the three mudra into a ninjutsu action. Executing one of these actions will convert the remaining mudra into different ninjutsu actions until all three have been executed or the Ten Chi Jin effect expires.\nDuration: 6s\nAdditional Effect: Grants Tenri Jindo Ready\nDuration: 30s\nOnly ninjutsu available while active. The same ninjutsu cannot be executed twice.\nCannot be executed while under the effect of Kassatsu. Effect ends upon moving.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Meisui",
-      "image": "https://img.finalfantasyxiv.com/lds/d/9c7d1c58eb10c5d105f1ee98a21f84a031d26518.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/9c7d1c58eb10c5d105f1ee98a21f84a031d26518.png",
       "lvl": 72,
       "type": "Ability",
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "description": "Dispels Suiton, increasing the Ninki Gauge by 50.\nAdditional Effect: Increases the potency of Bhavacakra to 500\nDuration: 30s\nCan only be executed while in combat."
+      "description": "Dispels Shadow Walker, increasing the Ninki Gauge by 50.\nAdditional Effect: Grants Meisui\nDuration: 30s\nMeisui Effect: Increases the potency of Zesho Meppo to 850 and Bhavacakra to 530\nCan only be executed while in combat and under the effect of Shadow Walker.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Bunshin",
-      "image": "https://img.finalfantasyxiv.com/lds/d/0469d406babef3b172ba2a567f748b6ff8e11860.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/d74531599ce1fc1886de7c5302265b73dd45accb.png",
       "lvl": 80,
       "type": "Ability",
       "cast": 0,
       "cooldown": 90,
       "cost": 0,
-      "description": "Grants 5 stacks of Bunshin, each stack allowing your shadow to attack enemies each time you execute a weaponskill. Shadow attack potency varies based on the attack executed, but is not affected by combo bonuses.\nMelee Attack Potency: 160\nRanged Attack Potency: 160\nArea Attack Potency: 80\nNinki Gauge increases by 5 each time your shadow lands an attack.\nDuration: 30s\nAdditional Effect: Grants Phantom Kamaitachi Ready\nDuration: 45s\nNinki Gauge Cost: 50\n\n※Action changes to Phantom Kamaitachi upon execution."
+      "description": "Grants 5 stacks of Bunshin, each stack allowing your shadow to attack enemies each time you execute a weaponskill. Shadow attack potency varies based on the attack executed, but is not affected by combo bonuses.\nMelee Attack Potency: 160\nRanged Attack Potency: 160\nArea Attack Potency: 80\nNinki Gauge increases by 5 each time your shadow lands an attack.\nDuration: 30s\nAdditional Effect: Grants Phantom Kamaitachi Ready\nDuration: 45s\nNinki Gauge Cost: 50\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Phantom Kamaitachi",
-      "image": "https://img.finalfantasyxiv.com/lds/d/45a5ef76e62a78c0c0fcf1feeefb4b992ab82346.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/384071d47821ff848b0433515b14bce679ca72ae.png",
       "lvl": 82,
       "type": "Weaponskill",
       "cast": 0,
-      "cooldown": 2.5,
+      "cooldown": 2.1,
       "cost": 0,
-      "description": "Your shadow deals wind damage to target and all enemies within 5 yalms with a potency of 600 for the first enemy, and 50% less for all remaining enemies.\nAdditional Effect: Extends Huton duration by 10s to a maximum of 60s\nAdditional Effect: Increases Ninki Gauge by 10\nCan only be executed while under the effect of Phantom Kamaitachi Ready.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Your shadow deals wind damage to target and all enemies within 5 yalms with a potency of 600 for the first enemy, and 50% less for all remaining enemies.\nAdditional Effect: Increases Ninki Gauge by 10\nCan only be executed while under the effect of Phantom Kamaitachi Ready.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Hollow Nozuchi",
-      "image": "https://img.finalfantasyxiv.com/lds/d/54d329bd6de61295054388e35afdd610561884ca.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/2be5fb388f3fa8857567e83e22b8b97ad17aeb0d.png",
       "lvl": 86,
       "type": "Ability",
       "cast": 0,
@@ -272,39 +272,79 @@
     },
     {
       "name": "Forked Raiju",
-      "image": "https://img.finalfantasyxiv.com/lds/d/9ab20d782e03641292336da9b2453f426435a3b0.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/5eb233e8637d859bc6c0803ffef792f272692176.png",
       "lvl": 90,
       "type": "Weaponskill",
       "cast": 0,
-      "cooldown": 2.5,
+      "cooldown": 2.1,
       "cost": 0,
-      "description": "Rushes target and delivers a lightning attack with a potency of 560.\nAdditional Effect: Increases Ninki Gauge by 5\nCan only be executed while under the effect of Raiju Ready.\nCannot be executed while bound."
+      "description": "Rushes target and delivers a lightning attack with a potency of 700.\nAdditional Effect: Increases Ninki Gauge by 5\nCan only be executed while under the effect of Raiju Ready.\nCannot be executed while bound.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Fleeting Raiju",
-      "image": "https://img.finalfantasyxiv.com/lds/d/aaf631010c04fc9685247fe855060f640dff89f7.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/5b620ecc1931b456fea19bbc787a7848a9ce77a6.png",
       "lvl": 90,
       "type": "Weaponskill",
       "cast": 0,
-      "cooldown": 2.5,
+      "cooldown": 2.1,
       "cost": 0,
-      "description": "Deals lightning damage with a potency of 560.\nAdditional Effect: Increases Ninki Gauge by 5\nCan only be executed while under the effect of Raiju Ready."
+      "description": "Deals lightning damage with a potency of 700.\nAdditional Effect: Increases Ninki Gauge by 5\nCan only be executed while under the effect of Raiju Ready.\nRevisions (Patch 6.5x - Patch 7.05)"
+    },
+    {
+      "name": "Kunai's Bane",
+      "image": "https://lds-img.finalfantasyxiv.com/d/70139d7c1c6e323518d56f1bd503a9e8bc94d21b.png",
+      "lvl": 92,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "description": "Deals damage to all nearby enemies with a potency of 600 for the first enemy, and 50% less for all remaining enemies.\nAdditional Effect: Afflicts target with Kunai's Bane\nKunai's Bane Effect: Increases damage you deal target by 10%\nDuration: 15s\nCan only be executed while Hidden."
+    },
+    {
+      "name": "Deathfrog Medium",
+      "image": "https://lds-img.finalfantasyxiv.com/d/cb1fc6f802ae442daa8ead243f4f9f49bf9525f4.png",
+      "lvl": 96,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 0,
+      "description": "Deals fire damage with a potency of 300 to target and all enemies nearby it.\nNinki Gauge Cost: 50\nCan only be executed while under the effect of Higi.\nShares a recast timer with Bhavacakra.\n\n※This action cannot be assigned to a hotbar.\n※Hellfrog Medium changes to Deathfrog Medium when requirements for execution are met."
+    },
+    {
+      "name": "Zesho Meppo",
+      "image": "https://lds-img.finalfantasyxiv.com/d/55604bbe9cf720982be6e0ef74e9bf002d939935.png",
+      "lvl": 96,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 0,
+      "description": "Deals unaspected damage with a potency of 700.\nMeisui Bonus: Potency is increased to 850\nNinki Gauge Cost: 50\nCan only be executed while under the effect of Higi.\nShares a recast timer with Hellfrog Medium.\n\n※This action cannot be assigned to a hotbar.\n※Bhavacakra changes to Zesho Meppo when requirements for execution are met."
+    },
+    {
+      "name": "Tenri Jindo",
+      "image": "https://lds-img.finalfantasyxiv.com/d/7604dd447d3b450e4816e62d5bf4e2f83fafabc4.png",
+      "lvl": 100,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 0,
+      "description": "Deals unaspected damage to target and all enemies nearby it with a potency of 1,100 for the first enemy, and 50% less for all remaining enemies.\nCan only be executed while under the effect of Tenri Jindo Ready.\n\n※This action cannot be assigned to a hotbar.\n※Ten Chi Jin changes to Tenri Jindo when requirements for execution are met."
     }
   ],
   "roleActions": [
     {
       "name": "Second Wind",
-      "image": "https://img.finalfantasyxiv.com/lds/d/2b79d78f1ed471ace5708898e3388062fbd555fb.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/2b79d78f1ed471ace5708898e3388062fbd555fb.png",
       "lvl": 8,
       "type": "Ability",
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "description": "Instantly restores own HP.\nCure Potency: 500"
+      "description": "Instantly restores own HP.\nCure Potency: 800\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Leg Sweep",
-      "image": "https://img.finalfantasyxiv.com/lds/d/8c9674aba5fe48e73cc80ceb4a49782c1539b942.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/8c9674aba5fe48e73cc80ceb4a49782c1539b942.png",
       "lvl": 10,
       "type": "Ability",
       "cast": 0,
@@ -314,7 +354,7 @@
     },
     {
       "name": "Bloodbath",
-      "image": "https://img.finalfantasyxiv.com/lds/d/f76d6999b80178e51cfedf68f3af69ce6ed5016f.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/f76d6999b80178e51cfedf68f3af69ce6ed5016f.png",
       "lvl": 12,
       "type": "Ability",
       "cast": 0,
@@ -324,17 +364,17 @@
     },
     {
       "name": "Feint",
-      "image": "https://img.finalfantasyxiv.com/lds/d/84c26a86cbbb8a599e5a2441cebcd33b0064bf07.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/84c26a86cbbb8a599e5a2441cebcd33b0064bf07.png",
       "lvl": 22,
       "type": "Ability",
       "cast": 0,
       "cooldown": 90,
       "cost": 0,
-      "description": "Lowers target's physical damage dealt by 10% and magic damage dealt by 5%.\nDuration: 10s"
+      "description": "Lowers target's physical damage dealt by 10% and magic damage dealt by 5%.\nDuration: 15s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Arm's Length",
-      "image": "https://img.finalfantasyxiv.com/lds/d/00ff21ad3e1fb26d7b292a9d912931e7ea64daa4.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/00ff21ad3e1fb26d7b292a9d912931e7ea64daa4.png",
       "lvl": 32,
       "type": "Ability",
       "cast": 0,
@@ -344,7 +384,7 @@
     },
     {
       "name": "True North",
-      "image": "https://img.finalfantasyxiv.com/lds/d/2d62e72f5da6d52e189c1ed10dfbd602625fc536.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/2d62e72f5da6d52e189c1ed10dfbd602625fc536.png",
       "lvl": 50,
       "type": "Ability",
       "cast": 0,
@@ -365,6 +405,11 @@
       "description": "Increases movement speed."
     },
     {
+      "name": "Increase Attack Speed",
+      "lvl": 45,
+      "description": "Reduces weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay by 15%."
+    },
+    {
       "name": "Adept Assassination",
       "lvl": 56,
       "description": "Upgrades Assassinate to Dream Within a Dream."
@@ -380,9 +425,9 @@
       "description": "Resets the recast timer for Shukuchi upon executing Katon, Raiton, or Hyoton on most targets."
     },
     {
-      "name": "Enhanced Mug",
+      "name": "Mug Mastery",
       "lvl": 66,
-      "description": "Increases Ninki Gauge by 40 upon successfully landing Mug."
+      "description": "Upgrades Mug to Dokumori."
     },
     {
       "name": "Enhanced Shukuchi II",
@@ -423,6 +468,26 @@
       "name": "Enhanced Raiton",
       "lvl": 90,
       "description": "Grants a stack of Raiju Ready upon executing Raiton.\nMaximum Stacks: 3\nDuration: 30s\nEffect of Raiju Ready ends upon execution of any melee weaponskill."
+    },
+    {
+      "name": "Trick Attack Mastery",
+      "lvl": 92,
+      "description": "Upgrades Trick Attack to Kunai's Bane."
+    },
+    {
+      "name": "Melee Mastery III",
+      "lvl": 94,
+      "description": "Increases the potency of Spinning Edge to 300, Gust Slash to 240, Aeolian Edge to 200, Fuma Shuriken to 500, Raiton to 740, Suiton to 580, Armor Crush to 220, Bhavacakra to 380, Bhavacakra while under the effect of Meisui to 530, Forked Raiju to 700, and Fleeting Raiju to 700."
+    },
+    {
+      "name": "Enhanced Dokumori",
+      "lvl": 96,
+      "description": "Grants Higi upon executing Dokumori.\nDuration: 30s"
+    },
+    {
+      "name": "Enhanced Ten Chi Jin",
+      "lvl": 100,
+      "description": "Grants Tenri Jindo Ready upon executing Ten Chi Jin.\nDuration: 30s\nTen Chi Jin changes to Tenri Jindo while under the effect of Tenri Jindo Ready."
     }
   ]
 }

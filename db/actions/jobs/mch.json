@@ -2,7 +2,7 @@
   "jobActions": [
     {
       "name": "Split Shot",
-      "image": "https://img.finalfantasyxiv.com/lds/d/8060c2f198141fb9c4d4202e298c212c15a82e88.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/8060c2f198141fb9c4d4202e298c212c15a82e88.png",
       "lvl": 1,
       "type": "Weaponskill",
       "cast": 0,
@@ -12,7 +12,7 @@
     },
     {
       "name": "Slug Shot",
-      "image": "https://img.finalfantasyxiv.com/lds/d/63bb059658f193d08de8cd45e4a95e7bed0418b8.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/63bb059658f193d08de8cd45e4a95e7bed0418b8.png",
       "lvl": 2,
       "type": "Weaponskill",
       "cast": 0,
@@ -22,7 +22,7 @@
     },
     {
       "name": "Hot Shot",
-      "image": "https://img.finalfantasyxiv.com/lds/d/b297b6034baa7347d3a53a12910b102914ce3c3e.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/b297b6034baa7347d3a53a12910b102914ce3c3e.png",
       "lvl": 4,
       "type": "Weaponskill",
       "cast": 0,
@@ -32,7 +32,7 @@
     },
     {
       "name": "Reassemble",
-      "image": "https://img.finalfantasyxiv.com/lds/d/55906cd43fffdf7bcc09790b1b02b19edc6b2e8e.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/55906cd43fffdf7bcc09790b1b02b19edc6b2e8e.png",
       "lvl": 10,
       "type": "Ability",
       "cast": 0,
@@ -42,7 +42,7 @@
     },
     {
       "name": "Gauss Round",
-      "image": "https://img.finalfantasyxiv.com/lds/d/e6959a3306b601fc9e5987712f6d9ea247a7a566.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/e6959a3306b601fc9e5987712f6d9ea247a7a566.png",
       "lvl": 15,
       "type": "Ability",
       "cast": 0,
@@ -52,7 +52,7 @@
     },
     {
       "name": "Spread Shot",
-      "image": "https://img.finalfantasyxiv.com/lds/d/7c4e991ed4e6b585ceb2dda1c03dec0278ff28f0.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/7c4e991ed4e6b585ceb2dda1c03dec0278ff28f0.png",
       "lvl": 18,
       "type": "Weaponskill",
       "cast": 0,
@@ -62,7 +62,7 @@
     },
     {
       "name": "Clean Shot",
-      "image": "https://img.finalfantasyxiv.com/lds/d/d6d762f987ab51e9840cbf5229251838b16078b5.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/d6d762f987ab51e9840cbf5229251838b16078b5.png",
       "lvl": 26,
       "type": "Weaponskill",
       "cast": 0,
@@ -72,17 +72,17 @@
     },
     {
       "name": "Hypercharge",
-      "image": "https://img.finalfantasyxiv.com/lds/d/273150b6ebb3357688de07d86ec37a02da8e9348.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/092ad12e9867fd64a23a705bd0dd67215b793ae5.png",
       "lvl": 30,
       "type": "Ability",
       "cast": 0,
       "cooldown": 10,
       "cost": 0,
-      "description": "Grants 5 stacks of Overheated, each stack allowing the execution of Heat Blast or Auto Crossbow.\nDuration: 10s\nOverheated Effect: Increases the potency of single-target weaponskills by 20\nHeat Gauge Cost: 50\nOverheated effect only applicable to machinist job actions."
+      "description": "Grants 5 stacks of Overheated, each stack allowing the execution of Blazing Shot or Auto Crossbow.\nDuration: 10s\nOverheated Effect: Increases the potency of single-target weaponskills by 20\nHeat Gauge Cost: 50\nOverheated effect only applicable to machinist job actions.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Heat Blast",
-      "image": "https://img.finalfantasyxiv.com/lds/d/009d06297b1776f1404cdf4de9c5bd8b17a447e6.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/868f1e47a66f3d747213accc2b7d37f2c4464f8e.png",
       "lvl": 35,
       "type": "Weaponskill",
       "cast": 0,
@@ -92,7 +92,7 @@
     },
     {
       "name": "Rook Autoturret",
-      "image": "https://img.finalfantasyxiv.com/lds/d/5b7c9667f3dca5facbc020d4ab7743c7f9d4e6d9.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/7d6539171b0c158f7ca5e1ed4a112e6336601646.png",
       "lvl": 40,
       "type": "Ability",
       "cast": 0,
@@ -102,7 +102,7 @@
     },
     {
       "name": "Rook Overdrive",
-      "image": "https://img.finalfantasyxiv.com/lds/d/d02c5a123e15d77891887c24dce2f6f21d92852d.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/b2703467384768bbc34517f6137898961ee5db6f.png",
       "lvl": 40,
       "type": "Ability",
       "cast": 0,
@@ -112,7 +112,7 @@
     },
     {
       "name": "Rook Overload",
-      "image": "https://img.finalfantasyxiv.com/lds/d/0458a11999934b3eb6d4088c941329698c898722.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/1ab647949d0dd2caed010390a84f687390e762d9.png",
       "lvl": 40,
       "type": "Ability",
       "cast": 0,
@@ -122,7 +122,7 @@
     },
     {
       "name": "Wildfire",
-      "image": "https://img.finalfantasyxiv.com/lds/d/6d73e45fbbfb35ad0a4f8b4a73753e6a06a37651.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/6d73e45fbbfb35ad0a4f8b4a73753e6a06a37651.png",
       "lvl": 45,
       "type": "Ability",
       "cast": 0,
@@ -132,17 +132,17 @@
     },
     {
       "name": "Detonator",
-      "image": "https://img.finalfantasyxiv.com/lds/d/d342968f8a04290200386a016f586a0b175e3d3b.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/4fd81a7627fd0706b03ca3685e383bf8a19518c9.png",
       "lvl": 45,
       "type": "Ability",
       "cast": 0,
       "cooldown": 1,
       "cost": 0,
-      "description": "Ends the effect of Wildfire, dealing damage to the target.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Ends the effect of Wildfire, dealing damage to the target.\nCan only be executed while under the effect of Wildfire.\n\n※This action cannot be assigned to a hotbar.\n※Wildfire changes to Detonator when requirements for execution are met."
     },
     {
       "name": "Ricochet",
-      "image": "https://img.finalfantasyxiv.com/lds/d/5556960a2e8ce389c2117d13c6d182f41943c3c9.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/5556960a2e8ce389c2117d13c6d182f41943c3c9.png",
       "lvl": 50,
       "type": "Ability",
       "cast": 0,
@@ -152,57 +152,57 @@
     },
     {
       "name": "Auto Crossbow",
-      "image": "https://img.finalfantasyxiv.com/lds/d/8c8ae8bf5d1dbcae1bf932cfed578e4fda8d80f3.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/73035ee439401fc6216782e74ce892f061d71214.png",
       "lvl": 52,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 1.5,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 140 to all enemies in a cone before you.\nCan only be executed when firearm is Overheated.\nThis weaponskill does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions."
+      "description": "Delivers an attack with a potency of 160 to all enemies in a cone before you.\nCan only be executed when firearm is Overheated.\nThis weaponskill does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Heated Split Shot",
-      "image": "https://img.finalfantasyxiv.com/lds/d/c7fb786ed29dd5618309e36b58105dd329f255fa.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/cac7ff217edfabca410218ec69323060aed0caaa.png",
       "lvl": 54,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 200.\nAdditional Effect: Increases Heat Gauge by 5"
+      "description": "Delivers an attack with a potency of 220.\nAdditional Effect: Increases Heat Gauge by 5\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Tactician",
-      "image": "https://img.finalfantasyxiv.com/lds/d/eb334bf6f4cfd728e234e09c1cc1521c37d9d73e.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/570cc0bbf4a1478e35f52075640fd9ec6c7ed0f6.png",
       "lvl": 56,
       "type": "Ability",
       "cast": 0,
       "cooldown": 90,
       "cost": 0,
-      "description": "Reduces damage taken by self and nearby party members by 10%.\nDuration: 15s\nEffect cannot be stacked with bard's Troubadour or dancer's Shield Samba."
+      "description": "Reduces damage taken by self and nearby party members by 15%.\nDuration: 15s\nEffect cannot be stacked with bard's Troubadour or dancer's Shield Samba.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Drill",
-      "image": "https://img.finalfantasyxiv.com/lds/d/c8bd9fe712521ac377c3359846437a640c0516b7.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/ecb2da5330a2f9bfa05671f5fa843daecde471a6.png",
       "lvl": 58,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 20,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 600.\nShares a recast timer with Bioblaster."
+      "description": "Delivers an attack with a potency of 600.\nMaximum Charges: 2\nShares a recast timer with Bioblaster.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Heated Slug Shot",
-      "image": "https://img.finalfantasyxiv.com/lds/d/7f91784177366a8b4dd069a15915b41601231f83.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/bb394365a76fac1c38ff540c8c81881d79680b62.png",
       "lvl": 60,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 120.\nCombo Action: Heated Split Shot\nCombo Potency: 300\nCombo Bonus: Increases Heat Gauge by 5"
+      "description": "Delivers an attack with a potency of 140.\nCombo Action: Heated Split Shot\nCombo Potency: 320\nCombo Bonus: Increases Heat Gauge by 5\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Dismantle",
-      "image": "https://img.finalfantasyxiv.com/lds/d/94eaa7aadfa4d857c00551af690f42bb5d7a4a94.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/94eaa7aadfa4d857c00551af690f42bb5d7a4a94.png",
       "lvl": 62,
       "type": "Ability",
       "cast": 0,
@@ -212,27 +212,37 @@
     },
     {
       "name": "Heated Clean Shot",
-      "image": "https://img.finalfantasyxiv.com/lds/d/3c8cababe00b6d512baada3b68a32cb866758a17.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/57fa0a309dc4d53d5edc52aad068a93788715c4c.png",
       "lvl": 64,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 120.\nCombo Action: Heated Slug Shot\nCombo Potency: 380\nCombo Bonus: Increases Heat Gauge by 5\nCombo Bonus: Increases Battery Gauge by 10"
+      "description": "Delivers an attack with a potency of 140.\nCombo Action: Heated Slug Shot\nCombo Potency: 400\nCombo Bonus: Increases Heat Gauge by 5\nCombo Bonus: Increases Battery Gauge by 10\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Barrel Stabilizer",
-      "image": "https://img.finalfantasyxiv.com/lds/d/1688057a6b4150542d3c41e9e5202cf5aa14b5b7.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/4a4a5d764fa65a4514f89fdc77ac7956e3f2e7de.png",
       "lvl": 66,
       "type": "Ability",
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "description": "Increases Heat Gauge by 50.\nCan only be executed while in combat."
+      "description": "Grants Hypercharged.\nDuration: 30s\nAdditional Effect: Grants Full Metal Machinist\nDuration: 30s\nCan only be executed while in combat.\nRevisions (Patch 6.5x - Patch 7.05)"
+    },
+    {
+      "name": "Blazing Shot",
+      "image": "https://lds-img.finalfantasyxiv.com/d/c70341dbb174a9c43c76249ae4b7c40aefbbf40a.png",
+      "lvl": 68,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 1.5,
+      "cost": 0,
+      "description": "Delivers an attack with a potency of 220.\nAdditional Effect: Reduces the recast time of both Double Check and Checkmate by 15s\nCan only be executed when firearm is Overheated.\nThis weaponskill does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions."
     },
     {
       "name": "Flamethrower",
-      "image": "https://img.finalfantasyxiv.com/lds/d/37f5418d1629e6ebc93161622a271d14aa82464e.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/2d88d4346b2dc86970c797bed3cc8ca902c26593.png",
       "lvl": 70,
       "type": "Ability",
       "cast": 0,
@@ -242,17 +252,17 @@
     },
     {
       "name": "Bioblaster",
-      "image": "https://img.finalfantasyxiv.com/lds/d/193879ae7c68f4e144e385a018c69e3626dfa569.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/23329a987c4b36fd72121e3362363a179a16d8d0.png",
       "lvl": 72,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 20,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 50 to all enemies in a cone before you.\nAdditional Effect: Damage over time\nPotency: 50\nDuration: 15s\nShares a recast timer with Drill."
+      "description": "Delivers an attack with a potency of 50 to all enemies in a cone before you.\nAdditional Effect: Damage over time\nPotency: 50\nDuration: 15s\nMaximum Charges: 2\nShares a recast timer with Drill.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Air Anchor",
-      "image": "https://img.finalfantasyxiv.com/lds/d/85abf6ce8fa5c7b7bda98e11f37df0e8c024015e.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/2d5e4d7a3787c164fa36605a5e868143326f5b9a.png",
       "lvl": 76,
       "type": "Weaponskill",
       "cast": 0,
@@ -262,7 +272,7 @@
     },
     {
       "name": "Automaton Queen",
-      "image": "https://img.finalfantasyxiv.com/lds/d/e27f4ccdaad09197dbb5c06734c52bd2e4b4af06.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/6b7ba10a27554510b8d25429592d040331405b14.png",
       "lvl": 80,
       "type": "Ability",
       "cast": 0,
@@ -272,7 +282,7 @@
     },
     {
       "name": "Queen Overdrive",
-      "image": "https://img.finalfantasyxiv.com/lds/d/1424989e6ca3765da1c9c323ebcf72d0c9ba1536.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/cc0d8c0798f0a092f546726f06a8deb067ad44d3.png",
       "lvl": 80,
       "type": "Ability",
       "cast": 0,
@@ -282,7 +292,7 @@
     },
     {
       "name": "Arm Punch",
-      "image": "https://img.finalfantasyxiv.com/lds/d/813737b1502285e729d93645fe816e75350bb1c9.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/25db329264856ae1c870925c989bad8fa6ffa067.png",
       "lvl": 80,
       "type": "Weaponskill",
       "cast": 0,
@@ -292,7 +302,7 @@
     },
     {
       "name": "Roller Dash",
-      "image": "https://img.finalfantasyxiv.com/lds/d/2f01267b74b97a5447bd88cf5a953e532313255a.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/c8df61cf6471343f9e55b57a9b06711155b298bf.png",
       "lvl": 80,
       "type": "Weaponskill",
       "cast": 0,
@@ -302,7 +312,7 @@
     },
     {
       "name": "Pile Bunker",
-      "image": "https://img.finalfantasyxiv.com/lds/d/5e8ab4cb384f66e2f6a041ab70923ac104fdab80.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/7a8751b813d4db6533661dda2d9ba29810fa287f.png",
       "lvl": 80,
       "type": "Ability",
       "cast": 0,
@@ -312,17 +322,17 @@
     },
     {
       "name": "Scattergun",
-      "image": "https://img.finalfantasyxiv.com/lds/d/8cde8fc67f1387b83328aa85cbe044d21a5bc9b0.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/7a419e1dcf06b3d6fba2aef9afdb340db269a304.png",
       "lvl": 82,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 150 to all enemies in a cone before you.\nAdditional Effect: Increases Heat Gauge by 10"
+      "description": "Delivers an attack with a potency of 160 to all enemies in a cone before you.\nAdditional Effect: Increases Heat Gauge by 10\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Crowned Collider",
-      "image": "https://img.finalfantasyxiv.com/lds/d/e7dfcf4eb7f3e2cea526372e8edd8732348bc035.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/80549392e28c25336dff537fe4a5ef21da71d764.png",
       "lvl": 86,
       "type": "Ability",
       "cast": 0,
@@ -332,19 +342,59 @@
     },
     {
       "name": "Chain Saw",
-      "image": "https://img.finalfantasyxiv.com/lds/d/2f788128862828a0a36c66d4dcd6f521f8391d04.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/ebcc4c4bc77ed9eb835ca7ee6c1755052a997805.png",
       "lvl": 90,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "description": "Delivers an attack to all enemies in a straight line before you with a potency of 600 for the first enemy, and 65% less for all remaining enemies.\nAdditional Effect: Increases Battery Gauge by 20\nThis weaponskill does not share a recast timer with any other actions."
+      "description": "Delivers an attack to all enemies in a straight line before you with a potency of 600 for the first enemy, and 65% less for all remaining enemies.\nAdditional Effect: Increases Battery Gauge by 20\nAdditional Effect: Grants Excavator Ready\nDuration: 30s\nThis weaponskill does not share a recast timer with any other actions.\nRevisions (Patch 6.5x - Patch 7.05)"
+    },
+    {
+      "name": "Double Check",
+      "image": "https://lds-img.finalfantasyxiv.com/d/5de8d4517d7e5179cc341ecb2d0bb63e0d716492.png",
+      "lvl": 92,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 30,
+      "cost": 0,
+      "description": "Delivers an attack to target and all enemies nearby it with a potency of 160 for the first enemy, and 50% less for all remaining enemies.\nMaximum Charges: 3"
+    },
+    {
+      "name": "Checkmate",
+      "image": "https://lds-img.finalfantasyxiv.com/d/f44e0b84bfe54b08662b521becbb338225ea90c9.png",
+      "lvl": 92,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 30,
+      "cost": 0,
+      "description": "Delivers an attack to target and all enemies nearby it with a potency of 160 for the first enemy, and 50% less for all remaining enemies.\nMaximum Charges: 3"
+    },
+    {
+      "name": "Excavator",
+      "image": "https://lds-img.finalfantasyxiv.com/d/6e221fc321a6d40ecac7a908c5b8c144c8c693a3.png",
+      "lvl": 96,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "description": "Delivers an attack to target and all enemies nearby it with a potency of 600 for the first enemy, and 65% less for all remaining enemies.\nAdditional Effect: Increases Battery Gauge by 20\nCan only be executed while under the effect of Excavator Ready.\n\n※This action cannot be assigned to a hotbar.\n※Chain Saw changes to Excavator when requirements for execution are met."
+    },
+    {
+      "name": "Full Metal Field",
+      "image": "https://lds-img.finalfantasyxiv.com/d/9c5bb54095373de5764bcfee0205f998f57b986b.png",
+      "lvl": 100,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "description": "Delivers a critical direct hit to target and all enemies nearby it with a potency of 900 for the first enemy, and 50% less for all remaining enemies.\nDamage dealt is increased when under an effect that raises critical hit rate or direct hit rate.\nThis action is not affected by Reassemble.\nCan only be executed while under the effect of Full Metal Machinist."
     }
   ],
   "roleActions": [
     {
       "name": "Leg Graze",
-      "image": "https://img.finalfantasyxiv.com/lds/d/2a6b7be8517f51d8cbcc60be2ae5970668f515eb.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/2a6b7be8517f51d8cbcc60be2ae5970668f515eb.png",
       "lvl": 6,
       "type": "Ability",
       "cast": 0,
@@ -354,17 +404,17 @@
     },
     {
       "name": "Second Wind",
-      "image": "https://img.finalfantasyxiv.com/lds/d/2b79d78f1ed471ace5708898e3388062fbd555fb.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/2b79d78f1ed471ace5708898e3388062fbd555fb.png",
       "lvl": 8,
       "type": "Ability",
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "description": "Instantly restores own HP.\nCure Potency: 500"
+      "description": "Instantly restores own HP.\nCure Potency: 800\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Foot Graze",
-      "image": "https://img.finalfantasyxiv.com/lds/d/8b1f979d2b1428f9791f54ad0e429ea94a8d95d6.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/8b1f979d2b1428f9791f54ad0e429ea94a8d95d6.png",
       "lvl": 10,
       "type": "Ability",
       "cast": 0,
@@ -374,7 +424,7 @@
     },
     {
       "name": "Peloton",
-      "image": "https://img.finalfantasyxiv.com/lds/d/fb8b0f0ca18af4362d27f6699579bd5a18b40137.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/fb8b0f0ca18af4362d27f6699579bd5a18b40137.png",
       "lvl": 20,
       "type": "Ability",
       "cast": 0,
@@ -384,7 +434,7 @@
     },
     {
       "name": "Head Graze",
-      "image": "https://img.finalfantasyxiv.com/lds/d/748fe5fc8262b58e9a35aa9e4d40e67a0dd006a5.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/748fe5fc8262b58e9a35aa9e4d40e67a0dd006a5.png",
       "lvl": 24,
       "type": "Ability",
       "cast": 0,
@@ -394,7 +444,7 @@
     },
     {
       "name": "Arm's Length",
-      "image": "https://img.finalfantasyxiv.com/lds/d/00ff21ad3e1fb26d7b292a9d912931e7ea64daa4.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/00ff21ad3e1fb26d7b292a9d912931e7ea64daa4.png",
       "lvl": 32,
       "type": "Ability",
       "cast": 0,
@@ -428,6 +478,11 @@
       "name": "Clean Shot Mastery",
       "lvl": 64,
       "description": "Upgrades Clean Shot to Heated Clean Shot."
+    },
+    {
+      "name": "Heat Blast Mastery",
+      "lvl": 68,
+      "description": "Upgrades Heat Blast to Blazing Shot."
     },
     {
       "name": "Charged Action Mastery",
@@ -473,6 +528,36 @@
       "name": "Enhanced Tactician",
       "lvl": 88,
       "description": "Reduces Tactician recast time to 90 seconds."
+    },
+    {
+      "name": "Double-barrel Mastery",
+      "lvl": 92,
+      "description": "Upgrades Gauss Round to Double Check and Ricochet to Checkmate."
+    },
+    {
+      "name": "Enhanced Multiweapon",
+      "lvl": 94,
+      "description": "Allows the accumulation of charges for consecutive uses of Drill and Bioblaster.\nMaximum Charges: 2"
+    },
+    {
+      "name": "Marksman's Mastery II",
+      "lvl": 94,
+      "description": "Increases the potency of Auto Crossbow to 160, Heated Split Shot to 220, Heated Slug Shot to 140, Heated Clean Shot to 140, and Scattergun to 160."
+    },
+    {
+      "name": "Enhanced Multiweapon II",
+      "lvl": 96,
+      "description": "Grants Excavator Ready upon executing Chain Saw.\nDuration: 30s\nChain Saw changes to Excavator while under the effect of Excavator Ready."
+    },
+    {
+      "name": "Enhanced Tactician II",
+      "lvl": 98,
+      "description": "Improves Tactician's damage reduction effect to 15%."
+    },
+    {
+      "name": "Enhanced Barrel Stabilizer",
+      "lvl": 100,
+      "description": "Grants Full Metal Machinist upon executing Barrel Stabilizer.\nDuration: 30s"
     }
   ]
 }

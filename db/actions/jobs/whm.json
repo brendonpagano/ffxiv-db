@@ -2,7 +2,7 @@
   "jobActions": [
     {
       "name": "Stone",
-      "image": "https://img.finalfantasyxiv.com/lds/d/002aa233f5d570b0e27d55ce38b57a6b06b7cc69.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/002aa233f5d570b0e27d55ce38b57a6b06b7cc69.png",
       "lvl": 1,
       "type": "Spell",
       "cast": 1.5,
@@ -12,7 +12,7 @@
     },
     {
       "name": "Cure",
-      "image": "https://img.finalfantasyxiv.com/lds/d/a2d0e0ed56915f523e8a7326bbdd09eff0534eda.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/a2d0e0ed56915f523e8a7326bbdd09eff0534eda.png",
       "lvl": 2,
       "type": "Spell",
       "cast": 1.5,
@@ -22,7 +22,7 @@
     },
     {
       "name": "Aero",
-      "image": "https://img.finalfantasyxiv.com/lds/d/78107cd063a81b78b99eb7cb5da15f2bec403c70.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/78107cd063a81b78b99eb7cb5da15f2bec403c70.png",
       "lvl": 4,
       "type": "Spell",
       "cast": 0,
@@ -32,7 +32,7 @@
     },
     {
       "name": "Medica",
-      "image": "https://img.finalfantasyxiv.com/lds/d/6c5fd075bab7c063aef743a1de5e36958354b42b.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/6c5fd075bab7c063aef743a1de5e36958354b42b.png",
       "lvl": 10,
       "type": "Spell",
       "cast": 2,
@@ -42,7 +42,7 @@
     },
     {
       "name": "Raise",
-      "image": "https://img.finalfantasyxiv.com/lds/d/34bdc3ad370b701a106f32daa68e73055ab72331.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/34bdc3ad370b701a106f32daa68e73055ab72331.png",
       "lvl": 12,
       "type": "Spell",
       "cast": 8,
@@ -52,7 +52,7 @@
     },
     {
       "name": "Stone II",
-      "image": "https://img.finalfantasyxiv.com/lds/d/ce8e52e199a7d9e548537bc77197f4d7965dea58.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/ce8e52e199a7d9e548537bc77197f4d7965dea58.png",
       "lvl": 18,
       "type": "Spell",
       "cast": 1.5,
@@ -62,7 +62,7 @@
     },
     {
       "name": "Cure II",
-      "image": "https://img.finalfantasyxiv.com/lds/d/a70a8e3dcb347c11047f00945f9435687f21f06d.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/a70a8e3dcb347c11047f00945f9435687f21f06d.png",
       "lvl": 30,
       "type": "Spell",
       "cast": 2,
@@ -72,17 +72,17 @@
     },
     {
       "name": "Presence of Mind",
-      "image": "https://img.finalfantasyxiv.com/lds/d/7be14bf07b21fa5c78cd7f7891279704da6cadb9.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/7be14bf07b21fa5c78cd7f7891279704da6cadb9.png",
       "lvl": 30,
       "type": "Ability",
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "description": "Reduces spell cast time and recast time, and auto-attack delay by 20%.\nDuration: 15s"
+      "description": "Reduces spell cast time and recast time, and auto-attack delay by 20%.\nDuration: 15s\nAdditional Effect: Grants 3 stacks of Sacred Sight\nDuration: 30s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Regen",
-      "image": "https://img.finalfantasyxiv.com/lds/d/53bb0b4fc881c4c06d64c915864968cced6c6201.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/53bb0b4fc881c4c06d64c915864968cced6c6201.png",
       "lvl": 35,
       "type": "Spell",
       "cast": 0,
@@ -92,7 +92,7 @@
     },
     {
       "name": "Cure III",
-      "image": "https://img.finalfantasyxiv.com/lds/d/33c3597ee1004e364a6331f732f077666e798acd.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/33c3597ee1004e364a6331f732f077666e798acd.png",
       "lvl": 40,
       "type": "Spell",
       "cast": 2,
@@ -101,8 +101,18 @@
       "description": "Restores own or target party member's HP and all party members nearby target.\nCure Potency: 600"
     },
     {
+      "name": "Aetherial Shift",
+      "image": "https://lds-img.finalfantasyxiv.com/d/d69b1e0884f3f4edac543210cd9b42d74c2b3f25.png",
+      "lvl": 40,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "description": "Quickly dash 15 yalms forward.\nCannot be executed while bound."
+    },
+    {
       "name": "Holy",
-      "image": "https://img.finalfantasyxiv.com/lds/d/bb161bfc68766590d81cb1f7d6049711c949039b.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/bb161bfc68766590d81cb1f7d6049711c949039b.png",
       "lvl": 45,
       "type": "Spell",
       "cast": 2.5,
@@ -112,7 +122,7 @@
     },
     {
       "name": "Aero II",
-      "image": "https://img.finalfantasyxiv.com/lds/d/7e4202353c63451702e9944dc93551a18951efcf.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/7e4202353c63451702e9944dc93551a18951efcf.png",
       "lvl": 46,
       "type": "Spell",
       "cast": 0,
@@ -122,7 +132,7 @@
     },
     {
       "name": "Medica II",
-      "image": "https://img.finalfantasyxiv.com/lds/d/530234ed64e2b5b5aaacf978a90d87932734272f.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/530234ed64e2b5b5aaacf978a90d87932734272f.png",
       "lvl": 50,
       "type": "Spell",
       "cast": 2,
@@ -132,7 +142,7 @@
     },
     {
       "name": "Benediction",
-      "image": "https://img.finalfantasyxiv.com/lds/d/44e09756739b6b8924b82471572e7103ac5ca1fb.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/44e09756739b6b8924b82471572e7103ac5ca1fb.png",
       "lvl": 50,
       "type": "Ability",
       "cast": 0,
@@ -142,7 +152,7 @@
     },
     {
       "name": "Afflatus Solace",
-      "image": "https://img.finalfantasyxiv.com/lds/d/a9c7b172b8c82aaa311a578fe3b42f5f30266e93.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/a9c7b172b8c82aaa311a578fe3b42f5f30266e93.png",
       "lvl": 52,
       "type": "Spell",
       "cast": 0,
@@ -152,7 +162,7 @@
     },
     {
       "name": "Asylum",
-      "image": "https://img.finalfantasyxiv.com/lds/d/cf3242dc922e88211cb5b2c4aa67f9ae79fb88fb.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/cf3242dc922e88211cb5b2c4aa67f9ae79fb88fb.png",
       "lvl": 52,
       "type": "Ability",
       "cast": 0,
@@ -162,7 +172,7 @@
     },
     {
       "name": "Stone III",
-      "image": "https://img.finalfantasyxiv.com/lds/d/f38006e73efc8e122777b9c23097a4c40bc9c9c4.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/f38006e73efc8e122777b9c23097a4c40bc9c9c4.png",
       "lvl": 54,
       "type": "Spell",
       "cast": 1.5,
@@ -172,7 +182,7 @@
     },
     {
       "name": "Assize",
-      "image": "https://img.finalfantasyxiv.com/lds/d/4c9f83b599b37adfa6597ea7e884331cac170a12.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/4c9f83b599b37adfa6597ea7e884331cac170a12.png",
       "lvl": 56,
       "type": "Ability",
       "cast": 0,
@@ -182,7 +192,7 @@
     },
     {
       "name": "Thin Air",
-      "image": "https://img.finalfantasyxiv.com/lds/d/539a73220a23fd185c17bed962b140bf7b4673d2.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/539a73220a23fd185c17bed962b140bf7b4673d2.png",
       "lvl": 58,
       "type": "Ability",
       "cast": 0,
@@ -192,17 +202,17 @@
     },
     {
       "name": "Tetragrammaton",
-      "image": "https://img.finalfantasyxiv.com/lds/d/6e00b907b75a6906045955d68cf68af66ba6aa9e.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/6e00b907b75a6906045955d68cf68af66ba6aa9e.png",
       "lvl": 60,
       "type": "Ability",
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "description": "Restores target's HP.\nCure Potency: 700"
+      "description": "Restores target's HP.\nCure Potency: 700\nMaximum Charges: 2\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Stone IV",
-      "image": "https://img.finalfantasyxiv.com/lds/d/33eacc1401b5fe03a2dd54e317cd60ccbb912c44.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/33eacc1401b5fe03a2dd54e317cd60ccbb912c44.png",
       "lvl": 64,
       "type": "Spell",
       "cast": 1.5,
@@ -212,7 +222,7 @@
     },
     {
       "name": "Divine Benison",
-      "image": "https://img.finalfantasyxiv.com/lds/d/065d9df35159a3bc53d59984a18b35581b442a73.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/065d9df35159a3bc53d59984a18b35581b442a73.png",
       "lvl": 66,
       "type": "Ability",
       "cast": 0,
@@ -222,27 +232,27 @@
     },
     {
       "name": "Plenary Indulgence",
-      "image": "https://img.finalfantasyxiv.com/lds/d/2144617daa9bac9ea7bc1f063a9e0cd033fcd363.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/2144617daa9bac9ea7bc1f063a9e0cd033fcd363.png",
       "lvl": 70,
       "type": "Ability",
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "description": "Grants Confession to self and nearby party members.\nUpon receiving HP recovery via Medica, Medica II, Cure III, or Afflatus Rapture cast by self, Confession triggers an additional healing effect.\nCure Potency: 200\nDuration: 10s"
+      "description": "Grants Confession to self and nearby party members.\nDuration: 10s\nParty members under the effect of Confession will receive additional healing upon receiving HP recovery via Medica, Medica III, Cure III, or Afflatus Rapture.\nCure Potency: 200\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Dia",
-      "image": "https://img.finalfantasyxiv.com/lds/d/de737874f0025d808d0bddac1d4156fec9464d00.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/de737874f0025d808d0bddac1d4156fec9464d00.png",
       "lvl": 72,
       "type": "Spell",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 400,
-      "description": "Deals unaspected damage with a potency of 65.\nAdditional Effect: Unaspected damage over time\nPotency: 65\nDuration: 30s"
+      "description": "Deals unaspected damage with a potency of 75.\nAdditional Effect: Unaspected damage over time\nPotency: 75\nDuration: 30s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Glare",
-      "image": "https://img.finalfantasyxiv.com/lds/d/c1f9bdbca11c2c7944e3e95cf7599a6a3849e5a2.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/c1f9bdbca11c2c7944e3e95cf7599a6a3849e5a2.png",
       "lvl": 72,
       "type": "Spell",
       "cast": 1.5,
@@ -252,17 +262,17 @@
     },
     {
       "name": "Afflatus Misery",
-      "image": "https://img.finalfantasyxiv.com/lds/d/e01507664cb997891de06ec522b71619279969bc.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/e01507664cb997891de06ec522b71619279969bc.png",
       "lvl": 74,
       "type": "Spell",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "description": "Deals unaspected damage to target and all enemies nearby it with a potency of 1,240 for the first enemy, and 50% less for all remaining enemies.\nCan only be executed when the Blood Lily is in full bloom."
+      "description": "Deals unaspected damage to target and all enemies nearby it with a potency of 1,320 for the first enemy, and 50% less for all remaining enemies.\nCan only be executed when the Blood Lily is in full bloom.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Afflatus Rapture",
-      "image": "https://img.finalfantasyxiv.com/lds/d/9582c5aa6ffa9abf82db6140916020235a003a20.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/9582c5aa6ffa9abf82db6140916020235a003a20.png",
       "lvl": 76,
       "type": "Spell",
       "cast": 0,
@@ -272,27 +282,27 @@
     },
     {
       "name": "Temperance",
-      "image": "https://img.finalfantasyxiv.com/lds/d/78e099cba536b64fe978d05487c51b28a66f29df.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/78e099cba536b64fe978d05487c51b28a66f29df.png",
       "lvl": 80,
       "type": "Ability",
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "description": "Increases healing magic potency by 20%, while reducing damage taken by self and all party members within a radius of 50 yalms by 10%.\nDuration: 20s"
+      "description": "Increases healing magic potency by 20%, while reducing damage taken by self and all party members within a radius of 50 yalms by 10%.\nDuration: 20s\nAdditional Effect: Grants Divine Grace\nDuration: 30s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Glare III",
-      "image": "https://img.finalfantasyxiv.com/lds/d/dfafd20ceefae82548deba9511d3d765c4535b3a.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/dfafd20ceefae82548deba9511d3d765c4535b3a.png",
       "lvl": 82,
       "type": "Spell",
       "cast": 1.5,
       "cooldown": 2.5,
       "cost": 400,
-      "description": "Deals unaspected damage with a potency of 310."
+      "description": "Deals unaspected damage with a potency of 330.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Holy III",
-      "image": "https://img.finalfantasyxiv.com/lds/d/eceb9103dbf8066a8b6c8bce2e84df7552f1a074.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/eceb9103dbf8066a8b6c8bce2e84df7552f1a074.png",
       "lvl": 82,
       "type": "Spell",
       "cast": 2.5,
@@ -302,7 +312,7 @@
     },
     {
       "name": "Aquaveil",
-      "image": "https://img.finalfantasyxiv.com/lds/d/f87f8e18282665458cc9c358ff1a2b8a78833491.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/f87f8e18282665458cc9c358ff1a2b8a78833491.png",
       "lvl": 86,
       "type": "Ability",
       "cast": 0,
@@ -312,19 +322,49 @@
     },
     {
       "name": "Liturgy of the Bell",
-      "image": "https://img.finalfantasyxiv.com/lds/d/4d31a93f520e700ac70ab1604bdb6811f124ebb4.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/4d31a93f520e700ac70ab1604bdb6811f124ebb4.png",
       "lvl": 90,
       "type": "Ability",
       "cast": 0,
       "cooldown": 180,
       "cost": 0,
       "description": "Places a healing blossom at the designated location and grants 5 stacks of Liturgy of the Bell to self.\nDuration: 20s\nTaking damage will expend 1 stack of Liturgy of the Bell to heal self and all party members within a radius of 20 yalms.\nCure Potency: 400\nThe effect of this action can only be triggered once per second.\nAny remaining stacks of Liturgy of the Bell will trigger an additional healing effect when time expires or upon executing this action a second time.\nCure Potency: 200 for every remaining stack of Liturgy of the Bell\nThis action does not share a recast timer with any other actions."
+    },
+    {
+      "name": "Glare IV",
+      "image": "https://lds-img.finalfantasyxiv.com/d/8114a12aa7d10fbe87b9edfe0fc6257adec7a06f.png",
+      "lvl": 92,
+      "type": "Spell",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "description": "Deals unaspected damage to target and all enemies nearby it with a potency of 640 for the first enemy, and 40% less for all remaining enemies.\nCan only be executed while Sacred Sight is active."
+    },
+    {
+      "name": "Medica III",
+      "image": "https://lds-img.finalfantasyxiv.com/d/afd378388b20cba91d3988c04efeff1256eae7b3.png",
+      "lvl": 96,
+      "type": "Spell",
+      "cast": 2,
+      "cooldown": 2.5,
+      "cost": 1000,
+      "description": "Restores own HP and the HP of all nearby party members.\nCure Potency: 250\nAdditional Effect: Regen\nCure Potency: 175\nDuration: 15s"
+    },
+    {
+      "name": "Divine Caress",
+      "image": "https://lds-img.finalfantasyxiv.com/d/94e9cc4b561ab6fca2c4a92cdbb2c86cd7825df9.png",
+      "lvl": 100,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 0,
+      "description": "Creates a barrier around self and all party members near you that absorbs damage equivalent to a heal of 400 potency.\nDuration: 10s\nAdditional Effect: Grants Divine Aura when barrier effect expires\nDivine Aura Effect: Healing over time\nCure Potency: 200\nDuration: 15s\nCan only be executed while Divine Grace is active."
     }
   ],
   "roleActions": [
     {
       "name": "Repose",
-      "image": "https://img.finalfantasyxiv.com/lds/d/9bd731d47094c2c11b5cd9fb0d1d277bf9c6c89d.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/9bd731d47094c2c11b5cd9fb0d1d277bf9c6c89d.png",
       "lvl": 8,
       "type": "Spell",
       "cast": 2.5,
@@ -334,7 +374,7 @@
     },
     {
       "name": "Esuna",
-      "image": "https://img.finalfantasyxiv.com/lds/d/2a6603bc786d73eb3829141482b3d5be5d484199.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/2a6603bc786d73eb3829141482b3d5be5d484199.png",
       "lvl": 10,
       "type": "Spell",
       "cast": 1,
@@ -343,18 +383,8 @@
       "description": "Removes a single detrimental effect from target."
     },
     {
-      "name": "Swiftcast",
-      "image": "https://img.finalfantasyxiv.com/lds/d/27d401b3cfbf90c846ffeaa9f661afb4bd77ce98.png",
-      "lvl": 18,
-      "type": "Ability",
-      "cast": 0,
-      "cooldown": 60,
-      "cost": 0,
-      "description": "Next spell is cast immediately.\nDuration: 10s"
-    },
-    {
       "name": "Lucid Dreaming",
-      "image": "https://img.finalfantasyxiv.com/lds/d/3629c6854aa559656623925e2489b60c2fa91e18.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/3629c6854aa559656623925e2489b60c2fa91e18.png",
       "lvl": 14,
       "type": "Ability",
       "cast": 0,
@@ -363,8 +393,18 @@
       "description": "Gradually restores own MP.\nPotency: 55\nDuration: 21s"
     },
     {
+      "name": "Swiftcast",
+      "image": "https://lds-img.finalfantasyxiv.com/d/27d401b3cfbf90c846ffeaa9f661afb4bd77ce98.png",
+      "lvl": 18,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 40,
+      "cost": 0,
+      "description": "Next spell is cast immediately.\nDuration: 10s\nRevisions (Patch 6.5x - Patch 7.05)"
+    },
+    {
       "name": "Surecast",
-      "image": "https://img.finalfantasyxiv.com/lds/d/477d1e7f7115db19c344c0f5cadfcfa2ac0cdcc0.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/477d1e7f7115db19c344c0f5cadfcfa2ac0cdcc0.png",
       "lvl": 44,
       "type": "Ability",
       "cast": 0,
@@ -374,7 +414,7 @@
     },
     {
       "name": "Rescue",
-      "image": "https://img.finalfantasyxiv.com/lds/d/23f8a26b9a0107b6076f5f2e715e14d9be0edc25.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/23f8a26b9a0107b6076f5f2e715e14d9be0edc25.png",
       "lvl": 48,
       "type": "Ability",
       "cast": 0,
@@ -463,6 +503,31 @@
       "name": "Enhanced Divine Benison",
       "lvl": 88,
       "description": "Allows the accumulation of charges for consecutive uses of Divine Benison.\nMaximum Charges: 2"
+    },
+    {
+      "name": "Enhanced Presence of Mind",
+      "lvl": 92,
+      "description": "Presence of Mind grants 3 stacks of Sacred Sight upon execution.\nDuration: 30s"
+    },
+    {
+      "name": "White Magic Mastery",
+      "lvl": 94,
+      "description": "Increases the potency of Dia and its damage over time to 75, Afflatus Misery to 1,320, and Glare III to 330."
+    },
+    {
+      "name": "Medica Mastery",
+      "lvl": 96,
+      "description": "Upgrades Medica II to Medica III."
+    },
+    {
+      "name": "Enhanced Tetragrammaton",
+      "lvl": 98,
+      "description": "Allows the accumulation of charges for consecutive uses of Tetragrammaton.\nMaximum Charges: 2"
+    },
+    {
+      "name": "Enhanced Temperance",
+      "lvl": 100,
+      "description": "Temperance grants Divine Grace upon execution.\nDuration: 30s"
     }
   ]
 }

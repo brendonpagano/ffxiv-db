@@ -2,97 +2,97 @@
   "jobActions": [
     {
       "name": "Bootshine",
-      "image": "https://img.finalfantasyxiv.com/lds/d/042e3be3ea0a054e9fa9cb7db61dd0a14a3622f7.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/7079a2bf92e2473c4a28b582850a44b5b8d2d9aa.png",
       "lvl": 1,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 2,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 210.\nLeaden Fist Potency: 310\nOpo-opo Form Bonus: Guarantees a critical hit\nDamage dealt is increased when under an effect that raises critical hit rate.\nAdditional Effect: Changes form to raptor\nDuration: 30s"
+      "description": "Delivers an attack with a potency of 220.\nOpo-opo's Fury Potency: 420\nOpo-opo Form Bonus: Guarantees a critical hit\nDamage dealt is increased when under an effect that raises critical hit rate.\nAdditional Effect: Changes form to raptor\nDuration: 30s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "True Strike",
-      "image": "https://img.finalfantasyxiv.com/lds/d/af7b18aed7033e61d761f6103f46160923ce4dba.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/f0ebdb32af553d84dfd59abb4d868c6be17bf334.png",
       "lvl": 4,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 2,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 300.\nCan only be executed when in raptor form.\nAdditional Effect: Changes form to coeurl\nDuration: 30s"
+      "description": "Delivers an attack with a potency of 300.\nRaptor's Fury Potency: 500\nCan only be executed when in raptor form.\nAdditional Effect: Changes form to coeurl\nDuration: 30s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Snap Punch",
-      "image": "https://img.finalfantasyxiv.com/lds/d/a0723660e32d9a35961de3002386736a3f97f9aa.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/eea79a3861a427c42750d650af3b17c611ac1f73.png",
       "lvl": 6,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 2,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 250.\n310 when executed from a target's flank.\nCan only be executed when in coeurl form.\nAdditional Effect: Changes form to opo-opo\nDuration: 30s"
+      "description": "Delivers an attack with a potency of 270.\n330 when executed from a target's flank.\nCoeurl's Fury Potency: 420\nFlank Coeurl's Fury Potency: 480\nCan only be executed when in coeurl form.\nAdditional Effect: Changes form to opo-opo\nDuration: 30s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
-      "name": "Meditation",
-      "image": "https://img.finalfantasyxiv.com/lds/d/c9043d24d8c1d97eb7858c7d6bac820e1a3b5999.png",
+      "name": "Steeled Meditation",
+      "image": "https://lds-img.finalfantasyxiv.com/d/3f5525f96d26fa3bb52df3cd390fbabd126be062.png",
       "lvl": 15,
       "type": "Ability",
       "cast": 0,
       "cooldown": 1,
       "cost": 0,
-      "description": "Opens a chakra. Up to five chakra can be opened at once.\nOpens all five chakra when used outside of combat.\nTriggers the cooldown of weaponskills upon execution.\nConversely, execution of weaponskills triggers the cooldown of this action.\n\n※Action changes to The Forbidden Chakra when all five chakra are open."
+      "description": "Opens a chakra. Up to five chakra can be opened at once.\nOpens all five chakra when used outside of combat.\nTriggers the cooldown of weaponskills upon execution.\nConversely, execution of weaponskills triggers the cooldown of this action."
     },
     {
       "name": "Steel Peak",
-      "image": "https://img.finalfantasyxiv.com/lds/d/bf14821955a0b22662b2ad2f939f5d25e28ddfbe.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/c5bf98a4d13a858dc2c4932408eefe77c4f173c1.png",
       "lvl": 15,
       "type": "Ability",
       "cast": 0,
       "cooldown": 1,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 180.\nCan only be executed while in combat and under the effect of the Fifth Chakra. The five chakra close upon execution.\nShares a recast timer with Howling Fist.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Delivers an attack with a potency of 180.\nCan only be executed while in combat and under the effect of five Chakra. Five chakra close upon execution.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Twin Snakes",
-      "image": "https://img.finalfantasyxiv.com/lds/d/30f4acde19a2b7da96a18abfb609bf41f1d140dd.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/d649439b0004da7643cbeaafe73e4e93f2572e61.png",
       "lvl": 18,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 2,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 280.\nCan only be executed when in raptor form.\nAdditional Effect: Grants Disciplined Fist\nDisciplined Fist Effect: Increases damage dealt by 15%\nDuration: 15s\nAdditional Effect: Changes form to coeurl\nDuration: 30s"
+      "description": "Delivers an attack with a potency of 420.\nCan only be executed when in raptor form.\nAdditional Effect: Grants a stack of Raptor's Fury\nRaptor's Fury Effect: Increases potency of Rising Raptor by 200\nAdditional Effect: Changes form to coeurl\nDuration: 30s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Arm of the Destroyer",
-      "image": "https://img.finalfantasyxiv.com/lds/d/44aeab1317ba946482cfcb3db020495c82b2adaf.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/92b45621e9e88401316dc9bede7253b10d4facd8.png",
       "lvl": 26,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 2,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 100 to all nearby targets.\nOpo-opo Form Potency: 110\nAdditional Effect: Changes form to raptor\nDuration: 30s"
+      "description": "Delivers an attack with a potency of 110 to all nearby targets.\nOpo-opo Form Potency: 120\nAdditional Effect: Changes form to raptor\nDuration: 30s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Demolish",
-      "image": "https://img.finalfantasyxiv.com/lds/d/478fe9db14cb870f97bd5c97e94d6c330a52e625.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/883edfbb5dec0daed23aa0447d6e7b28cf16b8d3.png",
       "lvl": 30,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 2,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 70.\n130 when executed from a target's rear.\nCan only be executed when in coeurl form.\nAdditional Effect: Damage over time\nPotency: 70\nDuration: 18s\nAdditional Effect: Changes form to opo-opo\nDuration: 30s"
+      "description": "Delivers an attack with a potency of 360.\n420 when executed from a target's rear.\nCan only be executed when in coeurl form.\nAdditional Effect: Grants 2 stacks of Coeurl's Fury\nCoeurl's Fury Effect: Increases potency of Pouncing Coeurl by 150\nAdditional Effect: Changes form to opo-opo\nDuration: 30s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Rockbreaker",
-      "image": "https://img.finalfantasyxiv.com/lds/d/6f757660279f936fff7f7b46f415c50ffa8ab08a.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/5a0f246b748bb726d3626d3713bc71138f6bb86f.png",
       "lvl": 30,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 2,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 130 to all nearby enemies.\nCan only be executed when in coeurl form.\nAdditional Effect: Changes form to opo-opo\nDuration: 30s"
+      "description": "Delivers an attack with a potency of 150 to all nearby enemies.\nCan only be executed when in coeurl form.\nAdditional Effect: Changes form to opo-opo\nDuration: 30s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Thunderclap",
-      "image": "https://img.finalfantasyxiv.com/lds/d/3cd306065005282605a77162e9158092ba2a75b1.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/9a4a20e6ff8843d06e066fd0ffb6f8f6944acac4.png",
       "lvl": 35,
       "type": "Ability",
       "cast": 0,
@@ -101,18 +101,28 @@
       "description": "Rush to a targeted enemy's or party member's location.\nMaximum Charges: 3\nCannot be executed while bound."
     },
     {
-      "name": "Howling Fist",
-      "image": "https://img.finalfantasyxiv.com/lds/d/b5e5c9978cca1e84dd3dfd44bf37acb9aa875c13.png",
+      "name": "Inspirited Meditation",
+      "image": "https://lds-img.finalfantasyxiv.com/d/e496f61cb81a7d95c751a64c3c416faa851216f0.png",
       "lvl": 40,
       "type": "Ability",
       "cast": 0,
       "cooldown": 1,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 100 to all enemies in a straight line before you.\nCan only be executed while in combat and under the effect of the Fifth Chakra. The five chakra close upon execution.\nShares a recast timer with The Forbidden Chakra."
+      "description": "Opens a chakra. Up to five chakra can be opened at once.\nOpens all five chakra when used outside of combat.\nTriggers the cooldown of weaponskills upon execution.\nConversely, execution of weaponskills triggers the cooldown of this action."
+    },
+    {
+      "name": "Howling Fist",
+      "image": "https://lds-img.finalfantasyxiv.com/d/d5392c32b9d05bda3c0a4ee45c1d13cce2dee9e1.png",
+      "lvl": 40,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 0,
+      "description": "Delivers an attack with a potency of 100 to all enemies in a straight line before you.\nCan only be executed while in combat and under the effect of five Chakra. Five chakra close upon execution."
     },
     {
       "name": "Mantra",
-      "image": "https://img.finalfantasyxiv.com/lds/d/87f8bb6f1bcc8aa169c04e15c7d526d9d6e3dc55.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/576fee56715e5d7a353c36daab4c4e3a5546738e.png",
       "lvl": 42,
       "type": "Ability",
       "cast": 0,
@@ -122,37 +132,37 @@
     },
     {
       "name": "Four-point Fury",
-      "image": "https://img.finalfantasyxiv.com/lds/d/2e982c5bcdf7073f54f478d072d76eb8fc7ebd73.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/fe6108fe3ff3591e8a6d3155c5764e53baf41397.png",
       "lvl": 45,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 2,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 120 to all nearby enemies.\nCan only be executed when in raptor form.\nAdditional Effect: Grants Disciplined Fist\nDisciplined Fist Effect: Increases damage dealt by 15%\nDuration: 15s\nAdditional Effect: Changes form to coeurl\nDuration: 30s"
+      "description": "Delivers an attack with a potency of 140 to all nearby enemies.\nCan only be executed when in raptor form.\nAdditional Effect: Changes form to coeurl\nDuration: 30s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Dragon Kick",
-      "image": "https://img.finalfantasyxiv.com/lds/d/b28fd0b73c9131439b9d376ea443532892876681.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/a6e218fec5415ba80ebdf6364458022bbd5b32d2.png",
       "lvl": 50,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 2,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 320.\nOpo-opo Form Bonus: Grants Leaden Fist\nDuration: 30s\nAdditional Effect: Changes form to raptor\nDuration: 30s"
+      "description": "Delivers an attack with a potency of 320.\nOpo-opo Form Bonus: Grants a stack of Opo-opo's Fury\nOpo-opo's Fury Effect: Increases potency of Leaping Opo by 200\nAdditional Effect: Changes form to raptor\nDuration: 30s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Perfect Balance",
-      "image": "https://img.finalfantasyxiv.com/lds/d/08bf418da9242f2ad395422bd474f9f4b8819b29.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/a66c7c878615dad8345d7dce2aced30714572312.png",
       "lvl": 50,
       "type": "Ability",
       "cast": 0,
       "cooldown": 40,
       "cost": 0,
-      "description": "Grants 3 stacks of Perfect Balance, each stack allowing the execution of a weaponskill that requires a certain form, without being in that form.\nDuration: 20s\nAdditional Effect: Grants Opo-opo Chakra, Coeurl Chakra, or Raptor Chakra depending on the form required by actions executed\nMaximum Charges: 2\nCan only be executed while in combat and when not under the effect of any Beast Chakra."
+      "description": "Grants 3 stacks of Perfect Balance, each stack allowing the execution of a weaponskill that requires a certain form, without being in that form.\nDuration: 20s\nAdditional Effect: Grants Opo-opo Chakra, Coeurl Chakra, or Raptor Chakra depending on the form changed to upon executing actions\nChanging to Opo-opo Form grants Coeurl Chakra.\nChanging to Raptor Form grants Opo-opo Chakra.\nChanging to Coeurl Form grants Raptor Chakra.\nMaximum Charges: 2\nCan only be executed while in combat and when not under the effect of any Beast Chakra.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Form Shift",
-      "image": "https://img.finalfantasyxiv.com/lds/d/f48ad79820696829faea1b43c94a9e70a1b84ce9.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/da141fe139c2b20081a175704336a0af21f0f801.png",
       "lvl": 52,
       "type": "Weaponskill",
       "cast": 0,
@@ -161,180 +171,260 @@
       "description": "Grants Formless Fist to self, allowing the execution of a weaponskill that requires a certain form, without being in that form.\nDuration: 30s\nAny additional effects associated with the executed action will also be applied."
     },
     {
-      "name": "The Forbidden Chakra",
-      "image": "https://img.finalfantasyxiv.com/lds/d/cbe79f033c767f053b625ec72de22bee654722b8.png",
+      "name": "Forbidden Meditation",
+      "image": "https://lds-img.finalfantasyxiv.com/d/3f5525f96d26fa3bb52df3cd390fbabd126be062.png",
       "lvl": 54,
       "type": "Ability",
       "cast": 0,
       "cooldown": 1,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 340.\nCan only be executed while in combat and under the effect of the Fifth Chakra. The five chakra close upon execution.\nShares a recast timer with Enlightenment.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Opens a chakra. Up to five chakra can be opened at once.\nOpens all five chakra when used outside of combat.\nTriggers the cooldown of weaponskills upon execution.\nConversely, execution of weaponskills triggers the cooldown of this action."
+    },
+    {
+      "name": "The Forbidden Chakra",
+      "image": "https://lds-img.finalfantasyxiv.com/d/20a6e6104d8cad0e109bd0f56e1d26689017b871.png",
+      "lvl": 54,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 0,
+      "description": "Delivers an attack with a potency of 400.\nCan only be executed while in combat and under the effect of five Chakra. Five chakra close upon execution.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Masterful Blitz",
-      "image": "https://img.finalfantasyxiv.com/lds/d/00cd52fc4dd2849210bea04ee05cd62a921f1cfb.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/e42e291b8a444b9daf5c4bed5170e92d5c11872e.png",
       "lvl": 60,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 2,
       "cost": 0,
-      "description": "Strike the enemy with a technique fueled by the power of your Beast Chakra.\nThe technique used is determined by the number of different types of Beast Chakra opened.\n1 Beast Chakra Type: Elixir Field\n2 Beast Chakra Types: Celestial Revolution\n3 Beast Chakra Types: Rising Phoenix\n3 Beast Chakra and Both Nadi: Phantom Rush"
-    },
-    {
-      "name": "Elixir Field",
-      "image": "https://img.finalfantasyxiv.com/lds/d/c3b8c8cd51562f2117d6ee72ee44c6cb7a9ed497.png",
-      "lvl": 60,
-      "type": "Weaponskill",
-      "cast": 0,
-      "cooldown": 2,
-      "cost": 0,
-      "description": "Delivers an attack to all nearby enemies with a potency of 600 for the first enemy, and 70% less for all remaining enemies.\nAdditional Effect: Opens the Lunar Nadi\nAdditional Effect: Grants Formless Fist, allowing the execution of a weaponskill that requires a certain form, without being in that form\nDuration: 30s\nAny additional effects associated with the executed action will also be applied.\nCan only be executed while under the effect of three of the same Beast Chakra.\n\n※This action cannot be assigned to a hotbar."
-    },
-    {
-      "name": "Flint Strike",
-      "image": "https://img.finalfantasyxiv.com/lds/d/4a4c381e589645018bad71d48508a65e340035ca.png",
-      "lvl": 60,
-      "type": "Weaponskill",
-      "cast": 0,
-      "cooldown": 2,
-      "cost": 0,
-      "description": "Delivers an attack to all nearby enemies with a potency of 600 for the first enemy, and 70% less for all remaining enemies.\nAdditional Effect: Opens the Solar Nadi\nAdditional Effect: Grants Formless Fist, allowing the execution of a weaponskill that requires a certain form, without being in that form\nDuration: 30s\nAny additional effects associated with the executed action will also be applied.\nCan only be executed while under the effect of three distinct Beast Chakra.\n\n※This action cannot be assigned to a hotbar."
-    },
-    {
-      "name": "Celestial Revolution",
-      "image": "https://img.finalfantasyxiv.com/lds/d/c9d2b58e28943b3309db19b112d998246d1b79b2.png",
-      "lvl": 60,
-      "type": "Weaponskill",
-      "cast": 0,
-      "cooldown": 2,
-      "cost": 0,
-      "description": "Delivers an attack with a potency of 450.\nAdditional Effect: Opens the Lunar Nadi\nIf the Lunar Nadi is already open, opens the Solar Nadi instead.\nAdditional Effect: Grants Formless Fist, allowing the execution of a weaponskill that requires a certain form, without being in that form\nDuration: 30s\nAny additional effects associated with the executed action will also be applied.\nCan only be executed while under the effect of three Beast Chakra.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Strike the enemy with a technique fueled by the power of your Beast Chakra.\nThe technique used is determined by the number of different types of Beast Chakra opened.\n1 Beast Chakra Type: Elixir Burst\n2 Beast Chakra Types: Celestial Revolution\n3 Beast Chakra Types: Rising Phoenix\n3 Beast Chakra and Both Nadi: Phantom Rush\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Tornado Kick",
-      "image": "https://img.finalfantasyxiv.com/lds/d/e5c7d0867c9b53f33bd8b319379946e7b9c27ba1.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/c048e791bb8e3acbc39aed1eaf2e413c79367d23.png",
       "lvl": 60,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 2,
       "cost": 0,
-      "description": "Delivers an attack to target and all enemies nearby it with a potency of 850 for the first enemy, and 50% less for all remaining enemies.\nAdditional Effect: Grants Formless Fist, allowing the execution of a weaponskill that requires a certain form, without being in that form\nDuration: 30s\nAny additional effects associated with the executed action will also be applied.\nCan only be executed while under the effect of Lunar Nadi and Solar Nadi, as well as three Beast Chakra.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Delivers an attack to target and all enemies nearby it with a potency of 1,200 for the first enemy, and 50% less for all remaining enemies.\nAdditional Effect: Grants Formless Fist, allowing the execution of a weaponskill that requires a certain form, without being in that form\nDuration: 30s\nAny additional effects associated with the executed action will also be applied.\nCan only be executed while under the effect of Lunar Nadi and Solar Nadi, as well as three Beast Chakra.\n\n※This action cannot be assigned to a hotbar.\n※Masterful Blitz changes to Tornado Kick when requirements for execution are met.\nRevisions (Patch 6.5x - Patch 7.05)"
+    },
+    {
+      "name": "Elixir Field",
+      "image": "https://lds-img.finalfantasyxiv.com/d/86593521c943c9be34dd6bcf4bbcaf805b38ab3b.png",
+      "lvl": 60,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2,
+      "cost": 0,
+      "description": "Delivers an attack to all nearby enemies with a potency of 800 for the first enemy, and 70% less for all remaining enemies.\nAdditional Effect: Opens the Lunar Nadi\nAdditional Effect: Grants Formless Fist, allowing the execution of a weaponskill that requires a certain form, without being in that form\nDuration: 30s\nAny additional effects associated with the executed action will also be applied.\nCan only be executed while under the effect of three of the same Beast Chakra.\n\n※This action cannot be assigned to a hotbar.\n※Masterful Blitz changes to Elixir Field when requirements for execution are met.\nRevisions (Patch 6.5x - Patch 7.05)"
+    },
+    {
+      "name": "Celestial Revolution",
+      "image": "https://lds-img.finalfantasyxiv.com/d/5d44a1b394d5fe9d8ace8edcc742233d93127baa.png",
+      "lvl": 60,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2,
+      "cost": 0,
+      "description": "Delivers an attack with a potency of 600.\nAdditional Effect: Opens the Lunar Nadi\nIf the Lunar Nadi is already open, opens the Solar Nadi instead.\nAdditional Effect: Grants Formless Fist, allowing the execution of a weaponskill that requires a certain form, without being in that form\nDuration: 30s\nAny additional effects associated with the executed action will also be applied.\nCan only be executed while under the effect of three Beast Chakra.\n\n※This action cannot be assigned to a hotbar.\n※Masterful Blitz changes to Celestial Revolution when requirements for execution are met.\nRevisions (Patch 6.5x - Patch 7.05)"
+    },
+    {
+      "name": "Flint Strike",
+      "image": "https://lds-img.finalfantasyxiv.com/d/56b3a643f6f021d073e372428af662f204d82eb5.png",
+      "lvl": 60,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2,
+      "cost": 0,
+      "description": "Delivers an attack to all nearby enemies with a potency of 800 for the first enemy, and 70% less for all remaining enemies.\nAdditional Effect: Opens the Solar Nadi\nAdditional Effect: Grants Formless Fist, allowing the execution of a weaponskill that requires a certain form, without being in that form\nDuration: 30s\nAny additional effects associated with the executed action will also be applied.\nCan only be executed while under the effect of three distinct Beast Chakra.\n\n※This action cannot be assigned to a hotbar.\n※Masterful Blitz changes to Flint Strike when requirements for execution are met.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Riddle of Earth",
-      "image": "https://img.finalfantasyxiv.com/lds/d/84e3e679f5393f9a83e3b8204aad5192ecc483d1.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/9297680db2fae6085ff7c4607b7f593f1445d0ee.png",
       "lvl": 64,
       "type": "Ability",
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "description": "Reduces damage taken by 20%.\nDuration: 10s\nAdditional Effect: Grants Earth's Reply upon taking damage\nEarth's Reply Effect: Gradually restores HP\nCure Potency: 100\nDuration: 15s"
+      "description": "Reduces damage taken by 20%.\nDuration: 10s\nAdditional Effect: Grants Earth's Resolve upon taking damage\nEarth's Resolve Effect: Gradually restores HP\nCure Potency: 100\nDuration: 15s\nAdditional Effect: Grants Earth's Rumination\nDuration: 30s\nRevisions (Patch 6.5x - Patch 7.05)"
+    },
+    {
+      "name": "Earth's Reply",
+      "image": "https://lds-img.finalfantasyxiv.com/d/f43b6c836fff7fa639c967aac3d6ef768fc1d16c.png",
+      "lvl": 64,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 0,
+      "description": "Restores own HP and the HP of all nearby party members.\nCure Potency: 300\nEarth's Resolve Potency: 500\nCan only be executed while under the effect of Earth's Rumination."
     },
     {
       "name": "Riddle of Fire",
-      "image": "https://img.finalfantasyxiv.com/lds/d/1bc71b7e13b0634a6242026cd6ae29e018add98a.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/615580fd49ed973d96fa084493f79bc87a2199a6.png",
       "lvl": 68,
       "type": "Ability",
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "description": "Increases damage dealt by 15%.\nDuration: 20s"
+      "description": "Increases damage dealt by 15%.\nDuration: 20s\nAdditional Effect: Grants Fire's Rumination\nDuration: 20s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Brotherhood",
-      "image": "https://img.finalfantasyxiv.com/lds/d/a744e79fae56358a44e1d1f253a8be12d0ebaf8f.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/ab70fce75ed41f0bbaa02e4bc4b5c4a2ff39d07d.png",
       "lvl": 70,
       "type": "Ability",
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "description": "Grants Brotherhood and Meditative Brotherhood to self and all nearby party members.\nBrotherhood Effect: Increases damage dealt by 5%\nMeditative Brotherhood Effect: 20% chance you open a chakra when party members under this effect successfully land a weaponskill or cast a spell\nChance is 100% when you successfully land a weaponskill or cast a spell while under the effect of Meditative Brotherhood.\nDuration: 15s"
+      "description": "Grants Brotherhood to self and all nearby party members.\nBrotherhood Effect: Increases damage dealt by 5%\nAdditional Effect: Allows the opening of up to ten chakra\nDuration: 20s\nAdditional Effect: Grants Meditative Brotherhood to self and all nearby party members\nMeditative Brotherhood Effect: 20% chance you open a chakra when party members under this effect successfully land a weaponskill or cast a spell\nChance is 100% when you successfully land a weaponskill or cast a spell while under the effect of Meditative Brotherhood.\nDuration: 20s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Riddle of Wind",
-      "image": "https://img.finalfantasyxiv.com/lds/d/793d43f2460d5b36044a6926484d73bf8670190f.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/5cfa2c17de4b6ddd285e621423f92b68d61cdf65.png",
       "lvl": 72,
       "type": "Ability",
       "cast": 0,
       "cooldown": 90,
       "cost": 0,
-      "description": "Reduces auto-attack delay by 50%.\nDuration: 15s"
+      "description": "Reduces auto-attack delay by 50%.\nDuration: 15s\nAdditional Effect: Grants Wind's Rumination\nDuration: 15s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
-      "name": "Enlightenment",
-      "image": "https://img.finalfantasyxiv.com/lds/d/f258ec9d84566ca80f061e58a8ba3993a7b735a3.png",
+      "name": "Enlightened Meditation",
+      "image": "https://lds-img.finalfantasyxiv.com/d/e496f61cb81a7d95c751a64c3c416faa851216f0.png",
       "lvl": 74,
       "type": "Ability",
       "cast": 0,
       "cooldown": 1,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 170 to all enemies in a straight line before you.\nCan only be executed while in combat and under the effect of the Fifth Chakra. The five chakra close upon execution.\nShares a recast timer with The Forbidden Chakra."
+      "description": "Opens a chakra. Up to five chakra can be opened at once.\nOpens all five chakra when used outside of combat.\nTriggers the cooldown of weaponskills upon execution.\nConversely, execution of weaponskills triggers the cooldown of this action."
     },
     {
-      "name": "Anatman",
-      "image": "https://img.finalfantasyxiv.com/lds/d/eecc1b38ea1de839b3b275cd6d9cd10cdc8dab13.png",
-      "lvl": 78,
+      "name": "Enlightenment",
+      "image": "https://lds-img.finalfantasyxiv.com/d/4609c042377d4e8c7cfd87920d95f2d48993dd3d.png",
+      "lvl": 74,
       "type": "Ability",
       "cast": 0,
-      "cooldown": 60,
+      "cooldown": 1,
       "cost": 0,
-      "description": "Extends the duration of Disciplined Fist and your present form to maximum and halts their expiration.\nDuration: 30s\nCancels auto-attack upon execution. Effect ends upon using another action or moving (including facing a different direction).\nTriggers the cooldown of weaponskills upon execution. Cannot be executed during the cooldown of weaponskills."
+      "description": "Delivers an attack with a potency of 200 to all enemies in a straight line before you.\nCan only be executed while in combat and under the effect of five Chakra. Five chakra close upon execution.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Six-sided Star",
-      "image": "https://img.finalfantasyxiv.com/lds/d/eaa1b242a96d4dd9511d690e7d7aa1e1ea985e5a.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/2e88997084591670e9454c1f089c14ccdb98a285.png",
       "lvl": 80,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 4,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 550.\nAdditional Effect: Increases movement speed\nDuration: 5s\nThis weaponskill does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions."
+      "description": "Delivers an attack with a potency of 780. Potency increases by 80 for each Chakra open.\nCloses all chakra upon execution.\nAdditional Effect: Increases movement speed\nDuration: 5s\nCritical hits with this weaponskill will not open a chakra.\nThis weaponskill does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Shadow of the Destroyer",
-      "image": "https://img.finalfantasyxiv.com/lds/d/5166f89f6382d21ffd65cb45b3537c507f7d55de.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/747483adb10812567df5653fbd0d333c179fa3dc.png",
       "lvl": 82,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 2,
       "cost": 0,
-      "description": "Delivers an attack with a potency of 110 to all nearby enemies.\nOpo-opo Form Bonus: Guarantees a critical hit\nDamage dealt is increased when under an effect that raises critical hit rate.\nAdditional Effect: Changes form to raptor\nDuration: 30s"
+      "description": "Delivers an attack with a potency of 120 to all nearby enemies.\nOpo-opo Form Bonus: Guarantees a critical hit\nDamage dealt is increased when under an effect that raises critical hit rate.\nAdditional Effect: Changes form to raptor\nDuration: 30s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Rising Phoenix",
-      "image": "https://img.finalfantasyxiv.com/lds/d/2ab98b9212f6d5a8d56cf74d904b3f15eda79d52.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/3823c3483384694af79cd67f1b7740fb3e1636c7.png",
       "lvl": 86,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 2,
       "cost": 0,
-      "description": "Deals physical fire damage to all nearby enemies with a potency of 700 for the first enemy, and 70% less for all remaining enemies.\nAdditional Effect: Opens the Solar Nadi\nAdditional Effect: Grants Formless Fist, allowing the execution of a weaponskill that requires a certain form, without being in that form\nDuration: 30s\nAny additional effects associated with the executed action will also be applied.\nCan only be executed while under the effect of three distinct Beast Chakra.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals physical fire damage to all nearby enemies with a potency of 900 for the first enemy, and 70% less for all remaining enemies.\nAdditional Effect: Opens the Solar Nadi\nAdditional Effect: Grants Formless Fist, allowing the execution of a weaponskill that requires a certain form, without being in that form\nDuration: 30s\nAny additional effects associated with the executed action will also be applied.\nCan only be executed while under the effect of three distinct Beast Chakra.\n\n※This action cannot be assigned to a hotbar.\n※Masterful Blitz changes to Rising Phoenix when requirements for execution are met.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Phantom Rush",
-      "image": "https://img.finalfantasyxiv.com/lds/d/47555f213252da857e3c68acb669cdb7f2c3d78d.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/99e2472d285987b1eeefc2d693796a266d120078.png",
       "lvl": 90,
       "type": "Weaponskill",
       "cast": 0,
       "cooldown": 2,
       "cost": 0,
-      "description": "Delivers an attack to target and all enemies nearby it with a potency of 1,150 for the first enemy, and 50% less for all remaining enemies.\nAdditional Effect: Grants Formless Fist, allowing the execution of a weaponskill that requires a certain form, without being in that form\nDuration: 30s\nAny additional effects associated with the executed action will also be applied.\nCan only be executed while under the effect of Lunar Nadi and Solar Nadi, as well as three Beast Chakra.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Delivers an attack to target and all enemies nearby it with a potency of 1,500 for the first enemy, and 50% less for all remaining enemies.\nAdditional Effect: Grants Formless Fist, allowing the execution of a weaponskill that requires a certain form, without being in that form\nDuration: 30s\nAny additional effects associated with the executed action will also be applied.\nCan only be executed while under the effect of Lunar Nadi and Solar Nadi, as well as three Beast Chakra.\n\n※This action cannot be assigned to a hotbar.\n※Masterful Blitz changes to Phantom Rush when requirements for execution are met.\nRevisions (Patch 6.5x - Patch 7.05)"
+    },
+    {
+      "name": "Leaping Opo",
+      "image": "https://lds-img.finalfantasyxiv.com/d/000c5561b5d49694d019252cf5bbd8db16d948aa.png",
+      "lvl": 92,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2,
+      "cost": 0,
+      "description": "Delivers an attack with a potency of 260.\nOpo-opo's Fury Potency: 460\nOpo-opo Form Bonus: Guarantees a critical hit\nDamage dealt is increased when under an effect that raises critical hit rate.\nAdditional Effect: Changes form to raptor\nDuration: 30s"
+    },
+    {
+      "name": "Rising Raptor",
+      "image": "https://lds-img.finalfantasyxiv.com/d/8b71871e5f6a0c0fbdefea14931fc459e6f6ca58.png",
+      "lvl": 92,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2,
+      "cost": 0,
+      "description": "Delivers an attack with a potency of 340.\nRaptor's Fury Potency: 540\nCan only be executed when in raptor form.\nAdditional Effect: Changes form to coeurl\nDuration: 30s"
+    },
+    {
+      "name": "Pouncing Coeurl",
+      "image": "https://lds-img.finalfantasyxiv.com/d/9314f58e4df7e3392781a926bbd0480d3a9b5c71.png",
+      "lvl": 92,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2,
+      "cost": 0,
+      "description": "Delivers an attack with a potency of 310.\n370 when executed from a target's flank.\nCoeurl's Fury Potency: 460\nFlank Coeurl's Fury Potency: 520\nCan only be executed when in coeurl form.\nAdditional Effect: Changes form to opo-opo\nDuration: 30s"
+    },
+    {
+      "name": "Elixir Burst",
+      "image": "https://lds-img.finalfantasyxiv.com/d/334dae96eb1b67c861a22e07a9c0f3c918130f5f.png",
+      "lvl": 92,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2,
+      "cost": 0,
+      "description": "Delivers an attack to all nearby enemies with a potency of 900 for the first enemy, and 70% less for all remaining enemies.\nAdditional Effect: Opens the Lunar Nadi\nAdditional Effect: Grants Formless Fist, allowing the execution of a weaponskill that requires a certain form, without being in that form\nDuration: 30s\nAny additional effects associated with the executed action will also be applied.\nCan only be executed while under the effect of three of the same Beast Chakra.\n\n※This action cannot be assigned to a hotbar.\n※Masterful Blitz changes to Elixir Burst when requirements for execution are met."
+    },
+    {
+      "name": "Wind's Reply",
+      "image": "https://lds-img.finalfantasyxiv.com/d/d57a98ac83fa1f066de448639688b34ba4342a98.png",
+      "lvl": 96,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2,
+      "cost": 0,
+      "description": "Delivers an attack to all enemies in a straight line before you with a potency of 900 for the first enemy, and 50% less for all remaining enemies.\nCan only be executed while under the effect of Wind's Rumination."
+    },
+    {
+      "name": "Fire's Reply",
+      "image": "https://lds-img.finalfantasyxiv.com/d/6de38cd8ff4cddd607b2bb2afde0dd8a22774489.png",
+      "lvl": 100,
+      "type": "Weaponskill",
+      "cast": 0,
+      "cooldown": 2,
+      "cost": 0,
+      "description": "Deals damage to all nearby enemies with a potency of 1,200 for the first enemy, and 50% less for all remaining enemies.\nAdditional Effect: Grants Formless Fist, allowing the execution of a weaponskill that requires a certain form, without being in that form\nDuration: 30s\nAny additional effects associated with the executed action will also be applied.\nCan only be executed while under the effect of Fire's Rumination."
     }
   ],
   "roleActions": [
     {
       "name": "Second Wind",
-      "image": "https://img.finalfantasyxiv.com/lds/d/2b79d78f1ed471ace5708898e3388062fbd555fb.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/2b79d78f1ed471ace5708898e3388062fbd555fb.png",
       "lvl": 8,
       "type": "Ability",
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "description": "Instantly restores own HP.\nCure Potency: 500"
+      "description": "Instantly restores own HP.\nCure Potency: 800\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Leg Sweep",
-      "image": "https://img.finalfantasyxiv.com/lds/d/8c9674aba5fe48e73cc80ceb4a49782c1539b942.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/8c9674aba5fe48e73cc80ceb4a49782c1539b942.png",
       "lvl": 10,
       "type": "Ability",
       "cast": 0,
@@ -344,7 +434,7 @@
     },
     {
       "name": "Bloodbath",
-      "image": "https://img.finalfantasyxiv.com/lds/d/f76d6999b80178e51cfedf68f3af69ce6ed5016f.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/f76d6999b80178e51cfedf68f3af69ce6ed5016f.png",
       "lvl": 12,
       "type": "Ability",
       "cast": 0,
@@ -354,17 +444,17 @@
     },
     {
       "name": "Feint",
-      "image": "https://img.finalfantasyxiv.com/lds/d/84c26a86cbbb8a599e5a2441cebcd33b0064bf07.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/84c26a86cbbb8a599e5a2441cebcd33b0064bf07.png",
       "lvl": 22,
       "type": "Ability",
       "cast": 0,
       "cooldown": 90,
       "cost": 0,
-      "description": "Lowers target's physical damage dealt by 10% and magic damage dealt by 5%.\nDuration: 10s"
+      "description": "Lowers target's physical damage dealt by 10% and magic damage dealt by 5%.\nDuration: 15s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Arm's Length",
-      "image": "https://img.finalfantasyxiv.com/lds/d/00ff21ad3e1fb26d7b292a9d912931e7ea64daa4.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/00ff21ad3e1fb26d7b292a9d912931e7ea64daa4.png",
       "lvl": 32,
       "type": "Ability",
       "cast": 0,
@@ -374,7 +464,7 @@
     },
     {
       "name": "True North",
-      "image": "https://img.finalfantasyxiv.com/lds/d/2d62e72f5da6d52e189c1ed10dfbd602625fc536.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/2d62e72f5da6d52e189c1ed10dfbd602625fc536.png",
       "lvl": 50,
       "type": "Ability",
       "cast": 0,
@@ -407,12 +497,12 @@
     {
       "name": "Steel Peak Mastery",
       "lvl": 54,
-      "description": "Upgrades Steel Peak to The Forbidden Chakra."
+      "description": "Upgrades Steel Peak to The Forbidden Chakra and Steeled Meditation to Forbidden Meditation.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Enhanced Perfect Balance",
       "lvl": 60,
-      "description": "When under the effect of Perfect Balance, grants Beast Chakra in accordance with the form normally required to execute weaponskills.\nWeaponskills requiring opo-opo form grant Opo-opo Chakra.\nWeaponskills requiring coeurl form grant Coeurl Chakra.\nWeaponskills requiring raptor form grant Raptor Chakra."
+      "description": "When under the effect of Perfect Balance, grants Beast Chakra in accordance with the form granted by the executed weaponskills.\nWeaponskills granting opo-opo form will also grant Coeurl Chakra.\nWeaponskills granting raptor form will also grant Opo-opo Chakra.\nWeaponskills granting coeurl form will also grant Raptor Chakra.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Deep Meditation II",
@@ -422,12 +512,12 @@
     {
       "name": "Howling Fist Mastery",
       "lvl": 74,
-      "description": "Upgrades Howling Fist to Enlightenment."
+      "description": "Upgrades Inspirited Meditation to Enlightened Meditation and Howling Fist to Enlightenment.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Enhanced Greased Lightning III",
       "lvl": 76,
-      "description": "Reduces weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay by 20%. Also improves Disciplined Fist's damage increase to 15%."
+      "description": "Reduces weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay by 20%.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Arm of the Destroyer Mastery",
@@ -442,7 +532,7 @@
     {
       "name": "Melee Mastery",
       "lvl": 84,
-      "description": "Increases the potency of Bootshine to 210, True Strike to 300, Snap Punch to 250, Twin Snakes to 280, Demolish to 70, Dragon Kick to 320, The Forbidden Chakra to 340, and Six-sided Star to 550."
+      "description": "Increases the potency of Bootshine to 220, True Strike to 300, Snap Punch to 270, Twin Snakes to 380, Demolish to 320, Dragon Kick to 280, and The Forbidden Chakra to 400.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Flint Strike Mastery",
@@ -458,6 +548,26 @@
       "name": "Tornado Kick Mastery",
       "lvl": 90,
       "description": "Upgrades Tornado Kick to Phantom Rush."
+    },
+    {
+      "name": "Beast Chakra Mastery",
+      "lvl": 92,
+      "description": "Upgrades Bootshine to Leaping Opo, True Strike to Rising Raptor, Snap Punch to Pouncing Coeurl, and Elixir Field to Elixir Burst."
+    },
+    {
+      "name": "Melee Mastery II",
+      "lvl": 94,
+      "description": "Increases the potency of Twin Snakes to 420, Demolish to 360, Dragon Kick to 320, Six-sided Star to 780, and Phantom Rush to 1,500."
+    },
+    {
+      "name": "Enhanced Riddle of Wind",
+      "lvl": 96,
+      "description": "Grants Wind's Rumination upon executing Riddle of Wind.\nDuration: 15s"
+    },
+    {
+      "name": "Enhanced Riddle of Fire",
+      "lvl": 100,
+      "description": "Grants Fire's Rumination upon executing Riddle of Fire.\nDuration: 20s"
     }
   ]
 }

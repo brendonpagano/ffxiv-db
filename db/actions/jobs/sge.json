@@ -2,7 +2,7 @@
   "jobActions": [
     {
       "name": "Dosis",
-      "image": "https://img.finalfantasyxiv.com/lds/d/817398ae8dfe613839528291eebfe76e05bd3584.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/817398ae8dfe613839528291eebfe76e05bd3584.png",
       "lvl": 1,
       "type": "Spell",
       "cast": 1.5,
@@ -12,7 +12,7 @@
     },
     {
       "name": "Diagnosis",
-      "image": "https://img.finalfantasyxiv.com/lds/d/c750ddbd308f469bfe54e263e98f2b1dc42ecfd3.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/c750ddbd308f469bfe54e263e98f2b1dc42ecfd3.png",
       "lvl": 2,
       "type": "Spell",
       "cast": 1.5,
@@ -22,17 +22,17 @@
     },
     {
       "name": "Kardia",
-      "image": "https://img.finalfantasyxiv.com/lds/d/bd80c68721d02a37275edfa07de82a39adbceb1c.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/bd80c68721d02a37275edfa07de82a39adbceb1c.png",
       "lvl": 4,
       "type": "Ability",
       "cast": 0,
       "cooldown": 5,
       "cost": 0,
-      "description": "Grants self the effect of Kardia and a selected party member or self the effect of Kardion, restoring HP after casting certain magic attacks."
+      "description": "Grants self the effect of Kardia and a selected party member or self the effect of Kardion, restoring HP after landing certain magic attacks.\nCure Potency: 170"
     },
     {
       "name": "Prognosis",
-      "image": "https://img.finalfantasyxiv.com/lds/d/7f8253801283aa010e5a6ff40dafda493f1d58a4.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/7f8253801283aa010e5a6ff40dafda493f1d58a4.png",
       "lvl": 10,
       "type": "Spell",
       "cast": 2,
@@ -42,7 +42,7 @@
     },
     {
       "name": "Egeiro",
-      "image": "https://img.finalfantasyxiv.com/lds/d/3b5dbe0188fba544474a1c3304af88544838e5cc.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/3b5dbe0188fba544474a1c3304af88544838e5cc.png",
       "lvl": 12,
       "type": "Spell",
       "cast": 8,
@@ -52,7 +52,7 @@
     },
     {
       "name": "Physis",
-      "image": "https://img.finalfantasyxiv.com/lds/d/b2acbee8acf84344ed1cbf15e97a5f88fe0f2e22.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/b2acbee8acf84344ed1cbf15e97a5f88fe0f2e22.png",
       "lvl": 20,
       "type": "Ability",
       "cast": 0,
@@ -62,7 +62,7 @@
     },
     {
       "name": "Phlegma",
-      "image": "https://img.finalfantasyxiv.com/lds/d/9f221a8b7c540f90f808d332e802b3626fef4431.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/9f221a8b7c540f90f808d332e802b3626fef4431.png",
       "lvl": 26,
       "type": "Spell",
       "cast": 0,
@@ -72,57 +72,57 @@
     },
     {
       "name": "Eukrasia",
-      "image": "https://img.finalfantasyxiv.com/lds/d/3d9da11ae40aa687171f1bf2a5655b6f0e442d79.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/3d9da11ae40aa687171f1bf2a5655b6f0e442d79.png",
       "lvl": 30,
       "type": "Spell",
       "cast": 0,
       "cooldown": 1,
       "cost": 0,
-      "description": "Augments certain offensive and healing magic actions.\nDosis III is upgraded to Eukrasian Dosis III.\nDiagnosis is upgraded to Eukrasian Diagnosis.\nPrognosis is upgraded to Eukrasian Prognosis.\nThis action does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions."
+      "description": "Augments certain offensive and healing magic actions.\nDosis III is upgraded to Eukrasian Dosis III.\nDyskrasia II is upgraded to Eukrasian Dyskrasia.\nDiagnosis is upgraded to Eukrasian Diagnosis.\nPrognosis is upgraded to Eukrasian Prognosis II.\nThis action does not share a recast timer with any other actions. Upon execution, the recast timer for this action will be applied to all other weaponskills and magic actions.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Eukrasian Diagnosis",
-      "image": "https://img.finalfantasyxiv.com/lds/d/0a0085828964c504f045a98b67feaf6c26c2307d.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/0a0085828964c504f045a98b67feaf6c26c2307d.png",
       "lvl": 30,
       "type": "Spell",
       "cast": 0,
       "cooldown": 1.5,
       "cost": 900,
-      "description": "Restores target's HP.\nCure Potency: 300\nAdditional Effect: Erects a magicked barrier which nullifies damage equaling 180％ of the amount of HP restored. When critical HP is restored, also grants Differential Diagnosis, nullifying damage equaling 180% the amount of HP restored.\nDuration: 30s\nEffect cannot be stacked with Eukrasian Prognosis or scholar's Galvanize.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Restores target's HP.\nCure Potency: 300\nAdditional Effect: Erects a magicked barrier which nullifies damage equaling 180％ of the amount of HP restored. When critical HP is restored, also grants Differential Diagnosis, nullifying damage equaling 180% the amount of HP restored.\nDuration: 30s\nEffect cannot be stacked with Eukrasian Prognosis or scholar's Galvanize.\nCan only be executed while under the effect of Eukrasia.\n\n※This action cannot be assigned to a hotbar.\n※Diagnosis changes to Eukrasian Diagnosis when requirements for execution are met."
     },
     {
       "name": "Eukrasian Prognosis",
-      "image": "https://img.finalfantasyxiv.com/lds/d/723cccd2fe9542159daffcd22f44ff52d8a2f6a1.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/723cccd2fe9542159daffcd22f44ff52d8a2f6a1.png",
       "lvl": 30,
       "type": "Spell",
       "cast": 0,
       "cooldown": 1.5,
       "cost": 900,
-      "description": "Restores own HP and the HP of all nearby party members.\nCure Potency: 100\nAdditional Effect: Erects a magicked barrier which nullifies damage equaling 320% of the amount of HP restored\nDuration: 30s\nEffect cannot be stacked with those of Eukrasian Diagnosis or scholar's Galvanize.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Restores own HP and the HP of all nearby party members.\nCure Potency: 100\nAdditional Effect: Erects a magicked barrier which nullifies damage equaling 320% of the amount of HP restored\nDuration: 30s\nEffect cannot be stacked with those of Eukrasian Diagnosis or scholar's Galvanize.\nCan only be executed while under the effect of Eukrasia.\n\n※This action cannot be assigned to a hotbar.\n※Prognosis changes to Eukrasian Prognosis when requirements for execution are met."
     },
     {
       "name": "Eukrasian Dosis",
-      "image": "https://img.finalfantasyxiv.com/lds/d/3cffb9cb106612236b80ce85e1881e0d7760512f.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/3cffb9cb106612236b80ce85e1881e0d7760512f.png",
       "lvl": 30,
       "type": "Spell",
       "cast": 0,
       "cooldown": 1.5,
       "cost": 400,
-      "description": "Deals unaspected damage over time.\nPotency: 40\nDuration: 30s\nAdditional Effect: Restores HP to targets under the effect of Kardion granted by you\nCure Potency: 170\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals unaspected damage over time.\nPotency: 40\nDuration: 30s\nAdditional Effect: Restores HP to targets under the effect of Kardion granted by you\nCure Potency: 170\nCan only be executed while under the effect of Eukrasia.\n\n※This action cannot be assigned to a hotbar.\n※Dosis changes to Eukrasian Dosis when requirements for execution are met."
     },
     {
       "name": "Soteria",
-      "image": "https://img.finalfantasyxiv.com/lds/d/4f39d0024ea7741facfb247d0056064e831c3765.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/4f39d0024ea7741facfb247d0056064e831c3765.png",
       "lvl": 35,
       "type": "Ability",
       "cast": 0,
-      "cooldown": 90,
+      "cooldown": 60,
       "cost": 0,
-      "description": "Grants 4 stacks of Soteria, each stack increasing the cure potency of Kardion effects granted by you by 70%.\nDuration: 15s"
+      "description": "Grants 4 stacks of Soteria, each stack increasing the cure potency of Kardion effects granted by you by 70%.\nDuration: 15s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Icarus",
-      "image": "https://img.finalfantasyxiv.com/lds/d/347d5069652ea0716aa462ba3dd96fc148156b0f.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/347d5069652ea0716aa462ba3dd96fc148156b0f.png",
       "lvl": 40,
       "type": "Ability",
       "cast": 0,
@@ -132,7 +132,7 @@
     },
     {
       "name": "Druochole",
-      "image": "https://img.finalfantasyxiv.com/lds/d/00cd1d056243c5e06b9bbb52a6112ddb35dbcbe9.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/00cd1d056243c5e06b9bbb52a6112ddb35dbcbe9.png",
       "lvl": 45,
       "type": "Ability",
       "cast": 0,
@@ -142,7 +142,7 @@
     },
     {
       "name": "Dyskrasia",
-      "image": "https://img.finalfantasyxiv.com/lds/d/849a554b53462ae2c240dc06558bf710c0f98e5e.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/849a554b53462ae2c240dc06558bf710c0f98e5e.png",
       "lvl": 46,
       "type": "Spell",
       "cast": 0,
@@ -152,7 +152,7 @@
     },
     {
       "name": "Kerachole",
-      "image": "https://img.finalfantasyxiv.com/lds/d/b49859cbf63de26b230527650742576590166760.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/b49859cbf63de26b230527650742576590166760.png",
       "lvl": 50,
       "type": "Ability",
       "cast": 0,
@@ -162,7 +162,7 @@
     },
     {
       "name": "Ixochole",
-      "image": "https://img.finalfantasyxiv.com/lds/d/4ee83614031659334dda42affd3314aebcaf98f4.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/4ee83614031659334dda42affd3314aebcaf98f4.png",
       "lvl": 52,
       "type": "Ability",
       "cast": 0,
@@ -172,7 +172,7 @@
     },
     {
       "name": "Zoe",
-      "image": "https://img.finalfantasyxiv.com/lds/d/958000045b75c90c1ce059d11d2f2ed488d72a65.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/958000045b75c90c1ce059d11d2f2ed488d72a65.png",
       "lvl": 56,
       "type": "Ability",
       "cast": 0,
@@ -182,7 +182,7 @@
     },
     {
       "name": "Pepsis",
-      "image": "https://img.finalfantasyxiv.com/lds/d/863096a46c76144097ba25d6d9d5fe1f997cda9e.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/863096a46c76144097ba25d6d9d5fe1f997cda9e.png",
       "lvl": 58,
       "type": "Ability",
       "cast": 0,
@@ -192,17 +192,17 @@
     },
     {
       "name": "Physis II",
-      "image": "https://img.finalfantasyxiv.com/lds/d/ece8fe6d911ad6497e35a13d82572d2373d2a2a4.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/ece8fe6d911ad6497e35a13d82572d2373d2a2a4.png",
       "lvl": 60,
       "type": "Ability",
       "cast": 0,
       "cooldown": 60,
       "cost": 0,
-      "description": "Gradually restores own HP and the HP of all nearby party members.\nCure Potency: 130\nDuration: 15s\nAdditional Effect: Increases HP recovered by healing actions by 10%\nDuration: 10s"
+      "description": "Gradually restores own HP and the HP of all nearby party members.\nCure Potency: 130\nDuration: 15s\nAdditional Effect: Increases HP recovered by healing actions by 10%\nDuration: 15s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Taurochole",
-      "image": "https://img.finalfantasyxiv.com/lds/d/fe3b0d2ce97deba2e6b4cfbc39e65e2abd32b31b.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/fe3b0d2ce97deba2e6b4cfbc39e65e2abd32b31b.png",
       "lvl": 62,
       "type": "Ability",
       "cast": 0,
@@ -212,7 +212,7 @@
     },
     {
       "name": "Toxikon",
-      "image": "https://img.finalfantasyxiv.com/lds/d/bedfcd09b95bf0fa2290753478364965c82a739b.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/bedfcd09b95bf0fa2290753478364965c82a739b.png",
       "lvl": 66,
       "type": "Spell",
       "cast": 0,
@@ -222,7 +222,7 @@
     },
     {
       "name": "Haima",
-      "image": "https://img.finalfantasyxiv.com/lds/d/31657e2f5ec2ec375960c927a6ed532883d8d271.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/31657e2f5ec2ec375960c927a6ed532883d8d271.png",
       "lvl": 70,
       "type": "Ability",
       "cast": 0,
@@ -232,7 +232,7 @@
     },
     {
       "name": "Dosis II",
-      "image": "https://img.finalfantasyxiv.com/lds/d/0323f174ced3df37c1c6699f4c4dc980e58b9b7b.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/0323f174ced3df37c1c6699f4c4dc980e58b9b7b.png",
       "lvl": 72,
       "type": "Spell",
       "cast": 1.5,
@@ -242,7 +242,7 @@
     },
     {
       "name": "Phlegma II",
-      "image": "https://img.finalfantasyxiv.com/lds/d/abcef32ec5c7c111d5a2a3569ce427d7fc0a6ede.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/f1948c2f7f527f0dab918a0224c6021ff4e808b9.png",
       "lvl": 72,
       "type": "Spell",
       "cast": 0,
@@ -252,17 +252,17 @@
     },
     {
       "name": "Eukrasian Dosis II",
-      "image": "https://img.finalfantasyxiv.com/lds/d/075562984879d8d32898462a95da91d65e3df88c.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/407976b29bc9e0d8cb51ddf0ad5312f90d4bee89.png",
       "lvl": 72,
       "type": "Spell",
       "cast": 0,
       "cooldown": 1.5,
       "cost": 400,
-      "description": "Deals unaspected damage over time.\nPotency: 60\nDuration: 30s\nAdditional Effect: Restores HP to targets under the effect of Kardion granted by you\nCure Potency: 170\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals unaspected damage over time.\nPotency: 60\nDuration: 30s\nAdditional Effect: Restores HP to targets under the effect of Kardion granted by you\nCure Potency: 170\nCan only be executed while under the effect of Eukrasia.\n\n※This action cannot be assigned to a hotbar.\n※Dosis II changes to Eukrasian Dosis II when requirements for execution are met."
     },
     {
       "name": "Rhizomata",
-      "image": "https://img.finalfantasyxiv.com/lds/d/d4628890501806f6ebbc3371b1e21ba63e69940c.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/de5abe27cae326e6906d5627c6bf02dc4e98cc2b.png",
       "lvl": 74,
       "type": "Ability",
       "cast": 0,
@@ -272,7 +272,7 @@
     },
     {
       "name": "Holos",
-      "image": "https://img.finalfantasyxiv.com/lds/d/810d7969914bee1bbf088a70d62d6578a0949f9e.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/849030dfa96d3cc4cee84939ef23c0554d9a3821.png",
       "lvl": 76,
       "type": "Ability",
       "cast": 0,
@@ -282,7 +282,7 @@
     },
     {
       "name": "Panhaima",
-      "image": "https://img.finalfantasyxiv.com/lds/d/f7bdefbdd3410f2dd4b5c0f36e74ee72b115ccda.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/62887c572b00028c1a9a531420b9e9b545a991b6.png",
       "lvl": 80,
       "type": "Ability",
       "cast": 0,
@@ -292,17 +292,17 @@
     },
     {
       "name": "Dosis III",
-      "image": "https://img.finalfantasyxiv.com/lds/d/99b9cce6a42b638d04a03e6e3de38555d333b53b.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/fb33abf61a92db08d67e07c031761606961158d7.png",
       "lvl": 82,
       "type": "Spell",
       "cast": 1.5,
       "cooldown": 2.5,
       "cost": 400,
-      "description": "Deals unaspected damage with a potency of 330.\nAdditional Effect: Restores HP to targets under the effect of Kardion granted by you\nCure Potency: 170"
+      "description": "Deals unaspected damage with a potency of 360.\nAdditional Effect: Restores HP to targets under the effect of Kardion granted by you\nCure Potency: 170\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Phlegma III",
-      "image": "https://img.finalfantasyxiv.com/lds/d/93dc61daa2db9449d34a5198669e59de306451e1.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/7a2ab72f418459265a3ab33cb5f73955114ffc72.png",
       "lvl": 82,
       "type": "Spell",
       "cast": 0,
@@ -312,17 +312,17 @@
     },
     {
       "name": "Eukrasian Dosis III",
-      "image": "https://img.finalfantasyxiv.com/lds/d/7e340f46db9e27a9fd1fcd729d8eaceacf4cfa9f.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/2671a79b114893a97f5b09bcf484e7871dd99b9e.png",
       "lvl": 82,
       "type": "Spell",
       "cast": 0,
       "cooldown": 1.5,
       "cost": 400,
-      "description": "Deals unaspected damage over time.\nPotency: 75\nDuration: 30s\nAdditional Effect: Restores HP to targets under the effect of Kardion granted by you\nCure Potency: 170\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals unaspected damage over time.\nPotency: 75\nDuration: 30s\nEffect cannot be stacked with Eukrasian Dyskrasia.\nAdditional Effect: Restores HP to targets under the effect of Kardion granted by you\nCure Potency: 170\nCan only be executed while under the effect of Eukrasia.\n\n※This action cannot be assigned to a hotbar.\n※Dosis III changes to Eukrasian Dosis III when requirements for execution are met.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Dyskrasia II",
-      "image": "https://img.finalfantasyxiv.com/lds/d/0f71b2b711281a46eb641cb99bbe0f3b9c2e4a0a.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/3061c16b09ce276506076a0a2cdf8e87b410778b.png",
       "lvl": 82,
       "type": "Spell",
       "cast": 0,
@@ -331,18 +331,28 @@
       "description": "Deals unaspected damage with a potency of 170 to all nearby enemies.\nAdditional Effect: Restores HP to targets under the effect of Kardion granted by you\nCure Potency: 170"
     },
     {
+      "name": "Eukrasian Dyskrasia",
+      "image": "https://lds-img.finalfantasyxiv.com/d/c8c74517022e0d8f5fd8f379225a64f12eff5e0a.png",
+      "lvl": 82,
+      "type": "Spell",
+      "cast": 0,
+      "cooldown": 1.5,
+      "cost": 400,
+      "description": "Deals unaspected damage over time to all nearby enemies.\nPotency: 40\nDuration: 30s\nEffect cannot be stacked with Eukrasian Dosis III.\nAdditional Effect: Restores HP to targets under the effect of Kardion granted by you\nCure Potency: 170\nCan only be executed while under the effect of Eukrasia.\n\n※This action cannot be assigned to a hotbar.\n※Dyskrasia II changes to Eukrasian Dyskrasia when requirements for execution are met."
+    },
+    {
       "name": "Toxikon II",
-      "image": "https://img.finalfantasyxiv.com/lds/d/a5a4b7ed8fbb4d9ac9fbf32fde1784f37367645a.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/c5b8440e4fcf071ca470f8ea71f4d7634c2f8763.png",
       "lvl": 82,
       "type": "Spell",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 0,
-      "description": "Deals unaspected damage to target and all enemies nearby it with a potency of 330 for the first enemy, and 50% less for all remaining enemies.\nAdditional Effect: Restores HP to targets under the effect of Kardion granted by you\nCure Potency: 170\nAddersting Cost: 1"
+      "description": "Deals unaspected damage to target and all enemies nearby it with a potency of 360 for the first enemy, and 50% less for all remaining enemies.\nAdditional Effect: Restores HP to targets under the effect of Kardion granted by you\nCure Potency: 170\nAddersting Cost: 1\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Krasis",
-      "image": "https://img.finalfantasyxiv.com/lds/d/2ef8237422768324b57e9d244731351fb0eca548.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/db444cd7e3849561b5394b75c2e7eaabbdf394e8.png",
       "lvl": 86,
       "type": "Ability",
       "cast": 0,
@@ -352,19 +362,49 @@
     },
     {
       "name": "Pneuma",
-      "image": "https://img.finalfantasyxiv.com/lds/d/5ec3407305900508ed6eaea6dba984851b883fe3.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/6380ca8ba90f73c92c654a648b26bfab7aa8bd97.png",
       "lvl": 90,
       "type": "Spell",
       "cast": 1.5,
       "cooldown": 120,
       "cost": 700,
-      "description": "Deals unaspected damage to all enemies in a straight line before you with a potency of 330 for the first enemy, and 40% less for all remaining enemies.\nAdditional Effect: Restores own HP and the HP of all party members within a radius of 20 yalms\nCure Potency: 600\nAdditional Effect: Restores HP to targets under the effect of Kardion granted by you\nCure Potency: 170\nRecast timer cannot be affected by status effects or gear attributes."
+      "description": "Deals unaspected damage to all enemies in a straight line before you with a potency of 360 for the first enemy, and 40% less for all remaining enemies.\nAdditional Effect: Restores own HP and the HP of all party members within a radius of 20 yalms\nCure Potency: 600\nAdditional Effect: Restores HP to targets under the effect of Kardion granted by you\nCure Potency: 170\nRecast timer cannot be affected by status effects or gear attributes.\nRevisions (Patch 6.5x - Patch 7.05)"
+    },
+    {
+      "name": "Psyche",
+      "image": "https://lds-img.finalfantasyxiv.com/d/9d4fec42b917590f53bfa7ccc1691c083afd7a3c.png",
+      "lvl": 92,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 60,
+      "cost": 0,
+      "description": "Deals unaspected damage to target and all enemies nearby it with a potency of 600 for the first enemy, and 50% less for all remaining enemies."
+    },
+    {
+      "name": "Eukrasian Prognosis II",
+      "image": "https://lds-img.finalfantasyxiv.com/d/dc49cdcdfa8ec3a8d32f6e8b405ddda6971e23f0.png",
+      "lvl": 96,
+      "type": "Spell",
+      "cast": 0,
+      "cooldown": 1.5,
+      "cost": 900,
+      "description": "Restores own HP and the HP of all nearby party members.\nCure Potency: 100\nAdditional Effect: Erects a magicked barrier which nullifies damage equaling 360% of the amount of HP restored\nDuration: 30s\nEffect cannot be stacked with those of Eukrasian Diagnosis or scholar's Galvanize.\nCan only be executed while under the effect of Eukrasia.\n\n※This action cannot be assigned to a hotbar.\n※Prognosis changes to Eukrasian Prognosis II when requirements for execution are met."
+    },
+    {
+      "name": "Philosophia",
+      "image": "https://lds-img.finalfantasyxiv.com/d/a3dd5ff88eb7a7cce95536d48fe81665e3feb3ca.png",
+      "lvl": 100,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 180,
+      "cost": 0,
+      "description": "Increases healing magic potency by 20%.\nDuration: 20s\nAdditional Effect: Grants self and nearby party members the effect of Eudaimonia, restoring HP after landing spells\nCure Potency: 150\nDuration: 20s"
     }
   ],
   "roleActions": [
     {
       "name": "Repose",
-      "image": "https://img.finalfantasyxiv.com/lds/d/9bd731d47094c2c11b5cd9fb0d1d277bf9c6c89d.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/9bd731d47094c2c11b5cd9fb0d1d277bf9c6c89d.png",
       "lvl": 8,
       "type": "Spell",
       "cast": 2.5,
@@ -374,7 +414,7 @@
     },
     {
       "name": "Esuna",
-      "image": "https://img.finalfantasyxiv.com/lds/d/2a6603bc786d73eb3829141482b3d5be5d484199.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/2a6603bc786d73eb3829141482b3d5be5d484199.png",
       "lvl": 10,
       "type": "Spell",
       "cast": 1,
@@ -383,18 +423,8 @@
       "description": "Removes a single detrimental effect from target."
     },
     {
-      "name": "Swiftcast",
-      "image": "https://img.finalfantasyxiv.com/lds/d/27d401b3cfbf90c846ffeaa9f661afb4bd77ce98.png",
-      "lvl": 18,
-      "type": "Ability",
-      "cast": 0,
-      "cooldown": 60,
-      "cost": 0,
-      "description": "Next spell is cast immediately.\nDuration: 10s"
-    },
-    {
       "name": "Lucid Dreaming",
-      "image": "https://img.finalfantasyxiv.com/lds/d/3629c6854aa559656623925e2489b60c2fa91e18.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/3629c6854aa559656623925e2489b60c2fa91e18.png",
       "lvl": 14,
       "type": "Ability",
       "cast": 0,
@@ -403,8 +433,18 @@
       "description": "Gradually restores own MP.\nPotency: 55\nDuration: 21s"
     },
     {
+      "name": "Swiftcast",
+      "image": "https://lds-img.finalfantasyxiv.com/d/27d401b3cfbf90c846ffeaa9f661afb4bd77ce98.png",
+      "lvl": 18,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 40,
+      "cost": 0,
+      "description": "Next spell is cast immediately.\nDuration: 10s\nRevisions (Patch 6.5x - Patch 7.05)"
+    },
+    {
       "name": "Surecast",
-      "image": "https://img.finalfantasyxiv.com/lds/d/477d1e7f7115db19c344c0f5cadfcfa2ac0cdcc0.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/477d1e7f7115db19c344c0f5cadfcfa2ac0cdcc0.png",
       "lvl": 44,
       "type": "Ability",
       "cast": 0,
@@ -414,7 +454,7 @@
     },
     {
       "name": "Rescue",
-      "image": "https://img.finalfantasyxiv.com/lds/d/23f8a26b9a0107b6076f5f2e715e14d9be0edc25.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/23f8a26b9a0107b6076f5f2e715e14d9be0edc25.png",
       "lvl": 48,
       "type": "Ability",
       "cast": 0,
@@ -483,6 +523,26 @@
       "name": "Enhanced Zoe",
       "lvl": 88,
       "description": "Reduces Zoe recast time to 90 seconds."
+    },
+    {
+      "name": "Enhanced Soteria",
+      "lvl": 94,
+      "description": "Reduces Soteria recast time to 60 seconds."
+    },
+    {
+      "name": "Magick Mastery",
+      "lvl": 94,
+      "description": "Increases the potency of Dosis III to 360, Toxikon II to 360, and Pneuma to 360."
+    },
+    {
+      "name": "Eukrasian Prognosis Mastery",
+      "lvl": 96,
+      "description": "Upgrades Eukrasian Prognosis to Eukrasian Prognosis II."
+    },
+    {
+      "name": "Enhanced Physis II",
+      "lvl": 98,
+      "description": "Extends the duration of the effect increasing HP recovered by healing actions to 15 seconds."
     }
   ]
 }

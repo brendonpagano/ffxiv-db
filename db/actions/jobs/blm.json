@@ -2,7 +2,7 @@
   "jobActions": [
     {
       "name": "Blizzard",
-      "image": "https://img.finalfantasyxiv.com/lds/d/dab74d4a196c546228d67c91db4bde70c32c45df.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/dab74d4a196c546228d67c91db4bde70c32c45df.png",
       "lvl": 1,
       "type": "Spell",
       "cast": 2.5,
@@ -12,17 +12,17 @@
     },
     {
       "name": "Fire",
-      "image": "https://img.finalfantasyxiv.com/lds/d/0f0b18de207de52d394b2ca8cb990a38e96587e0.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/0f0b18de207de52d394b2ca8cb990a38e96587e0.png",
       "lvl": 2,
       "type": "Spell",
       "cast": 2.5,
       "cooldown": 2.5,
       "cost": 800,
-      "description": "Deals fire damage with a potency of 180.\nAdditional Effect: Grants Astral Fire or removes Umbral Ice\nDuration: 15s\nAdditional Effect: 40% chance next Fire III will cost no MP and have no cast time\nDuration: 30s"
+      "description": "Deals fire damage with a potency of 180.\nAdditional Effect: Grants Astral Fire or removes Umbral Ice\nDuration: 15s\nAdditional Effect: 40% chance to grant Firestarter\nFirestarter Effect: Next Fire III will cost no MP and have no cast time\nDuration: 30s"
     },
     {
       "name": "Transpose",
-      "image": "https://img.finalfantasyxiv.com/lds/d/11343c230e7ebd41588ca8f684cb99ee13809398.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/11343c230e7ebd41588ca8f684cb99ee13809398.png",
       "lvl": 4,
       "type": "Ability",
       "cast": 0,
@@ -32,27 +32,27 @@
     },
     {
       "name": "Thunder",
-      "image": "https://img.finalfantasyxiv.com/lds/d/db30f0fa05ce4f541f839c5b2c57cfe0e9fb77f8.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/db30f0fa05ce4f541f839c5b2c57cfe0e9fb77f8.png",
       "lvl": 6,
       "type": "Spell",
-      "cast": 2.5,
+      "cast": 0,
       "cooldown": 2.5,
-      "cost": 200,
-      "description": "Deals lightning damage with a potency of 30.\nAdditional Effect: Lightning damage over time\nPotency: 35\nDuration: 21s\nAdditional Effect: 10% chance after each tick that the next Thunder spell of any grade will add its full damage over time amount to its initial damage, have no cast time, and cost no MP\nDuration: 40s\nOnly one Thunder spell-induced damage over time effect per caster can be inflicted upon a single target."
+      "cost": 0,
+      "description": "Deals lightning damage with a potency of 100.\nAdditional Effect: Lightning damage over time\nPotency: 45\nDuration: 24s\nCan only be cast while under the effect of Thunderhead, granted when gaining Astral Fire or Umbral Ice from an unaspected state, or changing between their influences.\nThunderhead Duration: 30s\nOnly one Thunder spell-induced damage over time effect per caster can be inflicted upon a single target.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Blizzard II",
-      "image": "https://img.finalfantasyxiv.com/lds/d/af68a6b262379df65a5b4bd0408fafbfd3feb450.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/c4883e7698b37e901837be6a0bcc8de043847479.png",
       "lvl": 12,
       "type": "Spell",
       "cast": 3,
       "cooldown": 2.5,
       "cost": 800,
-      "description": "Deals ice damage with a potency of 100 to target and all enemies nearby it.\nAdditional Effect: Grants Umbral Ice III and removes Astral Fire\nDuration: 15s"
+      "description": "Deals ice damage with a potency of 80 to target and all enemies nearby it.\nAdditional Effect: Grants Umbral Ice III and removes Astral Fire\nDuration: 15s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Scathe",
-      "image": "https://img.finalfantasyxiv.com/lds/d/9b763aecc46c5559bbbccadfe866fe42d56a9597.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/9b763aecc46c5559bbbccadfe866fe42d56a9597.png",
       "lvl": 15,
       "type": "Spell",
       "cast": 0,
@@ -62,27 +62,27 @@
     },
     {
       "name": "Fire II",
-      "image": "https://img.finalfantasyxiv.com/lds/d/8876f1b3cf116acf7138253e0193396c75698651.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/8876f1b3cf116acf7138253e0193396c75698651.png",
       "lvl": 18,
       "type": "Spell",
       "cast": 3,
       "cooldown": 2.5,
       "cost": 1500,
-      "description": "Deals fire damage with a potency of 100 to target and all enemies nearby it.\nAdditional Effect: Grants Astral Fire III and removes Umbral Ice\nDuration: 15s\nAstral Fire Bonus: Grants Enhanced Flare\nEffect is canceled if Astral Fire ends."
+      "description": "Deals fire damage with a potency of 80 to target and all enemies nearby it.\nAdditional Effect: Grants Astral Fire III and removes Umbral Ice\nDuration: 15s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Thunder II",
-      "image": "https://img.finalfantasyxiv.com/lds/d/67205b06f51ddd0e07f16441e38e90d59840f1b6.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/67205b06f51ddd0e07f16441e38e90d59840f1b6.png",
       "lvl": 26,
       "type": "Spell",
-      "cast": 2.5,
+      "cast": 0,
       "cooldown": 2.5,
-      "cost": 400,
-      "description": "Deals lightning damage with a potency of 50 to target and all enemies nearby it.\nAdditional Effect: Lightning damage over time\nPotency: 15\nDuration: 18s\nAdditional Effect: 3% chance after each tick that the next Thunder spell of any grade will add its full damage over time amount to its initial damage, have no cast time, and cost no MP\nDuration: 40s\nOnly one Thunder spell-induced damage over time effect per caster can be inflicted upon a single target."
+      "cost": 0,
+      "description": "Deals lightning damage with a potency of 60 to target and all enemies nearby it.\nAdditional Effect: Lightning damage over time\nPotency: 30\nDuration: 18s\nCan only be cast while under the effect of Thunderhead, granted when gaining Astral Fire or Umbral Ice from an unaspected state, or changing between their influences.\nThunderhead Duration: 30s\nOnly one Thunder spell-induced damage over time effect per caster can be inflicted upon a single target.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Manaward",
-      "image": "https://img.finalfantasyxiv.com/lds/d/75ed92265dc2dcc6fa1e0b8f22a01258799f222d.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/75ed92265dc2dcc6fa1e0b8f22a01258799f222d.png",
       "lvl": 30,
       "type": "Ability",
       "cast": 0,
@@ -92,37 +92,47 @@
     },
     {
       "name": "Manafont",
-      "image": "https://img.finalfantasyxiv.com/lds/d/46be5d9b06e228473154bc91d303ba989308a1cb.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/1b9ba4e020c77e1768d7d15d3c8aac1e7b7d88ea.png",
       "lvl": 30,
       "type": "Ability",
       "cast": 0,
-      "cooldown": 120,
+      "cooldown": 100,
       "cost": 0,
-      "description": "Restores 30% of maximum MP."
+      "description": "Fully restores MP.\nAdditional Effect: Grants Astral Fire III\nDuration: 15s\nAdditional Effect: Grants Thunderhead\nDuration: 30s\nAdditional Effect: Grants 3 Umbral Hearts\nUmbral Heart Bonus: Nullifies Astral Fire's MP cost increase for Fire spells and reduces MP cost for Flare by one-third\nAdditional Effect: Grants Paradox\nCan only be executed while under the effect of Astral Fire.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Fire III",
-      "image": "https://img.finalfantasyxiv.com/lds/d/3ff8dcabba57f6a697d5a86fc7490884b74eddff.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/3ff8dcabba57f6a697d5a86fc7490884b74eddff.png",
       "lvl": 35,
       "type": "Spell",
       "cast": 3.5,
       "cooldown": 2.5,
       "cost": 2000,
-      "description": "Deals fire damage with a potency of 260.\nAdditional Effect: Grants Astral Fire III and removes Umbral Ice\nDuration: 15s"
+      "description": "Deals fire damage with a potency of 280.\nAdditional Effect: Grants Astral Fire III and removes Umbral Ice\nDuration: 15s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Blizzard III",
-      "image": "https://img.finalfantasyxiv.com/lds/d/6dbb819d3f64b93d6f6ffa23a73101c79592ae2f.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/6dbb819d3f64b93d6f6ffa23a73101c79592ae2f.png",
       "lvl": 35,
       "type": "Spell",
       "cast": 3.5,
       "cooldown": 2.5,
       "cost": 800,
-      "description": "Deals ice damage with a potency of 260.\nAdditional Effect: Grants Umbral Ice III and removes Astral Fire\nDuration: 15s"
+      "description": "Deals ice damage with a potency of 280.\nAdditional Effect: Grants Umbral Ice III and removes Astral Fire\nDuration: 15s\nRevisions (Patch 6.5x - Patch 7.05)"
+    },
+    {
+      "name": "Umbral Soul",
+      "image": "https://lds-img.finalfantasyxiv.com/d/7dbfbe8ecadac526c0a2739cd45571f6ea2732fc.png",
+      "lvl": 35,
+      "type": "Spell",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "description": "Grants Umbral Ice and 1 Umbral Heart.\nAdditional Effect: Halts the expiration of Umbral Ice\nUmbral Heart Bonus: Nullifies Astral Fire's MP cost increase for Fire spells and reduces MP cost for Flare by one-third\nAdditional Effect: Restores an amount of MP commensurate with your stacks of Umbral Ice\nUmbral Ice I: 2,500 MP\nUmbral Ice II: 5,000 MP\nUmbral Ice III: 10,000 MP\nGrants Umbral Ice III and 3 Umbral Hearts, and also restores 10,000 MP when used while outside of combat.\nCan only be executed while under the effect of Umbral Ice.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Freeze",
-      "image": "https://img.finalfantasyxiv.com/lds/d/2190c4a6ebb204b010020af62a99b1829185aa21.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/a26308be548e58eb346aae1b4850ceabc417f35e.png",
       "lvl": 40,
       "type": "Spell",
       "cast": 2.8,
@@ -132,17 +142,17 @@
     },
     {
       "name": "Thunder III",
-      "image": "https://img.finalfantasyxiv.com/lds/d/2efb022c0715f802a88e1edef4924c075e92a53d.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/2efb022c0715f802a88e1edef4924c075e92a53d.png",
       "lvl": 45,
       "type": "Spell",
-      "cast": 2.5,
+      "cast": 0,
       "cooldown": 2.5,
-      "cost": 400,
-      "description": "Deals lightning damage with a potency of 50.\nAdditional Effect: Lightning damage over time\nPotency: 35\nDuration: 30s\nAdditional Effect: 10% chance after each tick that the next Thunder spell of any grade will add its full damage over time amount to its initial damage, have no cast time, and cost no MP\nDuration: 40s\nOnly one Thunder spell-induced damage over time effect per caster can be inflicted upon a single target."
+      "cost": 0,
+      "description": "Deals lightning damage with a potency of 120.\nAdditional Effect: Lightning damage over time\nPotency: 50\nDuration: 27s\nCan only be cast while under the effect of Thunderhead, granted when gaining Astral Fire or Umbral Ice from an unaspected state, or changing between their influences.\nThunderhead Duration: 30s\nOnly one Thunder spell-induced damage over time effect per caster can be inflicted upon a single target.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Aetherial Manipulation",
-      "image": "https://img.finalfantasyxiv.com/lds/d/a8c94264a1522d4e1f80e9dcac7864eb6170d722.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/a8c94264a1522d4e1f80e9dcac7864eb6170d722.png",
       "lvl": 50,
       "type": "Ability",
       "cast": 0,
@@ -152,17 +162,17 @@
     },
     {
       "name": "Flare",
-      "image": "https://img.finalfantasyxiv.com/lds/d/a2d60b093374b2c896487aba2e32eb8bd32eee7c.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/bc3d31c27d861d18280280b18a5f2e5ab0f2858e.png",
       "lvl": 50,
       "type": "Spell",
       "cast": 4,
       "cooldown": 2.5,
       "cost": 0,
-      "description": "Deals fire damage to target and all enemies nearby it with a potency of 220 for the first enemy, and 40% less for all remaining enemies.\nEnhanced Flare Potency: 280\nAdditional Effect: Grants Astral Fire III\nDuration: 15s\nCan only be executed while under the effect of Astral Fire."
+      "description": "Deals fire damage to target and all enemies nearby it with a potency of 240 for the first enemy, and 30% less for all remaining enemies.\nAdditional Effect: Grants Astral Fire III\nDuration: 15s\nAdditional Effect: Grants 3 stacks of Astral Soul\nEffect ends when Astral Fire expires.\nCan only be executed while under the effect of Astral Fire.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Ley Lines",
-      "image": "https://img.finalfantasyxiv.com/lds/d/2c84ee7f590f1563a8eda87c8ac5d89081365a92.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/f3540a1d13a0387b442767d1a4279e94d9d24097.png",
       "lvl": 52,
       "type": "Ability",
       "cast": 0,
@@ -171,38 +181,28 @@
       "description": "Connects naturally occurring ley lines to create a circle of power which, while standing within it, reduces spell cast time and recast time, and auto-attack delay by 15%.\nDuration: 30s"
     },
     {
-      "name": "Sharpcast",
-      "image": "https://img.finalfantasyxiv.com/lds/d/d30e1f20a2c947f03759e516655feb426db85de4.png",
-      "lvl": 54,
-      "type": "Ability",
-      "cast": 0,
-      "cooldown": 30,
-      "cost": 0,
-      "description": "Ensures the next Scathe, Fire, Paradox, or Thunder spell cast will, for the first hit, trigger Scathe's additional effect, Firestarter, or Thundercloud.\nDuration: 30s\nMaximum Charges: 2"
-    },
-    {
       "name": "Blizzard IV",
-      "image": "https://img.finalfantasyxiv.com/lds/d/43e1468c5bc711966fdbb2790cd60aa6527461bf.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/d370de07c30f08bd306ed3c58f0f0490b4541870.png",
       "lvl": 58,
       "type": "Spell",
       "cast": 2.5,
       "cooldown": 2.5,
       "cost": 800,
-      "description": "Deals ice damage with a potency of 310.\nAdditional Effect: Grants 3 Umbral Hearts\nUmbral Heart Bonus: Nullifies Astral Fire's MP cost increase for Fire spells and reduces MP cost for Flare by one-third\nCan only be executed while under the effect of Umbral Ice."
+      "description": "Deals ice damage with a potency of 320.\nAdditional Effect: Grants 3 Umbral Hearts\nUmbral Heart Bonus: Nullifies Astral Fire's MP cost increase for Fire spells and reduces MP cost for Flare by one-third\nCan only be executed while under the effect of Umbral Ice.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Fire IV",
-      "image": "https://img.finalfantasyxiv.com/lds/d/1a353ade6d0e1ff5828cca6b4bbc11c9f52618bb.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/92e87bf20382bc6359c7448008c3423724b9f0b4.png",
       "lvl": 60,
       "type": "Spell",
       "cast": 2.8,
       "cooldown": 2.5,
       "cost": 800,
-      "description": "Deals fire damage with a potency of 310.\nCan only be executed while under the effect of Astral Fire."
+      "description": "Deals fire damage with a potency of 320.\nAdditional Effect: Grants Astral Soul\nEffect ends when Astral Fire expires.\nCan only be executed while under the effect of Astral Fire.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Between the Lines",
-      "image": "https://img.finalfantasyxiv.com/lds/d/7c05d4b844c5a3f1e85e6f4b19214715f7d609e2.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/f12a8a4f87f81ce00e56922f8c61c58e47e8a3c8.png",
       "lvl": 62,
       "type": "Ability",
       "cast": 0,
@@ -212,17 +212,17 @@
     },
     {
       "name": "Thunder IV",
-      "image": "https://img.finalfantasyxiv.com/lds/d/de62d077a3306797d48ee62f183e82c474b2b768.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/c141aa71c34830d6b161c667042815c5d7805320.png",
       "lvl": 64,
       "type": "Spell",
-      "cast": 2.5,
+      "cast": 0,
       "cooldown": 2.5,
-      "cost": 400,
-      "description": "Deals lightning damage with a potency of 50 to target and all enemies nearby it.\nAdditional Effect: Lightning damage over time\nPotency: 20\nDuration: 18s\nAdditional Effect: 3% chance after each tick that the next Thunder spell of any grade will add its full damage over time amount to its initial damage, have no cast time, and cost no MP\nDuration: 40s\nOnly one Thunder spell-induced damage over time effect per caster can be inflicted upon a single target."
+      "cost": 0,
+      "description": "Deals lightning damage with a potency of 80 to target and all enemies nearby it.\nAdditional Effect: Lightning damage over time\nPotency: 35\nDuration: 21s\nCan only be cast while under the effect of Thunderhead, granted when gaining Astral Fire or Umbral Ice from an unaspected state, or changing between their influences.\nThunderhead Duration: 30s\nOnly one Thunder spell-induced damage over time effect per caster can be inflicted upon a single target.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Triplecast",
-      "image": "https://img.finalfantasyxiv.com/lds/d/d5bb89a25bf7ce54c03b6fb2898927bd06653219.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/61cd894fc6b3e28004512ed61ffc0eb4fef170f2.png",
       "lvl": 66,
       "type": "Ability",
       "cast": 0,
@@ -232,7 +232,7 @@
     },
     {
       "name": "Foul",
-      "image": "https://img.finalfantasyxiv.com/lds/d/4a87efd9bcba0589fb9e9a86b1f9dcd38157c1ee.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/801f21d137c07c099140d653b8a69995fc2b8404.png",
       "lvl": 70,
       "type": "Spell",
       "cast": 0,
@@ -242,27 +242,17 @@
     },
     {
       "name": "Despair",
-      "image": "https://img.finalfantasyxiv.com/lds/d/73a81c740f02599d7ec5d451d659b1fe4409123a.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/ec2a834393b6ffaf415b043fb9e2c6d23afde9cd.png",
       "lvl": 72,
       "type": "Spell",
       "cast": 3,
       "cooldown": 2.5,
       "cost": 0,
-      "description": "Deals fire damage with a potency of 340.\nAdditional Effect: Grants Astral Fire III\nDuration: 15s\nCan only be executed while under the effect of Astral Fire."
-    },
-    {
-      "name": "Umbral Soul",
-      "image": "https://img.finalfantasyxiv.com/lds/d/5c3311c8d38df2d4617c0a325772cdd229f3c181.png",
-      "lvl": 76,
-      "type": "Spell",
-      "cast": 0,
-      "cooldown": 2.5,
-      "cost": 0,
-      "description": "Grants Umbral Ice and 1 Umbral Heart.\nUmbral Heart Bonus: Nullifies Astral Fire's MP cost increase for Fire spells and reduces MP cost for Flare by one-third\nCan only be executed while under the effect of Umbral Ice."
+      "description": "Deals fire damage with a potency of 350.\nAdditional Effect: Grants Astral Fire III\nDuration: 15s\nCan only be executed while under the effect of Astral Fire.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Xenoglossy",
-      "image": "https://img.finalfantasyxiv.com/lds/d/428eac2232a6d9531a9a02e344dc48bb06310c6c.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/b1fcdd06d76b9eb7c7a55364b81bc3ed2674631c.png",
       "lvl": 80,
       "type": "Spell",
       "cast": 0,
@@ -272,27 +262,27 @@
     },
     {
       "name": "High Fire II",
-      "image": "https://img.finalfantasyxiv.com/lds/d/46a0285209f71ee209c27b8211e9aa798417813c.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/f0eb5938ef101e5eddb4abf3c96c71e0f5334022.png",
       "lvl": 82,
       "type": "Spell",
       "cast": 3,
       "cooldown": 2.5,
       "cost": 1500,
-      "description": "Deals fire damage with a potency of 140 to target and all enemies nearby it.\nAdditional Effect: Grants Astral Fire III and removes Umbral Ice\nDuration: 15s\nAstral Fire Bonus: Grants Enhanced Flare\nEffect is canceled if Astral Fire ends."
+      "description": "Deals fire damage with a potency of 100 to target and all enemies nearby it.\nAdditional Effect: Grants Astral Fire III and removes Umbral Ice\nDuration: 15s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "High Blizzard II",
-      "image": "https://img.finalfantasyxiv.com/lds/d/f775fdd2f3ef5115cad5ed5a85c81ca2a2cfd735.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/32f2b5e549d388dea8d84a814380a697b9038b71.png",
       "lvl": 82,
       "type": "Spell",
       "cast": 3,
       "cooldown": 2.5,
       "cost": 800,
-      "description": "Deals ice damage with a potency of 140 to target and all enemies nearby it.\nAdditional Effect: Grants Umbral Ice III and removes Astral Fire\nDuration: 15s"
+      "description": "Deals ice damage with a potency of 100 to target and all enemies nearby it.\nAdditional Effect: Grants Umbral Ice III and removes Astral Fire\nDuration: 15s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Amplifier",
-      "image": "https://img.finalfantasyxiv.com/lds/d/6f48a9f1b585cf23a21cf9ed3f7a012745928295.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/afd6e5ce788dd3a0bf9159f29de292886c3febe4.png",
       "lvl": 86,
       "type": "Ability",
       "cast": 0,
@@ -302,29 +292,69 @@
     },
     {
       "name": "Paradox",
-      "image": "https://img.finalfantasyxiv.com/lds/d/7a6d48e67b25969c1ad12f0f42d03b484f8f9f9b.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/e4dbf2ab28919eb82a4b410db2a07cf59706c011.png",
       "lvl": 90,
       "type": "Spell",
-      "cast": 2.5,
+      "cast": 0,
       "cooldown": 2.5,
       "cost": 1600,
-      "description": "Deals unaspected damage with a potency of 500.\nAstral Fire Bonus: Refreshes the duration of Astral Fire and 40% chance to grant Firestarter\nDuration: 15s\nFirestarter Effect: Next Fire III will require no time to cast and cost no MP\nDuration: 30s\nUmbral Ice Bonus: Spell is cast immediately, requires no MP to cast, and refreshes the duration of Umbral Ice\nDuration: 15s\nCan only be executed while under the effect of Paradox.\n\n※This action cannot be assigned to a hotbar."
+      "description": "Deals unaspected damage with a potency of 500.\nAstral Fire Bonus: Grants Astral Fire\nDuration: 15s\nAstral Fire Bonus: Grants Firestarter\nFirestarter Effect: Next Fire III will require no time to cast and cost no MP\nDuration: 30s\nUmbral Ice Bonus: Requires no MP to cast and grants Umbral Ice\nDuration: 15s\nCan only be executed while under the effect of Paradox.\n\n※This action cannot be assigned to a hotbar.\n※Fire and Blizzard change to Paradox when requirements for execution are met.\nRevisions (Patch 6.5x - Patch 7.05)"
+    },
+    {
+      "name": "High Thunder",
+      "image": "https://lds-img.finalfantasyxiv.com/d/1babd2b0f9ad34451ac3ac29230b2239db95065b.png",
+      "lvl": 92,
+      "type": "Spell",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "description": "Deals lightning damage with a potency of 150.\nAdditional Effect: Lightning damage over time\nPotency: 60\nDuration: 30s\nCan only be cast while under the effect of Thunderhead, granted when gaining Astral Fire or Umbral Ice from an unaspected state, or changing between their influences.\nThunderhead Duration: 30s\nOnly one Thunder spell-induced damage over time effect per caster can be inflicted upon a single target."
+    },
+    {
+      "name": "High Thunder II",
+      "image": "https://lds-img.finalfantasyxiv.com/d/51a70145dcf0d8136ff82ce50713529f1cebaf84.png",
+      "lvl": 92,
+      "type": "Spell",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 0,
+      "description": "Deals lightning damage with a potency of 100 to target and all enemies nearby it.\nAdditional Effect: Lightning damage over time\nPotency: 40\nDuration: 24s\nCan only be cast while under the effect of Thunderhead, granted when gaining Astral Fire or Umbral Ice from an unaspected state, or changing between their influences.\nThunderhead Duration: 30s\nOnly one Thunder spell-induced damage over time effect per caster can be inflicted upon a single target."
+    },
+    {
+      "name": "Retrace\nPrerequisite Quest",
+      "image": "https://lds-img.finalfantasyxiv.com/d/44666e4299c0eded8c4af12edb67c7c9f718bda5.png",
+      "lvl": 96,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 40,
+      "cost": 0,
+      "description": "Weave ley lines anew, setting your circle of power at a new location.\nCan only be executed while under the effect of Ley Lines, and the effect duration will not be reset."
+    },
+    {
+      "name": "Flare Star",
+      "image": "https://lds-img.finalfantasyxiv.com/d/1bf799ec68187691dceb2adb9dc0ea1259f03dd1.png",
+      "lvl": 100,
+      "type": "Spell",
+      "cast": 3,
+      "cooldown": 2.5,
+      "cost": 0,
+      "description": "Deals fire damage to target and all enemies nearby it with a potency of 400 for the first enemy, and 65% less for all remaining enemies.\nCan only be executed when the Astral Gauge is full."
     }
   ],
   "roleActions": [
     {
       "name": "Addle",
-      "image": "https://img.finalfantasyxiv.com/lds/d/b45e688d81b5607246600f904aac008364db0d1e.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/b45e688d81b5607246600f904aac008364db0d1e.png",
       "lvl": 8,
       "type": "Ability",
       "cast": 0,
       "cooldown": 90,
       "cost": 0,
-      "description": "Lowers target's physical damage dealt by 5% and magic damage dealt by 10%.\nDuration: 10s"
+      "description": "Lowers target's physical damage dealt by 5% and magic damage dealt by 10%.\nDuration: 15s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Sleep",
-      "image": "https://img.finalfantasyxiv.com/lds/d/10e9fb5302668c923b8237ffbd4841ccc6c2edb4.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/10e9fb5302668c923b8237ffbd4841ccc6c2edb4.png",
       "lvl": 10,
       "type": "Spell",
       "cast": 2.5,
@@ -333,18 +363,8 @@
       "description": "Puts target and all nearby enemies to sleep.\nDuration: 30s\nCancels auto-attack upon execution."
     },
     {
-      "name": "Swiftcast",
-      "image": "https://img.finalfantasyxiv.com/lds/d/27d401b3cfbf90c846ffeaa9f661afb4bd77ce98.png",
-      "lvl": 18,
-      "type": "Ability",
-      "cast": 0,
-      "cooldown": 60,
-      "cost": 0,
-      "description": "Next spell is cast immediately.\nDuration: 10s"
-    },
-    {
       "name": "Lucid Dreaming",
-      "image": "https://img.finalfantasyxiv.com/lds/d/3629c6854aa559656623925e2489b60c2fa91e18.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/3629c6854aa559656623925e2489b60c2fa91e18.png",
       "lvl": 14,
       "type": "Ability",
       "cast": 0,
@@ -353,8 +373,18 @@
       "description": "Gradually restores own MP.\nPotency: 55\nDuration: 21s"
     },
     {
+      "name": "Swiftcast",
+      "image": "https://lds-img.finalfantasyxiv.com/d/27d401b3cfbf90c846ffeaa9f661afb4bd77ce98.png",
+      "lvl": 18,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 40,
+      "cost": 0,
+      "description": "Next spell is cast immediately.\nDuration: 10s\nRevisions (Patch 6.5x - Patch 7.05)"
+    },
+    {
       "name": "Surecast",
-      "image": "https://img.finalfantasyxiv.com/lds/d/477d1e7f7115db19c344c0f5cadfcfa2ac0cdcc0.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/477d1e7f7115db19c344c0f5cadfcfa2ac0cdcc0.png",
       "lvl": 44,
       "type": "Ability",
       "cast": 0,
@@ -367,7 +397,7 @@
     {
       "name": "Aspect Mastery",
       "lvl": 1,
-      "description": "Casting of certain fire and ice spells will grant a stack of Astral Fire and Umbral Ice respectively.\nMaximum Stacks: 1\nDuration: 15s\nWhile under the effect of either Astral Fire or Umbral Ice, casting a spell of the opposite element will consume no MP.\nEffect does not apply to Flare."
+      "description": "Casting of certain fire and ice spells will grant a stack of Astral Fire and Umbral Ice respectively.\nMaximum Stacks: 1\nDuration: 15s\nWhile under the effect of Astral Fire, the potency of Fire spells is increased by 40%, the cost of casting Fire spells is doubled, MP recovery is reduced to 0, and the potency of Ice spells is reduced by 10%.\nWhile under the effect of Umbral Ice, the cost of casting Ice spells is reduced to 0, 2,500 MP is recovered upon landing an Ice spell, and the potency of Fire spells is reduced by 10%.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Maim and Mend",
@@ -377,17 +407,12 @@
     {
       "name": "Aspect Mastery II",
       "lvl": 20,
-      "description": "Allows the stacking of a second Astral Fire and Umbral Ice."
-    },
-    {
-      "name": "Thundercloud",
-      "lvl": 28,
-      "description": "Grants a 10% chance that after each damage over time tick inflicted by Thunder or Thunder III (3% for Thunder II or Thunder IV), the next Thunder, Thunder II, Thunder III, or Thunder IV will add its full damage over time amount to its initial damage, have no cast time, and cost no MP.\nDuration: 40s"
+      "description": "Allows the stacking of a second Astral Fire and Umbral Ice.\nWhile under the effect of Astral Fire, the potency of Fire spells is increased by 60% and the potency of Ice spells is reduced by 20%.\nWhile under the effect of Umbral Ice, 5,000 MP is recovered upon landing an Ice spell and the potency of Fire spells is reduced by 20%.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Aspect Mastery III",
       "lvl": 35,
-      "description": "Allows the stacking of a third Astral Fire and Umbral Ice.\nCasting Fire II or Blizzard II grants maximum stacks of Astral Fire or Umbral Ice respectively.\nWhen maintaining three stacks of Astral Fire or Umbral Ice, the cast time of spells of the opposite element is halved."
+      "description": "Allows the stacking of a third Astral Fire and Umbral Ice.\nCasting Fire II or Blizzard II grants maximum stacks of Astral Fire or Umbral Ice respectively.\nWhile under the effect of Astral Fire III, the potency of Fire spells is increased by 80%, and the cast time of Ice spells is halved and potency lowered by 30%.\nWhile under the effect of Umbral Ice III, 10,000 MP is recovered upon landing an Ice spell, and the cast time of Fire spells is halved and potency lowered by 30%.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Maim and Mend II",
@@ -407,12 +432,12 @@
     {
       "name": "Enochian",
       "lvl": 56,
-      "description": "Increases damage dealt by 5% while under the effect of Astral Fire or Umbral Ice.\nUpon successfully landing Fire II while under the effect of Astral Fire, grants Enhanced Flare.\nEnhanced Flare effect ends if Astral Fire is lost."
+      "description": "Increases damage dealt by 5% while under the effect of Astral Fire or Umbral Ice.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
-      "name": "Enhanced Freeze",
+      "name": "Umbral Heart",
       "lvl": 58,
-      "description": "Grants 3 Umbral Hearts upon casting Freeze."
+      "description": "Grants an Umbral Heart upon casting Freeze, or executing Manafont or Umbral Soul.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Thunder Mastery II",
@@ -423,11 +448,6 @@
       "name": "Enhanced Enochian",
       "lvl": 70,
       "description": "Grants the effect of Polyglot upon maintaining Enochian for 30 seconds. Also improves Enochian's magic damage increase to 10%."
-    },
-    {
-      "name": "Enhanced Sharpcast",
-      "lvl": 74,
-      "description": "Reduces Sharpcast recast timer to 30 seconds."
     },
     {
       "name": "Enhanced Enochian II",
@@ -452,22 +472,42 @@
     {
       "name": "Enhanced Manafont",
       "lvl": 84,
-      "description": "Reduces Manafont recast time to 120 seconds."
+      "description": "Reduces Manafont recast time to 100 seconds.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Enhanced Enochian III",
       "lvl": 86,
-      "description": "Improves Enochian's magic damage increase to 23%."
-    },
-    {
-      "name": "Enhanced Sharpcast II",
-      "lvl": 88,
-      "description": "Allows the accumulation of charges for consecutive uses of Sharpcast.\nMaximum Charges: 2"
+      "description": "Improves Enochian's magic damage increase to 25%.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Aspect Mastery V",
       "lvl": 90,
-      "description": "Adds a Paradox marker to your Elemental Gauge.\nThe marker is made active after reaching Astral Fire III then swapping to the opposite element. Conversely, the marker can also be made active after reaching Umbral Ice III and gaining 3 Umbral Hearts then swapping to the opposite element.\nBlizzard and Fire become Paradox when the Paradox marker is made active."
+      "description": "Adds a Paradox marker to your Elemental Gauge.\nThe marker is made active after reaching Astral Fire III then swapping to the opposite element. Conversely, the marker can also be made active after reaching Umbral Ice III and gaining 3 Umbral Hearts then swapping to the opposite element. The marker is made inactive when the effect of Astral Fire or Umbral Ice expires.\nFire and Blizzard become Paradox when the Paradox marker is made active.\nRevisions (Patch 6.5x - Patch 7.05)"
+    },
+    {
+      "name": "Thunder Mastery III",
+      "lvl": 92,
+      "description": "Upgrades Thunder III to High Thunder and Thunder IV to High Thunder II."
+    },
+    {
+      "name": "Enhanced Ley Lines",
+      "lvl": 96,
+      "description": "The location of Ley Lines can be reset while its effect is active."
+    },
+    {
+      "name": "Enhanced Enochian IV",
+      "lvl": 96,
+      "description": "Improves Enochian's magic damage increase to 33%."
+    },
+    {
+      "name": "Enhanced Polyglot II",
+      "lvl": 98,
+      "description": "Allows the stacking of a third Polyglot."
+    },
+    {
+      "name": "Enhanced Astral Fire",
+      "lvl": 100,
+      "description": "Grants a stack of Astral Soul upon landing Fire IV or Flare.\nMaximum Stacks: 6"
     }
   ]
 }

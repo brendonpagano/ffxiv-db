@@ -2,7 +2,7 @@
   "jobActions": [
     {
       "name": "Ruin",
-      "image": "https://img.finalfantasyxiv.com/lds/d/1c74fa1688f3d89d6f5b972ce384df15f62e35d1.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/1c74fa1688f3d89d6f5b972ce384df15f62e35d1.png",
       "lvl": 1,
       "type": "Spell",
       "cast": 1.5,
@@ -12,7 +12,7 @@
     },
     {
       "name": "Bio",
-      "image": "https://img.finalfantasyxiv.com/lds/d/93f61adcffc6644730a017347d91805359b52bdb.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/93f61adcffc6644730a017347d91805359b52bdb.png",
       "lvl": 2,
       "type": "Spell",
       "cast": 0,
@@ -22,7 +22,7 @@
     },
     {
       "name": "Physick",
-      "image": "https://img.finalfantasyxiv.com/lds/d/e51f309947cde0c36f3a0cd815ca01e268928eb6.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/e51f309947cde0c36f3a0cd815ca01e268928eb6.png",
       "lvl": 4,
       "type": "Spell",
       "cast": 1.5,
@@ -32,7 +32,7 @@
     },
     {
       "name": "Summon Eos",
-      "image": "https://img.finalfantasyxiv.com/lds/d/7e5c03b72c4e181034da8121d6f2bdf2f1aa2a60.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/7e5c03b72c4e181034da8121d6f2bdf2f1aa2a60.png",
       "lvl": 4,
       "type": "Spell",
       "cast": 1.5,
@@ -42,7 +42,7 @@
     },
     {
       "name": "Resurrection",
-      "image": "https://img.finalfantasyxiv.com/lds/d/9e61ea15caf1f7c0e4b44943dcbee0178e61a9fd.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/9e61ea15caf1f7c0e4b44943dcbee0178e61a9fd.png",
       "lvl": 12,
       "type": "Spell",
       "cast": 8,
@@ -52,7 +52,7 @@
     },
     {
       "name": "Whispering Dawn",
-      "image": "https://img.finalfantasyxiv.com/lds/d/161dc95f27e69fb5bd4caecfdeab022e3560193d.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/161dc95f27e69fb5bd4caecfdeab022e3560193d.png",
       "lvl": 20,
       "type": "Ability",
       "cast": 0,
@@ -62,7 +62,7 @@
     },
     {
       "name": "Bio II",
-      "image": "https://img.finalfantasyxiv.com/lds/d/ea0a5e685172203ac73332f7e1690a5a89b25590.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/ea0a5e685172203ac73332f7e1690a5a89b25590.png",
       "lvl": 26,
       "type": "Spell",
       "cast": 0,
@@ -72,7 +72,7 @@
     },
     {
       "name": "Adloquium",
-      "image": "https://img.finalfantasyxiv.com/lds/d/07beea4eb1cc3f24533d045db5b694c939f3a3ac.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/07beea4eb1cc3f24533d045db5b694c939f3a3ac.png",
       "lvl": 30,
       "type": "Spell",
       "cast": 2,
@@ -82,7 +82,7 @@
     },
     {
       "name": "Succor",
-      "image": "https://img.finalfantasyxiv.com/lds/d/59ca7d9f2002ba3176f070a023bcfd8fa2129fb9.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/59ca7d9f2002ba3176f070a023bcfd8fa2129fb9.png",
       "lvl": 35,
       "type": "Spell",
       "cast": 2,
@@ -92,7 +92,7 @@
     },
     {
       "name": "Ruin II",
-      "image": "https://img.finalfantasyxiv.com/lds/d/d6875ae1008a9e4b2d04562cff42646752e919c5.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/d6875ae1008a9e4b2d04562cff42646752e919c5.png",
       "lvl": 38,
       "type": "Spell",
       "cast": 0,
@@ -102,7 +102,7 @@
     },
     {
       "name": "Fey Illumination",
-      "image": "https://img.finalfantasyxiv.com/lds/d/6ed1ace8e31760fa3b042e6d27dac669668196b0.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/6ed1ace8e31760fa3b042e6d27dac669668196b0.png",
       "lvl": 40,
       "type": "Ability",
       "cast": 0,
@@ -112,7 +112,7 @@
     },
     {
       "name": "Aetherflow",
-      "image": "https://img.finalfantasyxiv.com/lds/d/175631d8db5550a7b74a9bc811c3781e083e393e.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/175631d8db5550a7b74a9bc811c3781e083e393e.png",
       "lvl": 45,
       "type": "Ability",
       "cast": 0,
@@ -122,7 +122,7 @@
     },
     {
       "name": "Energy Drain",
-      "image": "https://img.finalfantasyxiv.com/lds/d/92ea9227a8a09c62eb53852e2c26c0d6763a35c2.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/92ea9227a8a09c62eb53852e2c26c0d6763a35c2.png",
       "lvl": 45,
       "type": "Ability",
       "cast": 0,
@@ -132,7 +132,7 @@
     },
     {
       "name": "Lustrate",
-      "image": "https://img.finalfantasyxiv.com/lds/d/a9adc8943d1d8402366c869416b7a9d5ef7fcf07.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/a9adc8943d1d8402366c869416b7a9d5ef7fcf07.png",
       "lvl": 45,
       "type": "Ability",
       "cast": 0,
@@ -142,7 +142,7 @@
     },
     {
       "name": "Art of War",
-      "image": "https://img.finalfantasyxiv.com/lds/d/a414b67652d67ff6707276156d1ce275f188ef07.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/a414b67652d67ff6707276156d1ce275f188ef07.png",
       "lvl": 46,
       "type": "Spell",
       "cast": 0,
@@ -152,7 +152,7 @@
     },
     {
       "name": "Sacred Soil",
-      "image": "https://img.finalfantasyxiv.com/lds/d/4c47bdf94dc6c3dcd9b303cfa42a08a5cfd13629.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/4c47bdf94dc6c3dcd9b303cfa42a08a5cfd13629.png",
       "lvl": 50,
       "type": "Ability",
       "cast": 0,
@@ -162,7 +162,7 @@
     },
     {
       "name": "Indomitability",
-      "image": "https://img.finalfantasyxiv.com/lds/d/7f80a5bd016eab7200c55dd8d1d6afb07361a0ca.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/7f80a5bd016eab7200c55dd8d1d6afb07361a0ca.png",
       "lvl": 52,
       "type": "Ability",
       "cast": 0,
@@ -172,7 +172,7 @@
     },
     {
       "name": "Broil",
-      "image": "https://img.finalfantasyxiv.com/lds/d/7203f797d2c3dd4148a8cb5fe510c1cfd1ac46a8.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/7203f797d2c3dd4148a8cb5fe510c1cfd1ac46a8.png",
       "lvl": 54,
       "type": "Spell",
       "cast": 1.5,
@@ -182,7 +182,7 @@
     },
     {
       "name": "Deployment Tactics",
-      "image": "https://img.finalfantasyxiv.com/lds/d/307e3a65fff1e38b28235509dd392323642d6965.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/307e3a65fff1e38b28235509dd392323642d6965.png",
       "lvl": 56,
       "type": "Ability",
       "cast": 0,
@@ -192,7 +192,7 @@
     },
     {
       "name": "Emergency Tactics",
-      "image": "https://img.finalfantasyxiv.com/lds/d/fbfaa6c46fac537aec9d2903ec64d4f64fc54557.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/fbfaa6c46fac537aec9d2903ec64d4f64fc54557.png",
       "lvl": 58,
       "type": "Ability",
       "cast": 0,
@@ -202,17 +202,17 @@
     },
     {
       "name": "Dissipation",
-      "image": "https://img.finalfantasyxiv.com/lds/d/fffbdbce557a09ee3a50f541fac07d432bfc7c89.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/fffbdbce557a09ee3a50f541fac07d432bfc7c89.png",
       "lvl": 60,
       "type": "Ability",
       "cast": 0,
       "cooldown": 180,
       "cost": 0,
-      "description": "Orders your faerie away while granting you a full Aetherflow stack. Also increases healing magic potency by 20%.\nDuration: 30s\nCurrent faerie will return once the effect expires.\nSummon Eos cannot be executed while under the effect of Dissipation.\nCan only be executed while in combat."
+      "description": "Orders your faerie away while granting you a full Aetherflow stack. Also increases healing magic potency by 20%.\nDuration: 30s\nCurrent faerie will return once the effect expires.\nSummon Eos cannot be executed while under the effect of Dissipation.\nCan only be executed while a faerie is summoned and you are in combat."
     },
     {
       "name": "Excogitation",
-      "image": "https://img.finalfantasyxiv.com/lds/d/b46ada85c48a81940953f46eaaba05f1c2f5cfdd.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/b46ada85c48a81940953f46eaaba05f1c2f5cfdd.png",
       "lvl": 62,
       "type": "Ability",
       "cast": 0,
@@ -222,7 +222,7 @@
     },
     {
       "name": "Broil II",
-      "image": "https://img.finalfantasyxiv.com/lds/d/d8d8172feffed42f80d335bb7bedb14cc90fbd56.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/d8d8172feffed42f80d335bb7bedb14cc90fbd56.png",
       "lvl": 64,
       "type": "Spell",
       "cast": 1.5,
@@ -232,17 +232,17 @@
     },
     {
       "name": "Chain Stratagem",
-      "image": "https://img.finalfantasyxiv.com/lds/d/2f5f538d79932e3bfb3bd5c72af6f13987aa3e6d.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/2f5f538d79932e3bfb3bd5c72af6f13987aa3e6d.png",
       "lvl": 66,
       "type": "Ability",
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "description": "Increases rate at which target takes critical hits by 10%.\nDuration: 15s"
+      "description": "Increases rate at which target takes critical hits by 10%.\nDuration: 20s\nAdditional Effect: Grants Impact Imminent\nDuration: 30s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Aetherpact",
-      "image": "https://img.finalfantasyxiv.com/lds/d/eb866b142bd93d46ffa7809e1092aefc48f48f3c.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/eb866b142bd93d46ffa7809e1092aefc48f48f3c.png",
       "lvl": 70,
       "type": "Ability",
       "cast": 0,
@@ -252,7 +252,7 @@
     },
     {
       "name": "Dissolve Union",
-      "image": "https://img.finalfantasyxiv.com/lds/d/10602136009d5a92a005f0bd127a1a9ec8c1691a.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/10602136009d5a92a005f0bd127a1a9ec8c1691a.png",
       "lvl": 70,
       "type": "Ability",
       "cast": 0,
@@ -262,17 +262,17 @@
     },
     {
       "name": "Biolysis",
-      "image": "https://img.finalfantasyxiv.com/lds/d/e77ebe8644e35de5bc2d67a4c8365d6d726c9ca4.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/e77ebe8644e35de5bc2d67a4c8365d6d726c9ca4.png",
       "lvl": 72,
       "type": "Spell",
       "cast": 0,
       "cooldown": 2.5,
       "cost": 400,
-      "description": "Deals unaspected damage over time.\nPotency: 70\nDuration: 30s"
+      "description": "Deals unaspected damage over time.\nPotency: 75\nDuration: 30s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Broil III",
-      "image": "https://img.finalfantasyxiv.com/lds/d/1f85b58d71471a33c2d35db849b20a681bfd5b56.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/1f85b58d71471a33c2d35db849b20a681bfd5b56.png",
       "lvl": 72,
       "type": "Spell",
       "cast": 1.5,
@@ -282,17 +282,17 @@
     },
     {
       "name": "Recitation",
-      "image": "https://img.finalfantasyxiv.com/lds/d/b1be794db381c20399faf7dec80b7f64eaba2e61.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/b1be794db381c20399faf7dec80b7f64eaba2e61.png",
       "lvl": 74,
       "type": "Ability",
       "cast": 0,
-      "cooldown": 90,
+      "cooldown": 60,
       "cost": 0,
-      "description": "Allows the execution of Adloquium, Succor, Indomitability, or Excogitation without consuming resources while also ensuring critical HP is restored.\nDuration: 15s"
+      "description": "Allows the execution of Adloquium, Concitation, Indomitability, or Excogitation without consuming resources while also ensuring critical HP is restored.\nDuration: 15s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Fey Blessing",
-      "image": "https://img.finalfantasyxiv.com/lds/d/e37b65935298898f61fd4b12a293998ba1258be5.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/e37b65935298898f61fd4b12a293998ba1258be5.png",
       "lvl": 76,
       "type": "Ability",
       "cast": 0,
@@ -302,37 +302,37 @@
     },
     {
       "name": "Summon Seraph",
-      "image": "https://img.finalfantasyxiv.com/lds/d/ff070d67e4c75ed8bb06de1f577979e8c69c8ad1.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/ff070d67e4c75ed8bb06de1f577979e8c69c8ad1.png",
       "lvl": 80,
       "type": "Ability",
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
-      "description": "Summons Seraph to fight at your side. When set to guard, automatically casts Seraphic Veil on party members who suffer damage.\nCannot summon Seraph unless a pet is already summoned. Current pet will leave the battlefield while Seraph is present, and return once gone.\nDuration: 22s\n\n※Action changes to Consolation upon execution."
+      "description": "Summons Seraph to fight at your side. When set to guard, automatically casts Seraphic Veil on party members who suffer damage.\nCannot summon Seraph unless a pet is already summoned. Current pet will leave the battlefield while Seraph is present, and return once gone.\nDuration: 22s\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Consolation",
-      "image": "https://img.finalfantasyxiv.com/lds/d/86ce58393104f45f36ef15d9d358a684c4013df4.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/86ce58393104f45f36ef15d9d358a684c4013df4.png",
       "lvl": 80,
       "type": "Ability",
       "cast": 0,
       "cooldown": 30,
       "cost": 0,
-      "description": "Orders Seraph to execute Consolation.\nConsolation Effect: Restores the HP of all nearby party members\nCure Potency: 250\nAdditional Effect: Erects a magicked barrier which nullifies damage equaling the amount of HP restored\nDuration: 30s\nMaximum Charges: 2\n\n※This action cannot be assigned to a hotbar."
+      "description": "Orders Seraph to execute Consolation.\nConsolation Effect: Restores the HP of all nearby party members\nCure Potency: 250\nAdditional Effect: Erects a magicked barrier which nullifies damage equaling the amount of HP restored\nDuration: 30s\nMaximum Charges: 2\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Broil IV",
-      "image": "https://img.finalfantasyxiv.com/lds/d/ec2463dfb6a287aaf59d57acf7620690fb92606e.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/7bf8e98c4a2078b2a0c1e113deb2ffbecaf125ac.png",
       "lvl": 82,
       "type": "Spell",
       "cast": 1.5,
       "cooldown": 2.5,
       "cost": 400,
-      "description": "Deals unaspected damage with a potency of 295."
+      "description": "Deals unaspected damage with a potency of 310.\nRevisions (Patch 6.5x - Patch 7.05)"
     },
     {
       "name": "Art of War II",
-      "image": "https://img.finalfantasyxiv.com/lds/d/ec9b2021f0cbe6165173334f9081ce3be52c92d2.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/b05c06909651d83ec9806ea19ad6cbf328809a1b.png",
       "lvl": 82,
       "type": "Spell",
       "cast": 0,
@@ -342,7 +342,7 @@
     },
     {
       "name": "Protraction",
-      "image": "https://img.finalfantasyxiv.com/lds/d/4960cc6d3b31acfe657bfbdca97021bc546aada0.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/a46c7dccd2bb9a8fe7a472766acf8138f2ada3e8.png",
       "lvl": 86,
       "type": "Ability",
       "cast": 0,
@@ -352,19 +352,69 @@
     },
     {
       "name": "Expedient",
-      "image": "https://img.finalfantasyxiv.com/lds/d/b9eb7f8aed74850abe24b753549fc676af9db2c8.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/023d8827b75a8d5d6682a81acf1016371366f8e8.png",
       "lvl": 90,
       "type": "Ability",
       "cast": 0,
       "cooldown": 120,
       "cost": 0,
       "description": "Grants Expedience and Desperate Measures to all nearby party members.\nExpedience Effect: Increases movement speed\nDuration: 10s\nDesperate Measures Effect: Reduces damage taken by 10%\nDuration: 20s"
+    },
+    {
+      "name": "Baneful Impaction",
+      "image": "https://lds-img.finalfantasyxiv.com/d/16ca1e2b66efb797ca63394b5f856ab89a709acf.png",
+      "lvl": 92,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 1,
+      "cost": 0,
+      "description": "Deals unaspected damage over time to target and all enemies nearby it.\nPotency: 140\nDuration: 15s\nCan only be executed while under the effect of Impact Imminent."
+    },
+    {
+      "name": "Concitation",
+      "image": "https://lds-img.finalfantasyxiv.com/d/f124b01882a45f5befe10fa82964fc7fb7895e8c.png",
+      "lvl": 96,
+      "type": "Spell",
+      "cast": 2,
+      "cooldown": 2.5,
+      "cost": 1000,
+      "description": "Restores own HP and the HP of all nearby party members.\nCure Potency: 200\nAdditional Effect: Erects a magicked barrier which nullifies damage equaling 180% of the amount of HP restored\nDuration: 30s\nEffect cannot be stacked with certain sage barrier effects."
+    },
+    {
+      "name": "Seraphism",
+      "image": "https://lds-img.finalfantasyxiv.com/d/3660e0317ed2aba78b7cfdc526dd174efa94d88d.png",
+      "lvl": 100,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 180,
+      "cost": 0,
+      "description": "Gradually restores the HP of self and all party members within a radius of 50 yalms.\nCure Potency: 100\nAdditional Effect: Changes Adloquium to Manifestation and Concitation to Accession\nAdditional Effect: Resets Emergency Tactics recast timer and reduces its recast timer to 1s\nDuration: 20s\nEffect cannot be stacked with Dissipation.\nCan only be executed while a faerie is summoned and you are in combat."
+    },
+    {
+      "name": "Manifestation",
+      "image": "https://lds-img.finalfantasyxiv.com/d/7244131eba68b8042f1461bf4100deaebe2a7c0d.png",
+      "lvl": 100,
+      "type": "Spell",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 1000,
+      "description": "Restores target's HP.\nCure Potency: 360\nAdditional Effect: Grants Galvanize to target, nullifying damage equaling 180% of the amount of HP restored. When critical HP is restored, also grants Catalyze, nullifying damage equaling 180% the amount of HP restored.\nDuration: 30s\nEffect cannot be stacked with certain sage barrier effects.\nCan only be executed while under the effect of Seraphism.\n\n※This action cannot be assigned to a hotbar.\n※Adloquium changes to Manifestation when requirements for execution are met."
+    },
+    {
+      "name": "Accession",
+      "image": "https://lds-img.finalfantasyxiv.com/d/c859b1042c024b57c646316f1e0e93ff5e5f90fb.png",
+      "lvl": 100,
+      "type": "Spell",
+      "cast": 0,
+      "cooldown": 2.5,
+      "cost": 1000,
+      "description": "Restores own HP and the HP of all nearby party members.\nCure Potency: 240\nAdditional Effect: Erects a magicked barrier which nullifies damage equaling 180% of the amount of HP restored\nDuration: 30s\nEffect cannot be stacked with certain sage barrier effects.\nCan only be executed while under the effect of Seraphism.\n\n※This action cannot be assigned to a hotbar.\n※Concitation changes to Accession when requirements for execution are met."
     }
   ],
   "petActions": [
     {
       "name": "Embrace",
-      "image": "https://img.finalfantasyxiv.com/lds/d/d674990026a72270d2b697fb082a11876075d580.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/d674990026a72270d2b697fb082a11876075d580.png",
       "lvl": 1,
       "type": "Spell",
       "cast": 0,
@@ -374,7 +424,7 @@
     },
     {
       "name": "Whispering Dawn",
-      "image": "https://img.finalfantasyxiv.com/lds/d/2b4f6def5e70800aa4fee24c630e0e1c1fb238a7.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/2b4f6def5e70800aa4fee24c630e0e1c1fb238a7.png",
       "lvl": 20,
       "type": "Ability",
       "cast": 0,
@@ -384,7 +434,7 @@
     },
     {
       "name": "Fey Illumination",
-      "image": "https://img.finalfantasyxiv.com/lds/d/23bfb94bb82e70982c73fafd94771c0d522bc326.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/23bfb94bb82e70982c73fafd94771c0d522bc326.png",
       "lvl": 40,
       "type": "Ability",
       "cast": 0,
@@ -394,7 +444,7 @@
     },
     {
       "name": "Fey Union",
-      "image": "https://img.finalfantasyxiv.com/lds/d/2289de5779836f1b6905349f5031b2421bc9fd01.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/2289de5779836f1b6905349f5031b2421bc9fd01.png",
       "lvl": 70,
       "type": "Ability",
       "cast": 0,
@@ -404,7 +454,7 @@
     },
     {
       "name": "Fey Blessing",
-      "image": "https://img.finalfantasyxiv.com/lds/d/7e8ec62242991c3169dad8acbd2663bbc806ba70.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/7e8ec62242991c3169dad8acbd2663bbc806ba70.png",
       "lvl": 76,
       "type": "Ability",
       "cast": 0,
@@ -414,7 +464,7 @@
     },
     {
       "name": "Seraphic Veil",
-      "image": "https://img.finalfantasyxiv.com/lds/d/07f1ba0fbda8b1b69078795da3932089e055e10d.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/07f1ba0fbda8b1b69078795da3932089e055e10d.png",
       "lvl": 80,
       "type": "Spell",
       "cast": 0,
@@ -424,7 +474,7 @@
     },
     {
       "name": "Angel's Whisper",
-      "image": "https://img.finalfantasyxiv.com/lds/d/c6732641fcefad97152fbf3fbefa0a4a1d3a5114.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/c6732641fcefad97152fbf3fbefa0a4a1d3a5114.png",
       "lvl": 80,
       "type": "Ability",
       "cast": 0,
@@ -434,7 +484,7 @@
     },
     {
       "name": "Seraphic Illumination",
-      "image": "https://img.finalfantasyxiv.com/lds/d/f52540afc77b83926b4b31d0c3caacd9147e7af6.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/f52540afc77b83926b4b31d0c3caacd9147e7af6.png",
       "lvl": 80,
       "type": "Ability",
       "cast": 0,
@@ -444,7 +494,7 @@
     },
     {
       "name": "Consolation",
-      "image": "https://img.finalfantasyxiv.com/lds/d/49e61f876fbd6dccbebcf0e5d2f979f2472df3f5.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/49e61f876fbd6dccbebcf0e5d2f979f2472df3f5.png",
       "lvl": 80,
       "type": "Ability",
       "cast": 0,
@@ -456,7 +506,7 @@
   "roleActions": [
     {
       "name": "Repose",
-      "image": "https://img.finalfantasyxiv.com/lds/d/9bd731d47094c2c11b5cd9fb0d1d277bf9c6c89d.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/9bd731d47094c2c11b5cd9fb0d1d277bf9c6c89d.png",
       "lvl": 8,
       "type": "Spell",
       "cast": 2.5,
@@ -466,7 +516,7 @@
     },
     {
       "name": "Esuna",
-      "image": "https://img.finalfantasyxiv.com/lds/d/2a6603bc786d73eb3829141482b3d5be5d484199.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/2a6603bc786d73eb3829141482b3d5be5d484199.png",
       "lvl": 10,
       "type": "Spell",
       "cast": 1,
@@ -475,18 +525,8 @@
       "description": "Removes a single detrimental effect from target."
     },
     {
-      "name": "Swiftcast",
-      "image": "https://img.finalfantasyxiv.com/lds/d/27d401b3cfbf90c846ffeaa9f661afb4bd77ce98.png",
-      "lvl": 18,
-      "type": "Ability",
-      "cast": 0,
-      "cooldown": 60,
-      "cost": 0,
-      "description": "Next spell is cast immediately.\nDuration: 10s"
-    },
-    {
       "name": "Lucid Dreaming",
-      "image": "https://img.finalfantasyxiv.com/lds/d/3629c6854aa559656623925e2489b60c2fa91e18.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/3629c6854aa559656623925e2489b60c2fa91e18.png",
       "lvl": 14,
       "type": "Ability",
       "cast": 0,
@@ -495,8 +535,18 @@
       "description": "Gradually restores own MP.\nPotency: 55\nDuration: 21s"
     },
     {
+      "name": "Swiftcast",
+      "image": "https://lds-img.finalfantasyxiv.com/d/27d401b3cfbf90c846ffeaa9f661afb4bd77ce98.png",
+      "lvl": 18,
+      "type": "Ability",
+      "cast": 0,
+      "cooldown": 40,
+      "cost": 0,
+      "description": "Next spell is cast immediately.\nDuration: 10s\nRevisions (Patch 6.5x - Patch 7.05)"
+    },
+    {
       "name": "Surecast",
-      "image": "https://img.finalfantasyxiv.com/lds/d/477d1e7f7115db19c344c0f5cadfcfa2ac0cdcc0.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/477d1e7f7115db19c344c0f5cadfcfa2ac0cdcc0.png",
       "lvl": 44,
       "type": "Ability",
       "cast": 0,
@@ -506,7 +556,7 @@
     },
     {
       "name": "Rescue",
-      "image": "https://img.finalfantasyxiv.com/lds/d/23f8a26b9a0107b6076f5f2e715e14d9be0edc25.png",
+      "image": "https://lds-img.finalfantasyxiv.com/d/23f8a26b9a0107b6076f5f2e715e14d9be0edc25.png",
       "lvl": 48,
       "type": "Ability",
       "cast": 0,
@@ -575,6 +625,26 @@
       "name": "Enhanced Deployment Tactics",
       "lvl": 88,
       "description": "Reduces Deployment Tactics recast time to 90 seconds."
+    },
+    {
+      "name": "Enhanced Chain Stratagem",
+      "lvl": 92,
+      "description": "Grants Impact Imminent upon using Chain Stratagem.\nDuration: 30s"
+    },
+    {
+      "name": "Tactician's Mastery",
+      "lvl": 94,
+      "description": "Increases the potency of Biolysis's damage over time effect to 75 and Broil IV to 310."
+    },
+    {
+      "name": "Succor Mastery",
+      "lvl": 96,
+      "description": "Upgrades Succor to Concitation."
+    },
+    {
+      "name": "Enhanced Recitation",
+      "lvl": 98,
+      "description": "Reduces Recitation recast time to 60 seconds."
     }
   ]
 }
