@@ -1,7 +1,7 @@
 export const SELECTOR = 'div.job__content__wrapper';
 
 export function crawl(elems) {
-  const TABLE_SELECTOR = 'table.job__table tbody > tr:not(.update)';
+  const TABLE_SELECTOR = 'table.job__table tbody > tr:not(.new, .update)';
   const SECTION_MAP = [
     {
       rawTitle: 'Job Actions',
